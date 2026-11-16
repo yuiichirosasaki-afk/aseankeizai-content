@@ -1,0 +1,87 @@
+{
+  "slug": "thailand-foreign-arrivals-26-1-million-nov-7-2026-down-4-71-percent",
+  "title": "タイの外国人客、11月7日までに2,610万人で4.71%減 第1週は前週比18%増",
+  "country": "タイ",
+  "category": "観光・航空",
+  "articleType": "news",
+  "lead": "タイ観光スポーツ省の暫定値で、1月1日から11月7日までの外国人客数は約2,610万人と前年同期を4.71%下回った。11月第1週は前週比18.15%増の63万6,432人だったが、累計の落ち込みは1〜10月の4.59%から広がった。",
+  "summaryHtml": "<ul><li>1月1日〜11月7日の外国人客数は2,610万738人で、前年同期比4.71%減。外国人の消費額は1兆2,724億バーツだった（The Nation）。</li><li>1〜10月は2,546万4,306人で4.59%減、消費額は2.85%減の1.24兆バーツだった。</li><li>11月1〜7日の客数は63万6,432人で、前週比18.15%増。マレーシア、中国、ロシア、インド、米国の順に多かった。</li><li>1〜10月は中国が12.44%増の424万人、マレーシアが16.34%減の323万人、韓国が26.86%減だった。</li></ul>",
+  "bodyHtml": "<h3>累計は5%近い減少、高需要期入りでも差は縮まらず</h3><p>The Nationによると、タイのSurasak Phancharoenworakul観光スポーツ相が公表した暫定値で、1月1日から11月7日までの外国人客数は2,610万738人だった。前年同期比4.71%減で、外国人の消費額は1兆2,724億バーツ（約6.0兆円）だった。直前の1〜10月は2,546万4,306人で4.59%減、消費額は2.85%減の1.24兆バーツ（約5.9兆円）だったため、累計の落ち込み幅はわずかに広がった。11月1〜7日の客数は63万6,432人で、2,610万738人から2,546万4,306人を引いた数と一致する。</p><p>ロイターは11月2日、1〜10月の減少を観光省の数字として伝え、コロナ禍前の2019年には過去最高の約4,000万人に近い客数を記録していたと説明している。2026年は、その水準から離れた状態が続いている。</p><h3>11月第1週は前週比18%増、マレーシアと中国が上位</h3><p>11月1〜7日は、1日平均が9万919人だった。短距離市場は36万1,720人で前週比16.12%増、長距離市場は27万4,712人で20.94%増だった。国・地域別では、マレーシアが7万9,693人（前年同週比28.87%増）、中国が7万5,610人（46.88%増）、ロシアが4万8,584人（9.18%増）、インドが3万6,816人（前週比9.95%減）、米国が2万8,234人（前年同週比32.80%増）だった。The Nationは、マレーシアとシンガポールの増加について、ディワリ（ヒンドゥー教の祝日）の影響を挙げている。</p><p>1〜10月の累計で見ると、中国は12.44%増の424万人で最大の市場となった。2位のマレーシアは16.34%減の323万人、韓国は上位10市場で最も大きい26.86%減だった。週次では伸びても、累計の市場別では明暗が分かれている。11月7日までの累計の上位は、中国431万9,986人、マレーシア330万6,177人、インド196万1,233人、ロシア146万2,925人、韓国95万3,491人である。</p><h3>日系企業への含意</h3><p>11月から2月にかけてはタイの高需要期にあたるが、累計の差が縮まっていないことは、回復の勢いが限られている可能性を示す。需要が中国とマレーシアに偏り、マレーシアは累計で大きく落ち込んでいる点も、ホテルや小売、航空関連のビジネスにとって確認すべき材料である。本稿で確認した出典には、日本からの訪問客数は含まれていない。日系の宿泊・小売・飲食事業者は、自社の主要顧客の国籍別動向を、今後公表される国・地域別の数字と照らして確認する必要があるとみられる。</p><p>本稿の円換算は、1バーツ=約4.7円で算出した。Pattaya Mailが伝えた11月6日のバーツの終値（1ドル=33.55バーツ）と、日銀が公表した11月11日の東京市場17時時点のドル円（約158.9円）を用いた。</p>",
+  "dataFigure": "-4.71%",
+  "dataLabel": "1月1日〜11月7日の外国人客数（前年同期比）",
+  "dataSource": "タイ観光スポーツ省の暫定値をThe Nationが報道、2026年11月9日",
+  "chart": {
+    "bars": [
+      {
+        "label": "マレーシア",
+        "value": 79693,
+        "display": "79,693"
+      },
+      {
+        "label": "中国",
+        "value": 75610,
+        "display": "75,610"
+      },
+      {
+        "label": "ロシア",
+        "value": 48584,
+        "display": "48,584"
+      },
+      {
+        "label": "インド",
+        "value": 36816,
+        "display": "36,816"
+      },
+      {
+        "label": "米国",
+        "value": 28234,
+        "display": "28,234"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "The Nation",
+      "title": "Thailand's weekly tourist arrivals rise 18.15% but year-to-date gap remains",
+      "url": "https://www.nationthailand.com/news/tourism/40073281",
+      "date": "2026-11-09"
+    },
+    {
+      "name": "The Nation",
+      "title": "Thailand's tourist arrivals fall 4.59% to 25.46m in 10 months",
+      "url": "https://nationthailand.com/news/tourism/40073122",
+      "date": "2026-11-05"
+    },
+    {
+      "name": "The Star（Reuters）",
+      "title": "Thailand's foreign tourist arrivals down 4.59% on year so far in 2026",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/02/thailand039s-foreign-tourist-arrivals-down-459-on-year-so-far-in-2026",
+      "date": "2026-11-02"
+    },
+    {
+      "name": "Pattaya Mail",
+      "title": "Baht expected to trade between 33.10 and 33.80 against US dollar this week",
+      "url": "https://www.pattayamail.com/news/baht-expected-to-trade-between-33-10-and-33-80-against-us-dollar-this-week-571327",
+      "date": "2026-11-09"
+    },
+    {
+      "name": "日本銀行",
+      "title": "東京市場の為替相場（2026年11月11日）",
+      "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261111.pdf",
+      "date": "2026-11-11"
+    }
+  ],
+  "seoTitle": "タイの外国人客、累計2,610万人で4.71%減",
+  "seoDescription": "タイの1月1日〜11月7日の外国人客数は2,610万人で前年同期比4.71%減。11月第1週は前週比18%増。市場別の動向と日系企業への含意を整理する。",
+  "tags": [
+    "タイ",
+    "外国人観光客",
+    "タイ観光スポーツ省",
+    "Surasak Phancharoenworakul",
+    "中国人観光客",
+    "マレーシア"
+  ],
+  "publishAt": "2026-11-17T08:00:00+09:00",
+  "language": "ja",
+  "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/thailand-foreign-arrivals-26-1-million-nov-7-2026-down-4-71-percent.png"
+}

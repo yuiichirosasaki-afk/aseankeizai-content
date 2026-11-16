@@ -1,0 +1,46 @@
+{
+  "slug": "indonesia-nickel-ore-quota-2027-further-cut-bahlil-price-15800",
+  "title": "インドネシア、2027年のニッケル鉱石生産枠を一段と削減へ 価格は1トン約1.58万ドル",
+  "country": "インドネシア",
+  "category": "エネルギー・環境",
+  "articleType": "analysis",
+  "lead": "インドネシア政府が、2027年のニッケル鉱石の生産枠をさらに絞る方向を示している。ニッケル価格が1トン約1万5,800ドルまで下がり、供給過剰が意識されているためである。具体的な枠の数量は、11月初めの時点で示されていない。",
+  "summaryHtml": "<ul><li>エネルギー・鉱物資源省は、生産計画（RKAB）を通じた供給管理をニッケルでも進め、2027年の鉱石枠を2026年より絞る方向を示した（S&P Global、Indonesia Business Post）。</li><li>2026年の改定後の枠は約2.9億〜3億トンで、当初の2.6億〜2.7億トンから引き上げられていた。2027年の数量は未発表である。</li><li>ニッケル価格は1トン約15,800ドルまで下がり、政府の基準価格を約5%下回っている。</li><li>世界の需要は年約350万トンで、在庫に表れた過剰は約75万〜80万トンと、出典によって数字が異なる。</li></ul>",
+  "bodyHtml": "<h3>供給管理をニッケルにも広げる</h3><p>S&P Globalによると、インドネシアのバフリル・ラハダリア（Bahlil Lahadalia）エネルギー・鉱物資源相は11月2日、石炭で行ってきたRKAB（年間の事業計画・予算）による供給管理を、ニッケルでも進めるべきだと述べた。同相は、増産を控えるよう事業者に求め、価格が低い局面で産出を増やせば、買い手が安く買って在庫を積み、価格が戻った段階で売る余地が生まれると警告した。Indonesia Business Postは、同相が5日にも、価格が下がっている中で産出を抑える考えを示したと伝えている。</p><p>2027年の枠について、数量はまだ示されていない。S&P Globalによると、鉱物・石炭総局のTri Winarno局長は10月29日、世界の市場環境と国内の製錬所の需要を踏まえて決めると説明した。Indonesia Business Postは、同省鉱物事業開発局のCecep Mochammad Yasin局長が、割り当ては製錬所の原料需要を満たすためではなく、国内製錬所の最適な稼働水準を基準にすると述べたと伝えた。</p><h3>価格下落と供給過剰が背景</h3><p>ニッケルの価格は1トン約15,800ドル（約251万円）まで下がり、16,000ドル（約254万円）を割り込んだ。S&P Globalによると、政府の鉱物基準価格（HPM）を約5%下回り、鉱山事業者の収益を圧迫している。世界の需要は年約350万トンで、ロンドン金属取引所（LME）と上海先物取引所の在庫に表れた過剰は、S&P Globalが約75万トン、Indonesia Business Postが約80万トンと伝えており、数字に差がある。</p><p>2026年の鉱石生産枠は、S&P Globalによると、当初の2億6,000万〜2億7,000万トンから約2億9,000万〜3億トンに引き上げられていた。Indonesia Business Postは、中国の上海金属網（SMM）の推計として、改定後の枠を約2億9,500万〜3億ウェットトンと伝えている。同紙はさらに、華友コバルト（Huayou）や青山集団（Tsingshan）が最大5割の減産を検討していると報じているが、本紙はこの点を確認できていない。</p><p>輸出の面では、S&P Globalのデータで、1月1日から11月2日までのニッケル製品の純輸出が1,080万トン、うち中国向けが440万トンだった。2025年通年は1,560万トン、うち中国向けが480万トンである。加工ニッケルの輸出額は8月までで259億6,000万ドル（約4.1兆円）に達している。</p><h3>日系企業への影響と見通し</h3><p>政府は、ニッケルの加工を中間材から最終製品へ広げる下流化を目指しており、鉱石の供給抑制はその方針と結びついている。枠が絞られれば、価格の下支え要因になるとみられる一方、ニッケルを使うステンレスや電池材料の調達企業にとっては、調達コストが上がる可能性がある。インドネシアで製錬や加工に関わる日系企業も、2027年のRKAB承認の時期と数量が、操業計画の前提になる。</p><p>同相は、抗議が多く出ることは承知していると述べたとIndonesia Business Postは伝えており、業界の反発が強まる可能性がある。今後は、2027年の枠の発表時期と数量、事業者の減産の動き、価格が政府の基準価格に戻るかが注目される。</p><p>本稿の円換算は、日銀が公表した11月11日の東京市場17時時点のドル円（約158.9円）で算出した。</p>",
+  "dataFigure": "15,800ドル",
+  "dataLabel": "ニッケルの価格（1トン、11月初め）",
+  "dataSource": "S&P Global、2026年11月2日",
+  "sources": [
+    {
+      "name": "S&P Global",
+      "title": "Indonesia signals further nickel ore quota cuts as global surplus weighs on prices",
+      "url": "https://www.spglobal.com/energy/en/news-research/latest-news/metals/110226-indonesia-signals-further-nickel-ore-quota-cuts-as-global-surplus-weighs-on-prices",
+      "date": "2026-11-02"
+    },
+    {
+      "name": "Indonesia Business Post",
+      "title": "Energy and Mineral Resources Ministry signals nickel quota cuts for 2027, below 300 million tonnes",
+      "url": "https://indonesiabusinesspost.com/7768/energy-and-resources/energy-and-mineral-resources-ministry-signals-nickel-quota-cuts-for-2027-below-300-million-tonnes",
+      "date": "2026-11-06"
+    },
+    {
+      "name": "日本銀行",
+      "title": "東京市場の為替相場（2026年11月11日）",
+      "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261111.pdf",
+      "date": "2026-11-11"
+    }
+  ],
+  "seoTitle": "インドネシア、27年ニッケル鉱石枠を削減へ",
+  "seoDescription": "インドネシアが2027年のニッケル鉱石の生産枠を絞る方向。価格は1トン約15,800ドルまで下がり、供給過剰が背景。2026年の枠、輸出動向、日系企業への影響を解説する。",
+  "tags": [
+    "インドネシア",
+    "ニッケル",
+    "RKAB",
+    "Bahlil Lahadalia",
+    "エネルギー・鉱物資源省",
+    "下流化"
+  ],
+  "publishAt": "2026-11-17T08:30:00+09:00",
+  "language": "ja",
+  "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/indonesia-nickel-ore-quota-2027-further-cut-bahlil-price-15800.png"
+}
