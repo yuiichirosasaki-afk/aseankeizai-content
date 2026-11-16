@@ -1,14 +1,22 @@
 #!/usr/bin/env python3
 """feed.json を WordPress に取り込む（Review の Wix ジョブ importReviewFeed と同じ役)。
 slug で上書き。publishAt で future / publish を決める。IMPORT_MODE=draft なら必ず下書き。"""
-import hashlib, html, json, os, sys
+import hashlib, html, json, os, sys, time
 from datetime import datetime, timezone
 from pathlib import Path
 import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 ROOT = Path(__file__).resolve().parent.parent
 API = os.environ['WP_URL'].rstrip('/') + '/wp-json/wp/v2'
 S = requests.Session()
+# サイトは同時アクセスが重なると 503 を返す（記事の中身の問題ではない）。
+# 429/502/503/504 は 4→8→16→32秒あけて最大5回やり直す。POST も含める（上書きは slug で冪等）。
+_retry = Retry(total=5, backoff_factor=2, status_forcelist=(429, 502, 503, 504),
+               allowed_methods=None, respect_retry_after_header=True, raise_on_status=False)
+S.mount('https://', HTTPAdapter(max_retries=_retry))
+S.mount('http://', HTTPAdapter(max_retries=_retry))
 S.auth = (os.environ['WP_USER'], os.environ['WP_APP_PASSWORD'])
 S.headers['User-Agent'] = 'aseankeizai-content-import'
 DRAFT = os.environ.get('IMPORT_MODE', '').strip() == 'draft'
@@ -89,6 +97,7 @@ def main():
             continue
         done += 1
         print('upserted', a['slug'], post['status'])
+        time.sleep(1)  # 続けて叩くと自分で503を誘発する
     print(f'{done} posts created or updated')
 
 
