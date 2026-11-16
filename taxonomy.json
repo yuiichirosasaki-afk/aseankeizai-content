@@ -1,24 +1,24 @@
 {
   "note": "国と分野はサイトのメニューに合わせる。wpCategoryId は WordPress のカテゴリーID。構築時に GET /wp-json/wp/v2/categories?per_page=100 で調べて埋める。",
   "countries": [
-    {"name": "インドネシア", "slug": "indonesia", "wpCategoryId": null},
-    {"name": "ベトナム", "slug": "vietnam", "wpCategoryId": null},
-    {"name": "タイ", "slug": "thailand", "wpCategoryId": null},
-    {"name": "フィリピン", "slug": "philippines", "wpCategoryId": null},
-    {"name": "マレーシア", "slug": "malaysia", "wpCategoryId": null},
-    {"name": "シンガポール", "slug": "singapore", "wpCategoryId": null},
+    {"name": "インドネシア", "slug": "indonesia", "wpCategoryId": 4},
+    {"name": "ベトナム", "slug": "vietnam", "wpCategoryId": 5},
+    {"name": "タイ", "slug": "thailand", "wpCategoryId": 6},
+    {"name": "フィリピン", "slug": "philippines", "wpCategoryId": 7},
+    {"name": "マレーシア", "slug": "malaysia", "wpCategoryId": 8},
+    {"name": "シンガポール", "slug": "singapore", "wpCategoryId": 9},
     {"name": "ASEAN", "slug": "asean", "wpCategoryId": null}
   ],
   "categories": [
-    {"name": "経済", "slug": "economy", "wpCategoryId": null},
-    {"name": "政治・政策", "slug": "politics-policy", "wpCategoryId": null},
-    {"name": "企業・産業", "slug": "companies-industry", "wpCategoryId": null},
-    {"name": "金融・市場", "slug": "finance-markets", "wpCategoryId": null},
-    {"name": "IT・スタートアップ", "slug": "it-startups", "wpCategoryId": null},
-    {"name": "不動産・インフラ", "slug": "realestate-infrastructure", "wpCategoryId": null},
-    {"name": "貿易・物流", "slug": "trade-logistics", "wpCategoryId": null},
-    {"name": "エネルギー・環境", "slug": "energy-environment", "wpCategoryId": null},
-    {"name": "観光・航空", "slug": "tourism-aviation", "wpCategoryId": null},
-    {"name": "消費・小売", "slug": "consumer-retail", "wpCategoryId": null}
+    {"name": "経済", "slug": "economy", "wpCategoryId": 12},
+    {"name": "政治・政策", "slug": "politics-policy", "wpCategoryId": 13},
+    {"name": "企業・産業", "slug": "companies-industry", "wpCategoryId": 14},
+    {"name": "金融・市場", "slug": "finance-markets", "wpCategoryId": 15},
+    {"name": "IT・スタートアップ", "slug": "it-startups", "wpCategoryId": 16},
+    {"name": "不動産・インフラ", "slug": "realestate-infrastructure", "wpCategoryId": 17},
+    {"name": "貿易・物流", "slug": "trade-logistics", "wpCategoryId": 18},
+    {"name": "エネルギー・環境", "slug": "energy-environment", "wpCategoryId": 19},
+    {"name": "観光・航空", "slug": "tourism-aviation", "wpCategoryId": 20},
+    {"name": "消費・小売", "slug": "consumer-retail", "wpCategoryId": 21}
   ]
 }
