@@ -1,0 +1,87 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "東南アジア経済新聞 記事",
+  "type": "object",
+  "required": [
+    "slug", "title", "country", "category", "articleType", "lead",
+    "summaryHtml", "bodyHtml", "sources", "seoTitle", "seoDescription",
+    "publishAt", "language"
+  ],
+  "properties": {
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "maxLength": 80,
+      "description": "URLのスラッグ。ファイル名と同じ。重複不可"
+    },
+    "language": {"const": "ja"},
+    "title": {"type": "string", "minLength": 25, "maxLength": 50,
+              "description": "具体的で、数字か固有名詞を含む。疑問形だけの見出しや煽りは禁止"},
+    "country": {
+      "enum": ["インドネシア", "ベトナム", "タイ", "フィリピン", "マレーシア", "シンガポール", "ASEAN"],
+      "description": "taxonomy.json の countries から1つ。複数国にまたがる話題は ASEAN"
+    },
+    "category": {
+      "enum": ["経済", "政治・政策", "企業・産業", "金融・市場", "IT・スタートアップ",
+               "不動産・インフラ", "貿易・物流", "エネルギー・環境", "観光・航空", "消費・小売"],
+      "description": "taxonomy.json の categories から1つ"
+    },
+    "articleType": {
+      "enum": ["news", "analysis", "explainer"],
+      "description": "news = ニュース＋背景（標準）、analysis = 解説を厚く、explainer = 制度や市場の解説"
+    },
+    "lead": {"type": "string", "minLength": 100, "maxLength": 200,
+             "description": "2〜3文。何が起き、なぜ重要か。タグなしの素の文"},
+    "summaryHtml": {"type": "string",
+                    "description": "要点。<ul><li> で事実を3〜5点。すべて出典にある事実を自分の言葉で"},
+    "bodyHtml": {"type": "string",
+                 "description": "本文。<h3> の小見出しを2〜4つ。背景、数字の比較、日系企業への影響、今後の見通し。600字以上"},
+    "dataFigure": {"type": "string", "maxLength": 10,
+                   "description": "図版に載せる数字1つ（例: 5.1%）"},
+    "dataLabel": {"type": "string", "description": "数字の説明（例: 7〜9月期の実質GDP成長率）"},
+    "dataSource": {"type": "string", "description": "数字の出典（例: インドネシア中央統計局、2026年11月5日）"},
+    "chart": {
+      "type": "object",
+      "description": "任意。時系列や比較が出典にあるときだけ",
+      "required": ["bars"],
+      "properties": {
+        "bars": {
+          "type": "array", "minItems": 2, "maxItems": 6,
+          "items": {
+            "type": "object",
+            "required": ["label", "value", "display"],
+            "properties": {
+              "label": {"type": "string", "maxLength": 6},
+              "value": {"type": "number"},
+              "display": {"type": "string", "maxLength": 8}
+            }
+          }
+        }
+      }
+    },
+    "sources": {
+      "type": "array", "minItems": 2, "maxItems": 5,
+      "description": "実際に開いたURLだけ",
+      "items": {
+        "type": "object",
+        "required": ["name", "title", "url", "date"],
+        "properties": {
+          "name": {"type": "string"},
+          "title": {"type": "string"},
+          "url": {"type": "string", "pattern": "^https?://"},
+          "date": {"type": "string"}
+        }
+      }
+    },
+    "seoTitle": {"type": "string", "maxLength": 32},
+    "seoDescription": {"type": "string", "maxLength": 120},
+    "tags": {"type": "array", "minItems": 3, "maxItems": 8, "items": {"type": "string"},
+             "description": "企業名、人名、制度名など"},
+    "publishAt": {
+      "type": "string",
+      "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}T[0-9]{2}:[0-9]{2}:[0-9]{2}\\+09:00$",
+      "description": "JST。実行時刻から30分以降、同じ回の記事は30分間隔でずらす"
+    },
+    "heroImage": {"type": "string", "description": "make_images.py が入れる"}
+  }
+}

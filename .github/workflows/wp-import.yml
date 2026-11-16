@@ -1,0 +1,23 @@
+name: wp-import
+on:
+  push:
+    branches: [main]
+    paths: [feed.json]
+  schedule:
+    - cron: '7 * * * *'
+  workflow_dispatch:
+concurrency: wp-import
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - run: pip install requests
+      - run: python3 scripts/wp_import.py
+        env:
+          WP_URL: ${{ secrets.WP_URL }}
+          WP_USER: ${{ secrets.WP_USER }}
+          WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
+          IMPORT_MODE: ${{ vars.IMPORT_MODE }}
