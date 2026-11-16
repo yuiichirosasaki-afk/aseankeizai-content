@@ -6,8 +6,7 @@
     {"name": "タイ", "slug": "thailand", "wpCategoryId": 6},
     {"name": "フィリピン", "slug": "philippines", "wpCategoryId": 7},
     {"name": "マレーシア", "slug": "malaysia", "wpCategoryId": 8},
-    {"name": "シンガポール", "slug": "singapore", "wpCategoryId": 9},
-    {"name": "ASEAN", "slug": "asean", "wpCategoryId": null}
+    {"name": "シンガポール", "slug": "singapore", "wpCategoryId": 9}
   ],
   "categories": [
     {"name": "経済", "slug": "economy", "wpCategoryId": 12},

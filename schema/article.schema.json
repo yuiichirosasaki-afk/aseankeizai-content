@@ -18,8 +18,8 @@
     "title": {"type": "string", "minLength": 25, "maxLength": 50,
               "description": "具体的で、数字か固有名詞を含む。疑問形だけの見出しや煽りは禁止"},
     "country": {
-      "enum": ["インドネシア", "ベトナム", "タイ", "フィリピン", "マレーシア", "シンガポール", "ASEAN"],
-      "description": "taxonomy.json の countries から1つ。複数国にまたがる話題は ASEAN"
+      "enum": ["インドネシア", "ベトナム", "タイ", "フィリピン", "マレーシア", "シンガポール"],
+      "description": "taxonomy.json の countries から1つ。ASEAN 全体や複数国にまたがる話題は書かない"
     },
     "category": {
       "enum": ["経済", "政治・政策", "企業・産業", "金融・市場", "IT・スタートアップ",

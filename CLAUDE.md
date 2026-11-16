@@ -42,7 +42,7 @@ DealStreetAsia）。
 
 - `articleType`：`news`（ニュース＋背景）、`analysis`（解説を厚く）、`explainer`（制度
 や市場の解説）。標準は `news`。
-- `country`：`taxonomy.json` の `countries` から1つ。複数国にまたがる話題は `ASEAN`。
+- `country`：`taxonomy.json` の `countries` から1つ。**ASEAN 全体や複数国にまたがる話題は書かない**（サイトに ASEAN のカテゴリが無い）。1か国に絞れる話題だけを書く。
 - `category`：`taxonomy.json` の `categories` から1つ。
 - `title`：具体的で、数字か固有名詞を含む。25〜50字。疑問形だけの見出しや煽りは禁止。
 - `lead`：2〜3文、100〜200字。何が起き、なぜ重要か。
