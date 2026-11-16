@@ -1,0 +1,65 @@
+{
+  "slug": "malaysia-world-bank-sme-financing-quality-growth-forecast-5-1-percent",
+  "title": "世銀、マレーシアSME金融は「量から質」へ 2026年成長率は5.1%に上方修正",
+  "country": "マレーシア",
+  "category": "企業・産業",
+  "articleType": "analysis",
+  "lead": "世界銀行は11月11日、マレーシアの中小企業（SME）金融を扱う経済報告書を公表し、融資の量より質を高める必要性を指摘した。同行は10月、AI関連の輸出と投資を背景に、2026年の成長率予測を5.1%へ引き上げている。",
+  "summaryHtml": "<ul><li>世界銀行は2026年のマレーシア成長率予測を、4月の約4.4%から5.1%に引き上げた。2027年は4.7%を見込む（Malay Mail）。</li><li>AI関連製品が2026年初めの輸出成長の70%超を占め、AI関連を除く成長は弱いとされる。</li><li>11月11日公表の報告書は、企業の38%が融資枠を持ち、融資承認率は2015年の約68%から2024年に86%へ上昇したと指摘。</li><li>経済相のAkmal Nasrullah Mohd Nasir氏は、担保として機械設備や売掛金も考慮すべきだと述べた。</li></ul>",
+  "bodyHtml": "<h3>成長予測の上方修正を支えるAI関連需要</h3><p>世界銀行は10月6日に公表した東アジア・大洋州の経済アップデートで、マレーシアの2026年の成長率予測を5.1%、2027年を4.7%とした。Malay Mail（Bernama配信）によると、4月の予測から0.7ポイントの引き上げで、東アジア・大洋州地域の2026〜2027年の4.5%を上回る。背景には、AI関連の投資と輸出を通じた外需がある。AI関連製品は2026年初めのマレーシアの輸出成長の70%超を占めたという。</p><p>一方、同行はAI関連を除くと成長が弱く、経済がAI分野に大きく依存していると指摘する。AI投資の反転や減速が最大の下振れリスクで、資産価格の見直しに伴う新興国からの資本流出や、世界貿易の減速が波及経路になりうる。米国の成長が1ポイント減速すれば、マレーシアの成長率は0.8ポイント下がるとの試算も示した。エルニーニョによる農業被害や、エネルギー価格の高止まりもリスクに挙げた。</p><h3>SME金融は量から質へ</h3><p>11月11日には、第33回マレーシア経済モニター「量から質へ：マレーシアの生産的なSMEへの資金供給」が発表された。Malay Mailによると、報告書は、融資を受けた企業の割合が約38%、融資承認率が2015年の約68%から2024年に86%へ上がった一方、SMEは固定資産投資の約3分の2を内部資金で賄い、外部資金は銀行借入に偏っていて、株式やリスクマネーが乏しいと指摘した。課題は融資を受けられるかどうかだけでなく、生産性向上や技術導入、海外展開といった投資に見合う資金が供給されているかだと整理している。</p><p>経済相のAkmal Nasrullah Mohd Nasir氏は、同報告書の提言を踏まえ、不動産中心の担保が融資の壁になりうるとして、機械設備や売掛金など他の資産も考慮すべきだと述べた。融資制度の透明性を高める必要性にも言及し、第13次マレーシア計画が掲げる生産性と競争力の向上に結びつけた。</p><h3>日系企業への影響と注目点</h3><p>マレーシアに進出する日系企業のうち、現地の中小企業を取引先とする製造業やサービス業にとっては、担保の範囲拡大や資金調達の多様化が実現すれば、取引先の設備投資や自動化が進みやすくなるとみられる。ただし、今回の内容は提言と政府の方針表明の段階で、具体的な制度変更の時期や内容はまだ示されていない。</p><p>マレーシアの2026年4〜6月期のGDPは6.0%増、7〜9月期の速報値は5.3%だったとMalay Mailは伝えている。成長の下支えとなっているAI関連需要の持続性と、それ以外の分野への波及が、今後の見通しを左右する。</p>",
+  "dataFigure": "5.1%",
+  "dataLabel": "世界銀行による2026年のマレーシア成長率予測",
+  "dataSource": "世界銀行、2026年10月6日",
+  "chart": {
+    "bars": [
+      {
+        "label": "4月予測",
+        "value": 4.4,
+        "display": "約4.4%"
+      },
+      {
+        "label": "10月予測",
+        "value": 5.1,
+        "display": "5.1%"
+      },
+      {
+        "label": "27年予測",
+        "value": 4.7,
+        "display": "4.7%"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "Malay Mail（Bernama）",
+      "title": "World Bank lifts Malaysia's 2026 growth forecast to 5.1pc on AI investment wave",
+      "url": "https://malaymail.com/news/malaysia/2026/10/06/world-bank-lifts-malaysias-2026-growth-forecast-to-51pc-on-ai-investment-wave/237919",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "Malay Mail（Bernama）",
+      "title": "Malaysia's economy resilient despite global risks, World Bank calls for decisive reforms",
+      "url": "https://www.malaymail.com/news/money/2026/11/11/malaysias-economy-resilient-despite-global-risks-world-bank-calls-for-decisive-reforms/242869",
+      "date": "2026-11-11"
+    },
+    {
+      "name": "Malay Mail",
+      "title": "Funding Malaysia's SMEs is about quality and not quantity, says economy minister",
+      "url": "https://www.malaymail.com/amp/news/malaysia/2026/11/11/funding-malaysias-smes-is-about-quality-and-not-quantity-says-economy-minister/242866",
+      "date": "2026-11-11"
+    }
+  ],
+  "seoTitle": "世銀、マレーシア成長率を5.1%に上方修正",
+  "seoDescription": "世界銀行はマレーシアの2026年成長率予測を5.1%に引き上げ、11月にはSME金融を量から質へ転換する必要性を指摘した。AI依存のリスクと日系企業への影響を解説。",
+  "tags": [
+    "マレーシア",
+    "世界銀行",
+    "中小企業金融",
+    "AI関連輸出",
+    "Akmal Nasrullah Mohd Nasir",
+    "第13次マレーシア計画"
+  ],
+  "publishAt": "2026-11-17T02:00:00+09:00",
+  "language": "ja",
+  "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/malaysia-world-bank-sme-financing-quality-growth-forecast-5-1-percent.png"
+}

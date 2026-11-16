@@ -1,0 +1,66 @@
+{
+  "slug": "philippines-gdp-q3-2026-2-1-percent-bsp-rate-hike-december",
+  "title": "フィリピン7〜9月GDP2.1%増に減速、中銀は12月にも追加利上げの見方",
+  "country": "フィリピン",
+  "category": "金融・市場",
+  "articleType": "news",
+  "lead": "フィリピン統計庁（PSA）は11月9日、2026年7〜9月期のGDP成長率が前年同期比2.1%だったと発表した。市場予想の3.1%を下回った。中央銀行は物価高を受け利上げ局面にあり、12月の会合で追加利上げが見込まれている。",
+  "summaryHtml": "<ul><li>7〜9月期のGDP成長率は2.1%で、4〜6月期の2.4%、前年同期の4.0%から鈍化した。1〜9月は2.5%（GMA News）。</li><li>家計消費は2.4%で、4〜6月期の2.9%から減速。公共建設は6四半期連続で減少した。</li><li>中央銀行（BSP）は8月に0.25ポイント、10月に0.5ポイント利上げし、政策金利は5.5%になった。10月の物価上昇率は7.8%（The Philippine Star）。</li><li>HSBCは12月に0.25ポイントの利上げで打ち止めを予想し、バンク・オブ・アメリカは2027年2月も含め6%までの引き上げを見込む。</li></ul>",
+  "bodyHtml": "<h3>消費と投資が弱含み</h3><p>PSA（Philippine Statistics Authority）によると、2026年7〜9月期のGDPは前年同期比2.1%の成長だった。4〜6月期は2.4%（当初の2.3%から上方改定）、前年同期は4.0%で、1〜9月の累計は2.5%にとどまる（GMA News）。The Philippine Starは、市場予想の3.1%を下回ったと伝えている。</p><p>内訳をみると、家計消費は2.4%と4〜6月期の2.9%から減速した。GMA Newsによると、食料とエネルギーの価格高騰が支出を圧迫した。公共建設は6四半期連続で減少したが、減少幅は33.4%から15.1%に縮小した。耐久設備投資は7.8%減だった。農林水産業は台風と南西モンスーンの影響で4.8%減、鉱工業は横ばい、サービス業は3.7%増だった。一方、輸出は8.6%増で、AI関連需要を背景に電子機器輸出が19.4%伸びた。なお、投資全体の伸び率は報道によって数字が異なるため、ここでは項目別の数字のみを示す。</p><p>経済企画長官のArsenio Balisacan氏は、減速の要因として食料・エネルギー価格の高騰、農業の混乱、投資の弱さの3点を挙げた（GMA News）。同氏はまた、金融環境の引き締まりが投資の重荷になったと述べた（The Philippine Star）。</p><h3>利上げ局面にある中央銀行</h3><p>中央銀行（Bangko Sentral ng Pilipinas、BSP）は8月に政策金利を0.25ポイント引き上げて5%とし、10月にはさらに0.5ポイント引き上げて5.5%とした（The Philippine Star、11月9日）。10月の物価上昇率は7.8%に加速した。BSPの年内最後の金融政策決定会合は12月17日である。</p><p>The Philippine Starの11月11日付の記事によると、エコノミストの間では12月の追加利上げ予想が多い。HSBCのAris Dacanay氏は0.25ポイントの利上げが最後になるとみる。バンク・オブ・アメリカは12月と2027年2月に各0.25ポイントを引き上げ、6%に達すると予想する。フィリピン諸島銀行（BPI）のEmilio Neri Jr.氏は、利上げの打ち止めが早すぎれば物価の高止まりを招きかねないと警告した。通年の成長率予想はHSBCが3.2%、バンク・オブ・アメリカが2.5%と開きがある。</p><h3>日系企業への影響と今後の見通し</h3><p>高金利と物価高が続けば、ペソ建て借入のコストが上がり、現地の消費財・小売向けの事業では販売の鈍化が続くおそれがある。一方、電子機器の輸出は堅調で、製造拠点を置く日系の電機・電子メーカーには需要面で追い風が続くとみられる。公共建設の減少が続けば、建設資材や設備を扱う企業の受注にも影響が出る可能性がある。</p><p>バンク・オブ・アメリカは、物価上昇率が2027年にかけて5.2%まで低下しても、BSPの目標である2〜4%を2027年後半まで上回ると予想している。12月17日の会合に向けて、10〜11月の物価統計と政策当局の発言が注目される。</p>",
+  "dataFigure": "2.1%",
+  "dataLabel": "7〜9月期のGDP成長率（前年同期比）",
+  "dataSource": "フィリピン統計庁（PSA）、2026年11月9日",
+  "chart": {
+    "bars": [
+      {
+        "label": "25年7-9",
+        "value": 4.0,
+        "display": "4.0%"
+      },
+      {
+        "label": "26年4-6",
+        "value": 2.4,
+        "display": "2.4%"
+      },
+      {
+        "label": "26年7-9",
+        "value": 2.1,
+        "display": "2.1%"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "The Philippine Star",
+      "title": "Philippine economy slows to 2.1% in Q3",
+      "url": "https://www.philstar.com/business/2026/11/09/2568963/philippine-economy-slows-21-q3",
+      "date": "2026-11-09"
+    },
+    {
+      "name": "GMA News",
+      "title": "PH economic growth slows to 2.1% in Q3 2026",
+      "url": "https://www.gmanetwork.com/news/money/economy/1008794/ph-economic-growth-slows-to-2-1-in-q3-2026/story/",
+      "date": "2026-11-09"
+    },
+    {
+      "name": "The Philippine Star",
+      "title": "Economists see more BSP rate hikes",
+      "url": "https://www.philstar.com/nation/2026/11/11/2569250/economists-see-more-bsp-rate-hikes",
+      "date": "2026-11-11"
+    }
+  ],
+  "seoTitle": "フィリピン7〜9月GDP2.1%増に減速",
+  "seoDescription": "フィリピンの2026年7〜9月期GDPは2.1%増で市場予想3.1%を下回った。中銀は12月17日の会合で追加利上げが見込まれる。消費・投資の内訳と日系企業への影響を整理。",
+  "tags": [
+    "フィリピン",
+    "GDP成長率",
+    "BSP",
+    "利上げ",
+    "Arsenio Balisacan",
+    "フィリピン統計庁",
+    "HSBC"
+  ],
+  "publishAt": "2026-11-17T01:30:00+09:00",
+  "language": "ja",
+  "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/philippines-gdp-q3-2026-2-1-percent-bsp-rate-hike-december.png"
+}

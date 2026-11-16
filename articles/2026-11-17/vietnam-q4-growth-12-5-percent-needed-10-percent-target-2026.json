@@ -1,0 +1,66 @@
+{
+  "slug": "vietnam-q4-growth-12-5-percent-needed-10-percent-target-2026",
+  "title": "ベトナム、通年10%成長へ10〜12月期は12.5%必要 電気料金2%下げも模索",
+  "country": "ベトナム",
+  "category": "政治・政策",
+  "articleType": "news",
+  "lead": "ベトナム政府は2026年の成長率目標10%の達成に、10〜12月期で約12.5%の成長が必要との認識を国会で示した。7〜9月期は9.95%だった。公共投資の執行加速や電気料金の引き下げなど、需要と物価の両面で対策を急ぐ。",
+  "summaryHtml": "<ul><li>全国の7〜9月期の成長率は9.95%、1〜9月は9.01%だった（VietNamNet）。</li><li>副首相のNguyen Van Thang氏は10月31日の国会で、通年10%の達成には10〜12月期に約12.5%が必要だと説明した（VietnamPlus）。</li><li>公共投資の執行率は9月末で約63%、10月29日時点で75%超。全額執行すれば10〜12月期の成長を約2.5ポイント押し上げうるという。</li><li>物価対策として、国営電力会社EVNの小売電気料金を2027年3月末までに約2%下げる方向で検討し、ガソリンの特別消費税も7%からゼロにする計画。</li><li>ホーチミン市の製造業では、需要の弱さと借入コストの高さが主な課題に挙がっている。</li></ul>",
+  "bodyHtml": "<h3>目標達成に必要な伸びは12.5%</h3><p>VietNamNetによると、2026年7〜9月期の全国のGDP成長率は前年同期比9.95%、1〜9月期は9.01%だった。ホーチミン市は7〜9月期が9.86%、ハノイ市は10.02%である。政府は2026年の成長率目標を10%としており、10月5日付の政府決議312号（312/NQ-CP）は、目標達成に向けた10〜12月期の全国成長率を12.5%とするシナリオを示した。同紙は、これらの数字は予測ではなくシナリオ上の目標値だと位置づけている。</p><p>地方別の必要成長率はさらに高い。同紙によれば、10〜12月期はホーチミン市で13.23%、ハノイ市で16.55%に達する。副首相のNguyen Van Thang氏は10月31日の国会で、12.5%は大きな課題だが不可能ではないとの認識を示した（VietnamPlus）。</p><h3>公共投資の加速と物価対策</h3><p>政府が頼みとするのは公共投資である。VietNamNetは、9月末までの公共投資の執行率が年間計画の62.9%で、前年同期より12.9ポイント高いと伝えた。VietnamPlusによると、10月29日時点では75%超に達した。副首相は、計画を全額執行できれば10〜12月期の成長率を約2.5ポイント、通年では約1.7ポイント押し上げられるとの見方を示している。一方、8つの地方で前払い金の未精算が比較的多いことも課題として挙げられた。</p><p>物価面では、1〜9月の消費者物価上昇率が平均4.52%と、通年目標の約4.5%をわずかに上回っている（VietNamNet）。このためEVN（Vietnam Electricity）に費用を見直させ、2027年3月末までに小売電気料金を約2%下げる余地を探る。11月から年末にかけてガソリンの特別消費税を7%からゼロにする計画もあり、両方で物価上昇率を目標内に収める余地が約0.07ポイント生まれるとされる（VietNamNet、11月2日）。</p><h3>重荷となる内需と資金調達</h3><p>懸念材料も多い。VietNamNetによると、ホーチミン市の工業企業の調査では、需要の弱さを課題に挙げた企業が45.9%、借入コストの高さを挙げた企業が37.8%あった。銀行の預貸率は2026年半ばで約115%とされ、新規貸出金利は2桁に近づいている。燃料価格は8月平均から約11〜21%上昇し、ホルムズ海峡の航行制限やディーゼル不足が背景にあると同紙は伝える。建設用砂の供給も、主要インフラ事業の需要の約3分の2にとどまるという。</p><p>対外面では、VietnamPlusによると、副首相は7〜9月期に米国が追加で12.5%の関税を課し、対米輸出の約70%に影響したと説明した。</p><h3>日系企業への影響と今後の見通し</h3><p>日系企業にとっては、公共事業の加速が建設・資材・物流の需要を押し上げる一方、借入コストや燃料費の上昇が収益を圧迫する構図になる。電気料金の引き下げが実現すれば、製造拠点のコスト負担はやや和らぐとみられる。ただし、2%の引き下げ幅は限定的で、効果は年末までの執行の進み具合に左右される。10〜12月期に12.5%という水準は、1〜9月の9.01%と比べても大きな上積みを要するため、目標の達成可否は、公共投資の執行率と民間需要の回復が焦点になる。</p>",
+  "dataFigure": "12.5%",
+  "dataLabel": "通年10%成長に必要な10〜12月期の成長率",
+  "dataSource": "ベトナム副首相の国会での説明、2026年10月31日",
+  "chart": {
+    "bars": [
+      {
+        "label": "7-9月",
+        "value": 9.95,
+        "display": "9.95%"
+      },
+      {
+        "label": "1-9月",
+        "value": 9.01,
+        "display": "9.01%"
+      },
+      {
+        "label": "10-12月",
+        "value": 12.5,
+        "display": "12.5%"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "VietNamNet",
+      "title": "Vietnam's economy races toward ambitious Q4 growth target amid mounting pressures",
+      "url": "https://vietnamnet.vn/en/vn-economy-races-toward-ambitious-q4-growth-target-amid-mounting-pressures-2566796.html",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "VietnamPlus（VNA）",
+      "title": "Government steps up measures to boost growth, control inflation",
+      "url": "https://en.vietnamplus.vn/government-steps-up-measures-to-boost-growth-control-inflation-post354630.vnp",
+      "date": "2026-10-31"
+    },
+    {
+      "name": "VietNamNet",
+      "title": "Vietnam may cut electricity prices by 2% through March 2027",
+      "url": "https://vietnamnet.vn/en/vietnam-may-cut-electricity-prices-by-2-through-march-2027-2570652.html",
+      "date": "2026-11-02"
+    }
+  ],
+  "seoTitle": "ベトナム、10〜12月期に12.5%成長が必要",
+  "seoDescription": "ベトナム政府は通年10%成長の達成に10〜12月期で約12.5%が必要と説明。7〜9月期は9.95%。公共投資の加速や電気料金2%引き下げなど対策と日系企業への影響を整理する。",
+  "tags": [
+    "ベトナム",
+    "GDP成長率",
+    "政府決議312号",
+    "EVN",
+    "公共投資",
+    "Nguyen Van Thang",
+    "電気料金"
+  ],
+  "publishAt": "2026-11-17T00:30:00+09:00",
+  "language": "ja",
+  "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/vietnam-q4-growth-12-5-percent-needed-10-percent-target-2026.png"
+}

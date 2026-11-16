@@ -1,5 +1,308 @@
 {
-  "generatedAt": "2026-11-16T22:58:26+09:00",
+  "generatedAt": "2026-11-16T23:34:24+09:00",
   "site": "東南アジア経済新聞",
-  "articles": []
+  "articles": [
+    {
+      "slug": "thailand-bot-q3-2026-ai-exports-data-center-investment-tourism",
+      "title": "タイ中銀、7〜9月期は前期比で改善 AI関連輸出とデータセンター投資が支え",
+      "country": "タイ",
+      "category": "経済",
+      "articleType": "analysis",
+      "lead": "タイ中央銀行は10月30日、2026年7〜9月期の景気が前期より改善したと発表した。AI関連の輸出とデータセンター投資が支えた一方、観光客の減少や消費の慎重化も指摘した。民間調査は横ばいと評価しており、見方が分かれている。",
+      "summaryHtml": "<ul><li>タイ中銀は7〜9月期の景気が前期比で改善したとし、電子機器を中心とする輸出と、データセンター向けの民間投資の伸びを挙げた（BOT報道発表42/2026）。</li><li>外国人観光客は近距離市場を中心に減少し、観光収入は滞在の長期化で横ばいだった。</li><li>SCB経済情報センター（SCB EIC）は7〜9月期をほぼ横ばいとみており、洪水で2026年の成長率が約0.1ポイント下押しされると試算する。</li><li>家計債務の対GDP比は4〜6月期に85.2%と6年超ぶりの低水準だが、同センターは家計の改善を示すとは言い切れないとみる。</li></ul>",
+      "bodyHtml": "<h3>AIサイクルが輸出と投資を押し上げ</h3><p>タイ中央銀行（Bank of Thailand、BOT）が10月30日に公表した報道発表（No. 42/2026）によると、2026年7〜9月期の景気は前期から改善した。金を除く財輸出は、世界的なAIサイクルを背景に電子機器が主導して拡大が続いた。民間投資も大きく伸び、データセンター向けのデータ処理機器の輸入が増えたことが押し上げ要因として挙げられた。製造業の生産も増加し、家計消費はほぼすべての項目で前期より増えた。電気自動車（EV）の販売で耐久財が伸び、非耐久財やサービスは政府の支援策が下支えした。</p><p>経常収支は、4〜6月期の赤字から貿易収支の改善で黒字に転じた。ただし、この発表文には成長率や物価上昇率などの数値は本文になく、数字は添付の統計表に掲載されている。</p><h3>観光と消費に陰り、民間調査は横ばいと評価</h3><p>観光は鈍かった。中銀は、近距離市場を中心に外国人観光客が減ったと説明する。9月は夏休みの終了に加え、原油高に伴う旅行費用の上昇が需要を抑えた。観光収入は滞在期間が長くなったため、7〜9月期は横ばいだった。9月の民間消費は、生活費の高さから消費者が慎重になり、ホテルや飲食などのサービスで勢いが弱まった。9月の政府支出は、中央政府と国営企業の支出が減って縮小した。</p><p>SCB EIC（SCB Economic Intelligence Center）は10月下旬、7〜9月期の経済はほぼ横ばいだったと評価した（Pattaya Mail）。9月下旬から10月の洪水で2026年の成長率が約0.1ポイント下押しされ、生鮮食品の値上がりで物価が一時的に上がる可能性があるという。失業率は7〜9月期の最初の2カ月に上昇し、若年層の失業率は全体の2倍超だった。同センターは、成長が電子機器とデジタル分野に集中しており、景気回復の二極化（K字型）が強まりかねないと指摘する。中銀の評価と民間調査の見方が分かれる点は、統計の公表後に確認する必要がある。</p><h3>日系企業への影響と今後の焦点</h3><p>タイでは自動車・電機・電子部品を中心に日系企業の生産拠点が多く、AI関連の電子機器やデータセンター向け需要は部品・設備メーカーに追い風になるとみられる。一方、観光やサービス、国内向けの消費財では、燃料高と生活費の上昇が逆風となる。</p><p>中銀は今後の注視点として、AIサイクルの持続性、地政学リスクと保護主義、観光の回復、洪水とエルニーニョの影響を挙げた。SCB EICは、政策金利が2027年末まで1%にとどまると予想し、物価上昇率は2026年末から2027年初めに政府目標の1〜3%の上限に達するか超える可能性があるとみている。</p>",
+      "dataFigure": "85.2%",
+      "dataLabel": "家計債務の対GDP比（4〜6月期）",
+      "dataSource": "SCB経済情報センター（SCB EIC）、2026年10月",
+      "sources": [
+        {
+          "name": "Bank of Thailand",
+          "title": "Press Release on the Economic and Monetary Conditions for September and Q3/2026",
+          "url": "https://www.bot.or.th/en/news-and-media/news/news-20261030.html",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "Pattaya Mail",
+          "title": "Thailand's Q3 economy stalls under flood pressure and rising household costs",
+          "url": "https://www.pattayamail.com/thailandnews/thailands-q3-economy-stalls-under-flood-pressure-and-rising-household-costs-569569",
+          "date": "2026-10-24"
+        }
+      ],
+      "seoTitle": "タイ中銀、7〜9月期は前期比で改善",
+      "seoDescription": "タイ中央銀行は2026年7〜9月期の景気が前期より改善したと発表。AI関連輸出とデータセンター投資が支え、観光は鈍化。SCB EICの見方との違いと日系企業への影響を整理。",
+      "tags": [
+        "タイ",
+        "タイ中央銀行",
+        "AI関連輸出",
+        "データセンター",
+        "SCB EIC",
+        "観光",
+        "洪水"
+      ],
+      "publishAt": "2026-11-17T02:30:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/thailand-bot-q3-2026-ai-exports-data-center-investment-tourism.png"
+    },
+    {
+      "slug": "malaysia-world-bank-sme-financing-quality-growth-forecast-5-1-percent",
+      "title": "世銀、マレーシアSME金融は「量から質」へ 2026年成長率は5.1%に上方修正",
+      "country": "マレーシア",
+      "category": "企業・産業",
+      "articleType": "analysis",
+      "lead": "世界銀行は11月11日、マレーシアの中小企業（SME）金融を扱う経済報告書を公表し、融資の量より質を高める必要性を指摘した。同行は10月、AI関連の輸出と投資を背景に、2026年の成長率予測を5.1%へ引き上げている。",
+      "summaryHtml": "<ul><li>世界銀行は2026年のマレーシア成長率予測を、4月の約4.4%から5.1%に引き上げた。2027年は4.7%を見込む（Malay Mail）。</li><li>AI関連製品が2026年初めの輸出成長の70%超を占め、AI関連を除く成長は弱いとされる。</li><li>11月11日公表の報告書は、企業の38%が融資枠を持ち、融資承認率は2015年の約68%から2024年に86%へ上昇したと指摘。</li><li>経済相のAkmal Nasrullah Mohd Nasir氏は、担保として機械設備や売掛金も考慮すべきだと述べた。</li></ul>",
+      "bodyHtml": "<h3>成長予測の上方修正を支えるAI関連需要</h3><p>世界銀行は10月6日に公表した東アジア・大洋州の経済アップデートで、マレーシアの2026年の成長率予測を5.1%、2027年を4.7%とした。Malay Mail（Bernama配信）によると、4月の予測から0.7ポイントの引き上げで、東アジア・大洋州地域の2026〜2027年の4.5%を上回る。背景には、AI関連の投資と輸出を通じた外需がある。AI関連製品は2026年初めのマレーシアの輸出成長の70%超を占めたという。</p><p>一方、同行はAI関連を除くと成長が弱く、経済がAI分野に大きく依存していると指摘する。AI投資の反転や減速が最大の下振れリスクで、資産価格の見直しに伴う新興国からの資本流出や、世界貿易の減速が波及経路になりうる。米国の成長が1ポイント減速すれば、マレーシアの成長率は0.8ポイント下がるとの試算も示した。エルニーニョによる農業被害や、エネルギー価格の高止まりもリスクに挙げた。</p><h3>SME金融は量から質へ</h3><p>11月11日には、第33回マレーシア経済モニター「量から質へ：マレーシアの生産的なSMEへの資金供給」が発表された。Malay Mailによると、報告書は、融資を受けた企業の割合が約38%、融資承認率が2015年の約68%から2024年に86%へ上がった一方、SMEは固定資産投資の約3分の2を内部資金で賄い、外部資金は銀行借入に偏っていて、株式やリスクマネーが乏しいと指摘した。課題は融資を受けられるかどうかだけでなく、生産性向上や技術導入、海外展開といった投資に見合う資金が供給されているかだと整理している。</p><p>経済相のAkmal Nasrullah Mohd Nasir氏は、同報告書の提言を踏まえ、不動産中心の担保が融資の壁になりうるとして、機械設備や売掛金など他の資産も考慮すべきだと述べた。融資制度の透明性を高める必要性にも言及し、第13次マレーシア計画が掲げる生産性と競争力の向上に結びつけた。</p><h3>日系企業への影響と注目点</h3><p>マレーシアに進出する日系企業のうち、現地の中小企業を取引先とする製造業やサービス業にとっては、担保の範囲拡大や資金調達の多様化が実現すれば、取引先の設備投資や自動化が進みやすくなるとみられる。ただし、今回の内容は提言と政府の方針表明の段階で、具体的な制度変更の時期や内容はまだ示されていない。</p><p>マレーシアの2026年4〜6月期のGDPは6.0%増、7〜9月期の速報値は5.3%だったとMalay Mailは伝えている。成長の下支えとなっているAI関連需要の持続性と、それ以外の分野への波及が、今後の見通しを左右する。</p>",
+      "dataFigure": "5.1%",
+      "dataLabel": "世界銀行による2026年のマレーシア成長率予測",
+      "dataSource": "世界銀行、2026年10月6日",
+      "chart": {
+        "bars": [
+          {
+            "label": "4月予測",
+            "value": 4.4,
+            "display": "約4.4%"
+          },
+          {
+            "label": "10月予測",
+            "value": 5.1,
+            "display": "5.1%"
+          },
+          {
+            "label": "27年予測",
+            "value": 4.7,
+            "display": "4.7%"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "Malay Mail（Bernama）",
+          "title": "World Bank lifts Malaysia's 2026 growth forecast to 5.1pc on AI investment wave",
+          "url": "https://malaymail.com/news/malaysia/2026/10/06/world-bank-lifts-malaysias-2026-growth-forecast-to-51pc-on-ai-investment-wave/237919",
+          "date": "2026-10-06"
+        },
+        {
+          "name": "Malay Mail（Bernama）",
+          "title": "Malaysia's economy resilient despite global risks, World Bank calls for decisive reforms",
+          "url": "https://www.malaymail.com/news/money/2026/11/11/malaysias-economy-resilient-despite-global-risks-world-bank-calls-for-decisive-reforms/242869",
+          "date": "2026-11-11"
+        },
+        {
+          "name": "Malay Mail",
+          "title": "Funding Malaysia's SMEs is about quality and not quantity, says economy minister",
+          "url": "https://www.malaymail.com/amp/news/malaysia/2026/11/11/funding-malaysias-smes-is-about-quality-and-not-quantity-says-economy-minister/242866",
+          "date": "2026-11-11"
+        }
+      ],
+      "seoTitle": "世銀、マレーシア成長率を5.1%に上方修正",
+      "seoDescription": "世界銀行はマレーシアの2026年成長率予測を5.1%に引き上げ、11月にはSME金融を量から質へ転換する必要性を指摘した。AI依存のリスクと日系企業への影響を解説。",
+      "tags": [
+        "マレーシア",
+        "世界銀行",
+        "中小企業金融",
+        "AI関連輸出",
+        "Akmal Nasrullah Mohd Nasir",
+        "第13次マレーシア計画"
+      ],
+      "publishAt": "2026-11-17T02:00:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/malaysia-world-bank-sme-financing-quality-growth-forecast-5-1-percent.png"
+    },
+    {
+      "slug": "philippines-gdp-q3-2026-2-1-percent-bsp-rate-hike-december",
+      "title": "フィリピン7〜9月GDP2.1%増に減速、中銀は12月にも追加利上げの見方",
+      "country": "フィリピン",
+      "category": "金融・市場",
+      "articleType": "news",
+      "lead": "フィリピン統計庁（PSA）は11月9日、2026年7〜9月期のGDP成長率が前年同期比2.1%だったと発表した。市場予想の3.1%を下回った。中央銀行は物価高を受け利上げ局面にあり、12月の会合で追加利上げが見込まれている。",
+      "summaryHtml": "<ul><li>7〜9月期のGDP成長率は2.1%で、4〜6月期の2.4%、前年同期の4.0%から鈍化した。1〜9月は2.5%（GMA News）。</li><li>家計消費は2.4%で、4〜6月期の2.9%から減速。公共建設は6四半期連続で減少した。</li><li>中央銀行（BSP）は8月に0.25ポイント、10月に0.5ポイント利上げし、政策金利は5.5%になった。10月の物価上昇率は7.8%（The Philippine Star）。</li><li>HSBCは12月に0.25ポイントの利上げで打ち止めを予想し、バンク・オブ・アメリカは2027年2月も含め6%までの引き上げを見込む。</li></ul>",
+      "bodyHtml": "<h3>消費と投資が弱含み</h3><p>PSA（Philippine Statistics Authority）によると、2026年7〜9月期のGDPは前年同期比2.1%の成長だった。4〜6月期は2.4%（当初の2.3%から上方改定）、前年同期は4.0%で、1〜9月の累計は2.5%にとどまる（GMA News）。The Philippine Starは、市場予想の3.1%を下回ったと伝えている。</p><p>内訳をみると、家計消費は2.4%と4〜6月期の2.9%から減速した。GMA Newsによると、食料とエネルギーの価格高騰が支出を圧迫した。公共建設は6四半期連続で減少したが、減少幅は33.4%から15.1%に縮小した。耐久設備投資は7.8%減だった。農林水産業は台風と南西モンスーンの影響で4.8%減、鉱工業は横ばい、サービス業は3.7%増だった。一方、輸出は8.6%増で、AI関連需要を背景に電子機器輸出が19.4%伸びた。なお、投資全体の伸び率は報道によって数字が異なるため、ここでは項目別の数字のみを示す。</p><p>経済企画長官のArsenio Balisacan氏は、減速の要因として食料・エネルギー価格の高騰、農業の混乱、投資の弱さの3点を挙げた（GMA News）。同氏はまた、金融環境の引き締まりが投資の重荷になったと述べた（The Philippine Star）。</p><h3>利上げ局面にある中央銀行</h3><p>中央銀行（Bangko Sentral ng Pilipinas、BSP）は8月に政策金利を0.25ポイント引き上げて5%とし、10月にはさらに0.5ポイント引き上げて5.5%とした（The Philippine Star、11月9日）。10月の物価上昇率は7.8%に加速した。BSPの年内最後の金融政策決定会合は12月17日である。</p><p>The Philippine Starの11月11日付の記事によると、エコノミストの間では12月の追加利上げ予想が多い。HSBCのAris Dacanay氏は0.25ポイントの利上げが最後になるとみる。バンク・オブ・アメリカは12月と2027年2月に各0.25ポイントを引き上げ、6%に達すると予想する。フィリピン諸島銀行（BPI）のEmilio Neri Jr.氏は、利上げの打ち止めが早すぎれば物価の高止まりを招きかねないと警告した。通年の成長率予想はHSBCが3.2%、バンク・オブ・アメリカが2.5%と開きがある。</p><h3>日系企業への影響と今後の見通し</h3><p>高金利と物価高が続けば、ペソ建て借入のコストが上がり、現地の消費財・小売向けの事業では販売の鈍化が続くおそれがある。一方、電子機器の輸出は堅調で、製造拠点を置く日系の電機・電子メーカーには需要面で追い風が続くとみられる。公共建設の減少が続けば、建設資材や設備を扱う企業の受注にも影響が出る可能性がある。</p><p>バンク・オブ・アメリカは、物価上昇率が2027年にかけて5.2%まで低下しても、BSPの目標である2〜4%を2027年後半まで上回ると予想している。12月17日の会合に向けて、10〜11月の物価統計と政策当局の発言が注目される。</p>",
+      "dataFigure": "2.1%",
+      "dataLabel": "7〜9月期のGDP成長率（前年同期比）",
+      "dataSource": "フィリピン統計庁（PSA）、2026年11月9日",
+      "chart": {
+        "bars": [
+          {
+            "label": "25年7-9",
+            "value": 4.0,
+            "display": "4.0%"
+          },
+          {
+            "label": "26年4-6",
+            "value": 2.4,
+            "display": "2.4%"
+          },
+          {
+            "label": "26年7-9",
+            "value": 2.1,
+            "display": "2.1%"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "The Philippine Star",
+          "title": "Philippine economy slows to 2.1% in Q3",
+          "url": "https://www.philstar.com/business/2026/11/09/2568963/philippine-economy-slows-21-q3",
+          "date": "2026-11-09"
+        },
+        {
+          "name": "GMA News",
+          "title": "PH economic growth slows to 2.1% in Q3 2026",
+          "url": "https://www.gmanetwork.com/news/money/economy/1008794/ph-economic-growth-slows-to-2-1-in-q3-2026/story/",
+          "date": "2026-11-09"
+        },
+        {
+          "name": "The Philippine Star",
+          "title": "Economists see more BSP rate hikes",
+          "url": "https://www.philstar.com/nation/2026/11/11/2569250/economists-see-more-bsp-rate-hikes",
+          "date": "2026-11-11"
+        }
+      ],
+      "seoTitle": "フィリピン7〜9月GDP2.1%増に減速",
+      "seoDescription": "フィリピンの2026年7〜9月期GDPは2.1%増で市場予想3.1%を下回った。中銀は12月17日の会合で追加利上げが見込まれる。消費・投資の内訳と日系企業への影響を整理。",
+      "tags": [
+        "フィリピン",
+        "GDP成長率",
+        "BSP",
+        "利上げ",
+        "Arsenio Balisacan",
+        "フィリピン統計庁",
+        "HSBC"
+      ],
+      "publishAt": "2026-11-17T01:30:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/philippines-gdp-q3-2026-2-1-percent-bsp-rate-hike-december.png"
+    },
+    {
+      "slug": "indonesia-gdp-q3-2026-5-47-percent-investment-government-spending",
+      "title": "インドネシア7〜9月GDP5.47%増、投資と政府支出が牽引 純輸出の下押しは縮小",
+      "country": "インドネシア",
+      "category": "経済",
+      "articleType": "news",
+      "lead": "インドネシア中央統計局（BPS）は11月5日、2026年7〜9月期のGDP成長率が前年同期比5.47%だったと発表した。4〜6月期の5.29%から加速し、投資と政府消費が支えた。純輸出の押し下げ幅も縮小した。",
+      "summaryHtml": "<ul><li>7〜9月期のGDP成長率は前年同期比5.47%で、4〜6月期の5.29%を上回った。1〜9月は5.45%（The Jakarta Post）。</li><li>支出別では、政府消費が8.95%、投資が6.06%、家計消費が5.04%、輸出が4.59%の伸びだった（インドネシア銀行）。</li><li>純輸出の成長率への寄与は7〜9月期にマイナス0.28ポイントで、1〜3月期のマイナス1.01ポイントから縮小した。</li><li>インドネシア銀行は2026年通年の成長率を4.9〜5.7%と見込んでいる。</li></ul>",
+      "bodyHtml": "<h3>政府消費と投資が成長を押し上げ</h3><p>BPS（Badan Pusat Statistik）が11月5日に発表した2026年7〜9月期のGDPは、前年同期比5.47%の成長だった。インドネシア銀行（Bank Indonesia）の報道発表によると、4〜6月期は5.29%で、成長はわずかに加速した。The Jakarta Postは、1〜9月の累計成長率を5.45%と伝えている。</p><p>同行によると、支出別で最も伸びたのは政府消費の8.95%である。公務員の給与・手当の増額に加え、無料栄養給食（MBG）事業を含む物品・サービス支出が寄与した。投資は6.06%で、自動車関連が先導し、公共・民間の投資が伸びた。家計消費は5.04%、輸出は4.59%だった。産業別では全部門がプラス成長で、製造業と商業の寄与が大きかった。地域別ではバリ・ヌサトゥンガラ地域が最も高い伸びを示した。</p><h3>純輸出の下押しは縮小</h3><p>The Jakarta Postによると、純輸出（輸出から輸入を引いた額）は2026年に入って成長の重荷となってきたが、7〜9月期の寄与はマイナス0.28ポイントと、4〜6月期のマイナス0.9ポイント、1〜3月期のマイナス1.01ポイントから縮小した。同紙は、2月に中東で武力衝突が起きたあとの原油高で、年初に貿易赤字となったと説明している。BPSのEdy Mahmud氏は、中国、米国、マレーシア、シンガポール、ベトナム、韓国といった主要な貿易相手国の成長が続いていると述べた。</p><p>同紙は、消費と企業投資の伸びが前の3カ月から鈍化したとも伝えているが、具体的な数字は示していない。インドネシア銀行の発表は前年同期比のみで、前期の内訳は示していないため、ここでは両者の違いを確認できていない。</p><h3>見通しと日系企業への影響</h3><p>インドネシア銀行は2026年通年の成長率を4.9〜5.7%の範囲と見込んでいる。1〜9月の累計5.45%を踏まえれば、通年でも5%台半ば程度になる可能性があるが、予測の幅は広く、年末の外需や原油価格の動向に左右される。</p><p>日系企業にとっては、投資の伸びを自動車関連が先導した点が注目される。自動車・部品メーカーにとっては追い風になるとみられる。一方、成長を最も押し上げたのは政府消費で、給与増額やMBG事業といった財政支出への依存が高い。財政の持続性や、家計消費が5%程度にとどまる点は、消費財メーカーや小売業の需要見通しを考えるうえで確認すべき材料である。</p>",
+      "dataFigure": "5.47%",
+      "dataLabel": "7〜9月期のGDP成長率（前年同期比）",
+      "dataSource": "インドネシア中央統計局（BPS）、2026年11月5日",
+      "chart": {
+        "bars": [
+          {
+            "label": "政府消費",
+            "value": 8.95,
+            "display": "8.95%"
+          },
+          {
+            "label": "投資",
+            "value": 6.06,
+            "display": "6.06%"
+          },
+          {
+            "label": "家計消費",
+            "value": 5.04,
+            "display": "5.04%"
+          },
+          {
+            "label": "輸出",
+            "value": 4.59,
+            "display": "4.59%"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "Bank Indonesia",
+          "title": "Indonesia's Economy Grows 5.47 percent in Third Quarter of 2026",
+          "url": "https://www.bi.go.id/en/iru/highlight-news/Pages/Indonesia’s-Economy-Grows-5.47-percent-in-Third-Quarter-of-2026.aspx",
+          "date": "2026-11-05"
+        },
+        {
+          "name": "The Jakarta Post",
+          "title": "RI posts strong GDP growth on better trade balance",
+          "url": "https://www.thejakartapost.com/business/2026/11/05/ri-posts-strong-gdp-growth-on-better-trade-balance",
+          "date": "2026-11-05"
+        }
+      ],
+      "seoTitle": "インドネシア7〜9月GDP5.47%増",
+      "seoDescription": "インドネシアの2026年7〜9月期GDPは前年同期比5.47%増。政府消費8.95%、投資6.06%が牽引し、純輸出の押し下げ幅は縮小。通年見通しと日系企業への影響を解説。",
+      "tags": [
+        "インドネシア",
+        "GDP成長率",
+        "BPS",
+        "インドネシア銀行",
+        "無料栄養給食",
+        "Edy Mahmud"
+      ],
+      "publishAt": "2026-11-17T01:00:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/indonesia-gdp-q3-2026-5-47-percent-investment-government-spending.png"
+    },
+    {
+      "slug": "vietnam-q4-growth-12-5-percent-needed-10-percent-target-2026",
+      "title": "ベトナム、通年10%成長へ10〜12月期は12.5%必要 電気料金2%下げも模索",
+      "country": "ベトナム",
+      "category": "政治・政策",
+      "articleType": "news",
+      "lead": "ベトナム政府は2026年の成長率目標10%の達成に、10〜12月期で約12.5%の成長が必要との認識を国会で示した。7〜9月期は9.95%だった。公共投資の執行加速や電気料金の引き下げなど、需要と物価の両面で対策を急ぐ。",
+      "summaryHtml": "<ul><li>全国の7〜9月期の成長率は9.95%、1〜9月は9.01%だった（VietNamNet）。</li><li>副首相のNguyen Van Thang氏は10月31日の国会で、通年10%の達成には10〜12月期に約12.5%が必要だと説明した（VietnamPlus）。</li><li>公共投資の執行率は9月末で約63%、10月29日時点で75%超。全額執行すれば10〜12月期の成長を約2.5ポイント押し上げうるという。</li><li>物価対策として、国営電力会社EVNの小売電気料金を2027年3月末までに約2%下げる方向で検討し、ガソリンの特別消費税も7%からゼロにする計画。</li><li>ホーチミン市の製造業では、需要の弱さと借入コストの高さが主な課題に挙がっている。</li></ul>",
+      "bodyHtml": "<h3>目標達成に必要な伸びは12.5%</h3><p>VietNamNetによると、2026年7〜9月期の全国のGDP成長率は前年同期比9.95%、1〜9月期は9.01%だった。ホーチミン市は7〜9月期が9.86%、ハノイ市は10.02%である。政府は2026年の成長率目標を10%としており、10月5日付の政府決議312号（312/NQ-CP）は、目標達成に向けた10〜12月期の全国成長率を12.5%とするシナリオを示した。同紙は、これらの数字は予測ではなくシナリオ上の目標値だと位置づけている。</p><p>地方別の必要成長率はさらに高い。同紙によれば、10〜12月期はホーチミン市で13.23%、ハノイ市で16.55%に達する。副首相のNguyen Van Thang氏は10月31日の国会で、12.5%は大きな課題だが不可能ではないとの認識を示した（VietnamPlus）。</p><h3>公共投資の加速と物価対策</h3><p>政府が頼みとするのは公共投資である。VietNamNetは、9月末までの公共投資の執行率が年間計画の62.9%で、前年同期より12.9ポイント高いと伝えた。VietnamPlusによると、10月29日時点では75%超に達した。副首相は、計画を全額執行できれば10〜12月期の成長率を約2.5ポイント、通年では約1.7ポイント押し上げられるとの見方を示している。一方、8つの地方で前払い金の未精算が比較的多いことも課題として挙げられた。</p><p>物価面では、1〜9月の消費者物価上昇率が平均4.52%と、通年目標の約4.5%をわずかに上回っている（VietNamNet）。このためEVN（Vietnam Electricity）に費用を見直させ、2027年3月末までに小売電気料金を約2%下げる余地を探る。11月から年末にかけてガソリンの特別消費税を7%からゼロにする計画もあり、両方で物価上昇率を目標内に収める余地が約0.07ポイント生まれるとされる（VietNamNet、11月2日）。</p><h3>重荷となる内需と資金調達</h3><p>懸念材料も多い。VietNamNetによると、ホーチミン市の工業企業の調査では、需要の弱さを課題に挙げた企業が45.9%、借入コストの高さを挙げた企業が37.8%あった。銀行の預貸率は2026年半ばで約115%とされ、新規貸出金利は2桁に近づいている。燃料価格は8月平均から約11〜21%上昇し、ホルムズ海峡の航行制限やディーゼル不足が背景にあると同紙は伝える。建設用砂の供給も、主要インフラ事業の需要の約3分の2にとどまるという。</p><p>対外面では、VietnamPlusによると、副首相は7〜9月期に米国が追加で12.5%の関税を課し、対米輸出の約70%に影響したと説明した。</p><h3>日系企業への影響と今後の見通し</h3><p>日系企業にとっては、公共事業の加速が建設・資材・物流の需要を押し上げる一方、借入コストや燃料費の上昇が収益を圧迫する構図になる。電気料金の引き下げが実現すれば、製造拠点のコスト負担はやや和らぐとみられる。ただし、2%の引き下げ幅は限定的で、効果は年末までの執行の進み具合に左右される。10〜12月期に12.5%という水準は、1〜9月の9.01%と比べても大きな上積みを要するため、目標の達成可否は、公共投資の執行率と民間需要の回復が焦点になる。</p>",
+      "dataFigure": "12.5%",
+      "dataLabel": "通年10%成長に必要な10〜12月期の成長率",
+      "dataSource": "ベトナム副首相の国会での説明、2026年10月31日",
+      "chart": {
+        "bars": [
+          {
+            "label": "7-9月",
+            "value": 9.95,
+            "display": "9.95%"
+          },
+          {
+            "label": "1-9月",
+            "value": 9.01,
+            "display": "9.01%"
+          },
+          {
+            "label": "10-12月",
+            "value": 12.5,
+            "display": "12.5%"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "VietNamNet",
+          "title": "Vietnam's economy races toward ambitious Q4 growth target amid mounting pressures",
+          "url": "https://vietnamnet.vn/en/vn-economy-races-toward-ambitious-q4-growth-target-amid-mounting-pressures-2566796.html",
+          "date": "2026-10-21"
+        },
+        {
+          "name": "VietnamPlus（VNA）",
+          "title": "Government steps up measures to boost growth, control inflation",
+          "url": "https://en.vietnamplus.vn/government-steps-up-measures-to-boost-growth-control-inflation-post354630.vnp",
+          "date": "2026-10-31"
+        },
+        {
+          "name": "VietNamNet",
+          "title": "Vietnam may cut electricity prices by 2% through March 2027",
+          "url": "https://vietnamnet.vn/en/vietnam-may-cut-electricity-prices-by-2-through-march-2027-2570652.html",
+          "date": "2026-11-02"
+        }
+      ],
+      "seoTitle": "ベトナム、10〜12月期に12.5%成長が必要",
+      "seoDescription": "ベトナム政府は通年10%成長の達成に10〜12月期で約12.5%が必要と説明。7〜9月期は9.95%。公共投資の加速や電気料金2%引き下げなど対策と日系企業への影響を整理する。",
+      "tags": [
+        "ベトナム",
+        "GDP成長率",
+        "政府決議312号",
+        "EVN",
+        "公共投資",
+        "Nguyen Van Thang",
+        "電気料金"
+      ],
+      "publishAt": "2026-11-17T00:30:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/vietnam-q4-growth-12-5-percent-needed-10-percent-target-2026.png"
+    }
+  ]
 }
