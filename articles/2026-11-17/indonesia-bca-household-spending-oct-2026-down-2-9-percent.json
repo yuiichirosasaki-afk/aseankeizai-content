@@ -1,0 +1,72 @@
+{
+  "slug": "indonesia-bca-household-spending-oct-2026-down-2-9-percent",
+  "title": "インドネシア、10月の家計支出は2.9%減 BCA調べ 消費者信頼感は上昇も",
+  "country": "インドネシア",
+  "category": "消費・小売",
+  "articleType": "analysis",
+  "lead": "インドネシアのBCA（Bank Central Asia）のチーフエコノミストは11月16日、同行の顧客データで10月の家計支出が2.9%減ったと述べた。企業の売上入金の伸びも8月の9.4%から10月は7%に鈍っている。一方、中央銀行の調査では10月の消費者信頼感は上昇しており、指標の見方が分かれる。",
+  "summaryHtml": "<ul><li>BCAのデービッド・スマル（David Sumual）チーフエコノミストは11月16日の講演で、約3,400万人の顧客データによる家計支出が10月に2.9%減ったと述べた。2026年の4〜6月期と7〜9月期は比較的安定していた（Kontan）。</li><li>約30万社のデータによる企業の売上入金は、前年同月比で8月が9.4%、9月が8.4%、10月が7%と鈍っている。金融業を除くと9月が11.5%、10月が11.3%だった（Kontan）。</li><li>インドネシア銀行（中央銀行）の調査では、10月の消費者信頼感指数は119.9で、9月の118.1から上昇した（Bank Indonesia）。</li><li>スマル氏は、企業や消費者が年末まで様子見の姿勢を取っている可能性を挙げた（Kontan）。</li></ul>",
+  "bodyHtml": "<h3>BCAのデータが示す10月の変化</h3><p>Kontanによると、BCAのデービッド・スマル・チーフエコノミストは11月16日、「インドネシア経済見通し2027」の全国セミナーで、同行のビッグデータの分析を紹介した。約3,400万人の顧客による家計支出は、2026年の4〜6月期と7〜9月期は比較的安定していたが、10月に2.9%減った。記事は何と比べた減少かを示していない。BCAの顧客に限ったデータで、国全体の消費を表すものではない点にも注意が必要である。</p><p>企業側の動きも鈍っている。BCAが整理した約30万社の売上入金は、前年同月比で8月が9.4%、9月が8.4%、10月が7%と、8月から2か月続けて伸びが小さくなった。金融業を除いた伸びは9月の11.5%から10月は11.3%とほぼ横ばいである。スマル氏は、受け取りの面では下向きの傾向があるとの見方を示した。</p><h3>ほかの指標はまちまち</h3><p>同じセミナーでスマル氏が挙げた指標は、強いものと弱いものが混在する。商用車の販売は10月に24.4%増え、9月の36.9%増から鈍った。セメント販売は9月に3%増で、8月の4%増から伸びが縮んだ。資本財の輸入は9月に1.3%増にとどまり、8月の10.6%増から大きく減速した。一方、製造業の購買担当者景気指数（PMI）は10月に54で、9月の52.4から上がった。運転資金貸出は9月に11.9%増、投資向け貸出は23.2%増、政府の資本支出は27.1%増だった。</p><p>自動車は、販売台数が2桁の伸びでも、競争の激化と電気自動車（EV）の参入で価格が下がり、金額ベースではほぼ横ばいだという。販売台数だけを見ると消費の実態を取り違えかねない例である。</p><h3>消費者信頼感との食い違い</h3><p>一方、インドネシア銀行（Bank Indonesia）が11月9日に公表した10月の消費者調査では、消費者信頼感指数が119.9となり、9月の118.1から上がった。現況指数は107.5から109.1へ、期待指数は128.7から130.7へ、それぞれ上昇した。100を超えており、楽観的な水準である。</p><p>信頼感の調査は人々の気持ちを、BCAのデータは実際の支払いを見ており、測っているものが違う。気持ちが上向いても、実際の支出が追いつかないことは起こり得る。小売では、Trading Economicsによると8月の小売売上高は前年同月比1.3%増で、食品・飲料・たばこが2.6%増となった一方、衣料は12.4%減った。品目による差が大きい。</p><h3>日系企業への影響と今後の見通し</h3><p>インドネシアで消費財や小売、自動車を扱う日系企業にとっては、年末商戦に向けた需要の読みが課題になる。BCAのデータだけで消費の落ち込みを断定することはできないが、11月以降の動きが同じ傾向を示すかどうかは、在庫や販促の計画に影響し得る。スマル氏が指摘した様子見の姿勢が年末まで続くのか、それとも年明けに解消するのかが注目される。政府統計の小売売上高や、インドネシア銀行の次回の消費者調査が、BCAのデータを裏づけるかどうかが当面の確認点である。</p>",
+  "dataFigure": "-2.9%",
+  "dataLabel": "BCA顧客データによる10月の家計支出",
+  "dataSource": "BCAのデービッド・スマル氏の発言をKontanが報道、2026年11月17日",
+  "chart": {
+    "bars": [
+      {
+        "label": "8月",
+        "value": 9.4,
+        "display": "9.4%"
+      },
+      {
+        "label": "9月",
+        "value": 8.4,
+        "display": "8.4%"
+      },
+      {
+        "label": "10月",
+        "value": 7,
+        "display": "7%"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "Kontan",
+      "title": "Big Data BCA Ungkap Sinyal Bahaya, Penerimaan Dunia Usaha Lambat, Belanja Minus 2,9%",
+      "url": "https://nasional.kontan.co.id/news/big-data-bca-ungkap-sinyal-bahaya-penerimaan-dunia-usaha-lambat-belanja-minus-29",
+      "date": "2026-11-17"
+    },
+    {
+      "name": "Kontan",
+      "title": "Jelang Akhir Tahun, Penerimaan Dunia Usaha dan Belanja Masyarakat Kompak Turun",
+      "url": "https://nasional.kontan.co.id/news/jelang-akhir-tahun-penerimaan-dunia-usaha-dan-belanja-masyarakat-kompak-turun",
+      "date": "2026-11-17"
+    },
+    {
+      "name": "Bank Indonesia",
+      "title": "Survei Konsumen Oktober 2026（報道発表）",
+      "url": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2824526.aspx",
+      "date": "2026-11-09"
+    },
+    {
+      "name": "Trading Economics",
+      "title": "Indonesia Retail Sales Growth at 5-Month High",
+      "url": "https://tradingeconomics.com/indonesia/retail-sales-annual/news/590680",
+      "date": "2026-10-09"
+    }
+  ],
+  "seoTitle": "インドネシア、10月の家計支出2.9%減",
+  "seoDescription": "BCAの顧客データで10月のインドネシアの家計支出は2.9%減。企業の売上入金の伸びも7%に鈍化した。一方で消費者信頼感は119.9に上昇。指標の食い違いを整理する。",
+  "tags": [
+    "インドネシア",
+    "BCA",
+    "David Sumual",
+    "家計支出",
+    "消費者信頼感指数",
+    "インドネシア銀行",
+    "Kontan"
+  ],
+  "publishAt": "2026-11-17T19:30:00+09:00",
+  "language": "ja",
+  "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/indonesia-bca-household-spending-oct-2026-down-2-9-percent.png"
+}
