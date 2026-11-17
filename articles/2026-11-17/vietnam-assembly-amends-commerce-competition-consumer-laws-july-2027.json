@@ -1,0 +1,41 @@
+{
+  "slug": "vietnam-assembly-amends-commerce-competition-consumer-laws-july-2027",
+  "title": "ベトナム国会、商業法など4法を改正 消費者データの同意取得を明確化",
+  "country": "ベトナム",
+  "category": "政治・政策",
+  "articleType": "news",
+  "lead": "ベトナム国会は11月13日、商業法、競争法、対外貿易管理法、消費者権利保護法の4法を一括で改正する法律を可決した。原産地証明書の発給体制や、消費者の情報を扱う際の同意取得のルールが変わる。施行は2027年7月1日である。",
+  "summaryHtml": "<ul><li>国会は11月13日、商業法、競争法、対外貿易管理法、消費者権利保護法を改正する法律を、代議員460人のうち458人の賛成で可決した（VietnamPlus）。</li><li>施行は2027年7月1日で、商業法の一部規定の廃止は2028年1月1日に施行される。</li><li>輸出品の原産地証明は省・市の人民委員会が担い、工商省が全国をつなぐ電子システムを運営する（Vietnam Briefing）。</li><li>事業者は、消費者の情報の収集・利用について、目的と範囲ごとに明確な同意を得る必要がある。</li></ul>",
+  "bodyHtml": "<h3>4法を一括改正、施行は2027年7月</h3><p>VietnamPlusによると、ベトナム国会は11月13日、商業法（Law on Commerce）、競争法（Law on Competition）、対外貿易管理法（Law on Foreign Trade Management）、消費者権利保護法（Law on Protection of Consumer Rights）の一部条文を改正する法律を可決した。賛成は代議員460人のうち458人だった。工商相のLe Manh Hungが採決の前に政府報告を行った。改正の大半は2027年7月1日に施行され、商業法の一部規定を廃止する部分は2028年1月1日に施行される。Vietnam Briefingは、立法資料では6つの行政手続きの廃止と11の簡素化が挙げられ、新たな手続きは加わらないと伝えている。</p><h3>原産地証明、競争法、消費者情報で変わる点</h3><p>輸出企業に関わるのは、原産地証明書（C/O）の仕組みである。両紙によると、輸出品の原産地は省・市の人民委員会が証明し、工商省が基準の設定と、発給機関をつなぐ中央の電子システムの運営を担う。条約に基づく輸入品の原産地証明は財務省が扱う。Vietnam Briefingは、輸出企業が品目や仕向け国ごとに、どの機関が発給するかを確認すべきだと助言している。</p><p>競争法では、違反に対する処分の時効が整理され、競争制限的な合意、市場支配的地位の濫用、経済集中の違反などは5年、そのほかの違反は1年とされた。Vietnam Briefingによれば、市場の画定では無料のデジタルサービスや複数の利用者層をつなぐプラットフォームなども考慮できるようになる。支配的地位の目安である市場シェア30%は維持され、個別企業の市場支配力の判断には最低10%のシェアが加わる（同誌がベトナム商工会議所の説明として伝えた内容）。</p><p>消費者保護の面では、事業者は消費者から情報を収集・利用する目的と範囲ごとに、明確な同意を得なければならない。消費者は同意を撤回でき、取引に不要な情報の提供を求められることもない。複数の地方にまたがる案件やデジタルプラットフォームが絡む案件は、省レベルの機関と関係省庁が調整する。国家による独占については、期間と範囲が明確にされ、対象の商品・サービスの一覧は国家投資ポータルに掲載される。国防・安全保障分野の独占品目は、国防相と公安相が定める（VietnamPlus）。</p><h3>日系企業が確認すべき点</h3><p>ベトナムで輸出や小売、ネット販売を手がける日系企業にとっては、施行までの約7カ月の準備期間に確認することがいくつかある。まず、経済連携協定の優遇税率を使う輸出では、C/Oの発給機関が変わらないかを、品目と仕向け国ごとに確かめる必要がある。会員登録、決済、ポイントプログラムの入力画面は、同意の取得方法を見直すべきとVietnam Briefingは指摘する。また、2028年1月1日より前に結ばれた契約は、当事者が別段の合意をしない限り、原則として締結時の法律が適用される。細則は工商省が策定する予定だが、時期は示されていない。実際の運用は、細則の内容を見て判断する必要があるとみられる。</p>",
+  "dataFigure": "2027年7月",
+  "dataLabel": "商業法など4法の改正法の施行時期（7月1日）",
+  "dataSource": "ベトナム国会が2026年11月13日に可決（VietnamPlus報道）",
+  "sources": [
+    {
+      "name": "VietnamPlus",
+      "title": "Law amendments expected to streamline business procedures, strengthen consumer protection",
+      "url": "https://en.vietnamplus.vn/law-amendments-expected-to-streamline-business-procedures-strengthen-consumer-protection-post355377.vnp",
+      "date": "2026-11-13"
+    },
+    {
+      "name": "Vietnam Briefing",
+      "title": "Vietnam Amends Four Laws on Trade, Commerce, Competition, and Consumer Protection",
+      "url": "https://www.vietnam-briefing.com/news/vietnam-amends-laws-commerce-trade-competition-consumer-protection-effective-2027.html",
+      "date": "2026-11-16"
+    }
+  ],
+  "seoTitle": "ベトナム、商業法など4法改正 2027年7月施行",
+  "seoDescription": "ベトナム国会が商業法、競争法、対外貿易管理法、消費者権利保護法を改正。原産地証明の発給体制と消費者情報の同意取得が変わり、施行は2027年7月1日。",
+  "tags": [
+    "ベトナム",
+    "商業法",
+    "競争法",
+    "原産地証明書",
+    "消費者権利保護法",
+    "Le Manh Hung",
+    "国会"
+  ],
+  "publishAt": "2026-11-17T16:00:00+09:00",
+  "language": "ja",
+  "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/vietnam-assembly-amends-commerce-competition-consumer-laws-july-2027.png"
+}
