@@ -1,0 +1,67 @@
+{
+  "slug": "malaysia-public-ev-chargers-7341-target-30000-2030-ev-levy-study",
+  "title": "マレーシアの公共EV充電器7,341基 2030年目標の約24% 政府はEV課徴金も検討",
+  "country": "マレーシア",
+  "category": "エネルギー・環境",
+  "articleType": "analysis",
+  "lead": "マレーシアの公共EV充電器は9月末時点で7,341基となり、2030年の目標3万基の約24%にとどまる。シム・ツェーツィン投資貿易産業副大臣は11月16日の下院で、整備は民間主導とし、EV課徴金を促進策の一つとして検討していると述べた。",
+  "summaryHtml": "<ul><li>投資貿易産業省のシム・ツェーツィン（Sim Tze Tzin）副大臣は11月16日の下院で、9月30日時点の公共EV充電器が全国で7,341基と答弁した。内訳は交流（AC）4,992基、直流（DC）急速2,349基（The Star、Malay Mail）。</li><li>政府の目標は2030年までに3万基で、現状はその約24.5%に当たる（paultan.org）。</li><li>4か月前の6,416基から925基増えた（paultan.org）。</li><li>整備は主に民間の充電事業者（CPO）の投資による。現在20社が設置を進めている。政府は設置場所を義務づけない方針である（Malay Mail）。</li><li>EV課徴金は促進策の一つとして検討中で、税率や時期は示されていない。変電所の増強にはTNBとの協力が必要とされた（Malay Mail）。</li></ul>",
+  "bodyHtml": "<h3>7,341基の現在地</h3><p>The StarとMalay Mailによると、シム副大臣は11月16日、下院の質疑で、9月30日時点の公共EV充電器が全国で7,341基だと明らかにした。内訳は交流（AC）充電器が4,992基、直流（DC）急速充電器が2,349基である。高速道路沿いのサービスエリア、待避所、ガソリンスタンドには、148基のDC充電器が稼働している。paultan.orgは、4か月前の6,416基から925基増えたと伝えている。</p><p>政府が掲げる2030年までに3万基という目標に対し、現状は約24.5%である。本紙の試算では、残る約2万2,700基を2030年末までに設置するには、2026年10月から約51か月で月に約440基のペースが要る。直近の増加は4か月で925基、月に約230基であり、目標の達成にはおよそ2倍のペースが必要になる。この試算は、目標の期限を2030年末と仮定し、増加ペースを今回の2時点の差から単純に求めたもので、実際の見通しを示すものではない。</p><h3>民間主導の整備と課題</h3><p>シム副大臣は、整備は主に民間の充電事業者（CPO）の投資によるものだと述べた。民間投資家は、需要、設置費用、設置場所の電力供給の準備状況といった採算性を見て判断するため、需要の薄い地方や小さな町には届きにくいとみられる。Malay Mailによると、現在20社のCPOが設置を進めている。政府は設置場所を義務づけず、民間の参入を促す立場である。質疑では、議員から地方や小さな町への普及策と、地方や高速道路での航続距離への不安について質問が出た。</p><p>The Starによれば、政府は州政府、地方自治体、施設の所有者、電力会社、業界と協力し、有料道路の料金所、連邦道路、商業地、観光地などへの設置を促している。事業所や商業施設、公共施設には、交流充電器の設置を促す。電力の面では、エネルギー委員会、テナガ・ナショナル（Tenaga Nasional、TNB）、地方自治体、充電事業者の調整を強める。シム副大臣は、変電所がなければ拡大はできないと述べ、変電所は費用と建設の時間がかかるため、すぐには整備できないと説明した（Malay Mail）。</p><h3>EV課徴金の検討と日系企業への影響</h3><p>Malay Mailによると、政府は充電網の整備を早める方法の一つとして、EVへの課徴金を検討している。副大臣は、さまざまな側面を調べる必要があり、実施前の段階だと述べた。課徴金の税率、対象、時期は、記事には示されていない。EVの購入や保有にどのような負担が加わるかは、制度の詳細が公表されてから確認することになる。</p><p>マレーシアでEVを販売する自動車メーカーや、充電設備、部品、電力関連の事業を営む日系企業にとっては、充電網の整備ペースと、課徴金の有無が事業計画に関わる。民間主導の方針は、需要の見込める都市部や幹線道路での拡大を後押しする一方、地方での空白が残る可能性もある。変電所の増強と課徴金の設計が、今後の整備の速度を左右する焦点として注目される。</p>",
+  "dataFigure": "7,341基",
+  "dataLabel": "マレーシアの公共EV充電器（9月30日時点、目標3万基）",
+  "dataSource": "マレーシア投資貿易産業省副大臣の下院答弁（The Star報道）、2026年11月16日",
+  "chart": {
+    "bars": [
+      {
+        "label": "約4か月前",
+        "value": 6416,
+        "display": "6,416基"
+      },
+      {
+        "label": "9月末",
+        "value": 7341,
+        "display": "7,341基"
+      },
+      {
+        "label": "2030目標",
+        "value": 30000,
+        "display": "30,000基"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "The Star",
+      "title": "Private sector drives EV charging expansion as nationwide tally hits 7,341 units",
+      "url": "https://www.thestar.com.my/news/nation/2026/11/16/private-sector-drives-ev-charging-expansion-as-nationwide-tally-hits-7341-units",
+      "date": "2026-11-16"
+    },
+    {
+      "name": "Malay Mail",
+      "title": "EV levy among options being considered to speed up charging network rollout, says Miti",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/16/ev-levy-among-options-being-considered-to-speed-up-charging-network-rollout-says-miti/243485",
+      "date": "2026-11-16"
+    },
+    {
+      "name": "paultan.org",
+      "title": "Malaysia now has 7,341 public EV chargers, 24% of target",
+      "url": "https://paultan.org/2026/11/16/malaysia-now-has-7341-public-ev-chargers-24-of-target/",
+      "date": "2026-11-16"
+    }
+  ],
+  "seoTitle": "マレーシアの公共EV充電器7,341基 目標の24%",
+  "seoDescription": "マレーシアの公共EV充電器は9月末で7,341基、2030年目標3万基の約24%。政府は民間主導を維持しつつEV課徴金を検討中。必要な整備ペースを試算し、日系企業への影響を整理する。",
+  "tags": [
+    "マレーシア",
+    "EV充電器",
+    "シム・ツェーツィン",
+    "投資貿易産業省",
+    "TNB",
+    "EV課徴金",
+    "充電事業者",
+    "NIMP2030"
+  ],
+  "publishAt": "2026-11-18T08:20:00+09:00",
+  "language": "ja",
+  "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/malaysia-public-ev-chargers-7341-target-30000-2030-ev-levy-study.png"
+}

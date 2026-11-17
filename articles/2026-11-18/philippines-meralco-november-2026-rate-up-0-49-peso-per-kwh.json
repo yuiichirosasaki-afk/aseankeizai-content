@@ -1,0 +1,67 @@
+{
+  "slug": "philippines-meralco-november-2026-rate-up-0-49-peso-per-kwh",
+  "title": "フィリピンのメラルコ、11月の電気料金を0.49ペソ引き上げ 2か月連続の値上げ",
+  "country": "フィリピン",
+  "category": "エネルギー・環境",
+  "articleType": "news",
+  "lead": "フィリピンの電力大手メラルコ（Meralco、マニラ電力会社）は11月13日、11月の電気料金を1キロワット時あたり0.4895ペソ（約1.2円）引き上げると発表した。卸電力市場の価格上昇や通貨ペソ安、中東情勢が響き、10月に続く値上げとなる。",
+  "summaryHtml": "<ul><li>メラルコは11月13日、家庭向けの総合料金を1キロワット時あたり0.4895ペソ引き上げ、10月の15.0615ペソ（約37.6円）から15.5510ペソ（約38.9円）にすると発表した（The Manila Times、Daily Tribune）。</li><li>月200キロワット時を使う家庭の負担は約98ペソ（約245円）増える（The Manila Times、Daily Tribune）。</li><li>発電費は0.4344ペソ上がった。メラルコは、供給費用の上昇、ペソ安、中東危機を背景に挙げた（Daily Tribune）。</li><li>卸電力市場（WESM）の費用は、ルソン島の需要が10月の気温上昇で約769メガワット増え、4.3946ペソ上がった（The Manila Times）。</li><li>家庭向けには、1月から6月分の払い戻しとして、1キロワット時あたり0.1733ペソを6か月かけて還元する（The Manila Times）。</li></ul>",
+  "bodyHtml": "<h3>値上げの内訳</h3><p>The Manila TimesとDaily Tribuneによると、メラルコは11月13日、11月の電気料金を1キロワット時あたり0.4895ペソ引き上げると発表した。家庭向けの総合料金は10月の15.0615ペソから15.5510ペソ（約38.9円）になる。月200キロワット時を使う家庭では、請求額が約98ペソ（約245円）増える計算である。円換算は2026年11月17日時点の参考レート（1ペソ＝約2.5円）による。</p><p>最大の押し上げ要因は発電費で、0.4344ペソ上がった。メラルコは、供給費用の上昇、ペソ安、中東危機を理由に挙げている。卸電力市場の費用は4.3946ペソと大きく上昇した。ルソン島の平均需要が、10月の気温の高さで約769メガワット増えたためである。ただし、メラルコの電力調達に占める卸市場の割合は約3%にとどまり、約73%は電力供給契約、約24%はファースト・ガス（First Gas）／プライム・コアジェン（Prime CoreGen）が占める（The Manila Times）。調達の大半が契約に基づくため、市場価格の急騰の影響は限られているとみられる。</p><p>このほか、送電費は0.1721ペソ上がった。エネルギー規制委員会（ERC）が、送電会社NGCPの許容収入の引き上げを認めたことを反映した。一方、電力供給契約に基づく費用は、稼働の増加で0.2769ペソ下がり、予備市場の停止（10月14日開始）で補助サービス費も0.1641ペソ下がった。税などの調整は、付加価値税が免除される国産天然ガスの利用が減り0.2165ペソの上昇となった（The Manila Times）。</p><h3>10月からの流れ</h3><p>context.phによると、10月の値上げ幅は0.3191ペソで、9月の14.7424ペソ（約36.8円）から15.0615ペソに上がった。それ以前は値下げが続いていた。10月は、中東情勢に絡む液化天然ガス（LNG）高とペソ安が、燃料費の約89%がドル建てというファースト・ガスなどの費用を押し上げた。11月の上昇は、10月の0.3191ペソを上回る。</p><h3>負担軽減策と日系企業への影響</h3><p>家庭向けには、2026年1月から6月分の払い戻しが11月から始まる。1キロワット時あたり0.1733ペソを6か月かけて還元するもので、すでに実施中の2件の払い戻し（合計1.0139ペソ）に加わる。Daily Tribuneによると、月200キロワット時以下の世帯の電気の供給停止猶予は12月まで続く。ただし、5〜7月分を期限内に支払うことが条件である。</p><p>今回の発表は家庭向けの総合料金が中心で、事業者向けの料金体系は今回確認した報道には示されていない。フィリピンで工場や店舗、オフィスを運営する日系企業にとっては、電力コストの上昇が続くかどうかが収益に響き得るため、月ごとの料金発表を確認する必要がある。ペソ安と燃料価格、天候による需要の変動が重なれば、12月以降も料金が動く可能性がある。為替と中東情勢の行方が注目される。</p>",
+  "dataFigure": "15.55ペソ",
+  "dataLabel": "メラルコの11月の家庭向け総合料金（1キロワット時）",
+  "dataSource": "メラルコの発表（The Manila Times報道）、2026年11月13日",
+  "chart": {
+    "bars": [
+      {
+        "label": "9月",
+        "value": 14.7424,
+        "display": "14.74ペソ"
+      },
+      {
+        "label": "10月",
+        "value": 15.0615,
+        "display": "15.06ペソ"
+      },
+      {
+        "label": "11月",
+        "value": 15.551,
+        "display": "15.55ペソ"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "The Manila Times",
+      "title": "Meralco power rates higher in November",
+      "url": "https://www.manilatimes.net/2026/11/14/news/national/meralco-power-rates-higher-in-november/2469652/amp",
+      "date": "2026-11-14"
+    },
+    {
+      "name": "Daily Tribune",
+      "title": "Heat, higher demand push up Meralco November bill",
+      "url": "https://tribune.net.ph/2026/11/13/heat-higher-demand-push-up-meralco-november-bill",
+      "date": "2026-11-13"
+    },
+    {
+      "name": "context.ph",
+      "title": "Meralco raises October electricity rates by ₱0.32 per kWh after consecutive price cuts",
+      "url": "https://context.ph/2026/10/13/meralco-raises-october-electricity-rates-by-%e2%82%b10-32-per-kwh-after-consecutive-price-cuts/",
+      "date": "2026-10-13"
+    }
+  ],
+  "seoTitle": "メラルコ、11月電気料金を0.49ペソ値上げ",
+  "seoDescription": "フィリピンの電力大手メラルコが11月の電気料金を1キロワット時あたり0.4895ペソ引き上げると発表。家庭向けは15.55ペソ。200キロワット時の世帯で約98ペソの負担増となる。",
+  "tags": [
+    "フィリピン",
+    "メラルコ",
+    "Meralco",
+    "電気料金",
+    "WESM",
+    "ペソ安",
+    "ERC",
+    "NGCP"
+  ],
+  "publishAt": "2026-11-18T07:50:00+09:00",
+  "language": "ja",
+  "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/philippines-meralco-november-2026-rate-up-0-49-peso-per-kwh.png"
+}
