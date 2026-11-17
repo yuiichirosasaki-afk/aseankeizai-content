@@ -1,0 +1,66 @@
+{
+  "slug": "singapore-nodx-october-2026-79-8-percent-ai-electronics-ships-pharma",
+  "title": "シンガポール10月の非石油輸出、79.8%増 AI需要と船舶・医薬が押し上げ",
+  "country": "シンガポール",
+  "category": "貿易・物流",
+  "articleType": "news",
+  "lead": "シンガポール企業庁は11月17日、10月の非石油国内輸出（NODX）が前年同月比79.8%増になったと発表した。電子製品に加え、船舶や医薬品の大型出荷が重なり、エコノミスト予想の37.7%増を大きく上回った。",
+  "summaryHtml": "<ul><li>10月のNODXは前年同月比79.8%増。9月の改定値68.3%増から伸びが加速し、増加は14カ月連続となった。</li><li>電子製品は73.9%増（9月は107.6%増）。ディスクメディア、パソコン、集積回路が伸びた。</li><li>非電子製品は81.9%増（9月は54.1%増）。船舶などの構造物、医薬品（253.1%増）、特殊機械（57.3%増）が押し上げた。</li><li>市場別では米国向けが214.6%増、中国向けが144.9%増。インド向けは35.8%減となった。</li></ul>",
+  "bodyHtml": "<h3>予想の2倍超、伸びは加速</h3><p>シンガポール企業庁（Enterprise Singapore、EnterpriseSG）は11月17日、10月の非石油国内輸出（NODX）を発表した。前年同月比で79.8%増え、9月の改定値68.3%増から伸びが加速した。Investing.comは、増加が14カ月連続になったと伝えている。Red Hot Singaporeによると、ブルームバーグがまとめたエコノミスト予想は37.7%増で、実績は予想の2倍を超えた。企業庁が10月16日に公表した9月分の速報では、NODXは68.4%増で、8月の46.1%増に続く伸びだった。8月、9月、10月と、伸び率は3カ月続けて高まったことになる。</p><p>内訳をみると、電子製品は73.9%増で、9月の107.6%増からは鈍った。ただ、AI関連の需要を背景に、ディスクメディアが189.6%増、パソコンが81.0%増、集積回路（半導体）が53.1%増と高い伸びが続いた。非電子製品は81.9%増で、9月の54.1%増を上回った。船舶などの構造物の大型出荷に加え、医薬品が253.1%増、特殊機械が57.3%増となった。船舶については、企業庁が成長率を示さず、前年同期の水準が低かったことが数字を大きく見せているとの趣旨を説明している（Red Hot Singapore）。</p><h3>米国・中国向けが急増、インド向けは減少</h3><p>市場別では、最大の輸出先である米国向けが214.6%増、中国向けが144.9%増と急増した。台湾向けは79.3%増（9月は96.9%増）で、うち電子製品は149%増だった。一方、インド向けは35.8%減（9月は5.7%減）で、非電子製品が51.9%減った。インドネシアとタイ向けも減少したと同サイトは伝えているが、数字は示していない。</p><h3>基調の見極めが必要、日系企業にとっての意味</h3><p>船舶や医薬品のように、1件の金額が大きく月ごとにぶれやすい品目が数字を押し上げているため、79.8%という伸びをそのまま需要の強さとみるのは難しい。前年同月の水準が低かった反動も含まれるとみられる。それでも、AI関連の電子製品が高水準で続いていることは確かで、シンガポールを拠点に部材や製品を域内外へ供給する企業にとっては、電子分野の受注環境を測る材料になる。他方、インドやインドネシア、タイ向けの減少は、域内の需要が一様ではないことを示している。</p><p>企業庁は、貿易統計を毎月17日（休日の場合は直近の営業日）に公表している。次回は12月17日に発表される見込みで、大型案件を除いた基調がどこまで続くかが注目される。</p>",
+  "dataFigure": "79.8%",
+  "dataLabel": "10月の非石油国内輸出（NODX）の前年同月比",
+  "dataSource": "シンガポール企業庁、2026年11月17日",
+  "chart": {
+    "bars": [
+      {
+        "label": "8月",
+        "value": 46.1,
+        "display": "46.1%"
+      },
+      {
+        "label": "9月",
+        "value": 68.4,
+        "display": "68.4%"
+      },
+      {
+        "label": "10月",
+        "value": 79.8,
+        "display": "79.8%"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "Investing.com",
+      "title": "Singapore non-oil exports jump 79.8% in October",
+      "url": "https://uk.investing.com/news/economic-indicators/singapore-nonoil-exports-jump-798-in-october-4986394",
+      "date": "2026-11-17"
+    },
+    {
+      "name": "Red Hot Singapore",
+      "title": "Singapore's key exports surge 79.8% in October, driven by non-electronics",
+      "url": "https://www.redhot.sg/singapore-s-key-exports-surge-79-8-in-october-driven-by-non-electronics-740116.html",
+      "date": "2026-11-17"
+    },
+    {
+      "name": "シンガポール企業庁",
+      "title": "Singapore's External Trade – September 2026",
+      "url": "https://www.enterprisesg.gov.sg/resources/media-centre/media-releases/2026/october/mr04626_singapore-external-trade-september-2026",
+      "date": "2026-10-16"
+    }
+  ],
+  "seoTitle": "シンガポール10月NODX、79.8%増",
+  "seoDescription": "シンガポールの10月の非石油国内輸出は前年同月比79.8%増。AI関連の電子製品と船舶・医薬品が押し上げ、米中向けが急増した。日系企業への示唆を整理する。",
+  "tags": [
+    "シンガポール",
+    "NODX",
+    "シンガポール企業庁",
+    "AI関連需要",
+    "半導体",
+    "医薬品",
+    "船舶"
+  ],
+  "publishAt": "2026-11-17T11:00:00+09:00",
+  "language": "ja",
+  "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/singapore-nodx-october-2026-79-8-percent-ai-electronics-ships-pharma.png"
+}

@@ -1,7 +1,255 @@
 {
-  "generatedAt": "2026-11-17T06:21:01+09:00",
+  "generatedAt": "2026-11-17T10:25:39+09:00",
   "site": "東南アジア経済新聞",
   "articles": [
+    {
+      "slug": "vietnam-seafood-exports-10-months-2026-10-5-billion-dollars-china-top-market",
+      "title": "ベトナムの水産物輸出、1〜10月は105億ドルで12%増 中国が首位市場に",
+      "country": "ベトナム",
+      "category": "貿易・物流",
+      "articleType": "news",
+      "lead": "ベトナムの水産物輸出は2026年1〜10月に約105億ドル（約1.7兆円）となり、前年同期比で12%超増えた。中国が首位市場となり、年間120億ドルの過去最高が視野に入るが、米国の追加関税やコスト高が重荷である。",
+      "summaryHtml": "<ul><li>1〜10月の水産物輸出は約105億ドル（約1.7兆円）で、12%超の増加（ベトナム通信社、11月16日付）。</li><li>エビは42億ドル（約6,700億円）で9%増、パンガシウス（ナマズ類）は約20億ドルで11%増、カニ類は32%超増えた。</li><li>中国向けが30%増の26億ドル（約4,100億円）で首位。米国、日本を上回った。</li><li>年間120億ドルには、11〜12月に月平均7億7,000万ドル程度が必要。10月単月は13億ドルだった。</li></ul>",
+      "bodyHtml": "<h3>中国向けが伸びを支える</h3><p>ベトナム通信社（VNA）によると、2026年1〜10月の水産物輸出は約105億ドル（約1.7兆円）に達し、前年同期比で12%超増えた。品目別では、エビが42億ドル（約6,700億円）で9%増、パンガシウスが約20億ドル（約3,200億円）で11%増。カニ類とワタリガニ類は32%超と最も速く伸びた。市場別では、中国が30%増の26億ドル（約4,100億円）で、米国と日本を上回って首位となった。東南アジア諸国連合（ASEAN）向けは7億ドル（約1,100億円）を超え、23%増えた。中国とASEANの2市場で、1〜10月の輸出の増加分の67%を占める。</p><p>この動きは数カ月前から続いている。ベトナムのメディアVietNamNetによると、1〜7月の輸出額は68億5,000万ドル（約1.1兆円）で12.7%増。中国（香港を含む）向けは34.5%増の約17億4,000万ドル（約2,800億円）だった一方、米国向けは10億5,000万ドル超（約1,700億円）でわずか0.3%増にとどまっていた。</p><h3>年間120億ドルは射程、米国の関税が重荷</h3><p>VNAは、年間120億ドル（約1.9兆円）の過去最高の達成は「可能な水準にある」としている。そのためには11〜12月の2カ月で月平均約7億7,000万ドル（約1,200億円）が必要で、10月単月は13億ドル（約2,100億円）だった。農林水産業の輸出目標740億ドル（約11.8兆円）の達成には、水産物が月約10億ドル（約1,600億円）を保つ必要があるとの見方も、10月30日付のVNAの記事に出ていた。</p><p>一方、リスクもある。VietNamNetによると、米通商代表部（USTR）は7月23日、米国の通商法301条に基づく関税率をベトナムに12.5%と発表した。エクアドル、インド、インドネシアは10%で、ベトナムは不利になる。特に、白脚エビ（バナメイ）やツナ缶、通常の冷凍品への影響が大きいとされる。同紙は、公式の変更は発表されていないとも伝えた。VNAの11月16日付の記事では、技術的な壁、労働・環境・トレーサビリティー（追跡可能性）の規制が負担になっている。エビの生産コストはエクアドルやインドを20〜30%上回る。輸出企業は約1,500社、うち約1,100社が加工工場を持つが、手頃な資金の調達に苦労しているという。ホー・クオック・ズン（Ho Quoc Dung）副首相は金利の引き下げに取り組む姿勢を示した。</p><h3>日本市場と日系企業の視点</h3><p>VNAは、日本について、高付加価値の深加工品に向く市場と位置づけたが、金額や伸び率は示していない。8月10日付のVietNamNetは、日本向けの伸びを2.6%と伝えていた。ベトナム水産輸出・加工協会（VASEP）のグエン・ホアイ・ナム（Nguyen Hoai Nam）事務局長は、既存の主要市場での地位を守りつつ、新たな成長の柱をつくる必要があると述べている。中国やASEANへの重心移動が進む中で、日本の輸入企業や商社は、調達先の価格や供給の安定性を見直す機会になるとみられる。今後は、11〜12月の輸出額が120億ドルに届くか、米国の関税が実際の取引条件にどう影響するかが注目される。</p><p>円換算は、日本銀行が公表した11月16日17時時点のドル円（約159.5円）で算出した。</p>",
+      "dataFigure": "105億ドル",
+      "dataLabel": "ベトナムの水産物輸出額（2026年1〜10月、前年同期比12%超増）",
+      "dataSource": "ベトナム通信社、2026年11月16日",
+      "sources": [
+        {
+          "name": "VietnamPlus（ベトナム通信社）",
+          "title": "Vietnamese seafood exports close in on 12 bln USD record",
+          "url": "https://en.vietnamplus.vn/vietnamese-seafood-exports-close-in-on-12-bln-usd-record-post355469.vnp",
+          "date": "2026-11-16"
+        },
+        {
+          "name": "VietnamPlus（ベトナム通信社）",
+          "title": "Vietnam's seafood exporters chase 12 bln USD record as year-end demand builds",
+          "url": "https://en.vietnamplus.vn/vietnams-seafood-exporters-chase-12-bln-usd-record-as-year-end-demand-builds-post354550.vnp",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "VietNamNet",
+          "title": "Vietnam's seafood exports near record $12 billion but hurdles mount",
+          "url": "https://vietnamnet.vn/en/vietnam-s-seafood-exports-near-record-12-billion-but-hurdles-mount-2543851.html",
+          "date": "2026-08-10"
+        },
+        {
+          "name": "日本銀行",
+          "title": "東京市場の為替相場（2026年11月16日）",
+          "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261116.pdf",
+          "date": "2026-11-16"
+        }
+      ],
+      "seoTitle": "ベトナム水産物輸出、1〜10月は105億ドル",
+      "seoDescription": "ベトナムの2026年1〜10月の水産物輸出は約105億ドルで12%超増。中国が首位市場に。年間120億ドルの過去最高は視野に入るが、米国の関税が重荷。",
+      "tags": [
+        "ベトナム",
+        "水産物輸出",
+        "VASEP",
+        "エビ",
+        "パンガシウス",
+        "中国",
+        "米国関税"
+      ],
+      "publishAt": "2026-11-17T12:30:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/vietnam-seafood-exports-10-months-2026-10-5-billion-dollars-china-top-market.png"
+    },
+    {
+      "slug": "malaysia-data-centre-us-ai-chip-curbs-concern-mida-rm95-8-billion",
+      "title": "マレーシアのデータセンター、米AI半導体規制の懸念が影 上期承認は約3.7兆円",
+      "country": "マレーシア",
+      "category": "IT・スタートアップ",
+      "articleType": "analysis",
+      "lead": "マレーシアのデータセンター建設に、米国のAI半導体の輸出許可厳格化への懸念が影を落としている。建設セクターは売られたが、証券会社は米ハイパースケーラー向けの影響を限定的とみる。中国系顧客向けの案件には不透明感が残る。",
+      "summaryHtml": "<ul><li>米国が先端AI半導体の輸出許可を厳しくするとの懸念で、マレーシアの建設セクターが急落した（TNGlobal、11月16日付）。</li><li>RHB証券は短中期の影響を「管理可能」とみる。UOBケイ・ヒアン証券は、規制の狙いは中国系企業へのチップ流入を防ぐことだとする。</li><li>2026年上期に承認されたデータセンター・クラウド分野の投資は958億リンギ（約3.7兆円）で、承認総額の約44%を占める（MIDA）。</li><li>グーグルは11月4日、2027〜28年に150億ドル（約2.4兆円）を投じる計画を発表した。</li></ul>",
+      "bodyHtml": "<h3>規制懸念で建設セクターが売られる</h3><p>アジアのテック系メディアTNGlobalは11月16日、マレーシアのデータセンター見通しについて、米国によるAI半導体の輸出規制強化への懸念が出ても、アナリストは強気を保っていると報じた。懸念の中心は、エヌビディア（Nvidia）のGPUなど先端AI半導体の許可要件が厳しくなることで、この懸念が建設セクターの急な売りにつながった。UOBケイ・ヒアン証券（UOB Kay Hian）によると、規制の主な狙いは、中国系企業の入手を阻み、マレーシアなどを経由してチップが中国に渡るのを防ぐことだという。同証券とRHB投資銀行（RHB Investment Bank）は、同日、建設セクターへの判断を据え置いた。</p><p>両社の見方では、自社でデータセンターを運営する米国のハイパースケーラー（大手クラウド事業者）は、チップの入手が比較的途切れにくい。グーグルは自社開発のTPUを拡大しており、マイクロソフトも2027年からMaiaを増やす計画だという。RHBは、短中期の影響は「管理可能」と評価している。一方、中国関連の顧客向けのコロケーション（設備貸し）型データセンターは不確実性が高い。RHBの集計では、2026年にこれまでジョホール州で発注された非住宅の大型契約の上位20件のうち10件が、中国系のデータセンター事業者向けで、地場の請負業者が受注したのはそのうち2件にとどまる。UOBケイ・ヒアンは、中国系のコロケーション案件で遅れが出る可能性を排除できないとしている。</p><h3>過去の規制案では大型案件の中止なし</h3><p>TNGlobalによると、バイデン前政権が2025年1月に導入した「AI拡散枠組み」は同年5月に撤回された。この枠組み案ではマレーシアは第2グループに入り、2年間のGPU輸入が5万個に制限され、事業者が保有する計算能力のうちマレーシアに置けるのは最大7%とされた。ただ、その期間に米ハイパースケーラーの主要案件が中止されたり、大きく縮小されたりした例はなかったという。</p><p>投資の規模は大きい。マレーシア投資開発庁（MIDA）の発表では、2026年上期の承認投資額は2,185億リンギで前年同期比11.7%増。うちデータセンター・クラウドは958億リンギ（約234億ドル、約3.7兆円）で、約44%を占めた。TNGlobalは、2026年6月末時点で61件、電力需要8,350メガワットのデータセンター案件があり、完成済みは42件（5,650メガワット）、開発中は19件（約2,700メガワット）と伝えている。UOBケイ・ヒアンの集計では、同社がカバーする企業の2026年下期の受注は、これまでに118億リンギ（約4,600億円）を超えた。</p><p>米大手の投資計画も続く。EdgeProp（11月6日付）によると、グーグル（Google）は11月4日、2027年と2028年に150億ドル（約2.4兆円、約610億リンギ）を投じる計画を発表した。スンガイブローのエルミナ・ビジネスパークの拡張に加え、プンチャック・アラム、スレンダ、ポートディクソンに新しい3カ所のデータセンター用地を設ける。テナガ・ナショナル（TNB）や再生可能エネルギー事業者と組み、1ギガワット超のクリーンエネルギーも系統に加える計画である。ネグリセンビラン州の貯水池と浄水場にも1億6,000万ドル（約255億円）を充てる。新キャンパスの開業時期や用地ごとの配分は示されていない。</p><h3>日系企業への影響と今後の焦点</h3><p>データセンター向けには、建設のほか、電気・空調設備、部材、物流など幅広い調達が生じる。マレーシアで関連の設備や部材を扱う日系企業は、米系の案件が中心であれば直接の影響は限られるとみられるが、中国系顧客向けの案件に関わる場合は、工期や支払いの遅れに注意する必要がある。TNGlobalが挙げる主なリスクは、米ハイパースケーラーのAI設備投資の大幅な減速、輸出管理のさらなる厳格化、案件の遅れ、電力インフラの制約である。今後は、米国の規制の内容と対象の範囲、中国系案件の進捗、電力供給の整備が注目される。</p><p>円換算は、日本銀行が公表した11月16日17時時点のドル円（約159.5円）で算出した。リンギは、TNGlobalが示したドル換算（958億リンギ＝約234億ドル）の比率で換算した。</p>",
+      "dataFigure": "958億RM",
+      "dataLabel": "2026年上期のデータセンター・クラウド分野の承認投資額（約3.7兆円）",
+      "dataSource": "マレーシア投資開発庁（MIDA）、2026年8月28日",
+      "chart": {
+        "bars": [
+          {
+            "label": "完成済み",
+            "value": 5650,
+            "display": "5,650MW"
+          },
+          {
+            "label": "開発中",
+            "value": 2700,
+            "display": "約2,700MW"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "TNGlobal",
+          "title": "Malaysia data center prospects remain resilient despite AI chip curbs concerns",
+          "url": "https://technode.global/2026/11/16/malaysia-data-center-prospects-remain-resilient-despite-ai-chip-curbs-concerns/",
+          "date": "2026-11-16"
+        },
+        {
+          "name": "MIDA",
+          "title": "1H2026 Investment Performance Media Release",
+          "url": "https://www.mida.gov.my/wp-content/uploads/2026/08/FINAL_1H2026_Investment-Performance_Media-Release_MIDA.pdf",
+          "date": "2026-08-28"
+        },
+        {
+          "name": "EdgeProp",
+          "title": "Google plans US$15b Malaysia investment, names three new data centre sites",
+          "url": "https://www.edgeprop.my/content/1918167/google-plans-us15b-malaysia-investment-names-three-new-data-centre-sites",
+          "date": "2026-11-06"
+        },
+        {
+          "name": "日本銀行",
+          "title": "東京市場の為替相場（2026年11月16日）",
+          "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261116.pdf",
+          "date": "2026-11-16"
+        }
+      ],
+      "seoTitle": "マレーシアのデータセンターと米AIチップ規制",
+      "seoDescription": "米国のAI半導体輸出規制強化への懸念でマレーシアの建設セクターが急落。上期のデータセンター承認投資は958億リンギ。グーグルの150億ドル計画も整理する。",
+      "tags": [
+        "マレーシア",
+        "データセンター",
+        "AI半導体",
+        "MIDA",
+        "RHB投資銀行",
+        "UOBケイ・ヒアン",
+        "グーグル",
+        "ジョホール州"
+      ],
+      "publishAt": "2026-11-17T12:00:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/malaysia-data-centre-us-ai-chip-curbs-concern-mida-rm95-8-billion.png"
+    },
+    {
+      "slug": "vietnam-long-thanh-airport-orat-trial-commercial-flights-december-24",
+      "title": "ベトナム新空港ロンタイン、12月24日開港へ 週366便で始動 全面リハーサルを実施",
+      "country": "ベトナム",
+      "category": "不動産・インフラ",
+      "articleType": "news",
+      "lead": "ベトナム南部ドンナイ省のロンタイン国際空港で11月、開港前の全面的な旅客リハーサルが行われた。運営するベトナム空港総公社（ACV）は12月24日0時からの商業運航開始を予定し、当初は週最大366便で始動する計画である。",
+      "summaryHtml": "<ul><li>ロンタイン国際空港で、職員ら50人が模擬旅客となる運用準備（ORAT）の試験が行われた（ベトナム通信社、11月16日付）。</li><li>商業運航の開始は12月24日0時の予定。運営するACVがドンナイ省人民委員会に通知した。</li><li>当初の運航計画は週最大366便で、内訳は国内線322便、国際線44便。</li><li>空港は面積5,000ヘクタールで、ホーチミン市から約40キロ。第1期の年間旅客能力は2,500万人、最終は1億人の計画である。</li></ul>",
+      "bodyHtml": "<h3>出入国から車いす対応まで、模擬旅客で検証</h3><p>ベトナム通信社（VNA）の11月16日付の報道によると、ロンタイン（Long Thanh）国際空港では、運営会社のベトナム空港総公社（Airports Corporation of Vietnam、ACV）が、開港前の最終段階にあたる運用準備（ORAT、Operational Readiness and Airport Transfer）の試験を行った。空港職員や関係部署の50人が旅客役となり、国内線の出発、国際線の出発、国際線の到着の3つの想定で、チェックイン、搭乗券の確認、保安検査、出入国審査、検疫、税関の流れを確かめた。旅客や手荷物のデータの流れ、搭乗口の管理システム、場内放送も点検した。別の試験では、車いすの利用者など移動に制約のある旅客に対し、エレベーターやトイレ、案内表示、優先カウンター、専用動線が機能するかを確認している。</p><p>ORATは通常5つの段階に分かれ、ロンタイン空港では建設や機器の設置と並行して進められてきた。同記事によると、試験運用は9月下旬に始まっており、開港までに規模を広げた試験がさらに予定されている。</p><h3>初期は週366便、国内線が約9割</h3><p>ACVがドンナイ省人民委員会に送った通知によると、商業運航は12月24日0時に始まる予定である。当初の運航は週最大366便で、国内線が322便、国際線が44便。1日あたりでは平均約52便となる（本紙試算）。国内線が約9割を占め、国際線は約1割にとどまる計画である。ベトナム航空（Vietnam Airlines）はハノイ線と複数の国際線を、ベトジェット（Vietjet Air）は国内の主要な経済・観光拠点を結ぶ路線を予定し、国内の航空会社は段階的に就航する（The Star、VietNamNet）。発着枠と運航スケジュールは、既存のタンソンニャット国際空港との調整を踏まえて決める方針で、ACVは、多くの外国航空会社が就航に関心を示していると説明している。</p><p>The Starによると、同空港は面積が5,000ヘクタールで、ホーチミン市から約40キロ離れたドンナイ省にある。面積でベトナム最大の空港で、第1期の旅客能力は年間2,500万人、完成時には年間1億人を見込む。</p><h3>日系企業への影響と今後の焦点</h3><p>ホーチミン市圏で事業を行う企業にとって、空港が市中心部から約40キロ離れる点は、出張や貨物の動線を見直す要因になるとみられる。国際線の拡大が緩やかなら、当面は既存のタンソンニャット空港との使い分けが続く可能性もある。開港日に向けては、追加のリハーサルの結果、タンソンニャット空港との発着枠の配分、外国航空会社の就航発表、空港へのアクセス手段の整備が注目される。出典はいずれも開港予定日や便数を計画として伝えており、日程が変わる可能性は残る。</p>",
+      "dataFigure": "12月24日",
+      "dataLabel": "ロンタイン国際空港の商業運航開始予定日（0時）",
+      "dataSource": "ベトナム通信社、2026年11月16日",
+      "chart": {
+        "bars": [
+          {
+            "label": "国内線",
+            "value": 322,
+            "display": "322便"
+          },
+          {
+            "label": "国際線",
+            "value": 44,
+            "display": "44便"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "VietnamPlus（ベトナム通信社）",
+          "title": "Long Thanh airport runs first full passenger trials ahead of commercial launch",
+          "url": "https://en.vietnamplus.vn/long-thanh-airport-runs-first-full-passenger-trials-ahead-of-commercial-launch-post355485.vnp",
+          "date": "2026-11-16"
+        },
+        {
+          "name": "The Star",
+          "title": "Vietnam's largest airport, Long Thanh to open on Dec 24 with up to 366 flights a week",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/01/vietnam039s-largest-airport-long-thanh-to-open-on-dec-24-with-up-to-366-flights-a-week",
+          "date": "2026-11-01"
+        },
+        {
+          "name": "VietNamNet",
+          "title": "Long Thanh airport set to begin commercial operations on December 24",
+          "url": "https://vietnamnet.vn/en/long-thanh-airport-set-to-begin-commercial-operations-on-december-24-2570114.html",
+          "date": "2026-10-31"
+        }
+      ],
+      "seoTitle": "ロンタイン空港、12月24日開港へ",
+      "seoDescription": "ベトナム南部のロンタイン国際空港が12月24日に商業運航を開始する予定。50人の模擬旅客による全面リハーサルを実施。当初は週366便の計画。",
+      "tags": [
+        "ベトナム",
+        "ロンタイン国際空港",
+        "ACV",
+        "ベトナム航空",
+        "ベトジェット",
+        "タンソンニャット空港",
+        "ドンナイ省"
+      ],
+      "publishAt": "2026-11-17T11:30:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/vietnam-long-thanh-airport-orat-trial-commercial-flights-december-24.png"
+    },
+    {
+      "slug": "singapore-nodx-october-2026-79-8-percent-ai-electronics-ships-pharma",
+      "title": "シンガポール10月の非石油輸出、79.8%増 AI需要と船舶・医薬が押し上げ",
+      "country": "シンガポール",
+      "category": "貿易・物流",
+      "articleType": "news",
+      "lead": "シンガポール企業庁は11月17日、10月の非石油国内輸出（NODX）が前年同月比79.8%増になったと発表した。電子製品に加え、船舶や医薬品の大型出荷が重なり、エコノミスト予想の37.7%増を大きく上回った。",
+      "summaryHtml": "<ul><li>10月のNODXは前年同月比79.8%増。9月の改定値68.3%増から伸びが加速し、増加は14カ月連続となった。</li><li>電子製品は73.9%増（9月は107.6%増）。ディスクメディア、パソコン、集積回路が伸びた。</li><li>非電子製品は81.9%増（9月は54.1%増）。船舶などの構造物、医薬品（253.1%増）、特殊機械（57.3%増）が押し上げた。</li><li>市場別では米国向けが214.6%増、中国向けが144.9%増。インド向けは35.8%減となった。</li></ul>",
+      "bodyHtml": "<h3>予想の2倍超、伸びは加速</h3><p>シンガポール企業庁（Enterprise Singapore、EnterpriseSG）は11月17日、10月の非石油国内輸出（NODX）を発表した。前年同月比で79.8%増え、9月の改定値68.3%増から伸びが加速した。Investing.comは、増加が14カ月連続になったと伝えている。Red Hot Singaporeによると、ブルームバーグがまとめたエコノミスト予想は37.7%増で、実績は予想の2倍を超えた。企業庁が10月16日に公表した9月分の速報では、NODXは68.4%増で、8月の46.1%増に続く伸びだった。8月、9月、10月と、伸び率は3カ月続けて高まったことになる。</p><p>内訳をみると、電子製品は73.9%増で、9月の107.6%増からは鈍った。ただ、AI関連の需要を背景に、ディスクメディアが189.6%増、パソコンが81.0%増、集積回路（半導体）が53.1%増と高い伸びが続いた。非電子製品は81.9%増で、9月の54.1%増を上回った。船舶などの構造物の大型出荷に加え、医薬品が253.1%増、特殊機械が57.3%増となった。船舶については、企業庁が成長率を示さず、前年同期の水準が低かったことが数字を大きく見せているとの趣旨を説明している（Red Hot Singapore）。</p><h3>米国・中国向けが急増、インド向けは減少</h3><p>市場別では、最大の輸出先である米国向けが214.6%増、中国向けが144.9%増と急増した。台湾向けは79.3%増（9月は96.9%増）で、うち電子製品は149%増だった。一方、インド向けは35.8%減（9月は5.7%減）で、非電子製品が51.9%減った。インドネシアとタイ向けも減少したと同サイトは伝えているが、数字は示していない。</p><h3>基調の見極めが必要、日系企業にとっての意味</h3><p>船舶や医薬品のように、1件の金額が大きく月ごとにぶれやすい品目が数字を押し上げているため、79.8%という伸びをそのまま需要の強さとみるのは難しい。前年同月の水準が低かった反動も含まれるとみられる。それでも、AI関連の電子製品が高水準で続いていることは確かで、シンガポールを拠点に部材や製品を域内外へ供給する企業にとっては、電子分野の受注環境を測る材料になる。他方、インドやインドネシア、タイ向けの減少は、域内の需要が一様ではないことを示している。</p><p>企業庁は、貿易統計を毎月17日（休日の場合は直近の営業日）に公表している。次回は12月17日に発表される見込みで、大型案件を除いた基調がどこまで続くかが注目される。</p>",
+      "dataFigure": "79.8%",
+      "dataLabel": "10月の非石油国内輸出（NODX）の前年同月比",
+      "dataSource": "シンガポール企業庁、2026年11月17日",
+      "chart": {
+        "bars": [
+          {
+            "label": "8月",
+            "value": 46.1,
+            "display": "46.1%"
+          },
+          {
+            "label": "9月",
+            "value": 68.4,
+            "display": "68.4%"
+          },
+          {
+            "label": "10月",
+            "value": 79.8,
+            "display": "79.8%"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "Investing.com",
+          "title": "Singapore non-oil exports jump 79.8% in October",
+          "url": "https://uk.investing.com/news/economic-indicators/singapore-nonoil-exports-jump-798-in-october-4986394",
+          "date": "2026-11-17"
+        },
+        {
+          "name": "Red Hot Singapore",
+          "title": "Singapore's key exports surge 79.8% in October, driven by non-electronics",
+          "url": "https://www.redhot.sg/singapore-s-key-exports-surge-79-8-in-october-driven-by-non-electronics-740116.html",
+          "date": "2026-11-17"
+        },
+        {
+          "name": "シンガポール企業庁",
+          "title": "Singapore's External Trade – September 2026",
+          "url": "https://www.enterprisesg.gov.sg/resources/media-centre/media-releases/2026/october/mr04626_singapore-external-trade-september-2026",
+          "date": "2026-10-16"
+        }
+      ],
+      "seoTitle": "シンガポール10月NODX、79.8%増",
+      "seoDescription": "シンガポールの10月の非石油国内輸出は前年同月比79.8%増。AI関連の電子製品と船舶・医薬品が押し上げ、米中向けが急増した。日系企業への示唆を整理する。",
+      "tags": [
+        "シンガポール",
+        "NODX",
+        "シンガポール企業庁",
+        "AI関連需要",
+        "半導体",
+        "医薬品",
+        "船舶"
+      ],
+      "publishAt": "2026-11-17T11:00:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/singapore-nodx-october-2026-79-8-percent-ai-electronics-ships-pharma.png"
+    },
     {
       "slug": "indonesia-nickel-ore-quota-2027-further-cut-bahlil-price-15800",
       "title": "インドネシア、2027年のニッケル鉱石生産枠を一段と削減へ 価格は1トン約1.58万ドル",

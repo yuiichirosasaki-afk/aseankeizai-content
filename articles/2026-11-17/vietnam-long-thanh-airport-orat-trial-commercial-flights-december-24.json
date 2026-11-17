@@ -1,0 +1,61 @@
+{
+  "slug": "vietnam-long-thanh-airport-orat-trial-commercial-flights-december-24",
+  "title": "ベトナム新空港ロンタイン、12月24日開港へ 週366便で始動 全面リハーサルを実施",
+  "country": "ベトナム",
+  "category": "不動産・インフラ",
+  "articleType": "news",
+  "lead": "ベトナム南部ドンナイ省のロンタイン国際空港で11月、開港前の全面的な旅客リハーサルが行われた。運営するベトナム空港総公社（ACV）は12月24日0時からの商業運航開始を予定し、当初は週最大366便で始動する計画である。",
+  "summaryHtml": "<ul><li>ロンタイン国際空港で、職員ら50人が模擬旅客となる運用準備（ORAT）の試験が行われた（ベトナム通信社、11月16日付）。</li><li>商業運航の開始は12月24日0時の予定。運営するACVがドンナイ省人民委員会に通知した。</li><li>当初の運航計画は週最大366便で、内訳は国内線322便、国際線44便。</li><li>空港は面積5,000ヘクタールで、ホーチミン市から約40キロ。第1期の年間旅客能力は2,500万人、最終は1億人の計画である。</li></ul>",
+  "bodyHtml": "<h3>出入国から車いす対応まで、模擬旅客で検証</h3><p>ベトナム通信社（VNA）の11月16日付の報道によると、ロンタイン（Long Thanh）国際空港では、運営会社のベトナム空港総公社（Airports Corporation of Vietnam、ACV）が、開港前の最終段階にあたる運用準備（ORAT、Operational Readiness and Airport Transfer）の試験を行った。空港職員や関係部署の50人が旅客役となり、国内線の出発、国際線の出発、国際線の到着の3つの想定で、チェックイン、搭乗券の確認、保安検査、出入国審査、検疫、税関の流れを確かめた。旅客や手荷物のデータの流れ、搭乗口の管理システム、場内放送も点検した。別の試験では、車いすの利用者など移動に制約のある旅客に対し、エレベーターやトイレ、案内表示、優先カウンター、専用動線が機能するかを確認している。</p><p>ORATは通常5つの段階に分かれ、ロンタイン空港では建設や機器の設置と並行して進められてきた。同記事によると、試験運用は9月下旬に始まっており、開港までに規模を広げた試験がさらに予定されている。</p><h3>初期は週366便、国内線が約9割</h3><p>ACVがドンナイ省人民委員会に送った通知によると、商業運航は12月24日0時に始まる予定である。当初の運航は週最大366便で、国内線が322便、国際線が44便。1日あたりでは平均約52便となる（本紙試算）。国内線が約9割を占め、国際線は約1割にとどまる計画である。ベトナム航空（Vietnam Airlines）はハノイ線と複数の国際線を、ベトジェット（Vietjet Air）は国内の主要な経済・観光拠点を結ぶ路線を予定し、国内の航空会社は段階的に就航する（The Star、VietNamNet）。発着枠と運航スケジュールは、既存のタンソンニャット国際空港との調整を踏まえて決める方針で、ACVは、多くの外国航空会社が就航に関心を示していると説明している。</p><p>The Starによると、同空港は面積が5,000ヘクタールで、ホーチミン市から約40キロ離れたドンナイ省にある。面積でベトナム最大の空港で、第1期の旅客能力は年間2,500万人、完成時には年間1億人を見込む。</p><h3>日系企業への影響と今後の焦点</h3><p>ホーチミン市圏で事業を行う企業にとって、空港が市中心部から約40キロ離れる点は、出張や貨物の動線を見直す要因になるとみられる。国際線の拡大が緩やかなら、当面は既存のタンソンニャット空港との使い分けが続く可能性もある。開港日に向けては、追加のリハーサルの結果、タンソンニャット空港との発着枠の配分、外国航空会社の就航発表、空港へのアクセス手段の整備が注目される。出典はいずれも開港予定日や便数を計画として伝えており、日程が変わる可能性は残る。</p>",
+  "dataFigure": "12月24日",
+  "dataLabel": "ロンタイン国際空港の商業運航開始予定日（0時）",
+  "dataSource": "ベトナム通信社、2026年11月16日",
+  "chart": {
+    "bars": [
+      {
+        "label": "国内線",
+        "value": 322,
+        "display": "322便"
+      },
+      {
+        "label": "国際線",
+        "value": 44,
+        "display": "44便"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "VietnamPlus（ベトナム通信社）",
+      "title": "Long Thanh airport runs first full passenger trials ahead of commercial launch",
+      "url": "https://en.vietnamplus.vn/long-thanh-airport-runs-first-full-passenger-trials-ahead-of-commercial-launch-post355485.vnp",
+      "date": "2026-11-16"
+    },
+    {
+      "name": "The Star",
+      "title": "Vietnam's largest airport, Long Thanh to open on Dec 24 with up to 366 flights a week",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/01/vietnam039s-largest-airport-long-thanh-to-open-on-dec-24-with-up-to-366-flights-a-week",
+      "date": "2026-11-01"
+    },
+    {
+      "name": "VietNamNet",
+      "title": "Long Thanh airport set to begin commercial operations on December 24",
+      "url": "https://vietnamnet.vn/en/long-thanh-airport-set-to-begin-commercial-operations-on-december-24-2570114.html",
+      "date": "2026-10-31"
+    }
+  ],
+  "seoTitle": "ロンタイン空港、12月24日開港へ",
+  "seoDescription": "ベトナム南部のロンタイン国際空港が12月24日に商業運航を開始する予定。50人の模擬旅客による全面リハーサルを実施。当初は週366便の計画。",
+  "tags": [
+    "ベトナム",
+    "ロンタイン国際空港",
+    "ACV",
+    "ベトナム航空",
+    "ベトジェット",
+    "タンソンニャット空港",
+    "ドンナイ省"
+  ],
+  "publishAt": "2026-11-17T11:30:00+09:00",
+  "language": "ja",
+  "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/vietnam-long-thanh-airport-orat-trial-commercial-flights-december-24.png"
+}
