@@ -1,7 +1,196 @@
 {
-  "generatedAt": "2026-11-18T06:18:36+09:00",
+  "generatedAt": "2026-11-18T10:30:03+09:00",
   "site": "東南アジア経済新聞",
   "articles": [
+    {
+      "slug": "vietnam-phu-quoc-lrt-rail-welding-machine-apec-2027-schedule",
+      "title": "ベトナム・フーコック島のLRT、レール溶接を機械化 2027年6月に基盤完成、11月のAPECに照準",
+      "country": "ベトナム",
+      "category": "不動産・インフラ",
+      "articleType": "news",
+      "lead": "ベトナム南部フーコック島で建設中の軽量軌道交通（LRT）で、11月5日からレールの自動溶接機が稼働した。請負業者は作業効率が従来の3〜4倍になると見ている。路線は空港と2027年11月のAPEC会場を結び、総事業費は約9兆ドン（約560億円）に上る。",
+      "summaryHtml": "<ul><li>フーコックLRT（アンザン省）は全長17.59キロの複線で、空港とAPEC 2027会議・展示センター、島南部を結ぶ。駅は6つ、総投資額は9兆ドン弱である（Mekong ASEAN）。</li><li>重さ33トンの移動式自動溶接機が11月5日から現場で稼働し、数日で1キロ超のレールを溶接した。請負業者の推計では、効率は従来の3〜4倍になる（Mekong ASEAN）。</li><li>10月末時点で、約35キロの単線レールのうち11キロ超を敷設した。現場では約1,300人の技術者・作業員が7か所で働いている（Mekong ASEAN）。</li><li>インフラは2027年6月30日までの完成が目標で、商業運転は2027年11月のAPEC首脳週間に合わせる計画である（Mekong ASEAN）。</li><li>8月時点で、投資額のうち1.8兆ドン（約112億円）、28.7%が支出済みだった（Tuoi Tre News）。</li></ul>",
+      "bodyHtml": "<h3>溶接機の導入で作業を短縮</h3><p>Mekong ASEANが11月13日に伝えたところでは、フーコックLRTの現場に、重さ33トンの移動式自動溶接機が入った。レール端を加熱して押し付ける電気フラッシュバット溶接の機械で、11月5日に稼働を始め、最初の数日で1キロ超のレールを溶接したという。条件が良ければ、単線レールで1日250〜300メートル、20か所超の継ぎ目を処理できる。1か所の自動溶接に要する時間は3〜4分である。従来のテルミット溶接（アルミニウム熱溶接）は、作業員6〜8人の班で1日4〜6か所、多くても約8か所だった。溶接請負業者の代表Nguyễn Huy Thanh氏は、この種の機械を同LRTで使うのは初めてだと述べた。業者は効率が3〜4倍になると推計している。操作は最少3人で、準備やレール搬送の要員は含まない。</p><h3>工事の進み具合と工期</h3><p>同紙によると、フーコックLRTはアンザン省にあり、全長17.59キロの複線である。空港と、APEC 2027の会議・展示センター、島南部を結び、駅は6つ設ける。事業はPPP（官民連携）のBOT方式で、総投資額は9兆ドン弱とされる。Tuoi Tre Newsは8月10日、投資額を約9兆ドンと伝え、同月初めの時点で1.8兆ドン（約112億円）、28.7%が支出済みだと報じた。資金の構成について、Mekong ASEANは国の資金70%、Sun Group30%としているが、Tuoi Treはベトナム初の民間資金によるLRTと説明しており、報道で表現が異なる。</p><p>10月末時点で、約35キロの単線レールのうち11キロ超を敷設した。橋とトンネルの場所打ち杭は完了し、駅の工事が続く。ĐT.975号線から空港に向かうトンネルは鉄筋コンクリートの構造が完成し、軌道の敷設に入れる状態だという。11月初めには約1,300人の技術者・作業員が7か所で作業した。インフラは2027年6月30日までに完成させる目標で、商業運転は2027年11月のAPEC首脳週間に合わせる計画である。Tuoi Treは8月の時点で、2027年1〜2月に車両がフーコックに届き、同年6月に基本的な完成と試験を迎える日程を伝えていた。</p><h3>日本の関係者が見ておきたい点</h3><p>アンザン省人民委員会のHồ Văn Mừng委員長は、APEC関連事業は順調で、省が関係省庁、特別区、事業者と手続きや用地の課題を解いていると述べた。ただ、8月のTuoi Treは、豪雨や冠水、トンネル区間の硬い地盤、電線や水道管の移設、並行する道路ĐT.975の拡張工事との調整を課題に挙げている。今回の溶接の機械化は、工期の圧縮に向けた対策の一つとみられる。2027年11月のAPEC開催が近づくにつれ、島内の空港や道路の整備も進む見通しで、出張や視察で訪れる日本の企業関係者にとっては、移動手段の選択肢が増えるとみられる。一方、工事の遅れや運行開始時期の変更が生じれば、島内の交通や開催準備に影響しうる点には注意が要る。なお、円換算は2026年11月18日時点の参考レート（1ドン＝約0.0062円）で行った。</p>",
+      "dataFigure": "3〜4倍",
+      "dataLabel": "レール溶接の機械化による作業効率（請負業者の推計）",
+      "dataSource": "Mekong ASEAN、2026年11月13日",
+      "chart": {
+        "bars": [
+          {
+            "label": "敷設済み",
+            "value": 11,
+            "display": "11km超"
+          },
+          {
+            "label": "全体",
+            "value": 35,
+            "display": "約35km"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "Mekong ASEAN",
+          "title": "Tuyến tàu điện nhẹ LRT phục vụ APEC 2027 đưa ‘robot’ hàn ray vào thi công",
+          "url": "https://mekongasean.vn/tuyen-tau-dien-nhe-lrt-phuc-vu-apec-2027-dua-robot-han-ray-vao-thi-cong-61795.html",
+          "date": "2026-11-13"
+        },
+        {
+          "name": "Tuoi Tre News",
+          "title": "Vietnam’s first privately funded LRT targets June 2027 trial run on Phu Quoc",
+          "url": "https://news.tuoitre.vn/vietnams-first-privately-funded-lrt-targets-june-2027-trial-run-on-phu-quoc-103260810214045792.htm",
+          "date": "2026-08-10"
+        }
+      ],
+      "seoTitle": "フーコックLRT、レール溶接を自動化し効率3〜4倍",
+      "seoDescription": "ベトナム・フーコック島のLRTでレールの自動溶接機が稼働。効率は従来の3〜4倍とされる。総事業費は約9兆ドンで、2027年11月のAPEC首脳週間に合わせた運行を目指す。",
+      "tags": [
+        "ベトナム",
+        "フーコック",
+        "LRT",
+        "APEC 2027",
+        "Sun Group",
+        "アンザン省",
+        "鉄道",
+        "インフラ"
+      ],
+      "publishAt": "2026-11-18T12:20:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/vietnam-phu-quoc-lrt-rail-welding-machine-apec-2027-schedule.png"
+    },
+    {
+      "slug": "indonesia-hippindo-nataru-2026-retail-transactions-10-15-percent-growth",
+      "title": "インドネシア小売団体、年末年始の取引は最大20%増と推計 百貨店部会の見込みは10〜15%",
+      "country": "インドネシア",
+      "category": "消費・小売",
+      "articleType": "news",
+      "lead": "インドネシアの小売・商業施設テナント団体Hippindoは11月17日、年末年始商戦の小売取引が前年同期比で最大20%伸びる可能性があるとの見方を示した。ただ同団体の百貨店部会は、実際の伸びは10〜15%を見込む。国産品の販促が支えになるとしている。",
+      "summaryHtml": "<ul><li>Hippindo（インドネシア小売・商業施設テナント協会）は11月17日、2026年末から2027年にかけてのクリスマス・年始（Nataru）商戦の小売取引が、前年同期比で最大20%増える可能性があると述べた（Kontan）。</li><li>百貨店部会のHedy Djaja Ria代行委員長は、工業省で、伸び率は10〜15%を見込むと説明した。20%は上限の期待値で、例年の傾向だとした（Kontan）。</li><li>国内の製品・ブランドの消費を促す「Belanja di Indonesia Aja（BINA）」で、中小零細工業の約4,100品目の販路づくりを後押ししたという（Kontan）。</li><li>BINAの一環の11月10〜15日の販促では、取引額10兆ルピア（約870億円）を目標に掲げていた。結果は今回の取材では確認できていない（InvestorTrust）。</li><li>Budihardjo Iduansjah会長は11月12日、ヘルス・ビューティー小売の伸びを約8%と見通した（Kontan）。</li></ul>",
+      "bodyHtml": "<h3>見通しの中身：上限20%、見込みは10〜15%</h3><p>Kontanによると、インドネシアの小売・商業施設テナント協会Hippindo（Himpunan Peritel dan Penyewa Pusat Perbelanjaan Indonesia）は11月17日、Nataru商戦の小売取引が前年同期比で最大20%伸びる可能性があると述べた。Nataruは、クリスマスと年始を合わせたインドネシアの商戦期の呼び方である。同日、工業省（Kemenperin）で発言した百貨店部会のHedy Djaja Ria代行委員長は、伸び率を10〜15%と見込み、20%は期待できる最大の水準で、この時期の例年の傾向だと話した。同紙の見出しと要約は20%、本文は10〜15%を中心に書いており、見通しには幅がある。</p><h3>国産品の販促と中小零細工業の取り込み</h3><p>Hedy氏は、国産品・国産ブランドの消費拡大が成長を支えるとの見方を示した。政府と業界が進めるBINA（「Belanja di Indonesia Aja」）を通じ、Hippindoは中小零細工業（IKM）の約4,100品目が販路を広げられるよう支援してきたという。Hippindo、小売チェーンのMR.DIY、工業省はIKM向けの商談会も開いた。参加企業の一部はHippindoの会員になったとし、同団体は中小零細企業の商品が近代小売に入る足がかりとして、最大1,000万個のバーコード番号を提供する用意があると述べた。IDX Channelによると、工業省とMR.DIYのインドネシア運営会社PT Daya Intiguna Yasa Tbkは、2026年5月に2年間の協力覚書を結んでいる。</p><p>InvestorTrustは11月10日、Hippindoが10〜15日のBINA Hari Pahlawan（英雄の日）で取引額10兆ルピア（約870億円）を目標にしていたと伝えた。Budihardjo Iduansjah会長は、ジャカルタ、ジョグジャカルタ、ソロ、バリでの寄与を見込み、新しい有料道路や国内外の旅行者の動きも追い風になると語った。同会長は、政府に輸入許可の迅速化も求めた。マレーシアなど海外のモールと競う中で、国内に取り扱いのないブランドは海外で買われてしまうという問題意識である。</p><h3>消費の弱さが背景にある</h3><p>この見通しは、購買力の弱さが指摘される中で出てきた。8月のKatadataによると、経済調整相府のIsmarini氏は、購買力が課題に直面していると認め、レバラン（断食明け大祭）後からNataruまでの閑散期が、今後3〜5年は長引くとの政府の見方を示した。2026年1〜3月期の小売は、特にレバラン期に伸び、政府の評価では約15%増だった。11月12日のKontanによると、小売業界は2026年の販売が比較的安定して伸びると見るが、分野によって差が出る見通しである。Budihardjo会長は、ガーディアンやワトソンズなどのヘルス・ビューティー小売が約8%伸びるとみている。</p><h3>日系企業への視点</h3><p>日系の消費財メーカーや小売は、年末商戦の需要を読む際、業界団体の最大値と見込み値に開きがある点に注意したい。国産品を前面に出す販促が売り場づくりや販促費の配分に影響する可能性もあり、取引先の小売の動きを確認する必要がある。BINA Hari Pahlawanの実績は今回確認できておらず、10〜15%という見込みが実現するかは、年末にかけての販売動向を見て判断することになる。なお、円換算は2026年11月18日時点の参考レート（1ルピア＝約0.00874円）で行った。</p>",
+      "dataFigure": "10〜15%",
+      "dataLabel": "年末年始商戦の小売取引の伸び見通し（百貨店部会、前年同期比）",
+      "dataSource": "Hippindo、Kontan、2026年11月17日",
+      "chart": {
+        "bars": [
+          {
+            "label": "見込み下限",
+            "value": 10,
+            "display": "10%"
+          },
+          {
+            "label": "見込み上限",
+            "value": 15,
+            "display": "15%"
+          },
+          {
+            "label": "期待上限",
+            "value": 20,
+            "display": "20%"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "Kontan",
+          "title": "Hippindo Proyeksikan Transaksi Ritel Tumbuh hingga 20% Saat Nataru 2026/2027",
+          "url": "https://industri.kontan.co.id/news/hippindo-proyeksikan-transaksi-ritel-tumbuh-hingga-20-saat-nataru-20262027",
+          "date": "2026-11-17"
+        },
+        {
+          "name": "InvestorTrust",
+          "title": "Hippindo Bidik Transaksi Rp 10 Triliun di BINA Pahlawan, Apa Strateginya?",
+          "url": "https://investortrust.id/business/122127/hippindo-bidik-transaksi-rp-10-triliun-di-bina-pahlawan-apa-strateginya",
+          "date": "2026-11-10"
+        },
+        {
+          "name": "Kontan",
+          "title": "Peritel Bidik Permintaan di Momen Akhir Tahun",
+          "url": "https://insight.kontan.co.id/news/peritel-bidik-permintaan-di-momen-akhir-tahun",
+          "date": "2026-11-12"
+        },
+        {
+          "name": "Katadata",
+          "title": "Kinerja Ritel Diproyeksi Tetap Tumbuh, Hippindo Bidik Belanja para Wisatawan",
+          "url": "https://katadata.co.id/berita/industri/6a74429dcc050/kinerja-ritel-diproyeksi-tetap-tumbuh-hippindo-bidik-belanja-para-wisatawan",
+          "date": "2026-08-06"
+        },
+        {
+          "name": "IDX Channel",
+          "title": "Kemenperin Dorong MR.DIY (MDIY) Perluas Akses Produk UMKM",
+          "url": "https://www.idxchannel.com/market-news/kemenperin-dorong-mrdiy-mdiy-perluas-akses-produk-umkm",
+          "date": "2026-05-22"
+        }
+      ],
+      "seoTitle": "インドネシア年末商戦、小売取引は最大20%増の見方",
+      "seoDescription": "インドネシアの小売団体Hippindoは年末年始商戦の取引が最大20%増える可能性を示した。百貨店部会の見込みは10〜15%。国産品の販促が支えになるが、購買力の弱さは課題だ。",
+      "tags": [
+        "インドネシア",
+        "Hippindo",
+        "年末商戦",
+        "Nataru",
+        "BINA",
+        "MR.DIY",
+        "工業省",
+        "小売"
+      ],
+      "publishAt": "2026-11-18T11:50:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/indonesia-hippindo-nataru-2026-retail-transactions-10-15-percent-growth.png"
+    },
+    {
+      "slug": "thailand-boi-q3-2026-actual-investment-260-billion-baht-japan-roadshow",
+      "title": "タイの7〜9月期実投資は2,600億バーツ超で28%増 財務相が18日から訪日し日系自動車と協議",
+      "country": "タイ",
+      "category": "企業・産業",
+      "articleType": "news",
+      "lead": "タイのエクニティ副首相兼財務相は11月13日、投資委員会（BOI）の2026年7〜9月期の実投資額が前年同期比28%増の2,600億バーツ超（約1.2兆円）だったと明らかにした。同相は18〜20日に訪日し、日系自動車6社や経団連と投資協力を協議する。",
+      "summaryHtml": "<ul><li>エクニティ副首相兼財務相（Ekniti Nitithanprapas）は11月13日、アヌティン首相に対し、BOIの2026年7〜9月期の実投資額が2,600億バーツ超（約1.2兆円）で前年同期比28%増、3四半期連続の増加だったと報告した（The Nation）。</li><li>同相は、数字は投資促進の申請額ではなく実際に行われた投資だと説明した。年初からの雇用創出は約60万人という（The Nation）。</li><li>1〜9月の累計は7,965億バーツ（約3.7兆円）で27%増。通年は1兆バーツ（約4.7兆円）を超える可能性があると伝えられた（Naewna）。</li><li>同相は11月18〜20日に訪日し、トヨタ、ホンダ、いすゞ、三菱、マツダ、日産の6社のほか、経団連、日本の経済産業相、ジェトロ会長らと会談する予定である（The Nation）。</li><li>BOIの集計では、日本からの案件は2025年が302件・1,137億バーツ超（約5,350億円）、2026年1〜9月が192件・454億バーツ超（約2,135億円）だった（The Nation）。</li></ul>",
+      "bodyHtml": "<h3>実投資は3四半期連続で増加</h3><p>The Nationによると、エクニティ副首相兼財務相（Ekniti Nitithanprapas）は11月13日、アヌティン首相（Anutin Charnvirakul）にBOI（Board of Investment、タイ投資委員会）の2026年7〜9月期の実投資額を報告した。2,600億バーツ超（約1.2兆円）で、前年同期比28%増である。3四半期連続の増加という。同相は、投資促進の申請額ではなく、実際に行われた投資の数字だと強調した。タイ紙Naewnaによれば、1〜9月の累計は7,965億バーツ（約3.7兆円）で27%増となり、通年では1兆バーツ（約4.7兆円）を超える可能性がある。2025年は8,650億バーツ（約4.1兆円）だった。</p><p>分野別の上位は、デジタル、スマートエレクトロニクス、食品・農業の順である。スマートエレクトロニクスには、車載にも使われるセンサーや光通信部品が含まれる。建設分野が30%超伸びたとの説明も報じられているが、分野別の順位との関係は報道だけでは判然としない。同相はBOIの事務局長に対し、タイ企業を外資のサプライチェーンに組み込む交渉を急ぎ、原材料や部品をタイの供給業者から調達するよう求めた。タイが外資の単なる生産拠点にとどまらないようにする狙いがあるという。</p><h3>18〜20日の訪日団は日系自動車6社と会談</h3><p>The Nationが11月4日に伝えたところでは、訪日はBOIのNarit Therdsteerasukdi事務局長が発表したもので、日程は18〜20日である。代表団には産業相、財務次官、関税局長、タイ工業連盟、タイ商業会議所、タイ銀行協会の幹部、40人超のタイ企業関係者が加わる。同紙は、3団体の代表がそろって同じ代表団に入るのは初めてだとした。</p><p>自動車メーカーとはトヨタ（Toyota）、ホンダ（Honda）、いすゞ（Isuzu）、三菱（Mitsubishi）、マツダ（Mazda）、日産（Nissan）の6社と会う。議題は、公平な競争と国内生産を促す車両税制の変更、地場部品メーカーへの支援、新しい車両技術への移行である。このほか、日タイ半導体戦略的パートナーシップの枠組みでBOIが開く会合で、タイの国家半導体・先端電子戦略を説明する。経団連（Keidanren）との共催「Investment and Business Dialogue 2026」では、電動車（xEV）と部品、データセンターや先端電子のサプライチェーン、送電網の近代化を扱う。日本政府とは、経済産業相、ジェトロ会長、財務相との会談を予定し、投資促進、新規案件の受け入れ、タイ国内の日系工場の高度化、エネルギー安全保障の構想「POWERR Asia」を話し合う。</p><h3>日系投資の現状と自動車をめぐる論点</h3><p>BOIによると、日本からの案件は2025年に302件、1,137億バーツ超（約5,350億円）で、2024年の2倍を上回った。2026年1〜9月は192件、454億バーツ超（約2,135億円）である。2025年は通年、2026年は9か月と期間が違うため、単純には比べられない。主な分野はデジタル、農業・食品、電子、自動車である。</p><p>日本の投資家からは面談の要請が多く、特に自動車産業は、タイが物品税を再編したことに関心を寄せているという（The Nation、11月13日）。一方、駐タイ日本大使のOtaka Masato氏は11月4日の経済フォーラムで、EVの無関税輸入政策の見直しを求め、スズキとスバルが昨年タイでの生産を終えたことを挙げた（The Nation、11月7日）。タイ政府の税制の方向と、日系メーカーの受け止めが交わる場になる。</p><h3>今後の注目点</h3><p>日系企業にとっては、物品税の再編を背景に、EVなど新技術への移行と地場部品の調達拡大をどう両立させるかが焦点になるとみられる。会談の結果は訪日後に公表される見通しで、車両税制や部品支援の具体策が示されるかが注目される。実投資の伸びがデジタルや電子に厚い中で、自動車を含む既存の日系製造業との関係がどう整理されるかも見どころである。なお、円換算は2026年11月17日時点の参考レート（1バーツ＝約4.70円）で行った。</p>",
+      "dataFigure": "+28%",
+      "dataLabel": "タイの7〜9月期の実投資額（前年同期比、BOI集計）",
+      "dataSource": "タイ財務相の報告、The Nation、2026年11月13日",
+      "sources": [
+        {
+          "name": "The Nation",
+          "title": "BOI figures show Thailand’s actual investment up 28% to over THB260bn",
+          "url": "https://www.nationthailand.com/business/investment/40073464",
+          "date": "2026-11-13"
+        },
+        {
+          "name": "Naewna",
+          "title": "เอกนิติ โชว์ยอดลงทุนจริง ไตรมาส 3 ทะลุ 2.6 แสนล้าน เตรียมนำทัพโรดโชว์ญี่ปุ่น",
+          "url": "https://www.naewna.com/n/?p=164024",
+          "date": "2026-11-14"
+        },
+        {
+          "name": "The Nation",
+          "title": "Thailand targets Japanese investment in semiconductors and automotive manufacturing",
+          "url": "https://www.nationthailand.com/business/40073086",
+          "date": "2026-11-04"
+        },
+        {
+          "name": "The Nation",
+          "title": "Japan envoy urges Thailand to review EV import policy",
+          "url": "https://www.nationthailand.com/business/automobile/40073216",
+          "date": "2026-11-07"
+        }
+      ],
+      "seoTitle": "タイ7〜9月期の実投資28%増、財務相が訪日へ",
+      "seoDescription": "タイのBOIが発表した2026年7〜9月期の実投資は2,600億バーツ超で28%増。財務相は11月18〜20日に訪日し、トヨタなど日系自動車6社や経団連と協議する。",
+      "tags": [
+        "タイ",
+        "BOI",
+        "エクニティ財務相",
+        "対タイ投資",
+        "日系自動車",
+        "経団連",
+        "物品税",
+        "半導体"
+      ],
+      "publishAt": "2026-11-18T11:20:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/thailand-boi-q3-2026-actual-investment-260-billion-baht-japan-roadshow.png"
+    },
     {
       "slug": "malaysia-public-ev-chargers-7341-target-30000-2030-ev-levy-study",
       "title": "マレーシアの公共EV充電器7,341基 2030年目標の約24% 政府はEV課徴金も検討",
