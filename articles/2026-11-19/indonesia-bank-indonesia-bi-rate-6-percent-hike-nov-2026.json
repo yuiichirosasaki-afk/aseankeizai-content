@@ -1,0 +1,72 @@
+{
+  "slug": "indonesia-bank-indonesia-bi-rate-6-percent-hike-nov-2026",
+  "title": "インドネシア中銀、政策金利を6.00%に引き上げ 市場予想は据え置き 5月以降で計1.25ポイント",
+  "country": "インドネシア",
+  "category": "金融・市場",
+  "articleType": "news",
+  "lead": "インドネシア銀行（中央銀行、BI）は11月18日、政策金利のBI Rateを0.25ポイント引き上げ、6.00%にすると決めた。ブルームバーグの調査では据え置きが中央値で、市場には意外感が出た。5月以降の利上げ幅は計1.25ポイントになる。",
+  "summaryHtml": "<ul><li>インドネシア銀行（Bank Indonesia、BI）は11月17〜18日の理事会で、BI Rateを5.75%から6.00%へ0.25ポイント引き上げた。預金ファシリティ金利は5.25%、貸出ファシリティ金利は6.75%に、それぞれ0.25ポイント上がった（CNN Indonesia、Bloomberg Technoz）。</li><li>ブルームバーグが11月17日時点でまとめた32人の経済学者・アナリストの調査では、中央値は5.75%の据え置きで、6.00%への引き上げを予想したのは11人だった（Bloomberg Technoz）。</li><li>2026年の利上げは5月、6月に続く3回目で、5月以降の累計は1.25ポイントとなった。政策金利は2024年12月以来の高さだという（CNN Indonesia、Vibiznews）。</li><li>BIは理由として、ルピア相場の安定、インフレ圧力への先回り、ルピア建てのNDF（DNDF）を使った為替ヘッジの優遇策の強化を挙げた（CNN Indonesia）。</li><li>10月のインフレ率は前年同月比3.23%で、9月の3.28%から低下した。BIは2026年の成長率見通し4.9〜5.7%を維持した（Vibiznews）。</li></ul>",
+  "bodyHtml": "<h3>市場予想を覆す利上げ</h3><p>CNN IndonesiaやBloomberg Technozによると、BIは11月17〜18日に開いた理事会で、政策金利のBI Rateを0.25ポイント引き上げて6.00%とした。Destry Damayanti総裁が記者会見で発表した。預金ファシリティ金利は5.25%、貸出ファシリティ金利は6.75%と、いずれも同じ幅で上がった。Bloomberg Technozが伝えた事前調査（32人、11月17日時点）の中央値は5.75%の据え置きで、利上げ予想は11人にとどまった。Vibiznewsは、市場は金利が変わらないと見ていたため「予想外」の決定だったと評している。</p><h3>3回目の利上げ、背景はルピアと外部環境</h3><p>CNN Indonesiaによると、2026年の利上げは5月、6月に続く3回目で、5月と6月の2回で計1ポイント、4.75%から5.75%へ上げていた。今回を加えた累計は1.25ポイントで、Vibiznewsは2024年12月以来の高い水準としている。BIが挙げた理由は、外部からの圧力が強まる中でのルピア相場の安定、インフレ圧力への備え、DNDFを使ったヘッジ促進策の強化である。この策は海外からの資金流入を呼び込み、短期金融市場と為替市場を厚くする狙いがあるという。Kumparanは、中東の戦争に伴う世界の市場の変動が大きいことも背景に挙げている。インフレ率の目標は2026年、2027年とも2.5%±1%である。</p><p>Vibiznewsは、10月のインフレ率が前年同月比3.23%と9月の3.28%から鈍ったと伝えた。目標レンジの上限である3.5%よりは低い。同紙はまた、BIが12月にも米連邦準備制度理事会（FRB）が再び利上げすると見ていることを理由の一つに挙げたとしているが、この点は他の報道では確認できていない。利上げに先立ち、BIは預金ファシリティ金利の引き上げ、預金準備率の引き下げ、為替の追加ヘッジ優遇も実施していたという。2026年の成長率見通し（4.9〜5.7%）は据え置かれた。</p><h3>日系企業への影響と今後の注目点</h3><p>金利上昇は、ルピアで借り入れる日系の製造・販売会社や、現地金融機関経由で資金調達する企業の利払い負担に影響するとみられる。自動車や家電のローンを使う消費者の需要にも波及する可能性がある。一方、ルピアの安定は、ドル建てで原材料を調達する企業の為替コストを抑える面がある。BIは今回、金利以外の手段も併用して通貨防衛を図っている。次回以降の追加利上げの有無や、ルピアの動きが注目される。なお、今回の報道は為替水準を確認できる形で伝えておらず、市場の反応は確認できていない。</p>",
+  "dataFigure": "6.00%",
+  "dataLabel": "インドネシア銀行の政策金利（BI Rate）",
+  "dataSource": "インドネシア銀行、CNN Indonesia、2026年11月18日",
+  "chart": {
+    "bars": [
+      {
+        "label": "5月前",
+        "value": 4.75,
+        "display": "4.75%"
+      },
+      {
+        "label": "6月後",
+        "value": 5.75,
+        "display": "5.75%"
+      },
+      {
+        "label": "11/18",
+        "value": 6.0,
+        "display": "6.00%"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "CNN Indonesia",
+      "title": "Bank Indonesia Naikkan Suku Bunga Jadi 6 Persen per November 2026",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261118141048-78-1428544/bank-indonesia-naikkan-suku-bunga-jadi-6-persen-per-november-2026",
+      "date": "2026-11-18"
+    },
+    {
+      "name": "Bloomberg Technoz",
+      "title": "BI Naikkan Suku Bunga Jadi 6%",
+      "url": "https://www.bloombergtechnoz.com/detail-news/128078/bi-naikkan-suku-bunga-jadi-6",
+      "date": "2026-11-18"
+    },
+    {
+      "name": "Vibiznews",
+      "title": "Bank Indonesia Kejutkan Pasar dengan Kenaikan Suku Bunga Sebesar 25Bps",
+      "url": "https://vibiznews.com/index.php/2026/11/18/bank-indonesia-kejutkan-pasar-dengan-kenaikan-suku-bunga-sebesar-25bps/",
+      "date": "2026-11-18"
+    },
+    {
+      "name": "Kumparan",
+      "title": "Bank Indonesia Naikkan Suku Bunga Jadi 6 Persen pada November 2026",
+      "url": "https://kumparan.com/kumparanbisnis/bank-indonesia-naikkan-suku-bunga-jadi-6-persen-pada-november-2026-28b3WPTnkQY",
+      "date": "2026-11-18"
+    }
+  ],
+  "seoTitle": "インドネシア中銀、政策金利6.00%に利上げ",
+  "seoDescription": "インドネシア銀行は11月18日、政策金利を0.25ポイント上げ6.00%にした。市場予想の中央値は据え置き。5月以降の累計は1.25ポイントで、ルピア安定が狙いだ。",
+  "tags": [
+    "インドネシア",
+    "インドネシア銀行",
+    "BI Rate",
+    "利上げ",
+    "ルピア",
+    "DNDF",
+    "Destry Damayanti"
+  ],
+  "publishAt": "2026-11-19T07:30:00+09:00",
+  "language": "ja",
+  "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/indonesia-bank-indonesia-bi-rate-6-percent-hike-nov-2026.png"
+}

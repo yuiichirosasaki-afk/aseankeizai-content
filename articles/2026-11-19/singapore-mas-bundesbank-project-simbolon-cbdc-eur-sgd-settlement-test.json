@@ -1,0 +1,41 @@
+{
+  "slug": "singapore-mas-bundesbank-project-simbolon-cbdc-eur-sgd-settlement-test",
+  "title": "シンガポールとドイツの中銀、ユーロ・Sドル決済をCBDCで接続試験 DBSとドイツ銀行が参加",
+  "country": "シンガポール",
+  "category": "金融・市場",
+  "articleType": "news",
+  "lead": "シンガポール金融管理局（MAS）とドイツ連邦銀行は11月16日、両国の中銀デジタル通貨を使い、ユーロとシンガポールドルの為替取引を同時に決済する接続試験に成功したと発表した。国境をまたぐ資金決済の効率化を探る取り組みである。",
+  "summaryHtml": "<ul><li>MASとドイツ連邦銀行（Deutsche Bundesbank）は11月16日、デジタル資産の決済基盤どうしを接続する試験を実施したと発表した（MAS）。</li><li>試験は「Project Simbolon」と呼ばれ、2025年11月13日に両中銀が結んだ覚書に基づく最初の主要な成果である（MAS）。</li><li>DBS銀行とドイツ銀行（Deutsche Bank）が参加し、技術提供はPartiorが担った。ユーロとシンガポールドルの為替取引を、ホールセール型の中銀デジタル通貨（CBDC）で同時決済（PvP）する形を試した（MAS）。</li><li>ゼロ知識証明の技術で、両中銀の台帳を直接つながなくても決済条件の充足を確認できたという（MAS）。</li><li>証券決済の短縮化と、日中の為替スワップへの応用も検討した。詳細な報告書は後日、両中銀のサイトで公表される（MAS、Ledger Insights）。</li></ul>",
+  "bodyHtml": "<h3>何を試したのか</h3><p>MASの11月16日付の発表によると、MASとドイツ連邦銀行は、それぞれのデジタル資産決済ソリューションの試験環境を接続し、通貨や稼働時間の違いを越えたホールセール決済が可能かを確かめた。試験では、ユーロとシンガポールドルの為替取引について、ホールセール型のCBDCを使った同時決済（Payment versus Payment、PvP）を実施した。PvPは、取引の両側の資金を同時に受け渡す仕組みで、片方だけが支払われる決済リスクを減らせる。参加した市中銀行はDBSとドイツ銀行で、技術面はPartiorが担当した。</p><h3>台帳を直接つながない仕組み</h3><p>MASによると、試験ではゼロ知識証明の技術を使い、各環境が決済条件の充足を検証した。両中銀の台帳の間に直接の技術的な統合はない。Ledger Insightsは、各当事者が資金をエスクロー（預託）したことを証明する方式で、共通の台帳も信頼できる仲介者も要らなかったと伝えている。同紙によれば、計画は1年以上前に始まり、用途として、証券決済の期間を短くするためにPvPの稼働時間を延ばす場合と、一時的な通貨需要に応える日中の為替スワップの2つを試した。MASは、シンガポールとドイツの市場で、証券取引を含む資金調達や日中流動性の需要にこの仕組みが応えられるかも検討したと述べている。</p><h3>位置づけと今後</h3><p>Project Simbolonは、MASが2022年5月に始めたProject Guardianを支える取り組みでもある。ドイツ連邦銀行は2024年11月からGuardianの政策当局者グループに加わっている。MASのLeong Sing Chiong副専務理事（市場・開発担当）は、市場のトークン化が進めば金融インフラは国境を越えて連携する必要があると述べた。ドイツ連邦銀行のSabine Mauderer第1副総裁は、世界の為替取引の決済リスクをなくす道を開くものだと位置づけた。両中銀は今後、決済性能の最適化や、広く使う場合の法律・規制・運営・ガバナンスの論点を調べる。</p><h3>日系企業への視点</h3><p>今回は試験環境での検証であり、実際の商用サービスの開始時期は示されていない。ただ、シンガポールに地域の財務拠点を置く日系企業や、同国で為替・決済業務を手がける日系金融機関にとって、将来は通貨をまたぐ決済の時間が短くなる可能性がある。実務に影響するまでには、規制の整備や参加行の拡大が必要とみられる。後日公表される報告書の内容が注目される。</p>",
+  "dataFigure": "EUR/SGD",
+  "dataLabel": "中銀デジタル通貨で同時決済を試験した通貨ペア",
+  "dataSource": "シンガポール金融管理局、2026年11月16日",
+  "sources": [
+    {
+      "name": "MAS",
+      "title": "MAS and Deutsche Bundesbank Advance Cross-Border Digital Asset Settlement Connectivity",
+      "url": "https://www.mas.gov.sg/news/media-releases/2026/mas-and-deutsche-bundesbank-advance-cross-border-digital-asset-settlement-connectivity",
+      "date": "2026-11-16"
+    },
+    {
+      "name": "Ledger Insights",
+      "title": "Bundesbank, MAS test cross-border FX settlement using wholesale CBDCs",
+      "url": "https://www.ledgerinsights.com/bundesbank-mas-test-cross-border-fx-settlement-using-wholesale-cbdcs/",
+      "date": "2026-11-16"
+    }
+  ],
+  "seoTitle": "シンガポールとドイツ、CBDCでユーロ・Sドル決済試験",
+  "seoDescription": "MASとドイツ連邦銀行は11月16日、中銀デジタル通貨でユーロとシンガポールドルを同時決済する接続試験の成功を発表した。DBSとドイツ銀行が参加した。",
+  "tags": [
+    "シンガポール",
+    "MAS",
+    "Project Simbolon",
+    "CBDC",
+    "DBS",
+    "ドイツ連邦銀行",
+    "Partior"
+  ],
+  "publishAt": "2026-11-19T08:00:00+09:00",
+  "language": "ja",
+  "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/singapore-mas-bundesbank-project-simbolon-cbdc-eur-sgd-settlement-test.png"
+}
