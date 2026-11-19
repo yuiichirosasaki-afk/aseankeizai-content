@@ -1,7 +1,209 @@
 {
-  "generatedAt": "2026-11-19T18:27:30+09:00",
+  "generatedAt": "2026-11-20T06:24:50+09:00",
   "site": "東南アジア経済新聞",
   "articles": [
+    {
+      "slug": "vietnam-fb-market-sial-vietnam-2026-value-chain-processing-brand",
+      "title": "ベトナムの食品・飲料市場、東南アジアで有力 SIAL初開催、流通・小売が付加価値の5〜7割",
+      "country": "ベトナム",
+      "category": "消費・小売",
+      "articleType": "analysis",
+      "lead": "ベトナムで初めて開かれた食品見本市SIAL Vietnam 2026の主催側幹部が、同国を東南アジアで最も活発な食品・飲料市場の一つと評した。食品の付加価値は流通・小売が5〜7割を占め、加工とブランド化が課題として挙がった。",
+      "summaryHtml": "<ul><li>SIAL Vietnam 2026は、11月11〜14日にホーチミン市でVietnam Foodexpo 2026と並行して開かれた初のベトナム開催である（VnExpress、VietnamPlus）。</li><li>SIAL Network（ASEAN・インド）のマネージングディレクター、ヘンリー・タン氏（Henri Tan）は、ベトナムを東南アジアで最も活発な食品・飲料市場の一つと評した（同）。</li><li>応用経済情報研究所のディン・テー・ヒエン所長（Dinh The Hien）によると、食品サプライチェーンの付加価値は、原材料が5〜10%、流通・小売が50〜70%である（同）。</li><li>タン氏は、加工食品、袋入りスナック、調理済み食品、特殊飲料に機会があるとみる一方、ブランド力と国際的な品質基準の確保が課題だと述べた（同）。</li></ul>",
+      "bodyHtml": "<h3>輸出だけでは付加価値を取りきれない</h3><p>VnExpressとVietnamPlusは、ベトナム通信社（VNA）の配信記事として、SIAL Vietnam 2026の期間中に行われた発言を伝えた。SIAL Vietnam 2026は、11月11日から14日まで、ホーチミン市でVietnam Foodexpo 2026と並行して開かれた。ベトナムでの開催は初めてである。SIAL Networkのタン氏は、ベトナムがコーヒー、水産物、コメ、カシューナッツ、熱帯果実、香辛料の主要な供給国で、国内消費も伸びていると評し、東南アジアで最も活発な食品・飲料市場の一つだと述べた。同氏は、輸出を増やすだけでなく、加工、ブランド、流通を押さえたほうが付加価値を取り込みやすいとの見方も示した。</p><p>その裏付けとして、ディン氏は食品サプライチェーンの価値配分を示した。原材料は全体の5〜10%にとどまり、流通・小売が50〜70%を占めるという。数字は同氏による説明で、記事には算出の根拠や対象の年は書かれていない。農産物の生産国であることと、利益を得る位置にいることが一致しない点を示す数字といえる。</p><h3>コーヒー、チョコレートに見る高付加価値化</h3><p>ベトナム・コーヒー・ココア協会（VICOFA）のグエン・ナム・ハイ会長（Nguyen Nam Hai）は、今後5年間の優先課題として、世界のコーヒーのバリューチェーンの上位へ移ることを挙げた。数値目標は記事に示されていない。ベトナム産チョコレートのLegendary Chocolatierは、日本、韓国、シンガポール、カナダ、香港などに輸出し、北米と欧州の開拓を目指す。輸出先は、VnExpressの記事には台湾がなく、VietnamPlusの記事には台湾が含まれている。</p><h3>日系企業への示唆</h3><p>タン氏は、加工食品、袋入りスナック、調理済み食品、特殊飲料に機会があるとみる。同時に、知名度のあるブランドを育てることと、国際的な品質要件を満たすことが大きな課題だと指摘した。中小企業は、技術、認証、海外での流通に苦戦する可能性があるという。加工、品質管理、流通網は、日本の食品メーカーや商社、小売企業が経験を持つ分野とみられ、ベトナム企業との提携や出資の余地が生まれる可能性がある。ただし、今回の記事には市場規模や成長率の数字がなく、投資判断には別の統計で裏付ける必要がある。</p>",
+      "dataFigure": "50〜70%",
+      "dataLabel": "食品サプライチェーンの付加価値のうち流通・小売が占める割合",
+      "dataSource": "VNA配信（VnExpress、VietnamPlus）、2026年11月19日。ディン・テー・ヒエン氏の説明",
+      "sources": [
+        {
+          "name": "VnExpress International",
+          "title": "Vietnam seen as one of Southeast Asia's most dynamic F&B markets",
+          "url": "https://e.vnexpress.net/news/business/economy/vietnam-seen-as-one-of-southeast-asia-s-most-dynamic-f-b-markets-5146541.html",
+          "date": "2026-11-19"
+        },
+        {
+          "name": "VietnamPlus",
+          "title": "Vietnam seen as one of Southeast Asia's most dynamic F&B markets",
+          "url": "https://en.vietnamplus.vn/vietnam-seen-as-one-of-southeast-asias-most-dynamic-fb-markets-post355729.vnp",
+          "date": "2026-11-19"
+        }
+      ],
+      "seoTitle": "ベトナムの食品・飲料市場、SIAL初開催",
+      "seoDescription": "SIAL Vietnam 2026が初開催。主催側幹部はベトナムを東南アジアで最も活発な食品・飲料市場の一つと評した。付加価値は流通・小売が50〜70%を占め、加工とブランド化が課題。",
+      "tags": [
+        "ベトナム",
+        "SIAL Vietnam 2026",
+        "Vietnam Foodexpo",
+        "食品・飲料",
+        "コーヒー",
+        "VICOFA",
+        "Legendary Chocolatier"
+      ],
+      "publishAt": "2026-11-20T08:30:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/vietnam-fb-market-sial-vietnam-2026-value-chain-processing-brand.png"
+    },
+    {
+      "slug": "thailand-loi-krathong-2026-domestic-trips-1-83-million-forecast",
+      "title": "タイ、ロイクラトン期間の国内旅行183万人と予測 観光収入60億バーツ、チェンマイ9割超予約済み",
+      "country": "タイ",
+      "category": "観光・航空",
+      "articleType": "news",
+      "lead": "タイ政府は、11月24日が満月にあたるロイクラトンの期間に、国内旅行が183万人（前年比6%増）、観光収入が約60億バーツ（約280億円）になると予測した。イーペンが開かれるチェンマイでは、客室の9割超がすでに埋まっている。",
+      "summaryHtml": "<ul><li>観光スポーツ省がタイ国政府観光庁（TAT）を通じて公表した予測で、ロイクラトン期間のタイ人による国内旅行は183万人、前年比6%増である（The Nation）。</li><li>観光収入は約60億バーツ（約280億円）で、前年比8%増の見込みである（同）。</li><li>チェンマイのイーペンは11月23〜25日に開かれ、客室の9割超が予約済みだ。空港の利用者は1日平均3万〜3万5,000人を見込み、一部の宿は1泊2万バーツ近く（約9万4,000円）になっている（同）。</li><li>満月の日は11月24日で、TATは15〜29日を中心に全国21の催しを紹介している。バンコク、スコータイ、チェンマイなどで開かれる（TAT）。</li></ul>",
+      "bodyHtml": "<h3>予測の中身</h3><p>The Nationは19日、観光スポーツ省がTATを通じて出したロイクラトンの予測を報じた。それによると、期間中のタイ人による国内旅行は183万人で、前年より6%増える。観光収入は約60億バーツで、8%増の見込みである。政府とTATはフェスティバル・エコノミーと呼ぶ戦略を掲げ、文化遺産を使って通年で人を呼べる観光地にする考えだ。11月5日のTATの発表は、この戦略を2027年に向けた365日の祝祭という方向性と位置づけているが、その発表には旅行者数や収入の予測は載っていない。予測の数字はThe Nationの報道によるものである。</p><h3>チェンマイは満室に近い</h3><p>最も需要が集まるのは北部チェンマイとみられる。同紙によると、イーペンは11月23日から25日まで開かれ、市内の客室の9割超がすでに予約された。チェンマイ国際空港は1日平均3万〜3万5,000人の利用を見込む。市内中心部やピン川沿いでは宿泊料が上がり、一部の宿は1泊で2万バーツ近くに達している。期間中にチェンマイ県内で動く消費は30億〜40億バーツ（約140億〜190億円）との推計もある。地元の事業者や観光団体は、プログラムをより多くの日数に広げるよう提案している。欧州や南米からの旅行者の比率が目立って高いことも、同紙は伝えている。</p><p>各地の催しは広がっている。TATによると、満月は24日で、期間は15日から29日を中心にする。バンコクはラタナコーシン地区の水路沿いで17〜29日に催しを開き、スコータイは15〜24日、ターク県は21〜24日に1,000基の灯籠流しの催しを開く。The Nationによると、アユタヤの祭りは21〜24日で、政府とTATは、タイのロイクラトンをユネスコの無形文化遺産の代表一覧表に推す考えも持っている。</p><h3>出張・駐在員への影響</h3><p>出張や駐在員の家族旅行では、24日前後に北部や古都のホテルが取りにくくなるとみられる。バンコクでも、17〜29日に水路沿いなどで催しが開かれるため、周辺で交通が混み合う可能性がある。祝祭の期間は国内の旅行需要が高まるため、ホテル、飲食、交通に関わる日系企業は、繁忙に備えた人員の手当てや仕入れの確認が必要になる。なお、今回の数字は政府の予測であり、実績は期間後に発表される数字で確かめる必要がある。</p><p>円換算は、本紙の直近の記事と同じ1バーツ＝約4.7円で算出した。</p>",
+      "dataFigure": "183万人",
+      "dataLabel": "ロイクラトン期間の国内旅行者数の予測（前年比6%増）",
+      "dataSource": "The Nation、2026年11月19日（観光スポーツ省・TATの予測）",
+      "sources": [
+        {
+          "name": "The Nation",
+          "title": "Thailand forecasts 1.83 million domestic trips during Loi Krathong",
+          "url": "https://www.nationthailand.com/business/economy/40073675",
+          "date": "2026-11-19"
+        },
+        {
+          "name": "タイ国政府観光庁（TAT）",
+          "title": "Loi Krathong 2026 lights up Thailand's rivers and historic cities",
+          "url": "https://www.tatnews.org/2026/11/loi-krathong-2026-lights-up-thailands-rivers-and-historic-cities/",
+          "date": "2026-11-05"
+        }
+      ],
+      "seoTitle": "タイのロイクラトン、国内旅行183万人予測",
+      "seoDescription": "タイ政府はロイクラトン期間の国内旅行を183万人、観光収入を約60億バーツと予測。チェンマイは9割超が予約済みで、24日が満月。出張・駐在員への影響を整理する。",
+      "tags": [
+        "タイ",
+        "ロイクラトン",
+        "イーペン",
+        "チェンマイ",
+        "TAT",
+        "観光スポーツ省",
+        "国内旅行"
+      ],
+      "publishAt": "2026-11-20T08:00:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/thailand-loi-krathong-2026-domestic-trips-1-83-million-forecast.png"
+    },
+    {
+      "slug": "philippines-bsp-draft-risk-weights-retail-msme-basel-iii-nov-2026",
+      "title": "フィリピン中銀、個人・中小向け融資の資本負担を軽くする案 住宅ローンは担保比率で差",
+      "country": "フィリピン",
+      "category": "金融・市場",
+      "articleType": "analysis",
+      "lead": "フィリピン中央銀行（BSP）は、バーゼルIIIに沿った自己資本規制の更新案で、適格な個人向け融資のリスクウェイトを現行の100%から75%に下げる案をまとめた。中小企業向けも軽くする一方、借入比率の高い融資の負担は重くする。",
+      "summaryHtml": "<ul><li>BSPは、バーゼルIII基準に沿って銀行の自己資本規制を更新する通達案をまとめた。案であり、施行時期や意見募集の期限は報道に書かれていない（The Philippine Star）。</li><li>個人ローン、給与ローン、自動車ローンのうち適格なものは、リスクウェイトを現行の一般的な100%から75%に下げる案である。対象は借り手の残高合計が300万ペソ（約750万円）以下で、貸出先が十分に分散していることが条件となる（同）。</li><li>直近12か月、残高を期日どおり全額返済したカード利用者向けは45%を提案する。中小企業向けの適格なカード債権も45%、その他の正常な中小企業向け貸出は75%である（同）。</li><li>自己居住用の適格な住宅ローンは、現行の50%から、担保掛け目（LTV）が60%未満なら30%、100%超なら70%までの幅とする案で、不動産担保の認定価値を鑑定額の60%までとする上限は外す案である（同）。</li></ul>",
+      "bodyHtml": "<h3>リスクウェイトを細かく分ける見直し</h3><p>The Philippine Starによると、BSPの通達案は、バーゼルIII基準への更新の一環として、貸出の区分を、より細かくリスクに敏感なものにする。リスクウェイトとは、貸出残高のうち自己資本規制の計算に入れる割合である。低いほど、銀行が積む資本は少なくて済む。今回の案は決定ではなく、記事には施行時期も意見募集の期限も書かれていない。</p><h3>個人・中小企業は軽く、住宅は担保比率で差</h3><p>個人向けでは、個人ローン、給与ローン、自動車ローンの適格な分を75%とする。対象は借り手の残高合計が300万ペソ以下の貸出で、貸出先が十分に分散していることを条件とする。カードは、過去12か月の残高を期日どおり全額返済してきた利用者向けを45%とする案である。中小企業向けは、適格なカード債権を45%、その他の正常な貸出を75%とする。現行規則でも、条件を満たして分散された中小企業向けの貸出群には75%が適用されており、それ以外の中小企業向けは一般に100%の企業向けウェイトである。</p><p>住宅ローンは逆に、借入比率で差をつける。自己居住用の適格な住宅ローンは現行50%だが、案ではLTVが60%未満なら30%、100%超なら70%とする。借入比率の高い融資には高い資本負担がかかる。不動産担保については、認定する担保価値を鑑定額の60%までに抑えている現行の上限をなくす案も含まれる。</p><h3>緩和が続く流れの中で</h3><p>BSPは今年、貸出を後押しする規則の見直しを重ねてきた。Manila Bulletinによると、2月11日に出した通達で、信託・受託口座に対する準備預金の要件を0%にし、抵当証書や動産抵当証書の発行に対する準備の義務も外した。2025年2月には、ユニバーサル銀行・商業銀行の準備預金比率を200ベーシスポイント引き下げて5%にした。4月には、給与ベースの個人ローンの返済期間を5年までとする上限を、返済能力などを見て決める方式に改める案を示し、意見募集の期限は4月20日だった。同紙は、居住者向けの消費者ローンが1月に21.3%の伸びとなり、12月の21.5%から鈍ったと伝えている。</p><p>今回の案が実現すれば、個人・中小向けの貸出を増やす余地が銀行に生まれる可能性がある。ただし、住宅ローンは借入比率の高い融資ほど資本負担が増えるため、銀行が融資の条件を見直すかが注目される。フィリピンで個人・中小向けの金融や販売金融に関わる日系企業は、取引銀行の与信姿勢の変化を確認しておく必要がある。最終的な数字は、意見募集を経て変わる可能性がある。</p><p>円換算は、本紙の直近の記事と同じ1ペソ＝約2.49円で算出した。</p>",
+      "dataFigure": "75%",
+      "dataLabel": "適格な個人向け融資に提案されたリスクウェイト（現行は一般に100%）",
+      "dataSource": "The Philippine Star、2026年11月19日（BSPの通達案）",
+      "chart": {
+        "bars": [
+          {
+            "label": "現行一般",
+            "value": 100,
+            "display": "100%"
+          },
+          {
+            "label": "個人向け",
+            "value": 75,
+            "display": "75%"
+          },
+          {
+            "label": "カード",
+            "value": 45,
+            "display": "45%"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "The Philippine Star",
+          "title": "BSP eyes lower capital charges for consumer, MSME loans",
+          "url": "https://www.philstar.com/business/2026/11/19/2571081/bsp-eyes-lower-capital-charges-consumer-msme-loans",
+          "date": "2026-11-19"
+        },
+        {
+          "name": "Manila Bulletin",
+          "title": "BSP cuts bank 'safety buffers' to make lending, investing easier",
+          "url": "https://mb.com.ph/2026/02/12/bsp-cuts-bank-safety-buffers-to-make-lending-investing-easier",
+          "date": "2026-02-12"
+        },
+        {
+          "name": "Manila Bulletin",
+          "title": "BSP shifts from 5-year loan cap to risk-based lending framework",
+          "url": "https://mb.com.ph/2026/04/10/bsp-shifts-from-5-year-loan-cap-to-risk-based-lending-framework",
+          "date": "2026-04-10"
+        }
+      ],
+      "seoTitle": "比中銀、個人・中小向け融資の資本負担軽減案",
+      "seoDescription": "フィリピン中央銀行はバーゼルIII対応の更新案で、適格な個人向け融資のリスクウェイトを100%から75%に下げる案を示した。中小向けも軽くし、住宅ローンは担保比率で差をつける。",
+      "tags": [
+        "フィリピン",
+        "BSP",
+        "バーゼルIII",
+        "リスクウェイト",
+        "中小企業融資",
+        "住宅ローン",
+        "自己資本規制"
+      ],
+      "publishAt": "2026-11-20T07:30:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/philippines-bsp-draft-risk-weights-retail-msme-basel-iii-nov-2026.png"
+    },
+    {
+      "slug": "thailand-agriculture-ministry-us-farm-access-review-nov-2026",
+      "title": "タイ農業省、米国産農産品の市場開放の影響を精査 19日に省内会合、豚肉と飼料に懸念",
+      "country": "タイ",
+      "category": "貿易・物流",
+      "articleType": "news",
+      "lead": "タイのスリヤ農業・協同組合相は、17日の米タイ共同声明を受け、米国産農産品の市場開放が国内に与える影響を省内で精査させる。19日に会合を開く。トランプ米大統領は、タイが約26億ドル（約414億円）の米農産品を追加購入すると主張している。",
+      "summaryHtml": "<ul><li>米国のトランプ大統領とタイのアヌティン首相（Anutin Charnvirakul）は11月17日、ASEAN首脳会議の合間にマニラで貿易に関する共同声明に署名した（AFP）。</li><li>トランプ氏は、タイが約26億ドルの米農産品を追加購入し、自動車、医療機器、医薬品、エタノール、鶏肉の非関税障壁を取り除くと表明した。豚肉、トウモロコシ、大豆への言及はない（AFP、Feedstuffs）。</li><li>スリヤ農業・協同組合相（Suriya Jungrungreangkit）は傘下の全機関に影響評価を命じ、省は19日に会合を開く。懸念品目は豚肉、飼料、エネルギー作物である（The Nation）。</li><li>スパチー副首相兼商務相（Suphajee Suthumpun）は18日、タイは米国製品の関税をすべて撤廃したわけではないと述べた（同）。</li><li>最終合意までには公聴会、国会審議、法令の改正といった国内手続きが残る（同）。</li></ul>",
+      "bodyHtml": "<h3>共同声明の中身と、数字の食い違い</h3><p>AFPによると、トランプ米大統領とアヌティン首相は17日、第49回ASEAN首脳会議に合わせてマニラで貿易に関する共同声明に署名した。トランプ氏は、タイが約26億ドルの米農産品を追加で購入し、米国製品への関税をすべて撤廃し、自動車、医療機器、医薬品、エタノール、鶏肉に関する非関税障壁を大幅に取り除くと述べた。これは米側の説明である。Feedstuffsも同じ内容を伝えており、豚肉、トウモロコシ、大豆は挙げられていない。一方、The Nationは26億ドルを年間の商業購入の見込みと書く。AFPとFeedstuffsは期間を示しておらず、確認した出典だけでは「年間」かどうかは判断できない。関税の範囲も、トランプ氏の「すべて」に対し、2025年10月の枠組みでは米国製品の99%とされていた（Feedstuffs）。</p><h3>農業省が懸念する品目</h3><p>The Nationによると、スリヤ農業・協同組合相は傘下の全機関に、米国産農産品への市場開放の影響を評価するよう命じた。省は19日に会合を開く。懸念として挙がるのは豚肉、飼料、エネルギー作物である。タイは従来、成長促進剤を使った米国産豚肉に反対してきたという。同紙が17日の署名前に報じた記事では、米国がタイに求める5項目の一つが農業分野で、米農務省食品安全検査局（FSIS）が認定した食肉・家禽の輸入許可の迅速化、ラクトパミンの規制、蒸留穀物かす（DDGS）に関する規則の見直しが含まれていた。タイ側が譲れない線として、スパチー副首相兼商務相は、成長促進剤を使った豚肉の衛生・植物検疫基準、安全保障、投資を挙げている。</p><h3>関税の行方と日系企業への影響</h3><p>The Nationの事前報道は、これらの交渉が米国の提案する19%の相互関税とセットで進んでいると伝えた。AFPは、2025年の枠組みが19%の基本関税を想定していたと書き、7月には強制労働の調査の一環として、タイからの輸入に12.5%の関税が課されたと報じる。調査は約60の国・地域が対象である。スパチー副首相は、米国がタイ最大の輸出市場で、2025年の輸出額は2兆3,700億バーツ（約11兆円）、約125万人の雇用に結びつくと説明した（The Nation）。AFPによれば、昨年のタイの対米貿易黒字は717億ドル（約11兆4,000億円）で、米側のデータによる。</p><p>日系企業にとっては、タイを拠点に米国向けへ出荷する製造業ほど、最終的な関税率が採算に響くとみられる。農産品の市場開放は、食品、飼料、畜産に関わる企業の調達や競争環境を変える可能性もある。ただし、品目別の関税や数量は公表されておらず、トランプ氏の説明と、タイが国内手続きを経て確定する内容が一致するかは今後の焦点である。アヌティン首相は最終合意が近く整うと述べたとAFPは伝えている。</p><p>円換算は、本紙の直近の記事と同じく、日本銀行が公表した11月17日の円相場（1ドル＝約159.3円）と、1バーツ＝約4.7円を用いた。</p>",
+      "dataFigure": "26億ドル",
+      "dataLabel": "トランプ氏が示したタイの米農産品の追加購入額（約414億円）",
+      "dataSource": "AFP（Kuwait Times転載）、2026年11月17日",
+      "sources": [
+        {
+          "name": "The Nation",
+          "title": "Thailand sets Nov 19 review of US farm import plan worth US$2.6bn a year",
+          "url": "https://www.nationthailand.com/business/trade/40073659",
+          "date": "2026-11-19"
+        },
+        {
+          "name": "AFP（Kuwait Times）",
+          "title": "US, Thailand ink trade statement",
+          "url": "https://kuwaittimes.com/article/53853/business/us-thailand-ink-trade-statement/",
+          "date": "2026-11-17"
+        },
+        {
+          "name": "Feedstuffs",
+          "title": "U.S. and Thailand advance trade agreement",
+          "url": "https://www.feedstuffs.com/policy/u-s-and-thailand-advance-trade-agreement",
+          "date": "2026-11-17"
+        },
+        {
+          "name": "The Nation",
+          "title": "Thailand weighs five US demands tied to 19% tariff ahead of Nov 17 statement",
+          "url": "https://www.nationthailand.com/business/trade/40073584",
+          "date": "2026-11-17"
+        }
+      ],
+      "seoTitle": "タイ農業省、米農産品の開放影響を精査",
+      "seoDescription": "タイ農業省は17日の米タイ共同声明を受け、米国産農産品の市場開放の影響を19日に協議する。豚肉や飼料が懸念。26億ドル購入の数字の食い違いも整理した。",
+      "tags": [
+        "タイ",
+        "米タイ共同声明",
+        "アヌティン首相",
+        "スリヤ農業相",
+        "スパチー副首相",
+        "相互関税",
+        "豚肉",
+        "農産品"
+      ],
+      "publishAt": "2026-11-20T07:00:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/thailand-agriculture-ministry-us-farm-access-review-nov-2026.png"
+    },
     {
       "slug": "thailand-online-travel-agencies-register-airfare-new-year-2026",
       "title": "タイ運輸省、オンライン旅行大手に国内登録を要請へ 年末年始の航空運賃高騰を受け",
