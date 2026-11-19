@@ -1,0 +1,42 @@
+{
+  "slug": "singapore-national-ai-missions-financial-services-fintech-festival-2026",
+  "title": "シンガポール、金融向け国家AIミッション3分野を発表 詐欺対策やAI自律決済を試験",
+  "country": "シンガポール",
+  "category": "IT・スタートアップ",
+  "articleType": "news",
+  "lead": "シンガポールのガン・キムヨン副首相は11月18日、フィンテック祭で金融サービス向けの国家AIミッション3分野を示した。詐欺対策、中小企業の融資、AIエージェントの安全な決済が柱で、合成データや試験環境が順次用意される。",
+  "summaryHtml": "<ul><li>ガン・キムヨン副首相（Gan Kim Yong、通貨庁MAS議長）は11月18日、シンガポール・フィンテック・フェスティバル（18〜20日）で、金融サービス向けの国家AIミッション3分野を示した。金融犯罪対策、中小企業の融資アクセス改善、AIエージェントの安全な取引である（MAS、TNGlobal）。</li><li>金融犯罪では、5行が取引データを持ち寄る実証がすでに進む。MASは来年初めに、業界横断の詐欺検知基盤の設計調査を始める（MAS）。</li><li>MASと金融の未来研究所（Future of Finance Institute、FFI）は、合成データでAIを開発・検証するAI Innovation Arenaを始める。当面は詐欺検知が対象で、関心表明を募る（TNGlobal）。</li><li>FFIは、AIエージェントが一定の権限と上限のもとでデジタルマネーを使って取引するAgentic Money Sandboxを設ける。初期の用途はエージェント主導の決済と資金管理である（TNGlobal）。</li><li>立ち上げ時の参加金融機関はDBS、OCBC、スタンダードチャータード、UOBである。資金額や開始期限は示されていない（TNGlobal）。</li></ul>",
+  "bodyHtml": "<h3>3つのミッションの中身</h3><p>MASが公表したガン副首相の演説によると、金融サービス向けの国家AIミッションは3つある。1つ目の金融犯罪対策では、5行が取引データを持ち寄って検証する実証がすでに進んでいる。MASは来年初めに、業界横断の詐欺検知ユーティリティの設計調査を始める予定で、当初の対象はシンガポール国内の口座とデータである。2つ目は、実績の乏しい企業を含む中小企業の融資アクセスの改善である。AI企業を招いて合成データで解決策を開発・検証してもらい、金融機関と政府機関がデータを提供し、中小企業の意見も聞くという。3つ目は、AIエージェントが定められた権限と上限の範囲で取引できるようにする取り組みで、契約条件が満たされると自動で支払われる決済や、利用者に代わる購入などを管理された環境で試す。演説は目的を限定したマネー（purpose bound money）を重点分野に挙げた。</p><h3>試験環境と推進体制</h3><p>TNGlobalによると、MASとFFIが始めるAI Innovation Arenaは、AIを作り、試すための合成データを提供する。技術企業、AI研究所、ソリューション提供企業、研究機関から関心表明を受け付け、将来はほかのミッションにも広げる可能性がある。FFIはAgentic Money Sandboxのほか、シンガポール科学技術研究庁（A*STAR）の先端知能・計算研究所と音声のテキスト化AIを実際の試験運用に移す。用途の例は、オペレーショナルリスク管理のためのリアルタイムのコンプライアンス監視である。人材面では、AI Singaporeと金融分野向けの育成を進め、見習いプログラムも含める。演説によると、2026年に設けられた国家AI評議会（議長はローレンス・ウォン首相、Lawrence Wong）が金融を含む重要分野のAI活用を後押しし、FFIが産業界、研究者、政府機関の調整やガイドライン作りを担う。</p><h3>日系企業への影響と今後の見通し</h3><p>シンガポールで金融サービスや決済事業を手がける日系企業にとって、詐欺検知の業界共通基盤やAIエージェント決済の規則づくりは、事業環境に関わるとみられる。AI Innovation Arenaの関心表明は技術企業などに開かれているが、日系のAI・フィンテック企業の参加資格など細かな条件は、確認した資料には記載がない。資金額も開始日も示されておらず、実際の規模や進み方は今後の発表を待つ必要がある。来年初めに始まる詐欺検知基盤の設計調査と、Agentic Money Sandboxの運用開始が、当面の注目点になる。</p>",
+  "dataFigure": "5行",
+  "dataLabel": "不正対策の実証で取引データを持ち寄る銀行の数",
+  "dataSource": "シンガポール通貨庁（MAS）、2026年11月18日",
+  "sources": [
+    {
+      "name": "シンガポール通貨庁（MAS）",
+      "title": "Ministerial Keynote by DPM Gan Kim Yong at the Singapore FinTech Festival 2026",
+      "url": "https://www.mas.gov.sg/news/speeches/2026/ministerial-keynote-by-dpm-at-singapore-fintech-festival-2026",
+      "date": "2026-11-18"
+    },
+    {
+      "name": "TNGlobal",
+      "title": "Singapore launches initiatives to support National AI Missions for financial services",
+      "url": "https://technode.global/2026/11/18/singapore-launches-initiatives-to-support-national-ai-missions-for-financial-services/",
+      "date": "2026-11-18"
+    }
+  ],
+  "seoTitle": "シンガポール、金融向け国家AIミッション3分野を発表",
+  "seoDescription": "シンガポールは11月18日、金融向けの国家AIミッションとして詐欺対策、中小企業融資、AIエージェントの安全な決済の3分野を示し、試験環境を設けると発表した。",
+  "tags": [
+    "シンガポール",
+    "MAS",
+    "ガン・キムヨン副首相",
+    "Future of Finance Institute",
+    "AIエージェント",
+    "詐欺対策",
+    "DBS",
+    "シンガポール・フィンテック・フェスティバル"
+  ],
+  "publishAt": "2026-11-19T11:30:00+09:00",
+  "language": "ja",
+  "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/singapore-national-ai-missions-financial-services-fintech-festival-2026.png"
+}

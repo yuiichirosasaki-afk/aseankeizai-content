@@ -1,7 +1,241 @@
 {
-  "generatedAt": "2026-11-19T06:22:09+09:00",
+  "generatedAt": "2026-11-19T10:20:07+09:00",
   "site": "東南アジア経済新聞",
   "articles": [
+    {
+      "slug": "singapore-paynow-generation-2-roadmap-sgqr-plus-2027-2028",
+      "title": "シンガポール、PayNow第2世代の工程表を公表 2027年にQR相互運用、高額決済も試行",
+      "country": "シンガポール",
+      "category": "金融・市場",
+      "articleType": "news",
+      "lead": "シンガポール通貨庁（MAS）と銀行協会（ABS）は11月18日、即時決済システムPayNowの第2世代に向けた実施工程表を公表した。2027年にQRコードの相互運用を限定導入し、同年後半には高額決済の試行も始める。",
+      "summaryHtml": "<ul><li>MASとシンガポール銀行協会（ABS）は11月18日、報告書PayNow Generation 2と実施工程表を発表した。決済をより簡単、安全で利用しやすくすることが狙いである（MAS）。</li><li>2027年にQRコードの相互運用SGQR+を限定導入する。利用者は対応するQRの種類を確認せず、好みのアプリで加盟店に支払えるようになる（MAS）。</li><li>2027年末までに、ECの決済画面から決済アプリへ移るディープリンクの共通標準と中央機能を整える。高額決済は同年後半に政府機関1つと限定導入し、決済は即時に確認される（MAS）。</li><li>2028年にはSGQR+の対象に域内のQRネットワークを加え、加盟店向けの紛争、返金、詐欺・スキャムのルールを段階的に導入する。データを使ったサービスも2028年以降に始められる（MAS）。</li><li>取引の上限額などの具体的な数値は、公表資料に示されていない（MAS）。</li></ul>",
+      "bodyHtml": "<h3>QR決済とEC決済の使い勝手を変える</h3><p>MASによると、報告書は第1段階で見つかった課題を埋める位置づけで、利用者、小規模加盟店、居住者、訪問客、決済事業者、マーケットプレイス、政府機関などへの聞き取りを踏まえた。工程表の目玉の1つがSGQR+である。2027年に限定導入し、利用者は店頭でどのQR方式に対応しているかを気にせず、好みのアプリで支払える。2028年には、域内のQRネットワークを加え、対象を広げる。ガン・キムヨン副首相（Gan Kim Yong）は、11月18日のシンガポール・フィンテック・フェスティバルの演説で、居住者と訪問客がSGQR+のどのラベルでも自分のQRアプリで支払える仕組みだと説明した。ECでは、決済画面から決済アプリへ直接移るディープリンクの共通技術標準と中央機能を2027年末までに用意し、QRの画面保存などの手間を省く。2028年に対応先を順次増やす。</p><h3>高額決済、加盟店ルール、データ項目</h3><p>高額決済は、2027年後半に政府機関1つと限定導入し、即時に決済が確認される仕組みにする。2028年には他の政府機関に広げる。2027年末からは、より多くの構造化された決済情報を運べる拡張データ項目も導入する。個人から加盟店への決済（P2M）の紛争、返金、詐欺・スキャムに関するルールは2028年から段階的に設け、シンガポール決済ネットワーク（SPaN）が監督する。データを使ったサービスも、2028年以降に始められる。MASは、将来の決済基盤の設計図となるFuture Payment Rails Blueprintも作る。目的は、運営コストの低下、新商品の市場投入の迅速化、国の決済基盤の耐障害性の向上、適時の革新である。</p><h3>AIエージェント決済への備えと日系企業への影響</h3><p>MASは、AIエージェントによる決済を含む新しい決済に必要な機能について、SPaNやBanking Computer Servicesなどと検討する。ごく少額で高頻度、大量の決済を経済的に処理できるかの試験や、定期払い・非接触決済向けのトークン化された決済用認証情報の検討も続ける。演説では、事業者や政府機関向けにプログラム可能な決済の仕組みも触れられた。</p><p>シンガポールで店舗やECを運営する日系企業にとっては、複数のQR方式を使い分ける手間が減り、決済画面の離脱も抑えられる可能性がある。一方、P2Mのルールは紛争や返金の責任の分担に関わるため、加盟店側の運用の見直しにつながるとみられる。ただ、導入範囲や期日の細部、費用負担は公表資料からは確認できない。2027年の限定導入の対象と、2028年のルール導入の具体的な内容が、当面の注目点になる。</p>",
+      "dataFigure": "2027年末",
+      "dataLabel": "ディープリンクの共通標準や拡張データ項目などの導入時期",
+      "dataSource": "シンガポール通貨庁（MAS）・銀行協会、2026年11月18日",
+      "sources": [
+        {
+          "name": "シンガポール通貨庁（MAS）",
+          "title": "MAS and ABS Set Out PayNow Generation 2 Implementation Roadmap",
+          "url": "https://www.mas.gov.sg/news/media-releases/2026/mas-and-abs-set-out-paynow-generation-2-implementation-roadmap",
+          "date": "2026-11-18"
+        },
+        {
+          "name": "シンガポール通貨庁（MAS）",
+          "title": "Ministerial Keynote by DPM Gan Kim Yong at the Singapore FinTech Festival 2026",
+          "url": "https://www.mas.gov.sg/news/speeches/2026/ministerial-keynote-by-dpm-at-singapore-fintech-festival-2026",
+          "date": "2026-11-18"
+        }
+      ],
+      "seoTitle": "シンガポール、PayNow第2世代の工程表を公表",
+      "seoDescription": "MASと銀行協会は11月18日、PayNow第2世代の工程表を公表した。2027年にQRの相互運用SGQR+を限定導入し、同年後半に高額決済も試行する。",
+      "tags": [
+        "シンガポール",
+        "PayNow",
+        "MAS",
+        "シンガポール銀行協会",
+        "SGQR+",
+        "QRコード決済",
+        "即時決済",
+        "ガン・キムヨン副首相"
+      ],
+      "publishAt": "2026-11-19T13:00:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/singapore-paynow-generation-2-roadmap-sgqr-plus-2027-2028.png"
+    },
+    {
+      "slug": "philippines-japan-strategic-petroleum-reserve-moc-pnoc-nov-2026",
+      "title": "フィリピンと日本、戦略石油備蓄の協力覚書に署名 日本企業の貯蔵事業参画も検討",
+      "country": "フィリピン",
+      "category": "エネルギー・環境",
+      "articleType": "news",
+      "lead": "フィリピンのエネルギー省は11月17日、日本と戦略石油備蓄の整備に関する協力覚書に署名したと発表した。備蓄施設の整備や資金手当てを探り、日本企業が国営石油会社PNOC主導の貯蔵事業に参加する可能性も検討する。",
+      "summaryHtml": "<ul><li>フィリピンのエネルギー省（DOE）は11月17日、日本と戦略石油備蓄の整備に関する協力覚書（MOC）に署名したと発表した。署名者は報道では示されていない（Manila Times）。</li><li>備蓄の整備、管理、放出の枠組みを定める。国営石油会社PNOC（Philippine National Oil Company）主導の貯蔵事業に、日本企業が参加する可能性も探る（Manila Times）。</li><li>技術協力には、日本のJOGMEC、JICA、東アジア・アセアン経済研究センター（ERIA）の既存の取り組みを活用する（Manila Times）。</li><li>高市早苗首相（Sanae Takaichi）はASEAN首脳会議に合わせたAZEC首脳会合で、日本が提案する構想を「アジア版の国際エネルギー機関（IEA）に相当するもの」として進める意向を示した（Manila Times）。</li><li>備蓄の量や費用は公表されていない（Manila Times）。</li></ul>",
+      "bodyHtml": "<h3>覚書の枠組み</h3><p>Manila Timesによると、DOEは11月17日（火曜日）に、日本との協力覚書への署名を発表した。目的は、世界的な石油供給の途絶に備え、同国の戦略石油備蓄の整備を進めることである。覚書は、同国の燃料の需給や市場の状況、緊急時の対応の必要性を踏まえ、備蓄を築き、管理し、放出するための枠組みを示す。両国は貯蔵インフラを検討し、PNOCが主導する備蓄事業への日本企業の参加も探る。実現可能性調査が進んでいる備蓄施設の整備と、資金面の手当ての特定も対象になる。技術面ではJOGMEC、JICA、ERIAの既存の取り組みを使い、人材育成、石油安全保障の評価、政策づくり、知識の交換を進める。署名した当事者名は記事に書かれていない。</p><h3>5月の日比合意からの流れ</h3><p>背景には、中東情勢の緊張に伴うエネルギー危機がある。GMA Newsによると、日本の経済産業省とフィリピンのDOEは5月28日、マルコス大統領の訪日を受けて共同声明を出し、同国の戦略石油備蓄計画を日本が支援すると表明した。計画には新しい貯蔵施設の建設が含まれる。日本はさらに、ERIAによる資金調達の工程表づくりを皮切りに、ASEAN全体での共同備蓄も支援するとした。実現可能性調査や能力構築では、ERIA、JOGMEC、国際協力銀行（JBIC）、日本の商社やエンジニアリング会社と連携する方針で、中東などの産油国にも働きかける。これに先立つ4月には、マルコス氏が高市氏主催のAZECプラス・オンライン首脳会合で、共同備蓄の地域調査を呼びかけていた。</p><h3>地域の枠組みづくりと日系企業への影響</h3><p>Manila Timesによると、日本はこの構想をASEAN首脳に提案しており、フィリピンが主導する共同備蓄の枠組みと調整する。高市氏は、日本が進める構想をアジア版IEAに当たるものとして推進する考えを示し、中東の産油国とアジアの消費国の協力を強める提案にも触れた。シャロン・ガリン・エネルギー長官（Sharon Garin）は、石油備蓄と緊急時の供給放出を調整するタスクフォースを歓迎した。同長官は、何に署名するかの最終判断は首脳会合に委ねられるとも述べており、記事だけでは、覚書と地域の枠組みの関係の全体像は確認できない。</p><p>日系企業にとっては、商社やエンジニアリング会社、エネルギー企業が、貯蔵施設の建設や運営、資金の仕組みづくりに関わる余地が出てくる可能性がある。ただし、備蓄量、費用、事業の発注時期は示されておらず、実現可能性調査の結果を待つ必要がある。今後は、調査の進み具合と、PNOC主導の事業への日本企業の参加条件、地域の共同備蓄の枠組みの具体化が注目される。</p>",
+      "dataFigure": "11/17",
+      "dataLabel": "比エネルギー省が日本との備蓄協力覚書の署名を発表した日",
+      "dataSource": "Manila Times、2026年11月18日",
+      "sources": [
+        {
+          "name": "Manila Times",
+          "title": "PH, Japan sign oil reserves pact",
+          "url": "https://www.manilatimes.net/2026/11/18/business/top-business/ph-japan-sign-oil-reserves-pact/2472378",
+          "date": "2026-11-18"
+        },
+        {
+          "name": "GMA News Online",
+          "title": "Japan backs PH strategic petroleum reserve program (joint statement)",
+          "url": "https://www.gmanetwork.com/news/topstories/nation/989371/japan-oil-stockpile/story/",
+          "date": "2026-05-28"
+        }
+      ],
+      "seoTitle": "フィリピンと日本、戦略石油備蓄で協力覚書に署名",
+      "seoDescription": "フィリピンのエネルギー省は11月17日、日本と戦略石油備蓄の整備に関する協力覚書に署名したと発表した。日本企業が貯蔵事業に参加する可能性も検討する。",
+      "tags": [
+        "フィリピン",
+        "戦略石油備蓄",
+        "協力覚書",
+        "高市早苗首相",
+        "シャロン・ガリン",
+        "JOGMEC",
+        "PNOC",
+        "AZEC"
+      ],
+      "publishAt": "2026-11-19T12:30:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/philippines-japan-strategic-petroleum-reserve-moc-pnoc-nov-2026.png"
+    },
+    {
+      "slug": "vietnam-ai360-2026-ai-law-implementation-2030-public-services",
+      "title": "ベトナムAIフォーラム、実運用への移行が焦点 2030年に公共サービス全面でAI導入目標",
+      "country": "ベトナム",
+      "category": "IT・スタートアップ",
+      "articleType": "news",
+      "lead": "ハノイで11月18日に開かれたAIフォーラムAI360 2026で、業界団体は2026年をAIが実運用に入る年と位置づけた。AI法は3月に施行済みで、2030年までにオンライン公共サービスの全面でAIを組み込む目標も紹介された。",
+      "summaryHtml": "<ul><li>11月18日にハノイで開かれたAI360 2026で、ベトナムソフトウェア・ITサービス協会（Vinasa）のグエン・ヴァン・コア会長（Nguyễn Văn Khoa）は、現在の重点は実施にあると述べた（VnExpress）。</li><li>AI法は2025年12月10日に成立し、2026年3月1日に施行された。VnExpressは8月に国家AI戦略が承認されたとも伝えている（Allen &amp; Gledhill、VnExpress）。</li><li>2030年までの目標として、オンライン公共サービスの100%にAIを組み込み、競争力のあるベトナムのAIブランドを少なくとも10つ育てることが挙げられた（VnExpress）。</li><li>会場で紹介されたEYのCEO調査（10月公表）では、99%が過去12カ月で生産性の大幅な向上を報告した。一方、AIコストをリアルタイムで把握しROIを測れる組織は16%だった（VnExpress）。</li><li>AI法は高・中・低リスクに分類し、高リスクには事前の適合性評価を求める。外国の提供者にはベトナム国内の連絡窓口が必要になる（Allen &amp; Gledhill）。</li></ul>",
+      "bodyHtml": "<h3>法と戦略が整い、論点は実施へ</h3><p>VnExpressによると、Vinasaのコア会長は、AI法が道を開き、戦略が方向性を示したため、現在の重点は実施にあると述べた。2026年はベトナムのAIが実運用に入る年だとも語り、国内のIT企業には明確な規則と管理された試験の仕組みがあることが好機になるとの見方を示した。科学技術省デジタル技術・AI局のチャン・アイン・トゥ副局長（Trần Anh Tú）は、AIの需要を、利用者、必要な成果物、受け入れ基準を持つ明確な課題に落とし込むことで、行政機関がサービスを発注・調達できるようになると述べた。国内のAI企業が国家のAI開発の中核であり、研究機関や大学、他企業との連携が必要だとも述べている。会場では、取り組みを実際の課題と目標、指標から始めること、データ、連携、研修、運用まで含めた費用を把握することの重要性も強調された。</p><h3>企業が直面するコストと法対応</h3><p>EY Vietnam（EYベトナム）のグエン・ヴィエット・ロン副CEO（Nguyễn Việt Long）は、AIが生産性を高める一方、投資対効果の測定とコスト管理が難しいと指摘した。同氏が紹介したEYのCEO調査（10月公表）では、99%が過去12カ月で生産性の大幅な向上を報告し、48%がその成果を成長と革新に再投資すると答えた。その一方で、AIコストをリアルタイムで完全に追跡し、ROIを確信をもって測れる組織は16%にとどまる。82%の経営層がトークン使用に伴うコストを懸念し、98%がトークンコストを理由にAIの進め方を見直した。予算や上限に対してトークンを積極的に追跡しているのは64%である。この調査の対象が世界か同国かは、記事からは判別できない。</p><p>法対応の面では、法律事務所Allen &amp; Gledhillによると、AI法は2025年12月10日に国会で成立し、2026年3月1日に施行された。AIシステムを高・中・低リスクに分け、人命や権利などに重大な害を及ぼしうる高リスクには、導入前と大きな変更後の適合性評価、リスク管理、記録の保存を求める。外国の提供者はベトナムに連絡窓口を置く必要がある。AIとのやり取りであることの明示や、AI生成の音声・画像・動画への機械可読な表示も、提供者の義務になる。施行前から稼働していたシステムの移行期間は、医療、教育、金融が18カ月、その他の分野が12カ月である。施行日から数えると、その他の分野は2027年3月ごろ、医療・教育・金融は同年9月ごろが目安になるとみられる（本紙の計算）。</p><h3>日系企業への影響と今後の見通し</h3><p>ベトナムでAIを使ったサービスを提供する日系企業や、顧客対応、製造、金融の現場でAIを使う進出企業は、自社のシステムがどのリスク区分に当たるかの確認が必要になるとみられる。外国の提供者に連絡窓口が求められる点は、日本のAIサービス事業者が同国に展開する際の手続きに関わる。行政側が課題を定義して調達する方針を示したことで、公共分野の案件が増える可能性もあるが、具体的な発注規模は今回の報道では確認できない。今後は、AI法の詳細な運用規則や罰則の細則、移行期間の終わりに向けた各社の対応が注目される。</p>",
+      "dataFigure": "100%",
+      "dataLabel": "2030年までにAIを組み込むオンライン公共サービスの目標比率",
+      "dataSource": "VnExpress、2026年11月18日",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "title": "Việt Nam đẩy mạnh đưa AI vào hoạt động thực tế",
+          "url": "https://vnexpress.net/viet-nam-day-manh-dua-ai-vao-hoat-dong-thuc-te-5146217.html",
+          "date": "2026-11-18"
+        },
+        {
+          "name": "Allen & Gledhill",
+          "title": "Vietnam's new Law on Artificial Intelligence: Risk-based regulatory framework in force 1 March 2026",
+          "url": "https://www.allenandgledhill.com/sg/publication/articles/32667/s-new-law-on-artificial-intelligence-risk-based-regulatory-framework-in-force-1-march-2026",
+          "date": "2026-03"
+        }
+      ],
+      "seoTitle": "ベトナムAI360、AI法施行後の実運用が焦点",
+      "seoDescription": "ハノイのAIフォーラムAI360 2026で、業界団体は実運用への移行を強調した。AI法は3月に施行済みで、2030年にオンライン公共サービスの全面AI対応を目指す。",
+      "tags": [
+        "ベトナム",
+        "AI法",
+        "AI360 2026",
+        "Vinasa",
+        "EY Vietnam",
+        "国家AI戦略",
+        "ハノイ",
+        "科学技術省"
+      ],
+      "publishAt": "2026-11-19T12:00:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/vietnam-ai360-2026-ai-law-implementation-2030-public-services.png"
+    },
+    {
+      "slug": "singapore-national-ai-missions-financial-services-fintech-festival-2026",
+      "title": "シンガポール、金融向け国家AIミッション3分野を発表 詐欺対策やAI自律決済を試験",
+      "country": "シンガポール",
+      "category": "IT・スタートアップ",
+      "articleType": "news",
+      "lead": "シンガポールのガン・キムヨン副首相は11月18日、フィンテック祭で金融サービス向けの国家AIミッション3分野を示した。詐欺対策、中小企業の融資、AIエージェントの安全な決済が柱で、合成データや試験環境が順次用意される。",
+      "summaryHtml": "<ul><li>ガン・キムヨン副首相（Gan Kim Yong、通貨庁MAS議長）は11月18日、シンガポール・フィンテック・フェスティバル（18〜20日）で、金融サービス向けの国家AIミッション3分野を示した。金融犯罪対策、中小企業の融資アクセス改善、AIエージェントの安全な取引である（MAS、TNGlobal）。</li><li>金融犯罪では、5行が取引データを持ち寄る実証がすでに進む。MASは来年初めに、業界横断の詐欺検知基盤の設計調査を始める（MAS）。</li><li>MASと金融の未来研究所（Future of Finance Institute、FFI）は、合成データでAIを開発・検証するAI Innovation Arenaを始める。当面は詐欺検知が対象で、関心表明を募る（TNGlobal）。</li><li>FFIは、AIエージェントが一定の権限と上限のもとでデジタルマネーを使って取引するAgentic Money Sandboxを設ける。初期の用途はエージェント主導の決済と資金管理である（TNGlobal）。</li><li>立ち上げ時の参加金融機関はDBS、OCBC、スタンダードチャータード、UOBである。資金額や開始期限は示されていない（TNGlobal）。</li></ul>",
+      "bodyHtml": "<h3>3つのミッションの中身</h3><p>MASが公表したガン副首相の演説によると、金融サービス向けの国家AIミッションは3つある。1つ目の金融犯罪対策では、5行が取引データを持ち寄って検証する実証がすでに進んでいる。MASは来年初めに、業界横断の詐欺検知ユーティリティの設計調査を始める予定で、当初の対象はシンガポール国内の口座とデータである。2つ目は、実績の乏しい企業を含む中小企業の融資アクセスの改善である。AI企業を招いて合成データで解決策を開発・検証してもらい、金融機関と政府機関がデータを提供し、中小企業の意見も聞くという。3つ目は、AIエージェントが定められた権限と上限の範囲で取引できるようにする取り組みで、契約条件が満たされると自動で支払われる決済や、利用者に代わる購入などを管理された環境で試す。演説は目的を限定したマネー（purpose bound money）を重点分野に挙げた。</p><h3>試験環境と推進体制</h3><p>TNGlobalによると、MASとFFIが始めるAI Innovation Arenaは、AIを作り、試すための合成データを提供する。技術企業、AI研究所、ソリューション提供企業、研究機関から関心表明を受け付け、将来はほかのミッションにも広げる可能性がある。FFIはAgentic Money Sandboxのほか、シンガポール科学技術研究庁（A*STAR）の先端知能・計算研究所と音声のテキスト化AIを実際の試験運用に移す。用途の例は、オペレーショナルリスク管理のためのリアルタイムのコンプライアンス監視である。人材面では、AI Singaporeと金融分野向けの育成を進め、見習いプログラムも含める。演説によると、2026年に設けられた国家AI評議会（議長はローレンス・ウォン首相、Lawrence Wong）が金融を含む重要分野のAI活用を後押しし、FFIが産業界、研究者、政府機関の調整やガイドライン作りを担う。</p><h3>日系企業への影響と今後の見通し</h3><p>シンガポールで金融サービスや決済事業を手がける日系企業にとって、詐欺検知の業界共通基盤やAIエージェント決済の規則づくりは、事業環境に関わるとみられる。AI Innovation Arenaの関心表明は技術企業などに開かれているが、日系のAI・フィンテック企業の参加資格など細かな条件は、確認した資料には記載がない。資金額も開始日も示されておらず、実際の規模や進み方は今後の発表を待つ必要がある。来年初めに始まる詐欺検知基盤の設計調査と、Agentic Money Sandboxの運用開始が、当面の注目点になる。</p>",
+      "dataFigure": "5行",
+      "dataLabel": "不正対策の実証で取引データを持ち寄る銀行の数",
+      "dataSource": "シンガポール通貨庁（MAS）、2026年11月18日",
+      "sources": [
+        {
+          "name": "シンガポール通貨庁（MAS）",
+          "title": "Ministerial Keynote by DPM Gan Kim Yong at the Singapore FinTech Festival 2026",
+          "url": "https://www.mas.gov.sg/news/speeches/2026/ministerial-keynote-by-dpm-at-singapore-fintech-festival-2026",
+          "date": "2026-11-18"
+        },
+        {
+          "name": "TNGlobal",
+          "title": "Singapore launches initiatives to support National AI Missions for financial services",
+          "url": "https://technode.global/2026/11/18/singapore-launches-initiatives-to-support-national-ai-missions-for-financial-services/",
+          "date": "2026-11-18"
+        }
+      ],
+      "seoTitle": "シンガポール、金融向け国家AIミッション3分野を発表",
+      "seoDescription": "シンガポールは11月18日、金融向けの国家AIミッションとして詐欺対策、中小企業融資、AIエージェントの安全な決済の3分野を示し、試験環境を設けると発表した。",
+      "tags": [
+        "シンガポール",
+        "MAS",
+        "ガン・キムヨン副首相",
+        "Future of Finance Institute",
+        "AIエージェント",
+        "詐欺対策",
+        "DBS",
+        "シンガポール・フィンテック・フェスティバル"
+      ],
+      "publishAt": "2026-11-19T11:30:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/singapore-national-ai-missions-financial-services-fintech-festival-2026.png"
+    },
+    {
+      "slug": "philippines-us-trade-deal-trump-marcos-nov-2026-tariff-12-5-percent",
+      "title": "トランプ氏、比と貿易合意成立と表明 詳細は非公表 追加関税12.5%の扱いが焦点",
+      "country": "フィリピン",
+      "category": "政治・政策",
+      "articleType": "news",
+      "lead": "トランプ米大統領は11月18日、マニラでのマルコス大統領主催の昼食会で、フィリピンと非常に大きな貿易合意を取りまとめたと述べた。関税率などの条件は米比とも示しておらず、比側は経済協力の分野で理解に達したと説明している。",
+      "summaryHtml": "<ul><li>トランプ米大統領は11月18日、マニラのマラカニアン宮殿でマルコス大統領が開いた昼食会で、フィリピンと「非常に大きな貿易合意」を結んだと述べた。双方にとって公正な合意だとも語った（Free Malaysia Today配信のロイター電、Philstar）。</li><li>合意の条件、関税率、金額は米比とも明らかにしていない。トランプ氏はSNSで、米国の農家とエネルギー分野に利益になると述べた（Free Malaysia Today）。</li><li>比大統領府は「経済協力の分野で理解に達した」と説明し、貿易合意には触れていない。通商担当者が約束を具体策に落とし込む（Free Malaysia Today）。</li><li>ロムアルデス駐米大使は、米側が食料とエネルギー調達の多角化を提案したと述べ、何かに署名したかとの問いにはないと答えた（Free Malaysia Today）。</li><li>比の輸出品には7月24日から米国の追加関税12.5%がかかっている。相互関税の下では19%だった（Philstar）。</li></ul>",
+      "bodyHtml": "<h3>詳細が出ない合意</h3><p>ロイター電を配信したFree Malaysia Todayによると、トランプ氏は11月18日、マラカニアン宮殿でのフェルディナンド・マルコス・ジュニア大統領（Ferdinand Marcos Jr.）主催の昼食会で合意に言及した。Philstarは、同氏が合意を事前には予想されていなかったが非常に速く成立したものと説明したと伝えている。両紙とも、条件は公表されていないとしている。トランプ氏はSNSで米農家とエネルギー分野に利益があると述べたが、これにも具体的な内容はなかった。Philstarによると、二国間会談では原子力分野で大規模な協力をする可能性にも触れ、計画中のアラスカ州のパイプラインのガスを比に供給する考えも示した。</p><h3>比側は経済協力の理解と表現</h3><p>比大統領府の声明は、経済協力の分野で理解に達したとし、貿易合意という言葉は使っていないという（Free Malaysia Today）。通商担当者が約束を具体的な取り組みにする作業を進める。ロムアルデス駐米大使（Jose Manuel Romualdez）は、米側が食料とエネルギーの調達先の多角化を提案したと述べた。Philstarは、米国主導の重要技術・鉱物のサプライチェーン構想Pax Silicaに関する合意が今回の訪問中には署名されないことを、マルコス氏と米大使が会談の冒頭に確認したと伝えている。現時点で文書として確認できる合意はなく、トランプ氏の発言と比側の説明の間には温度差があるように見える。なお、Philstarはホワイトハウスのこの件に関するSNS投稿を火曜日と記しており、18日の昼食会での発言との前後関係は、これらの報道だけでは判然としない。</p><h3>焦点は追加関税12.5%の行方</h3><p>Philstarによると、比の輸出品には7月24日から追加の米関税12.5%がかかっている。強制労働で作られた製品の輸入を禁止する措置を比が導入し、効果的に執行していないと米政府が判断したためで、米最高裁が従来の相互関税を無効とする判断を出した後にかかっていた10%の課税に代わるものである。相互関税の下では比の税率は19%だった。8月には比政府が、強制労働由来品の輸入禁止を導入した国に米国が適用する10%への引き下げを交渉していると説明していた。通商相のクリスティーナ・ロケ氏（Cristina Roque）は会談で関税を取り上げ、結果を後で公表するとしていたが、Philstarはその結果を伝えていない。今回の合意でこの税率がどうなるかは、現時点で確認できない。</p><h3>日系企業への影響と今後の見通し</h3><p>フィリピンから米国向けに製品を輸出する日系の製造業にとって、米関税の水準は採算を左右する。ただ、今回は税率が変わるかどうかを判断できる材料がなく、比側の説明も経済協力にとどまる。トランプ氏が挙げた農業とエネルギーが合意の中身になるかも、確認できる範囲では分からない。合意文書や米政府の関税措置の公表を待つ必要がある。今後は、米比の通商当局が詰める具体策と、12.5%の追加関税の扱いが注目される。</p>",
+      "dataFigure": "12.5%",
+      "dataLabel": "米国が比輸出品に上乗せしている追加関税（7月24日から）",
+      "dataSource": "Philstar、2026年11月18日",
+      "chart": {
+        "bars": [
+          {
+            "label": "相互関税",
+            "value": 19,
+            "display": "19%"
+          },
+          {
+            "label": "最高裁後",
+            "value": 10,
+            "display": "10%"
+          },
+          {
+            "label": "7/24〜",
+            "value": 12.5,
+            "display": "12.5%"
+          },
+          {
+            "label": "交渉目標",
+            "value": 10,
+            "display": "10%"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "Free Malaysia Today（ロイター配信）",
+          "title": "Trump says US wraps up 'very big trade deal' with Philippines",
+          "url": "https://www.freemalaysiatoday.com/category/business/2026/11/18/trump-says-us-wraps-up-very-big-trade-deal-with-philippines",
+          "date": "2026-11-18"
+        },
+        {
+          "name": "Philstar",
+          "title": "Trump says US, Philippines sealed 'biggest' trade deal",
+          "url": "https://www.philstar.com/headlines/2026/11/18/2570994/trump-says-us-philippines-sealed-biggest-trade-deal",
+          "date": "2026-11-18"
+        }
+      ],
+      "seoTitle": "トランプ氏、フィリピンと「貿易合意」表明 詳細は非公表",
+      "seoDescription": "トランプ米大統領は11月18日、フィリピンと「非常に大きな貿易合意」を結んだと述べた。関税率など条件は非公表で、比側は経済協力の理解と説明している。",
+      "tags": [
+        "フィリピン",
+        "トランプ大統領",
+        "マルコス大統領",
+        "米比貿易合意",
+        "追加関税",
+        "Pax Silica",
+        "ロムアルデス駐米大使",
+        "クリスティーナ・ロケ"
+      ],
+      "publishAt": "2026-11-19T11:00:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/philippines-us-trade-deal-trump-marcos-nov-2026-tariff-12-5-percent.png"
+    },
     {
       "slug": "singapore-mas-bundesbank-project-simbolon-cbdc-eur-sgd-settlement-test",
       "title": "シンガポールとドイツの中銀、ユーロ・Sドル決済をCBDCで接続試験 DBSとドイツ銀行が参加",
