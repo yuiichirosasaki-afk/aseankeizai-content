@@ -1,7 +1,176 @@
 {
-  "generatedAt": "2026-11-20T14:19:03+09:00",
+  "generatedAt": "2026-11-20T18:20:00+09:00",
   "site": "東南アジア経済新聞",
   "articles": [
+    {
+      "slug": "vietnam-eu-anti-dumping-cold-rolled-steel-16-percent-nov-2026",
+      "title": "EU、ベトナム産冷延鋼板に16%の反ダンピング関税 日本は27.9%、5か国が対象",
+      "country": "ベトナム",
+      "category": "貿易・物流",
+      "articleType": "news",
+      "lead": "欧州委員会は、ベトナムなど5か国の冷延鋼板に対する確定の反ダンピング関税を決めた。ベトナムは16%で、日本は27.9%と5か国で最も高い。ベトナムからのEU向け輸出は約1.25億ユーロ（約219億円）と、EU市場全体の約0.5%にとどまる。",
+      "summaryHtml": "<ul><li>欧州委員会は、ベトナム産の冷延平板鋼に16%の確定反ダンピング関税を課した。ベトナム産業貿易省の情報として、17日に発効したとTuoi Treは伝えた。</li><li>同じ決定の対象は、インド（9.5%）、日本（27.9%）、台湾（20.7〜27%）、トルコ（3〜7.8%）（Tuoi Tre、SteelOrbis）。</li><li>EUの冷延鋼板市場は約232億ユーロ（約4.1兆円）。ベトナムからの輸入は約1.25億ユーロ（約219億円）（Tuoi Tre）。</li><li>調査は2025年9月、欧州鉄鋼連盟（EUROFER）の申し立てで始まり（Tuoi Tre）、暫定関税は2026年8月に発表された（Eurometal）。</li><li>ステンレス鋼と一部の特殊品は対象外で、対象は関税分類7209、7211、7225、7226の品目（Tuoi Tre）。</li></ul>",
+      "bodyHtml": "<h3>5か国に確定関税、ベトナムは16%</h3><p>ベトナム紙Tuoi Tre Newsは11月18日、欧州委員会がベトナム産の冷延平板鋼に16%の確定反ダンピング関税を課したと、産業貿易省の情報として報じた。同紙は発効日を11月17日としている。一方、欧州の鉄鋼専門紙Eurometalは、欧州委員会が16日に自らのサイトで発表したと伝え、SteelOrbisも17日にインド政府関係者の話として税率を報じた。EU官報の規則番号と正式な発効日は、今回開いた記事では確認できていない。</p><p>同じ決定の対象は、ベトナムのほかインド、日本、台湾、トルコである。税率はインド9.5%、日本27.9%、台湾20.7〜27%、トルコ3〜7.8%で、日本が5か国で最も高い。トルコは暫定段階の5.6〜9.7%から引き下げられた（SteelOrbis）。EUROFERは、インドと台湾で市場の特殊な状況が初めて認められた点を評価した。</p><h3>ベトナムへの影響は金額では限られる</h3><p>EUの冷延鋼板市場は約232億ユーロ（約4.1兆円）で、ベトナムからの輸入は約1.25億ユーロ（約219億円）である。換算には日本銀行が公表した2026年11月19日の1ユーロ＝約175.4円を使った。割合にすると約0.5%で、金額の面ではベトナム側への打撃は限られるとみられる。ただし、鉄鋼の輸出先を欧州に広げようとしてきた企業にとっては、価格競争力に影響する可能性がある。対象は、めっきや塗装をしていない品目で、ステンレス鋼と一部の特殊品は外れる。</p><p>この調査は2025年9月に始まった。欧州鉄鋼連盟（EUROFER）の申し立てを受けたもので、暫定関税は2026年8月に発表された（Eurometal）。EUは2026年1〜9月に冷延コイルを170万トン輸入し、前年同期の196万トンから13.26%減った。EUは、2026年7月に新しい鉄鋼のセーフガード制度を導入し、2026年初めから炭素国境調整措置（CBAM）も始めている。今回の関税は、こうした一連の輸入抑制策の一つとして位置づけられるとみられる。</p><h3>輸出企業に求められる確認</h3><p>在ベルギーのベトナム貿易事務所は、EU向けに輸出する企業に、対象品目、税率、輸入書類を確認するよう呼びかけた。ベトナムでEU向けの冷延鋼板を扱う日系企業や、日本からEUへ冷延鋼板を輸出する企業は、自社の製品が対象の関税分類に入るか、適用される個別の税率はいくつかを早めに確かめる必要がある。税率は企業ごとに異なる可能性があり、記事は個別の税率までは示していない。</p>",
+      "dataFigure": "16%",
+      "dataLabel": "EUがベトナム産冷延鋼板に課す関税率",
+      "dataSource": "Tuoi Tre News、2026年11月18日",
+      "chart": {
+        "bars": [
+          {
+            "label": "インド",
+            "value": 9.5,
+            "display": "9.5%"
+          },
+          {
+            "label": "ベトナム",
+            "value": 16,
+            "display": "16%"
+          },
+          {
+            "label": "日本",
+            "value": 27.9,
+            "display": "27.9%"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "Tuoi Tre News",
+          "title": "EU imposes 16% anti-dumping duty on Vietnamese cold-rolled steel",
+          "url": "https://news.tuoitre.vn/eu-imposes-16-anti-dumping-duty-on-vietnamese-cold-rolled-steel-103261118141912395.htm",
+          "date": "2026-11-18"
+        },
+        {
+          "name": "SteelOrbis",
+          "title": "EU levies AD duty on CR flat steel from five countries",
+          "url": "https://www.steelorbis.com/steel-news/latest-news/eu-levies-ad-duty-on-cr-flat-steel-from-five-countries-1491406.htm",
+          "date": "2026-11-17"
+        },
+        {
+          "name": "Eurometal",
+          "title": "European Commission imposes anti-dumping duties on cold-rolled coil imports",
+          "url": "https://eurometal.net/?p=44384",
+          "date": "2026-11-17"
+        },
+        {
+          "name": "日本銀行",
+          "title": "Foreign Exchange Rates (Nov 19, 2026)",
+          "url": "https://www.boj.or.jp/en/statistics/market/forex/fxdaily/fxlist/fx261119.pdf",
+          "date": "2026-11-19"
+        }
+      ],
+      "seoTitle": "EU、ベトナム産冷延鋼板に16%関税",
+      "seoDescription": "欧州委員会はベトナムなど5か国の冷延鋼板に確定の反ダンピング関税を決定。ベトナム16%、日本27.9%、インド9.5%などとなった。",
+      "tags": [
+        "ベトナム",
+        "EU",
+        "反ダンピング関税",
+        "冷延鋼板",
+        "EUROFER",
+        "欧州委員会",
+        "鉄鋼",
+        "ベトナム産業貿易省"
+      ],
+      "publishAt": "2026-11-20T20:00:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/vietnam-eu-anti-dumping-cold-rolled-steel-16-percent-nov-2026.png"
+    },
+    {
+      "slug": "vietnam-scg-long-son-petrochemical-restart-q2-2027-ethane-upgrade",
+      "title": "SCG、ベトナムのロンソン石化を2027年4〜6月期に再稼働へ エタン対応に約800億円",
+      "country": "ベトナム",
+      "category": "企業・産業",
+      "articleType": "news",
+      "lead": "タイのSCGは、2026年5月ごろから止まっているベトナムのロンソン石油化学コンプレックスについて、2027年4〜6月期に再稼働する見通しを示した。米国産エタンを使えるようにする約5億ドル（約800億円）の改修が条件で、当初の想定より前倒しになる。",
+      "summaryHtml": "<ul><li>SCGが運営するロンソン石油化学コンプレックス（LSP）は、2027年4〜6月期に再稼働する見通し。2026年5月ごろに生産を止めていた（Tuoi Tre）。</li><li>再稼働には、エタンを追加の原料として使えるようにする改修が必要で、費用は約5億ドル（約800億円）。完了は当初の計画より早まったという（Tuoi Tre、VIR）。</li><li>エタンは米国から年約100万トンを調達する15年契約で、LSPの総投資額は50億ドル超（約8,000億円超）（Tuoi Tre）。</li><li>停止の理由は、中東の紛争による原料供給の混乱とされる。商業生産を始めた2024年9月以降、2度目の停止だった（Tuoi Tre）。</li><li>SCGの2026年1〜9月のベトナム売上高は48.996兆ドン（約19億ドル、約3,000億円）で、グループの調整後EBITDAは前年同期比19%増（Tuoi Tre）。</li></ul>",
+      "bodyHtml": "<h3>再稼働は2027年4〜6月期を目標</h3><p>ベトナム紙Tuoi Tre Newsは11月17日、SCGグループ（Siam Cement Group）がホーチミン市にあるロンソン石油化学コンプレックス（Long Son Petrochemicals、LSP）の再稼働を2027年4〜6月期とみていると報じた。同日に公表した2026年1〜9月期の決算に合わせた説明で、ベトナムの経済誌Vietnam Investment Review（VIR）も、エタンを原料に加える改修の完了が2027年4〜6月期に当たり、当初の予定より早いと伝えている。生産は2026年5月ごろから止まっている。Tuoi Treは記事の概要では5月末と書き、本文では5月ごろとしており、正確な停止日は確認できていない。</p><h3>停止の背景と改修の中身</h3><p>Tuoi Treによると、停止の理由は中東での紛争による原料供給の混乱である。LSPは2024年9月に商業生産を始めており、今回が2度目の停止になる。再稼働に向けては、エタンを追加の原料として使えるようにする改修を進める。改修費は約5億ドルで、2026年11月19日の東京の為替相場（日本銀行公表、1ドル＝約159.7円）で換算すると約800億円である。原料のエタンは米国から調達し、15年契約で年約100万トンを受け取る。LSP全体の投資額は50億ドル超で、約8,000億円を超える。</p><p>両紙の記事は、原料の調達先を中東以外にも広げる狙いを直接は書いていない。ただ、停止の理由と改修の内容を並べると、原料の調達先を分散する意味合いがあるとみられる。製品の供給量や価格への影響も、今回の記事には出ていない。</p><h3>SCGのベトナム事業と日系企業への意味</h3><p>SCGの2026年1〜9月期のベトナム売上高は48.996兆ドンで、Tuoi Treは約19億ドル、約3,000億円に当たると伝えた。VIRは18.6億ドルとしており、換算の方法の違いで数字に差がある。グループ全体では調整後EBITDAが前年同期比19%増、利益が13%増、売上高が3%増だった。SCGはベトナムに28の子会社と1万5,000人超の従業員を抱え、社長兼CEOのタマサック・セタウドム（Thammasak Sethaudom）氏は、同国が長期戦略の上で重要な市場だと述べた。</p><p>同じ日には、SCGパッケージング傘下のズイタン・プラスチックス（Duy Tan Plastics Manufacturing JSC）が、タイニン省にあるロンアン工場の増設に着工した。投資額は9,000億ドン（約3,500万ドル、約56億円）と伝えられる。石化製品を現地で調達する日系の加工・製造業にとっては、供給再開の時期の目安が示された点が注目される。ただし再稼働までは約半年あり、その間の供給の見通しは記事に書かれていない。</p>",
+      "dataFigure": "2027年Q2",
+      "dataLabel": "ロンソン石化の再稼働目標",
+      "dataSource": "Tuoi Tre News、2026年11月17日",
+      "sources": [
+        {
+          "name": "Tuoi Tre News",
+          "title": "Long Son Petrochemical Complex expected to resume operations in Q2 2027",
+          "url": "https://news.tuoitre.vn/long-son-petrochemical-complex-expected-to-resume-operations-in-q2-2027-103261117205118286.htm",
+          "date": "2026-11-17"
+        },
+        {
+          "name": "Vietnam Investment Review",
+          "title": "SCG reports nine-month results, supporting growth opportunities for Vietnamese businesses and communities",
+          "url": "https://vir.com.vn/scg-reports-nine-month-results-supporting-growth-opportunities-for-vietnamese-businesses-and-communities-165395.html",
+          "date": "2026-11-17"
+        },
+        {
+          "name": "日本銀行",
+          "title": "Foreign Exchange Rates (Nov 19, 2026)",
+          "url": "https://www.boj.or.jp/en/statistics/market/forex/fxdaily/fxlist/fx261119.pdf",
+          "date": "2026-11-19"
+        }
+      ],
+      "seoTitle": "SCGのロンソン石化、2027年に再稼働へ",
+      "seoDescription": "タイのSCGはベトナムのロンソン石化を2027年4〜6月期に再稼働する見通し。米国産エタン対応の改修費は約5億ドルで、2度目の停止からの復旧を目指す。",
+      "tags": [
+        "ベトナム",
+        "SCG",
+        "ロンソン石化",
+        "Long Son Petrochemicals",
+        "エタン",
+        "タマサック・セタウドム",
+        "ズイタン・プラスチックス",
+        "石油化学"
+      ],
+      "publishAt": "2026-11-20T19:30:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/vietnam-scg-long-son-petrochemical-restart-q2-2027-ethane-upgrade.png"
+    },
+    {
+      "slug": "vietnam-hai-phong-lach-huyen-terminals-9-12-psa-945-million-land-lease-nov-2026",
+      "title": "ハイフォン市、ラックフエン港の新4バース用地を貸与 事業費9.45億ドル、PSAが参画",
+      "country": "ベトナム",
+      "category": "不動産・インフラ",
+      "articleType": "news",
+      "lead": "ベトナム北部ハイフォン市の人民委員会は、ラックフエン港の第9〜12ターミナル向けに、103.6ヘクタール超の土地と海域の貸与を承認した。事業費は9.45億ドル（約1,510億円）で、シンガポールのPSAインターナショナルが出資に加わる。北部の港湾能力を押し上げる計画として注目される。",
+      "summaryHtml": "<ul><li>ハイフォン市人民委員会が、ラックフエン港投資会社（Lach Huyen Port Investment JSC）に対し、第9〜12ターミナル用の土地103.6ヘクタール超と海域の貸与を承認した（The Investor）。</li><li>4バースの事業費は合計9.45億ドル（約1,510億円）。完成時の取扱能力は年約450万TEU（20フィートコンテナ換算）を見込む（The Investor）。</li><li>第1期の2バースは2026年末までに着工して2028年の完成を目指し、4バースすべての完成は2035年とされる（The Investor）。</li><li>土地と海域の使用期限は2095年7月8日で、賃料は年払い（The Investor）。</li><li>PSAは2026年6月30日、同港の開発会社との間で出資の合意に署名していた（VnEconomy）。</li></ul>",
+      "bodyHtml": "<h3>貸与が決まった内容</h3><p>ベトナムの経済紙The Investorは11月18日、ハイフォン市人民委員会がラックフエン港投資会社に、カットハイ特別区（Cat Hai Special Zone）にあるラックフエン港区の第9、10、11、12ターミナルを建てるための土地と海域を貸す決定をしたと報じた。貸与面積は103.6ヘクタール超で、決定は同紙が記事を出した日の「先週の金曜日」に出されたという。11月13日に当たるとみられるが、記事は日付を明記していない。土地は年払いの賃料方式で、土地と海域の使用期限は2095年7月8日である。</p><p>事業費は4バース合計で9.45億ドルで、2026年11月19日の東京の為替相場（日本銀行公表、1ドル＝約159.7円）で換算すると約1,510億円になる。完成後は深水コンテナバース4つで年約450万TEUを扱う計画である。</p><h3>PSAの関与と事業の枠組み</h3><p>パートナーに挙がるのはシンガポールの港湾運営大手PSAインターナショナル（PSA International）である。The Investorによると、PSAは2026年7月3日に、ラックフエン国際物流・工業団地深水港会社（LHF）とともにラックフエン港投資会社へ出資する合意を発表した。VnEconomy（英語版、機械翻訳）は、合意への署名を6月30日と伝え、対象を第9〜12バース、年450万TEUとしている。同紙は、岸壁の総延長が最長1,800メートル、受け入れ可能な船舶が最大20万載貨重量トン級だとも記している。</p><p>ラックフエン港投資会社は2023年5月9日の設立で、2026年8月時点の資本金は5,850億ドン（約36億円）である。シンガポールに拠点を置くNorth Vietnam Port Investment Pte. Ltd.が49%を保有する。同社とPSAの関係は、今回開いた記事には書かれていない。なお、VnEconomyは事業用地を146ヘクタール超とし、今回のリース対象103.6ヘクタールとは数字が異なる。事業全体の範囲と貸与面積の違いとみられるが、記事は理由を示していない。</p><h3>工程と今後の注目点</h3><p>工程は二段階である。第1期は2バースで、着工は2026年末までに予定され、完成は2028年を目指す。第2期で4バースがそろうのは2035年とされる。つまり、実際に貨物を扱えるのは早くても2028年以降で、能力が出そろうまでには約9年かかる計画である。</p><p>北部の工場から製品を輸出し、部品を輸入する日系を含む製造業にとっては、将来の港湾の選択肢が増える可能性がある。ただし、港湾の利用料金や航路の開設、背後地の道路・鉄道の整備については、今回の記事では触れられていない。着工が年内に間に合うか、第1期の運営体制がどう決まるかが、当面の注目点になる。</p>",
+      "dataFigure": "9.45億ドル",
+      "dataLabel": "ラックフエン港 新4バースの事業費",
+      "dataSource": "The Investor、2026年11月18日",
+      "sources": [
+        {
+          "name": "The Investor",
+          "title": "Northern Vietnam's Hai Phong leases 103.6 hectares for Singapore-backed $945 mln port project",
+          "url": "https://theinvestor.vn/northern-vietnams-hai-phong-leases-1036-hectares-for-singapore-backed-945-mln-port-project-d20475.html",
+          "date": "2026-11-18"
+        },
+        {
+          "name": "VnEconomy",
+          "title": "LHF, PSA partner to develop 4.5-million-TEU deepwater port in northern Vietnam",
+          "url": "https://en.vneconomy.vn/lhf-psa-partner-to-develop-45-million-teu-deepwater-port-in-northern-vietnam.htm",
+          "date": "2026-07-03"
+        },
+        {
+          "name": "日本銀行",
+          "title": "Foreign Exchange Rates (Nov 19, 2026)",
+          "url": "https://www.boj.or.jp/en/statistics/market/forex/fxdaily/fxlist/fx261119.pdf",
+          "date": "2026-11-19"
+        }
+      ],
+      "seoTitle": "ラックフエン港の新4バース用地を貸与",
+      "seoDescription": "ハイフォン市はラックフエン港の第9〜12ターミナル用に103.6ヘクタール超の貸与を承認。事業費は9.45億ドルで、PSAが参画する。",
+      "tags": [
+        "ベトナム",
+        "ハイフォン",
+        "ラックフエン港",
+        "PSAインターナショナル",
+        "コンテナターミナル",
+        "Lach Huyen Port Investment",
+        "LHF",
+        "カットハイ特別区"
+      ],
+      "publishAt": "2026-11-20T19:00:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/vietnam-hai-phong-lach-huyen-terminals-9-12-psa-945-million-land-lease-nov-2026.png"
+    },
     {
       "slug": "singapore-mas-tokenised-bills-wholesale-cbdc-nov-2026",
       "title": "シンガポール金融管理局、トークン化MAS債を発行 卸売CBDCで決済 1億Sドル、ディーラー5行参加",

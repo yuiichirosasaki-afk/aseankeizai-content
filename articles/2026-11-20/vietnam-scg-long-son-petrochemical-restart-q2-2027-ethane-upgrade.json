@@ -1,0 +1,48 @@
+{
+  "slug": "vietnam-scg-long-son-petrochemical-restart-q2-2027-ethane-upgrade",
+  "title": "SCG、ベトナムのロンソン石化を2027年4〜6月期に再稼働へ エタン対応に約800億円",
+  "country": "ベトナム",
+  "category": "企業・産業",
+  "articleType": "news",
+  "lead": "タイのSCGは、2026年5月ごろから止まっているベトナムのロンソン石油化学コンプレックスについて、2027年4〜6月期に再稼働する見通しを示した。米国産エタンを使えるようにする約5億ドル（約800億円）の改修が条件で、当初の想定より前倒しになる。",
+  "summaryHtml": "<ul><li>SCGが運営するロンソン石油化学コンプレックス（LSP）は、2027年4〜6月期に再稼働する見通し。2026年5月ごろに生産を止めていた（Tuoi Tre）。</li><li>再稼働には、エタンを追加の原料として使えるようにする改修が必要で、費用は約5億ドル（約800億円）。完了は当初の計画より早まったという（Tuoi Tre、VIR）。</li><li>エタンは米国から年約100万トンを調達する15年契約で、LSPの総投資額は50億ドル超（約8,000億円超）（Tuoi Tre）。</li><li>停止の理由は、中東の紛争による原料供給の混乱とされる。商業生産を始めた2024年9月以降、2度目の停止だった（Tuoi Tre）。</li><li>SCGの2026年1〜9月のベトナム売上高は48.996兆ドン（約19億ドル、約3,000億円）で、グループの調整後EBITDAは前年同期比19%増（Tuoi Tre）。</li></ul>",
+  "bodyHtml": "<h3>再稼働は2027年4〜6月期を目標</h3><p>ベトナム紙Tuoi Tre Newsは11月17日、SCGグループ（Siam Cement Group）がホーチミン市にあるロンソン石油化学コンプレックス（Long Son Petrochemicals、LSP）の再稼働を2027年4〜6月期とみていると報じた。同日に公表した2026年1〜9月期の決算に合わせた説明で、ベトナムの経済誌Vietnam Investment Review（VIR）も、エタンを原料に加える改修の完了が2027年4〜6月期に当たり、当初の予定より早いと伝えている。生産は2026年5月ごろから止まっている。Tuoi Treは記事の概要では5月末と書き、本文では5月ごろとしており、正確な停止日は確認できていない。</p><h3>停止の背景と改修の中身</h3><p>Tuoi Treによると、停止の理由は中東での紛争による原料供給の混乱である。LSPは2024年9月に商業生産を始めており、今回が2度目の停止になる。再稼働に向けては、エタンを追加の原料として使えるようにする改修を進める。改修費は約5億ドルで、2026年11月19日の東京の為替相場（日本銀行公表、1ドル＝約159.7円）で換算すると約800億円である。原料のエタンは米国から調達し、15年契約で年約100万トンを受け取る。LSP全体の投資額は50億ドル超で、約8,000億円を超える。</p><p>両紙の記事は、原料の調達先を中東以外にも広げる狙いを直接は書いていない。ただ、停止の理由と改修の内容を並べると、原料の調達先を分散する意味合いがあるとみられる。製品の供給量や価格への影響も、今回の記事には出ていない。</p><h3>SCGのベトナム事業と日系企業への意味</h3><p>SCGの2026年1〜9月期のベトナム売上高は48.996兆ドンで、Tuoi Treは約19億ドル、約3,000億円に当たると伝えた。VIRは18.6億ドルとしており、換算の方法の違いで数字に差がある。グループ全体では調整後EBITDAが前年同期比19%増、利益が13%増、売上高が3%増だった。SCGはベトナムに28の子会社と1万5,000人超の従業員を抱え、社長兼CEOのタマサック・セタウドム（Thammasak Sethaudom）氏は、同国が長期戦略の上で重要な市場だと述べた。</p><p>同じ日には、SCGパッケージング傘下のズイタン・プラスチックス（Duy Tan Plastics Manufacturing JSC）が、タイニン省にあるロンアン工場の増設に着工した。投資額は9,000億ドン（約3,500万ドル、約56億円）と伝えられる。石化製品を現地で調達する日系の加工・製造業にとっては、供給再開の時期の目安が示された点が注目される。ただし再稼働までは約半年あり、その間の供給の見通しは記事に書かれていない。</p>",
+  "dataFigure": "2027年Q2",
+  "dataLabel": "ロンソン石化の再稼働目標",
+  "dataSource": "Tuoi Tre News、2026年11月17日",
+  "sources": [
+    {
+      "name": "Tuoi Tre News",
+      "title": "Long Son Petrochemical Complex expected to resume operations in Q2 2027",
+      "url": "https://news.tuoitre.vn/long-son-petrochemical-complex-expected-to-resume-operations-in-q2-2027-103261117205118286.htm",
+      "date": "2026-11-17"
+    },
+    {
+      "name": "Vietnam Investment Review",
+      "title": "SCG reports nine-month results, supporting growth opportunities for Vietnamese businesses and communities",
+      "url": "https://vir.com.vn/scg-reports-nine-month-results-supporting-growth-opportunities-for-vietnamese-businesses-and-communities-165395.html",
+      "date": "2026-11-17"
+    },
+    {
+      "name": "日本銀行",
+      "title": "Foreign Exchange Rates (Nov 19, 2026)",
+      "url": "https://www.boj.or.jp/en/statistics/market/forex/fxdaily/fxlist/fx261119.pdf",
+      "date": "2026-11-19"
+    }
+  ],
+  "seoTitle": "SCGのロンソン石化、2027年に再稼働へ",
+  "seoDescription": "タイのSCGはベトナムのロンソン石化を2027年4〜6月期に再稼働する見通し。米国産エタン対応の改修費は約5億ドルで、2度目の停止からの復旧を目指す。",
+  "tags": [
+    "ベトナム",
+    "SCG",
+    "ロンソン石化",
+    "Long Son Petrochemicals",
+    "エタン",
+    "タマサック・セタウドム",
+    "ズイタン・プラスチックス",
+    "石油化学"
+  ],
+  "publishAt": "2026-11-20T19:30:00+09:00",
+  "language": "ja",
+  "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/vietnam-scg-long-son-petrochemical-restart-q2-2027-ethane-upgrade.png"
+}

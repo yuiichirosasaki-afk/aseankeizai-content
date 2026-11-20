@@ -1,0 +1,73 @@
+{
+  "slug": "vietnam-eu-anti-dumping-cold-rolled-steel-16-percent-nov-2026",
+  "title": "EU、ベトナム産冷延鋼板に16%の反ダンピング関税 日本は27.9%、5か国が対象",
+  "country": "ベトナム",
+  "category": "貿易・物流",
+  "articleType": "news",
+  "lead": "欧州委員会は、ベトナムなど5か国の冷延鋼板に対する確定の反ダンピング関税を決めた。ベトナムは16%で、日本は27.9%と5か国で最も高い。ベトナムからのEU向け輸出は約1.25億ユーロ（約219億円）と、EU市場全体の約0.5%にとどまる。",
+  "summaryHtml": "<ul><li>欧州委員会は、ベトナム産の冷延平板鋼に16%の確定反ダンピング関税を課した。ベトナム産業貿易省の情報として、17日に発効したとTuoi Treは伝えた。</li><li>同じ決定の対象は、インド（9.5%）、日本（27.9%）、台湾（20.7〜27%）、トルコ（3〜7.8%）（Tuoi Tre、SteelOrbis）。</li><li>EUの冷延鋼板市場は約232億ユーロ（約4.1兆円）。ベトナムからの輸入は約1.25億ユーロ（約219億円）（Tuoi Tre）。</li><li>調査は2025年9月、欧州鉄鋼連盟（EUROFER）の申し立てで始まり（Tuoi Tre）、暫定関税は2026年8月に発表された（Eurometal）。</li><li>ステンレス鋼と一部の特殊品は対象外で、対象は関税分類7209、7211、7225、7226の品目（Tuoi Tre）。</li></ul>",
+  "bodyHtml": "<h3>5か国に確定関税、ベトナムは16%</h3><p>ベトナム紙Tuoi Tre Newsは11月18日、欧州委員会がベトナム産の冷延平板鋼に16%の確定反ダンピング関税を課したと、産業貿易省の情報として報じた。同紙は発効日を11月17日としている。一方、欧州の鉄鋼専門紙Eurometalは、欧州委員会が16日に自らのサイトで発表したと伝え、SteelOrbisも17日にインド政府関係者の話として税率を報じた。EU官報の規則番号と正式な発効日は、今回開いた記事では確認できていない。</p><p>同じ決定の対象は、ベトナムのほかインド、日本、台湾、トルコである。税率はインド9.5%、日本27.9%、台湾20.7〜27%、トルコ3〜7.8%で、日本が5か国で最も高い。トルコは暫定段階の5.6〜9.7%から引き下げられた（SteelOrbis）。EUROFERは、インドと台湾で市場の特殊な状況が初めて認められた点を評価した。</p><h3>ベトナムへの影響は金額では限られる</h3><p>EUの冷延鋼板市場は約232億ユーロ（約4.1兆円）で、ベトナムからの輸入は約1.25億ユーロ（約219億円）である。換算には日本銀行が公表した2026年11月19日の1ユーロ＝約175.4円を使った。割合にすると約0.5%で、金額の面ではベトナム側への打撃は限られるとみられる。ただし、鉄鋼の輸出先を欧州に広げようとしてきた企業にとっては、価格競争力に影響する可能性がある。対象は、めっきや塗装をしていない品目で、ステンレス鋼と一部の特殊品は外れる。</p><p>この調査は2025年9月に始まった。欧州鉄鋼連盟（EUROFER）の申し立てを受けたもので、暫定関税は2026年8月に発表された（Eurometal）。EUは2026年1〜9月に冷延コイルを170万トン輸入し、前年同期の196万トンから13.26%減った。EUは、2026年7月に新しい鉄鋼のセーフガード制度を導入し、2026年初めから炭素国境調整措置（CBAM）も始めている。今回の関税は、こうした一連の輸入抑制策の一つとして位置づけられるとみられる。</p><h3>輸出企業に求められる確認</h3><p>在ベルギーのベトナム貿易事務所は、EU向けに輸出する企業に、対象品目、税率、輸入書類を確認するよう呼びかけた。ベトナムでEU向けの冷延鋼板を扱う日系企業や、日本からEUへ冷延鋼板を輸出する企業は、自社の製品が対象の関税分類に入るか、適用される個別の税率はいくつかを早めに確かめる必要がある。税率は企業ごとに異なる可能性があり、記事は個別の税率までは示していない。</p>",
+  "dataFigure": "16%",
+  "dataLabel": "EUがベトナム産冷延鋼板に課す関税率",
+  "dataSource": "Tuoi Tre News、2026年11月18日",
+  "chart": {
+    "bars": [
+      {
+        "label": "インド",
+        "value": 9.5,
+        "display": "9.5%"
+      },
+      {
+        "label": "ベトナム",
+        "value": 16,
+        "display": "16%"
+      },
+      {
+        "label": "日本",
+        "value": 27.9,
+        "display": "27.9%"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "Tuoi Tre News",
+      "title": "EU imposes 16% anti-dumping duty on Vietnamese cold-rolled steel",
+      "url": "https://news.tuoitre.vn/eu-imposes-16-anti-dumping-duty-on-vietnamese-cold-rolled-steel-103261118141912395.htm",
+      "date": "2026-11-18"
+    },
+    {
+      "name": "SteelOrbis",
+      "title": "EU levies AD duty on CR flat steel from five countries",
+      "url": "https://www.steelorbis.com/steel-news/latest-news/eu-levies-ad-duty-on-cr-flat-steel-from-five-countries-1491406.htm",
+      "date": "2026-11-17"
+    },
+    {
+      "name": "Eurometal",
+      "title": "European Commission imposes anti-dumping duties on cold-rolled coil imports",
+      "url": "https://eurometal.net/?p=44384",
+      "date": "2026-11-17"
+    },
+    {
+      "name": "日本銀行",
+      "title": "Foreign Exchange Rates (Nov 19, 2026)",
+      "url": "https://www.boj.or.jp/en/statistics/market/forex/fxdaily/fxlist/fx261119.pdf",
+      "date": "2026-11-19"
+    }
+  ],
+  "seoTitle": "EU、ベトナム産冷延鋼板に16%関税",
+  "seoDescription": "欧州委員会はベトナムなど5か国の冷延鋼板に確定の反ダンピング関税を決定。ベトナム16%、日本27.9%、インド9.5%などとなった。",
+  "tags": [
+    "ベトナム",
+    "EU",
+    "反ダンピング関税",
+    "冷延鋼板",
+    "EUROFER",
+    "欧州委員会",
+    "鉄鋼",
+    "ベトナム産業貿易省"
+  ],
+  "publishAt": "2026-11-20T20:00:00+09:00",
+  "language": "ja",
+  "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/vietnam-eu-anti-dumping-cold-rolled-steel-16-percent-nov-2026.png"
+}
