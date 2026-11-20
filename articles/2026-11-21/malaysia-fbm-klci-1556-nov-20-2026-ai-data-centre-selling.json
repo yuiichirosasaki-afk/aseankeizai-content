@@ -1,0 +1,54 @@
+{
+  "slug": "malaysia-fbm-klci-1556-nov-20-2026-ai-data-centre-selling",
+  "title": "マレーシアKLCIは1,556.51で週を終える AI関連売りで11月6日比3.7%安",
+  "country": "マレーシア",
+  "category": "金融・市場",
+  "articleType": "news",
+  "lead": "マレーシアのクアラルンプール証券取引所（Bursa Malaysia）のFBM KLCIは11月20日、前日比0.61%安の1,556.51で取引を終えた。データセンター関連の主力株への売りが続いた。11月6日の終値1,616.58からは約3.7%低い。",
+  "summaryHtml": "<ul><li>FBM KLCIは11月20日、9.65ポイント（0.61%）安の1,556.51で引けた。値下がり銘柄は837、値上がりは325だった（The Star、Bernama配信）。</li><li>日中の安値は1,548.67だった。11月16日に年初来安値として伝えられた1,572、17日の日中安値1,570.22を下回った（Business Today、Malay Mail）。</li><li>下落が大きかった銘柄には、マレーシアン・パシフィック・インダストリーズ（Malaysian Pacific Industries）、ViTrox、サンウェイ・コンストラクション（Sunway Construction）などが並んだ（The Star）。</li><li>ラクテン・トレード（Rakuten Trade）のトン・パックレン（Thong Pak Leng）氏は、主力株への売りは投資家心理が戻っていない表れだと述べた。指数は売られ過ぎの水準に入ったとの見方も示した（The Star）。</li><li>17日にトン氏が示した1,560〜1,590の想定レンジは、下限を割った（Malay Mail）。</li></ul>",
+  "bodyHtml": "<h3>20日は主力株に売り、下げ幅は小さくない</h3><p>The Star（Bernama配信）によると、FBM KLCIは11月20日、前日終値の1,566.16から9.65ポイント下げ、1,556.51で午後5時の時点を迎えた。取引時間中は1,548.67から1,559.11の間で動いた。値下がり銘柄は837、値上がりは325で、下げが広がった。FBM Mid 70指数は292.11ポイント下げて16,279.83となり、中型株の下げが目立った。</p><p>個別では、マレーシアン・パシフィック・インダストリーズ（Malaysian Pacific Industries）が約7.5%安、ViTroxが約6.3%安となった。プレス・メタル・アルミニウム（Press Metal Aluminium）も約6.3%下げた。下落率はいずれも、前日比の値下がり幅から当編集部が計算した。一方、主力株ではメイバンク（Maybank）とパブリック・バンク（Public Bank）が小幅安、CIMBとテナガ・ナショナル（Tenaga Nasional）が小幅高だった。下落の中心はデータセンター関連の銘柄だと、The Starは伝えている。</p><h3>3週間で約60ポイント下げ、想定レンジを割る</h3><p>Business Todayによると、KLCIは11月6日の終値が1,616.58だった。13日は1,582.59で終え、20日の1,556.51は、13日から約26ポイント（約1.6%）低い。13日までに5営業日続けて下げた。16日は1,588で5日続落を止めたが、17日は午後5時時点で12.88ポイント下げて1,575.15となった。Malay Mailは、ラクテン・トレードの見方として、米国でエヌビディア（Nvidia）株が売られたことと、先端AI半導体の米国の輸出規制が厳しくなっていることが背景にあると伝えた。</p><p>テクニカル面では、ホンリョン投資銀行（Hong Leong Investment Bank、HLIB）の分析（Business Today、17日付）では、指数は20日、50日、100日、200日のすべての移動平均線を下回り、1,579と1,568が支持線だと指摘した。割り込めば1,534が視野に入るとしていた。20日の終値はこの2本の支持線を下回っており、次の節目である1,534との距離は約22.5ポイントである。ただし、これは過去の分析を現在の水準に当てはめた見方で、値動きを予測するものではない。</p><h3>今後の注目点</h3><p>ラクテン・トレードのトン・パックレン（Thong Pak Leng）氏は20日、主力株への売りが続くのは投資家の信頼がまだ戻っていないことを示すと述べた。一方で、指数は売られ過ぎの領域に入り、選別的な押し目買いを誘う可能性があるとも述べた。17日には、1,560〜1,590のレンジで推移し、1,560が重要な支持になるとの見方を示していたが、20日はこの下限を下回った。</p><p>マレーシアでは、データセンターなどのAI関連投資が経済と株式市場の焦点になっている。そのため、AI関連株の調整が続けば、関連銘柄の資金調達や投資案件の進み方にも影響が及ぶかどうかが注目される。本稿は市況の紹介であり、個別銘柄の売買を勧めるものではない。</p>",
+  "dataFigure": "1,556.51",
+  "dataLabel": "FBM KLCIの11月20日終値（前日比0.61%安）",
+  "dataSource": "Bursa Malaysia、2026年11月20日（The Star、Bernama配信）",
+  "sources": [
+    {
+      "name": "The Star",
+      "title": "Bursa Malaysia ends week lower on continued heavyweight selling",
+      "url": "https://www.thestar.com.my/business/business-news/2026/11/20/bursa-malaysia-ends-week-lower-on-continued-heavyweight-selling",
+      "date": "2026-11-20"
+    },
+    {
+      "name": "Malay Mail",
+      "title": "Bursa catches Wall Street's Nvidia cold, KLCI sheds 12.88 points",
+      "url": "https://www.malaymail.com/news/money/2026/11/17/bursa-catches-wall-streets-nvidia-cold-klci-sheds-1288-points/243643",
+      "date": "2026-11-17"
+    },
+    {
+      "name": "Business Today",
+      "title": "From AI fears to foreign outflows: what put Bursa under pressure this week",
+      "url": "https://www.businesstoday.com.my/2026/11/15/from-ai-fears-to-foreign-outflows-what-put-bursa-under-pressure-this-week/",
+      "date": "2026-11-15"
+    },
+    {
+      "name": "Business Today",
+      "title": "How KLCI will fare amidst global tech and AI rout",
+      "url": "https://www.businesstoday.com.my/2026/11/17/how-klci-will-fare-amidst-global-tech-and-ai-rout/",
+      "date": "2026-11-17"
+    }
+  ],
+  "seoTitle": "マレーシアKLCI、AI関連売りで続落",
+  "seoDescription": "マレーシアのFBM KLCIは11月20日、0.61%安の1,556.51で終了。データセンター関連の主力株に売りが続き、11月6日の終値から約3.7%下げた。",
+  "tags": [
+    "マレーシア",
+    "FBM KLCI",
+    "Bursa Malaysia",
+    "データセンター",
+    "AI半導体",
+    "ラクテン・トレード",
+    "ホンリョン投資銀行",
+    "マレーシアン・パシフィック・インダストリーズ"
+  ],
+  "publishAt": "2026-11-21T08:30:00+09:00",
+  "language": "ja",
+  "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/malaysia-fbm-klci-1556-nov-20-2026-ai-data-centre-selling.png"
+}
