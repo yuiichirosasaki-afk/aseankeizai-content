@@ -1,7 +1,129 @@
 {
-  "generatedAt": "2026-11-20T10:21:52+09:00",
+  "generatedAt": "2026-11-20T14:19:03+09:00",
   "site": "東南アジア経済新聞",
   "articles": [
+    {
+      "slug": "singapore-mas-tokenised-bills-wholesale-cbdc-nov-2026",
+      "title": "シンガポール金融管理局、トークン化MAS債を発行 卸売CBDCで決済 1億Sドル、ディーラー5行参加",
+      "country": "シンガポール",
+      "category": "金融・市場",
+      "articleType": "news",
+      "lead": "シンガポール金融管理局（Monetary Authority of Singapore、MAS）は11月19日、分散型台帳上でトークン化したMAS債を発行し、卸売の中央銀行デジタル通貨（CBDC）で決済する試験に成功したと発表した。発行額は1億シンガポール・ドルで、MAS債の新たな発行手法を確かめた。",
+      "summaryHtml": "<ul><li>MASは11月19日、トークン化MAS債（4週間物）を発行したと発表した。発行日は11月6日、満期は12月4日（MAS）。</li><li>発行額は1億シンガポール・ドル（Sドル、約124億円）。応募は発行額の2倍超だった（MAS）。</li><li>入札には、プライマリー・ディーラー5行（DBS、HSBCのシンガポール支店、OCBC、スタンダードチャータード、UOB）が参加した（MAS）。</li><li>MASはネイティブ発行と呼ぶ方式を採った。債券を最初から分散型台帳だけに記録し、照合作業や仲介を省けるとしている（MAS）。</li><li>MASは今後、発行の拡大、参加機関の追加、担保管理への活用を進め、2027年の次の実証に参加機関を募る（MAS）。</li></ul>",
+      "bodyHtml": "<h3>債券を最初から台帳に記録する方式</h3><p>MASの発表によると、今回発行したのは4週間物のトークン化MAS債で、額面は1億Sドルである。発行日は11月6日、満期は12月4日。ドル換算はMAS発表になく、The Blockとcrypto.newsは約7,750万米ドルと伝えている。円換算は、この米ドル額に日銀が公表した11月19日17時時点の1ドル＝約159.7円をかけて約124億円とした。</p><p>MASが強調するのは発行の方法である。通常は従来型の債券として発行したあとでトークン化するが、今回はネイティブ発行として、債券を最初から分散型台帳だけに記録した。MASは、これで照合作業と仲介の必要がなくなるとしている。使った基盤は、MASが運営するシンガポール・ドルの試験ネットワークで、MASは今後これを「SG Digital Ledger」と改称するとしている。</p><h3>卸売CBDCでの決済、参加は大手5行</h3><p>試験ネットワークは、金融機関がトークン化した金融資産の決済を卸売CBDCで試せる環境である。MAS発表は卸売CBDCを細かく定義していないが、crypto.newsは、参加者が中央銀行発行のデジタル・シンガポール・ドルで支払ったと伝えている。この点はMAS発表にはなく、今回は確認できていない。入札に参加したのはDBS、HSBCのシンガポール支店、OCBC、スタンダードチャータード（Standard Chartered）のシンガポール拠点、UOBの5行で、いずれもMASのプライマリー・ディーラーである。MASによると、応募は発行額の2倍を超えた。crypto.newsは応募額が2億Sドルを超えたと書いたが、MAS発表に出ているのは2倍超までで、2億Sドルという金額はMAS発表では確認できない。</p><p>今回の試験は、2025年に実施した、卸売CBDCで決済する銀行間の翌日物貸出の実証に続くものである。MASのチア・デル・ジュン（Chia Der Jiun）専務は、今回の発行で新しい発行手法を試し、自前の分散型台帳の基盤を磨けたと述べた。さらに、トークン化MAS債は従来のMAS債を「補完する役割を果たし得る」との見方も示した。</p><h3>日系金融機関にとっての論点</h3><p>MASは次の段階として、トークン化MAS債の発行を拡大し、参加する金融機関を増やし、担保管理への活用も広げる方針である。関心のある金融機関や金融市場インフラに、2027年の次の実証への参加を呼びかけている。crypto.newsによると、シンガポール取引所（SGX）はMASと担保管理での活用を探る意向を示した。ただし、今回の入札に参加した5行に日系銀行は含まれていない。シンガポールで資金運用や決済業務を担う日系の金融機関や商社の財務部門にとっては、2027年の実証に参加できる枠組みが示されるかどうかが、今後の注目点になるとみられる。なお、MAS発表で確認できるのは、2027年が次の実証の時期だという点までで、発行拡大の具体的な時期や規模は示されていない。</p>",
+      "dataFigure": "S$1億",
+      "dataLabel": "トークン化MAS債（4週間物）の発行額",
+      "dataSource": "シンガポール金融管理局、2026年11月19日",
+      "sources": [
+        {
+          "name": "シンガポール金融管理局（MAS）",
+          "title": "MAS Announces Successful Issuance of Tokenised MAS Bills on the Singapore Dollar Test Network Using Wholesale Central Bank Digital Currency",
+          "url": "https://www.mas.gov.sg/news/media-releases/2026/mas-announces-successful-issuance-of-tokenised-mas-bills-on-the-singapore-dollar-test-network",
+          "date": "2026-11-19"
+        },
+        {
+          "name": "The Block",
+          "title": "Singapore's MAS issues $77 million in tokenized bills settled via CBDC",
+          "url": "https://theblock.co/news/web3/2026-11-19-singapores-mas-tokenized-bills-443562",
+          "date": "2026-11-19"
+        },
+        {
+          "name": "crypto.news",
+          "title": "Singapore's MAS issues $77.5M in tokenized bills using wholesale CBDC as expansion plans advance",
+          "url": "https://crypto.news/singapore-mas-tokenized-bills-wholesale-cbdc/",
+          "date": "2026-11-19"
+        },
+        {
+          "name": "日本銀行",
+          "title": "Foreign Exchange Rates (Nov 19, 2026)",
+          "url": "https://www.boj.or.jp/en/statistics/market/forex/fxdaily/fxlist/fx261119.pdf",
+          "date": "2026-11-19"
+        }
+      ],
+      "seoTitle": "MAS、トークン化MAS債1億Sドルを発行",
+      "seoDescription": "シンガポール金融管理局は卸売CBDCで決済するトークン化MAS債を発行。1億Sドルで、DBSなど5行が参加した。2027年の次の実証に参加機関を募る。",
+      "tags": [
+        "シンガポール",
+        "MAS",
+        "トークン化",
+        "卸売CBDC",
+        "SG Digital Ledger",
+        "チア・デル・ジュン",
+        "DBS",
+        "UOB"
+      ],
+      "publishAt": "2026-11-20T15:30:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/singapore-mas-tokenised-bills-wholesale-cbdc-nov-2026.png"
+    },
+    {
+      "slug": "indonesia-balance-of-payments-q3-2026-surplus-current-account-0-5-percent",
+      "title": "インドネシア7〜9月期の経常赤字は20億ドルに縮小 GDP比0.5%、国際収支は黒字に転換",
+      "country": "インドネシア",
+      "category": "経済",
+      "articleType": "news",
+      "lead": "インドネシア銀行（中央銀行、Bank Indonesia、BI）は11月20日、2026年7〜9月期の国際収支が1億ドル（約160億円）の黒字になったと明らかにした。経常赤字はGDP比0.5%まで縮み、前期の3.4%から大きく改善した。",
+      "summaryHtml": "<ul><li>BIは2026年7〜9月期の国際収支が1億ドル（約160億円）の黒字になったと発表した。4〜6月期は9億ドル（約140億円）の赤字だった（Kontan）。</li><li>経常赤字は20億ドル（約3,200億円）でGDP比0.5%。4〜6月期は126億ドル（約2.0兆円）、同3.4%だった（Kontan）。</li><li>金融収支は21億ドル（約3,350億円）の黒字だが、前期より縮小した。証券投資は、国債への外国資金の流入が減って赤字になった（Kontan）。</li><li>9月末の外貨準備は1,463億ドル（約23.4兆円）。輸入の5.4か月分に当たり、国際的な目安の約3か月を上回る（Kontan）。</li><li>BIのデスリー・ダマヤンティ（Destry Damayanti）総裁は19日、通貨ルピアの動きを「重い課題」と述べた（Viva）。</li></ul>",
+      "bodyHtml": "<h3>経常赤字が前期の6分の1に縮小</h3><p>Kontanによると、BIは11月20日、2026年7〜9月期の国際収支（NPI）が1億ドルの黒字になったと明らかにした。4〜6月期は9億ドルの赤字で、赤字から黒字へ転じた。BIは主因を経常赤字の縮小としている。経常赤字は7〜9月期に20億ドル、GDP比0.5%で、4〜6月期の126億ドル（GDP比3.4%）から大幅に縮まった。なお、円換算は日銀が公表した11月19日17時時点の1ドル＝約159.7円で計算した。</p><p>BIの説明では、縮小の要因は4つある。商品の輸出価格が上がって非石油ガス分野の貿易黒字が増えたこと、石油・ガスの輸入が減って同分野の赤字が縮んだこと、外国人旅行者が増えてサービス収支の赤字が縮んだこと、海外への投資収益の支払いが減って第1次所得収支の赤字が縮んだことである。第2次所得収支は大きく変わらなかった。BI本体の公表資料は今回開けておらず、数字は広報担当の発言を伝えたKontanの記事による。</p><h3>金融収支は黒字を保つが、証券投資は資金が細る</h3><p>金融収支は21億ドルの黒字だった。4〜6月期より黒字幅は小さい。直接投資は黒字を保った。その他投資は、居住者が海外に置いていた現金や預金を引き揚げた結果、前期の赤字から黒字に変わった。一方、証券投資は赤字だった。世界の金融市場の不透明感が強まるなか、国内の国債への外国資金の流入が前期より減ったためだとBIは説明している。経常赤字が縮んだ分、資金調達の外国頼みは和らいだが、国債市場に入る外国資金は細っており、この点は引き続き注目される。</p><p>9月末の外貨準備は1,463億ドルだった。輸入の5.4か月分、政府の対外債務の返済を加えても5.2か月分に当たり、BIは国際的な適正水準の約3か月を上回るとしている。</p><h3>ルピア安は続く中での改善</h3><p>通貨ルピアは弱含みが続いている。Vivaによると、デスリー総裁は19日、ジャカルタでのCNBCインドネシアの金融フォーラムで、ルピアの対ドル相場が年初来8.47%下落したと説明し、為替の動きを「重い課題」と述べた。要因の一つに米国とイランの対立など地政学リスクを挙げた。ただし同記事は、下落幅を上期約5.7%、下期約1.6%とも伝えており、合計は8.47%と合わない。算出の基準が違う可能性があるが、記事では理由が示されていない。BIは11月18日に政策金利を6.00%へ引き上げており、Vivaも同じ水準を伝えている。</p><p>BIは今後の見通しとして、国際収支は良好な状態が続き、経常赤字は低水準にとどまり、金融収支は黒字が続くとみている。その根拠として、輸出の見通し、商品価格、国内の金融商品の魅力的な利回りを挙げた。ルピア安のなかでも対外収支が改善したことは、インドネシアで原材料や部品を輸入して生産する日系企業にとって、外貨調達面の不安を和らげる材料になるとみられる。ただし、外国資金の流入に左右される国債市場の動きは、為替の先行きを占ううえで引き続き注目される。</p>",
+      "dataFigure": "0.5%",
+      "dataLabel": "7〜9月期の経常赤字（GDP比）",
+      "dataSource": "インドネシア銀行、2026年11月20日",
+      "chart": {
+        "bars": [
+          {
+            "label": "4-6月",
+            "value": 3.4,
+            "display": "3.4%"
+          },
+          {
+            "label": "7-9月",
+            "value": 0.5,
+            "display": "0.5%"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "Kontan",
+          "title": "BI Catat NPI Surplus US$ 100 Juta, Cadangan Devisa Tembus US$ 146,3 Miliar",
+          "url": "https://nasional.kontan.co.id/news/bi-catat-npi-surplus-us-100-juta-cadangan-devisa-tembus-us-1463-miliar",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "Kontan",
+          "title": "Defisit Transaksi Berjalan Indonesia Menyusut Jadi US$ 2 Miliar di Kuartal III 2026",
+          "url": "https://nasional.kontan.co.id/news/defisit-transaksi-berjalan-indonesia-menyusut-jadi-us-2-miliar-di-kuartal-iii-2026",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "Viva",
+          "title": "Rupiah Anjlok 8,47 Persen Sepanjang 2026, Destry Damayanti Ungkap Biang Keroknya",
+          "url": "https://www.viva.co.id/bisnis/1944980-rupiah-anjlok-847-persen-sepanjang-2026-destry-damayanti-ungkap-biang-keroknya",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "日本銀行",
+          "title": "Foreign Exchange Rates (Nov 19, 2026)",
+          "url": "https://www.boj.or.jp/en/statistics/market/forex/fxdaily/fxlist/fx261119.pdf",
+          "date": "2026-11-19"
+        }
+      ],
+      "seoTitle": "インドネシア経常赤字20億ドルに縮小",
+      "seoDescription": "インドネシア銀行は7〜9月期の国際収支が1億ドルの黒字になったと発表。経常赤字はGDP比0.5%に縮小し、外貨準備は1,463億ドルだった。",
+      "tags": [
+        "インドネシア",
+        "国際収支",
+        "経常赤字",
+        "インドネシア銀行",
+        "外貨準備",
+        "ルピア",
+        "デスリー・ダマヤンティ",
+        "BI Rate"
+      ],
+      "publishAt": "2026-11-20T15:00:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/indonesia-balance-of-payments-q3-2026-surplus-current-account-0-5-percent.png"
+    },
     {
       "slug": "malaysia-gdp-q3-2026-5-5-percent-bnm",
       "title": "マレーシアの7〜9月期GDPは5.5%増 速報値5.3%を上回る 輸出と投資が寄与",

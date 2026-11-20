@@ -1,0 +1,68 @@
+{
+  "slug": "indonesia-balance-of-payments-q3-2026-surplus-current-account-0-5-percent",
+  "title": "インドネシア7〜9月期の経常赤字は20億ドルに縮小 GDP比0.5%、国際収支は黒字に転換",
+  "country": "インドネシア",
+  "category": "経済",
+  "articleType": "news",
+  "lead": "インドネシア銀行（中央銀行、Bank Indonesia、BI）は11月20日、2026年7〜9月期の国際収支が1億ドル（約160億円）の黒字になったと明らかにした。経常赤字はGDP比0.5%まで縮み、前期の3.4%から大きく改善した。",
+  "summaryHtml": "<ul><li>BIは2026年7〜9月期の国際収支が1億ドル（約160億円）の黒字になったと発表した。4〜6月期は9億ドル（約140億円）の赤字だった（Kontan）。</li><li>経常赤字は20億ドル（約3,200億円）でGDP比0.5%。4〜6月期は126億ドル（約2.0兆円）、同3.4%だった（Kontan）。</li><li>金融収支は21億ドル（約3,350億円）の黒字だが、前期より縮小した。証券投資は、国債への外国資金の流入が減って赤字になった（Kontan）。</li><li>9月末の外貨準備は1,463億ドル（約23.4兆円）。輸入の5.4か月分に当たり、国際的な目安の約3か月を上回る（Kontan）。</li><li>BIのデスリー・ダマヤンティ（Destry Damayanti）総裁は19日、通貨ルピアの動きを「重い課題」と述べた（Viva）。</li></ul>",
+  "bodyHtml": "<h3>経常赤字が前期の6分の1に縮小</h3><p>Kontanによると、BIは11月20日、2026年7〜9月期の国際収支（NPI）が1億ドルの黒字になったと明らかにした。4〜6月期は9億ドルの赤字で、赤字から黒字へ転じた。BIは主因を経常赤字の縮小としている。経常赤字は7〜9月期に20億ドル、GDP比0.5%で、4〜6月期の126億ドル（GDP比3.4%）から大幅に縮まった。なお、円換算は日銀が公表した11月19日17時時点の1ドル＝約159.7円で計算した。</p><p>BIの説明では、縮小の要因は4つある。商品の輸出価格が上がって非石油ガス分野の貿易黒字が増えたこと、石油・ガスの輸入が減って同分野の赤字が縮んだこと、外国人旅行者が増えてサービス収支の赤字が縮んだこと、海外への投資収益の支払いが減って第1次所得収支の赤字が縮んだことである。第2次所得収支は大きく変わらなかった。BI本体の公表資料は今回開けておらず、数字は広報担当の発言を伝えたKontanの記事による。</p><h3>金融収支は黒字を保つが、証券投資は資金が細る</h3><p>金融収支は21億ドルの黒字だった。4〜6月期より黒字幅は小さい。直接投資は黒字を保った。その他投資は、居住者が海外に置いていた現金や預金を引き揚げた結果、前期の赤字から黒字に変わった。一方、証券投資は赤字だった。世界の金融市場の不透明感が強まるなか、国内の国債への外国資金の流入が前期より減ったためだとBIは説明している。経常赤字が縮んだ分、資金調達の外国頼みは和らいだが、国債市場に入る外国資金は細っており、この点は引き続き注目される。</p><p>9月末の外貨準備は1,463億ドルだった。輸入の5.4か月分、政府の対外債務の返済を加えても5.2か月分に当たり、BIは国際的な適正水準の約3か月を上回るとしている。</p><h3>ルピア安は続く中での改善</h3><p>通貨ルピアは弱含みが続いている。Vivaによると、デスリー総裁は19日、ジャカルタでのCNBCインドネシアの金融フォーラムで、ルピアの対ドル相場が年初来8.47%下落したと説明し、為替の動きを「重い課題」と述べた。要因の一つに米国とイランの対立など地政学リスクを挙げた。ただし同記事は、下落幅を上期約5.7%、下期約1.6%とも伝えており、合計は8.47%と合わない。算出の基準が違う可能性があるが、記事では理由が示されていない。BIは11月18日に政策金利を6.00%へ引き上げており、Vivaも同じ水準を伝えている。</p><p>BIは今後の見通しとして、国際収支は良好な状態が続き、経常赤字は低水準にとどまり、金融収支は黒字が続くとみている。その根拠として、輸出の見通し、商品価格、国内の金融商品の魅力的な利回りを挙げた。ルピア安のなかでも対外収支が改善したことは、インドネシアで原材料や部品を輸入して生産する日系企業にとって、外貨調達面の不安を和らげる材料になるとみられる。ただし、外国資金の流入に左右される国債市場の動きは、為替の先行きを占ううえで引き続き注目される。</p>",
+  "dataFigure": "0.5%",
+  "dataLabel": "7〜9月期の経常赤字（GDP比）",
+  "dataSource": "インドネシア銀行、2026年11月20日",
+  "chart": {
+    "bars": [
+      {
+        "label": "4-6月",
+        "value": 3.4,
+        "display": "3.4%"
+      },
+      {
+        "label": "7-9月",
+        "value": 0.5,
+        "display": "0.5%"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "Kontan",
+      "title": "BI Catat NPI Surplus US$ 100 Juta, Cadangan Devisa Tembus US$ 146,3 Miliar",
+      "url": "https://nasional.kontan.co.id/news/bi-catat-npi-surplus-us-100-juta-cadangan-devisa-tembus-us-1463-miliar",
+      "date": "2026-11-20"
+    },
+    {
+      "name": "Kontan",
+      "title": "Defisit Transaksi Berjalan Indonesia Menyusut Jadi US$ 2 Miliar di Kuartal III 2026",
+      "url": "https://nasional.kontan.co.id/news/defisit-transaksi-berjalan-indonesia-menyusut-jadi-us-2-miliar-di-kuartal-iii-2026",
+      "date": "2026-11-20"
+    },
+    {
+      "name": "Viva",
+      "title": "Rupiah Anjlok 8,47 Persen Sepanjang 2026, Destry Damayanti Ungkap Biang Keroknya",
+      "url": "https://www.viva.co.id/bisnis/1944980-rupiah-anjlok-847-persen-sepanjang-2026-destry-damayanti-ungkap-biang-keroknya",
+      "date": "2026-11-20"
+    },
+    {
+      "name": "日本銀行",
+      "title": "Foreign Exchange Rates (Nov 19, 2026)",
+      "url": "https://www.boj.or.jp/en/statistics/market/forex/fxdaily/fxlist/fx261119.pdf",
+      "date": "2026-11-19"
+    }
+  ],
+  "seoTitle": "インドネシア経常赤字20億ドルに縮小",
+  "seoDescription": "インドネシア銀行は7〜9月期の国際収支が1億ドルの黒字になったと発表。経常赤字はGDP比0.5%に縮小し、外貨準備は1,463億ドルだった。",
+  "tags": [
+    "インドネシア",
+    "国際収支",
+    "経常赤字",
+    "インドネシア銀行",
+    "外貨準備",
+    "ルピア",
+    "デスリー・ダマヤンティ",
+    "BI Rate"
+  ],
+  "publishAt": "2026-11-20T15:00:00+09:00",
+  "language": "ja",
+  "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/indonesia-balance-of-payments-q3-2026-surplus-current-account-0-5-percent.png"
+}

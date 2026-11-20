@@ -1,0 +1,54 @@
+{
+  "slug": "singapore-mas-tokenised-bills-wholesale-cbdc-nov-2026",
+  "title": "シンガポール金融管理局、トークン化MAS債を発行 卸売CBDCで決済 1億Sドル、ディーラー5行参加",
+  "country": "シンガポール",
+  "category": "金融・市場",
+  "articleType": "news",
+  "lead": "シンガポール金融管理局（Monetary Authority of Singapore、MAS）は11月19日、分散型台帳上でトークン化したMAS債を発行し、卸売の中央銀行デジタル通貨（CBDC）で決済する試験に成功したと発表した。発行額は1億シンガポール・ドルで、MAS債の新たな発行手法を確かめた。",
+  "summaryHtml": "<ul><li>MASは11月19日、トークン化MAS債（4週間物）を発行したと発表した。発行日は11月6日、満期は12月4日（MAS）。</li><li>発行額は1億シンガポール・ドル（Sドル、約124億円）。応募は発行額の2倍超だった（MAS）。</li><li>入札には、プライマリー・ディーラー5行（DBS、HSBCのシンガポール支店、OCBC、スタンダードチャータード、UOB）が参加した（MAS）。</li><li>MASはネイティブ発行と呼ぶ方式を採った。債券を最初から分散型台帳だけに記録し、照合作業や仲介を省けるとしている（MAS）。</li><li>MASは今後、発行の拡大、参加機関の追加、担保管理への活用を進め、2027年の次の実証に参加機関を募る（MAS）。</li></ul>",
+  "bodyHtml": "<h3>債券を最初から台帳に記録する方式</h3><p>MASの発表によると、今回発行したのは4週間物のトークン化MAS債で、額面は1億Sドルである。発行日は11月6日、満期は12月4日。ドル換算はMAS発表になく、The Blockとcrypto.newsは約7,750万米ドルと伝えている。円換算は、この米ドル額に日銀が公表した11月19日17時時点の1ドル＝約159.7円をかけて約124億円とした。</p><p>MASが強調するのは発行の方法である。通常は従来型の債券として発行したあとでトークン化するが、今回はネイティブ発行として、債券を最初から分散型台帳だけに記録した。MASは、これで照合作業と仲介の必要がなくなるとしている。使った基盤は、MASが運営するシンガポール・ドルの試験ネットワークで、MASは今後これを「SG Digital Ledger」と改称するとしている。</p><h3>卸売CBDCでの決済、参加は大手5行</h3><p>試験ネットワークは、金融機関がトークン化した金融資産の決済を卸売CBDCで試せる環境である。MAS発表は卸売CBDCを細かく定義していないが、crypto.newsは、参加者が中央銀行発行のデジタル・シンガポール・ドルで支払ったと伝えている。この点はMAS発表にはなく、今回は確認できていない。入札に参加したのはDBS、HSBCのシンガポール支店、OCBC、スタンダードチャータード（Standard Chartered）のシンガポール拠点、UOBの5行で、いずれもMASのプライマリー・ディーラーである。MASによると、応募は発行額の2倍を超えた。crypto.newsは応募額が2億Sドルを超えたと書いたが、MAS発表に出ているのは2倍超までで、2億Sドルという金額はMAS発表では確認できない。</p><p>今回の試験は、2025年に実施した、卸売CBDCで決済する銀行間の翌日物貸出の実証に続くものである。MASのチア・デル・ジュン（Chia Der Jiun）専務は、今回の発行で新しい発行手法を試し、自前の分散型台帳の基盤を磨けたと述べた。さらに、トークン化MAS債は従来のMAS債を「補完する役割を果たし得る」との見方も示した。</p><h3>日系金融機関にとっての論点</h3><p>MASは次の段階として、トークン化MAS債の発行を拡大し、参加する金融機関を増やし、担保管理への活用も広げる方針である。関心のある金融機関や金融市場インフラに、2027年の次の実証への参加を呼びかけている。crypto.newsによると、シンガポール取引所（SGX）はMASと担保管理での活用を探る意向を示した。ただし、今回の入札に参加した5行に日系銀行は含まれていない。シンガポールで資金運用や決済業務を担う日系の金融機関や商社の財務部門にとっては、2027年の実証に参加できる枠組みが示されるかどうかが、今後の注目点になるとみられる。なお、MAS発表で確認できるのは、2027年が次の実証の時期だという点までで、発行拡大の具体的な時期や規模は示されていない。</p>",
+  "dataFigure": "S$1億",
+  "dataLabel": "トークン化MAS債（4週間物）の発行額",
+  "dataSource": "シンガポール金融管理局、2026年11月19日",
+  "sources": [
+    {
+      "name": "シンガポール金融管理局（MAS）",
+      "title": "MAS Announces Successful Issuance of Tokenised MAS Bills on the Singapore Dollar Test Network Using Wholesale Central Bank Digital Currency",
+      "url": "https://www.mas.gov.sg/news/media-releases/2026/mas-announces-successful-issuance-of-tokenised-mas-bills-on-the-singapore-dollar-test-network",
+      "date": "2026-11-19"
+    },
+    {
+      "name": "The Block",
+      "title": "Singapore's MAS issues $77 million in tokenized bills settled via CBDC",
+      "url": "https://theblock.co/news/web3/2026-11-19-singapores-mas-tokenized-bills-443562",
+      "date": "2026-11-19"
+    },
+    {
+      "name": "crypto.news",
+      "title": "Singapore's MAS issues $77.5M in tokenized bills using wholesale CBDC as expansion plans advance",
+      "url": "https://crypto.news/singapore-mas-tokenized-bills-wholesale-cbdc/",
+      "date": "2026-11-19"
+    },
+    {
+      "name": "日本銀行",
+      "title": "Foreign Exchange Rates (Nov 19, 2026)",
+      "url": "https://www.boj.or.jp/en/statistics/market/forex/fxdaily/fxlist/fx261119.pdf",
+      "date": "2026-11-19"
+    }
+  ],
+  "seoTitle": "MAS、トークン化MAS債1億Sドルを発行",
+  "seoDescription": "シンガポール金融管理局は卸売CBDCで決済するトークン化MAS債を発行。1億Sドルで、DBSなど5行が参加した。2027年の次の実証に参加機関を募る。",
+  "tags": [
+    "シンガポール",
+    "MAS",
+    "トークン化",
+    "卸売CBDC",
+    "SG Digital Ledger",
+    "チア・デル・ジュン",
+    "DBS",
+    "UOB"
+  ],
+  "publishAt": "2026-11-20T15:30:00+09:00",
+  "language": "ja",
+  "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/singapore-mas-tokenised-bills-wholesale-cbdc-nov-2026.png"
+}
