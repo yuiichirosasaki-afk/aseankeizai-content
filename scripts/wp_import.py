@@ -36,13 +36,28 @@ def render(a):
 
 
 def tag_ids(names):
+    """タグIDを返す。1つのタグで失敗しても、そのタグだけ飛ばして記事の取り込みは続ける。"""
     ids = []
     for n in names:
-        r = S.get(f'{API}/tags', params={'search': n, 'per_page': 100}).json()
-        hit = next((t['id'] for t in r if html.unescape(t['name']) == n), None)
-        if hit is None:
-            hit = S.post(f'{API}/tags', json={'name': n}).json()['id']
-        ids.append(hit)
+        try:
+            r = S.get(f'{API}/tags', params={'search': n, 'per_page': 100}).json()
+            hit = None
+            if isinstance(r, list):
+                hit = next((t['id'] for t in r if html.unescape(t['name']) == n), None)
+            if hit is None:
+                resp = S.post(f'{API}/tags', json={'name': n})
+                body = resp.json()
+                if isinstance(body, dict) and 'id' in body:
+                    hit = body['id']
+                elif isinstance(body, dict) and body.get('code') == 'term_exists':
+                    # すでにあるタグ：応答の data.term_id にIDが入っている
+                    hit = (body.get('data') or {}).get('term_id')
+                else:
+                    print(f'tag skipped: {n} ({resp.status_code} {resp.text[:120]})', file=sys.stderr)
+            if hit is not None:
+                ids.append(hit)
+        except Exception as e:  # noqa: BLE001
+            print(f'tag skipped: {n} ({e})', file=sys.stderr)
     return ids
 
 
@@ -51,54 +66,90 @@ def media_id(a):
     if not url:
         return None
     name = f'{a["slug"]}.png'
-    found = S.get(f'{API}/media', params={'search': a['slug'], 'per_page': 5}).json()
-    for m in found:
-        if m.get('source_url', '').endswith(name):
-            return m['id']
-    img = requests.get(url, timeout=60)
-    img.raise_for_status()
-    r = S.post(f'{API}/media', data=img.content, headers={
-        'Content-Type': 'image/png', 'Content-Disposition': f'attachment; filename="{name}"'})
-    r.raise_for_status()
-    return r.json()['id']
+    try:
+        found = S.get(f'{API}/media', params={'search': a['slug'], 'per_page': 5}).json()
+        if isinstance(found, list):
+            for m in found:
+                if m.get('source_url', '').endswith(name):
+                    return m['id']
+        img = requests.get(url, timeout=60)
+        img.raise_for_status()
+        r = S.post(f'{API}/media', data=img.content, headers={
+            'Content-Type': 'image/png', 'Content-Disposition': f'attachment; filename="{name}"'})
+        if r.status_code == 403:
+            # サイトの防御（WAF）が生のバイナリ送信を弾く場合があるので、フォーム形式で一度だけ送り直す
+            r = S.post(f'{API}/media', files={'file': (name, img.content, 'image/png')})
+        if r.status_code >= 300:
+            print(f'image skipped: {a["slug"]} ({r.status_code} {r.text[:120]})', file=sys.stderr)
+            return None
+        return r.json()['id']
+    except Exception as e:  # noqa: BLE001
+        # 画像が付かなくても記事（下書き）は作る。画像は次回以降の実行でやり直す
+        print(f'image skipped: {a["slug"]} ({e})', file=sys.stderr)
+        return None
 
 
 def main():
     feed = json.loads((ROOT / 'feed.json').read_text(encoding='utf-8'))
     now = datetime.now(timezone.utc)
     done = 0
+    failed = []
     for a in feed['articles']:
-        body = render(a)
-        digest = hashlib.sha256(json.dumps(a, ensure_ascii=False, sort_keys=True).encode()).hexdigest()[:16]
-        marker = f'<!-- feed:{digest} -->'
-        when = datetime.fromisoformat(a['publishAt']).astimezone(timezone.utc)
-        status = 'draft' if DRAFT else ('future' if when > now else 'publish')
-        post = {
-            'slug': a['slug'], 'title': a['title'], 'content': body + marker, 'excerpt': a['lead'],
-            'status': status, 'date_gmt': when.strftime('%Y-%m-%dT%H:%M:%S'),
-            'categories': [i for i in (CAT.get(a['country']), CAT.get(a['category'])) if i],
-            'tags': tag_ids(a.get('tags', [])),
-        }
-        old = S.get(f'{API}/posts', params={'slug': a['slug'], 'status': 'any', 'context': 'edit'}).json()
-        if old:
-            p = old[0]
-            if marker in p['content']['raw']:
-                continue
-            if p['status'] == 'publish' and status != 'publish':
-                post['status'] = 'publish'
-            r = S.post(f'{API}/posts/{p["id"]}', json=post)
-        else:
+        try:
+            done += import_one(a, now)
+        except Exception as e:  # noqa: BLE001
+            # 1本の失敗で、後ろの記事の取り込みを止めない
+            print(f'FAILED {a.get("slug")}: {e}', file=sys.stderr)
+            failed.append(a.get('slug'))
+    print(f'{done} posts created or updated, {len(failed)} failed')
+    if failed:
+        sys.exit(1)  # 失敗した記事があれば実行を赤にする（ただし他の記事は取り込み済み）
+
+
+def import_one(a, now):
+    """1本を取り込み、作成・更新したら1、何もしなければ0を返す。失敗したら例外を投げる。"""
+    body = render(a)
+    digest = hashlib.sha256(json.dumps(a, ensure_ascii=False, sort_keys=True).encode()).hexdigest()[:16]
+    marker = f'<!-- feed:{digest} -->'
+    when = datetime.fromisoformat(a['publishAt']).astimezone(timezone.utc)
+    status = 'draft' if DRAFT else ('future' if when > now else 'publish')
+    old = S.get(f'{API}/posts', params={'slug': a['slug'], 'status': 'any', 'context': 'edit'}).json()
+    if not isinstance(old, list):
+        raise RuntimeError(f'posts lookup failed: {str(old)[:200]}')
+    if old and marker in old[0]['content']['raw']:
+        # 中身は取り込み済み。前回、画像だけ付かなかった記事なら、画像をやり直す
+        p = old[0]
+        if not p.get('featured_media') and a.get('heroImage'):
+            m = media_id(a)
+            if m and S.post(f'{API}/posts/{p["id"]}', json={'featured_media': m}).status_code < 300:
+                print('image attached', a['slug'])
+                return 1
+        return 0
+    post = {
+        'slug': a['slug'], 'title': a['title'], 'content': body + marker, 'excerpt': a['lead'],
+        'status': status, 'date_gmt': when.strftime('%Y-%m-%dT%H:%M:%S'),
+        'categories': [i for i in (CAT.get(a['country']), CAT.get(a['category'])) if i],
+        'tags': tag_ids(a.get('tags', [])),
+    }
+    if old:
+        p = old[0]
+        if p['status'] == 'publish' and status != 'publish':
+            post['status'] = 'publish'
+        if not p.get('featured_media'):
             m = media_id(a)
             if m:
                 post['featured_media'] = m
-            r = S.post(f'{API}/posts', json=post)
-        if r.status_code >= 300:
-            print(a['slug'], r.status_code, r.text[:300], file=sys.stderr)
-            continue
-        done += 1
-        print('upserted', a['slug'], post['status'])
-        time.sleep(1)  # 続けて叩くと自分で503を誘発する
-    print(f'{done} posts created or updated')
+        r = S.post(f'{API}/posts/{p["id"]}', json=post)
+    else:
+        m = media_id(a)
+        if m:
+            post['featured_media'] = m
+        r = S.post(f'{API}/posts', json=post)
+    if r.status_code >= 300:
+        raise RuntimeError(f'{r.status_code} {r.text[:300]}')
+    print('upserted', a['slug'], post['status'])
+    time.sleep(1)  # 続けて叩くと自分で503を誘発する
+    return 1
 
 
 if __name__ == '__main__':
