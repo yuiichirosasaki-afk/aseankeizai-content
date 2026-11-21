@@ -1,7 +1,102 @@
 {
-  "generatedAt": "2026-11-21T06:24:47+09:00",
+  "generatedAt": "2026-11-21T10:24:50+09:00",
   "site": "東南アジア経済新聞",
   "articles": [
+    {
+      "slug": "indonesia-prabowo-mining-permits-70-percent-state-nov-2026",
+      "title": "インドネシア大統領、全鉱業許可で7割以上を国が享受と発言 必要なら株式の掌握も",
+      "country": "インドネシア",
+      "category": "エネルギー・環境",
+      "articleType": "news",
+      "lead": "インドネシアのプラボウォ大統領は11月14日、すべての鉱業許可（IUP）について少なくとも7割を国が享受すべきだと述べ、必要なら株式も国が握る考えを示した。対象を利益と伝える報道が多いが、算定基準や実施時期は示されていない。",
+      "summaryHtml": "<ul><li>プラボウォ・スビアント大統領（Prabowo Subianto）は11月14日（土）、中部スラウェシ州パルで開かれたイスラム団体ムハンマディヤの会合（Tanwir、創立114周年）の開会で、すべての鉱業許可（IUP）について少なくとも7割は国が享受すべきだと述べた（IDX Channel、Katadata）。</li><li>必要なら鉱山会社の株式も国が握る、とも述べた。資本の投入は認めるが、投資額が戻った後の利益は多くがインドネシア国民に帰属すべきだという趣旨である（IDX Channel）。</li><li>IDX ChannelとKatadataは対象を利益と伝えるが、Bloomberg Technozは「IUPの7割を国が支配」という見方で報じている。収益か利益か、株式の比率かは、報道によって表現が分かれる。</li><li>エネルギー・鉱物資源省（ESDM）の資料（2026年2月）では、鉱業関連の許可は計4,052件で、うちIUPは3,818件ある（Bloomberg Technoz）。</li><li>開いた報道には、閣僚や業界団体の反応、法的な根拠、実施時期は書かれていない。</li></ul>",
+      "bodyHtml": "<h3>発言の内容と場面</h3><p>IDX Channelによると、プラボウォ大統領は11月14日、パルで開かれたムハンマディヤのTanwirと創立114周年の式典で、開会のあいさつの中でこの方針を述べた。最低7割は国が享受すべきで、必要なら株式を国が握る、というのが発言の骨子である。同紙は、資本が必要なため投資家が資金を入れること自体は認めるとし、投資額が戻った後の利益は、多くがインドネシア国民のものであるべきだという趣旨の発言も伝えている。Katadataも同じ発言を11月16日付で報じた。Bloomberg Technozによれば、この指示は閣僚、とりわけエネルギー・鉱物資源相のバフリル・ラハダリア（Bahlil Lahadalia）氏に向けられたものである。</p><p>同じ式典で大統領は、輸出をすべて政府が指定する機関の窓口に一本化する方針にも触れた。輸出量を国が正確に把握するためだという。Katadataは同じ記事で、輸出データを扱うポータルDSI NADIが2027年1月1日に稼働し、登録は2026年12月15日から始まると伝えている。</p><h3>対象と基準はまだ定まっていない</h3><p>報道を並べると、発言の対象にはばらつきがある。IDX Channelは冒頭で、IUPを持つ全事業者について利益の最低7割を国のものにする指示だと書く。Katadataは、発言そのものは「すべての鉱業許可、すべてのIUP」の7割だとしつつ、見出しで株式にも言及している。Bloomberg Technozは、IUPの7割を国が支配するという構図で、違法採掘がそれだけでなくなるわけではないと論じている。収益ベースか利益ベースか、国が取るのは配当や税収などの分配なのか株式の保有なのかは、開いた報道からは確定できない。</p><p>許可の規模は大きい。Bloomberg Technozが引くESDM鉱物・石炭総局の資料（2026年2月時点）では、許可の総数は4,052件で、内訳は契約（KK）26件、石炭の契約（PKP2B）74件、IUP 3,818件、特別鉱業許可（IUPK）27件などである。IUPのうち、金属鉱物は841件、石炭は826件である。どの許可にどう適用するのか、既存の契約や許可にさかのぼるのかは、示されていない。</p><h3>日系企業が見ておく点</h3><p>インドネシアでニッケルや石炭などの権益を持つ日系企業、あるいは資源の引き取りや製錬事業に関わる企業にとっては、今後の細則の有無と内容が焦点になる。現時点では大統領の発言にとどまり、実施の手順や時期、既存の事業者との調整の方法は明らかになっていない。このため、事業の採算や出資比率に直ちにどう影響するかは判断できない。</p><p>今後は、ESDMや関係省庁が発言を受けてどのような規則案や通達を出すかが注目される。許可の更新や新規取得、増資、配当の方針を検討している企業は、発言の対象が利益か収益か、株式にどこまで及ぶのかについて、政府の正式な説明を確認する必要がある。なお、報道には、閣僚や業界団体が発言を受けて出したコメントは含まれていなかった。</p>",
+      "dataFigure": "70%",
+      "dataLabel": "鉱業許可（IUP）で国が享受すべき割合の下限（算定基準は未明示）",
+      "dataSource": "IDX Channel、2026年11月14日（プラボウォ大統領の発言）",
+      "sources": [
+        {
+          "name": "IDX Channel",
+          "title": "Prabowo Instruksikan Minimal 70 Persen Hasil Tambang Dinikmati Negara",
+          "url": "https://www.idxchannel.com/news/prabowo-instruksikan-minimal-70-persen-hasil-tambang-dinikmati-negara/all",
+          "date": "2026-11-14"
+        },
+        {
+          "name": "Katadata",
+          "title": "Prabowo Ingin Negara Kuasai 70% Tambang, Termasuk Sahamnya",
+          "url": "https://katadata.co.id/berita/industri/6afa79318a487/prabowo-ingin-negara-kuasai-70-tambang-termasuk-sahamnya",
+          "date": "2026-11-16"
+        },
+        {
+          "name": "Bloomberg Technoz",
+          "title": "Wacana 70% IUP Dikuasai Negara Tak Otomatis Basmi Tambang Ilegal",
+          "url": "https://www.bloombergtechnoz.com/detail-news/127951/wacana-70-iup-dikuasai-negara-tak-otomatis-basmi-tambang-ilegal/2",
+          "date": "2026-11"
+        }
+      ],
+      "seoTitle": "インドネシア大統領、鉱業許可の7割を国へ",
+      "seoDescription": "インドネシアのプラボウォ大統領は、すべての鉱業許可（IUP）で少なくとも7割を国が享受すべきだと発言。必要なら株式も掌握。算定基準は不明で、実施時期も示されていない。",
+      "tags": [
+        "インドネシア",
+        "プラボウォ大統領",
+        "IUP",
+        "鉱業許可",
+        "ムハンマディヤ",
+        "バフリル・ラハダリア",
+        "エネルギー・鉱物資源省"
+      ],
+      "publishAt": "2026-11-21T11:30:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/indonesia-prabowo-mining-permits-70-percent-state-nov-2026.png"
+    },
+    {
+      "slug": "philippines-aboitizpower-pagbilao-unit3-tpec-holdings-6-12-billion-pesos",
+      "title": "アボイティス・パワー、比パグビラオ石炭火力3号機の全持ち分を61億ペソで取得へ",
+      "country": "フィリピン",
+      "category": "エネルギー・環境",
+      "articleType": "news",
+      "lead": "アボイティス・パワー（AboitizPower）傘下のサーマ・パワーは、パグビラオ石炭火力3号機（420MW）の運営会社の持ち分50%を握る会社を、61億2,210万ペソ（約152億円）で買収する。完了すれば同機は全額出資になる。",
+      "summaryHtml": "<ul><li>アボイティス・パワーの完全子会社サーマ・パワー（Therma Power Inc.、TPI）は11月13日、TPEC Holdings Corporationの全株式を買う株式売買契約を結んだ。売り手はTeaM (Philippines) Energy Corporationである（フィリピン証券取引所への開示）。</li><li>対象は普通株90万株と優先株4億4,692万6,104株の計4億4,782万6,104株。対価は現金で61億2,210万3,225ペソ（約152億円）。支払いは前提条件の完了後で、フィリピン競争委員会（PCC）の承認などが条件である（同）。</li><li>TPEC Holdingsは、パグビラオ・エナジー（Pagbilao Energy Corp.）の発行済み株式の50%を持つ。同社はケソン州パグビラオで420MWの石炭火力3号機を所有・運営している。残る50%はTPIが持つ（同）。</li><li>完了後はTPEC Holdingsとパグビラオ・エナジーの両社がTPIの完全子会社となり、アボイティス・パワーの連結決算に入る（同）。</li><li>The Philippine Starは、同機がTeaM Energyに残る最後の石炭資産で、同社は東京電力と丸紅の合弁だと伝えている。</li></ul>",
+      "bodyHtml": "<h3>株式売買契約の中身</h3><p>アボイティス・パワーがフィリピン証券取引所に出した開示（様式17-C）によると、サーマ・パワー（TPI）の取締役会は11月13日に株式売買契約の締結を承認し、同日に契約を結んだ。買うのは、パグビラオ・エナジー（PEC）の株式の50%を持つ持ち株会社TPEC Holdingsの全株式である。1株当たりの価格は普通株が1,836.491317ペソ、優先株が10ペソで、合計は61億2,210万3,225ペソとなる。開示は価格の根拠を「額面と合意した上乗せ分」とし、支払いは前提条件の完了後と記している。条件にはPCCの承認が含まれる。Context.phも、買収にはPCCの審査が必要だと伝えている。</p><p>今回の取引で、TPIはすでに持つPECの50%と合わせて、PECを実質的に100%保有する。PECが運営するのは、ケソン州パグビラオにある出力420MWの石炭火力3号機である。開示は、買収後にTPEC HoldingsとPECがTPIの完全子会社になり、アボイティス・パワーの連結決算に入るとしている。完了の時期、買収資金の調達方法、電力の販売契約や石炭の調達条件は、開いた開示と報道には書かれていない。</p><h3>石炭資産を手放してきたTeaM Energy</h3><p>The Philippine Starは、パグビラオ3号機がTeaM Energyに残る最後の石炭資産だと伝えている。同紙によると、TeaM Energyは東京電力と丸紅の合弁である。同社は2025年に、出力735MWのパグビラオ発電所（ケソン州）を政府に返還し、その運営はアボイティス・パワー傘下のサーマ・ルソン（Therma Luzon Inc.）が引き継いだ。2024年には出力1,200MWのスアル石炭火力（パンガシナン州）も政府に返還し、現在はサンミゲル・グローバル・パワー傘下のスアル・パワー（Sual Power Inc.）が運営している。売却後もTeaM Energyは、電力小売り事業でフィリピンでの事業を続けるという。</p><p>売り手が今回の売却を決めた理由は、開示にも報道にも書かれていない。政府への返還が続いてきた流れの中で、残る最後の石炭資産が国内の発電会社に移る形になる。</p><h3>日系企業にとっての意味と今後の焦点</h3><p>東京電力と丸紅が出資するとされるTeaM Energyにとって、今回の売却は同国での発電資産の整理が進むことを意味するとみられる。ただし、両社が売却にどう関わったかは、開いた出典からは分からない。フィリピンで電力小売りや発電に関わる日系企業にとっては、返還された石炭火力の運営をアボイティス・パワーやサンミゲル・グローバル・パワーが引き継いでいることが、取引先や競争環境を見る材料になる。</p><p>今後の焦点は、PCCの審査の結果と完了の時期である。アボイティス・パワーは、買収後に同機を完全子会社として連結する。当面の収益への寄与は、完了後の決算で明らかになる。なお、Philippine Starの見出しは「61億ペソ」だが、本文と開示は61億2,210万ペソである。</p><p>円換算は、本紙の直近の記事と同じ1ペソ＝約2.49円で算出した。</p>",
+      "dataFigure": "61.2億ペソ",
+      "dataLabel": "TPEC Holdingsの全株式の取得額（約152億円）",
+      "dataSource": "アボイティス・パワーのPSE開示（様式17-C）、2026年11月13日",
+      "sources": [
+        {
+          "name": "フィリピン証券取引所（PSE Edge）",
+          "title": "Aboitiz Power Corporation 17-C（Therma Power Inc.によるTPEC Holdings Corporationの取得）",
+          "url": "https://edge.pse.com.ph/downloadHtml.do?file_id=1992396",
+          "date": "2026-11-13"
+        },
+        {
+          "name": "The Philippine Star",
+          "title": "Aboitiz takes control of Pagbilao coal plant for P6.1 billion",
+          "url": "https://www.philstar.com/business/2026/11/17/2570531/aboitiz-takes-control-pagbilao-coal-plant-p61-billion",
+          "date": "2026-11-17"
+        },
+        {
+          "name": "Context.ph",
+          "title": "Aboitiz Power unit buys full stake in Pagbilao Unit 3 for ₱6.12B",
+          "url": "https://context.ph/2026/11/16/aboitiz-power-unit-buys-full-stake-in-pagbilao-unit-3-for-%e2%82%b16-12b/",
+          "date": "2026-11-16"
+        }
+      ],
+      "seoTitle": "アボイティス、パグビラオ石炭火力を全額取得へ",
+      "seoDescription": "アボイティス・パワー傘下のサーマ・パワーは、パグビラオ石炭火力3号機（420MW）の運営会社の持ち分50%を握る会社を61億ペソで買収する。TeaM Energyは東電・丸紅の合弁。",
+      "tags": [
+        "フィリピン",
+        "アボイティス・パワー",
+        "AboitizPower",
+        "サーマ・パワー",
+        "TeaM Energy",
+        "パグビラオ石炭火力",
+        "東京電力",
+        "丸紅"
+      ],
+      "publishAt": "2026-11-21T11:00:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/philippines-aboitizpower-pagbilao-unit3-tpec-holdings-6-12-billion-pesos.png"
+    },
     {
       "slug": "malaysia-fbm-klci-1556-nov-20-2026-ai-data-centre-selling",
       "title": "マレーシアKLCIは1,556.51で週を終える AI関連売りで11月6日比3.7%安",
