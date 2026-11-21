@@ -1,7 +1,255 @@
 {
-  "generatedAt": "2026-11-21T14:20:43+09:00",
+  "generatedAt": "2026-11-21T18:26:38+09:00",
   "site": "東南アジア経済新聞",
   "articles": [
+    {
+      "slug": "singapore-comfortdelgro-zig-cross-border-taxi-johor-nov-23-2026",
+      "title": "シンガポールのZig、23日からジョホール行きタクシーをアプリで24時間予約 越境枠は500に拡大",
+      "country": "シンガポール",
+      "category": "企業・産業",
+      "articleType": "news",
+      "lead": "シンガポールのタクシー大手コンフォートデルグロ（ComfortDelGro）の配車アプリZigは、11月23日からジョホールバル行きのタクシーをアプリで24時間予約できるようにする。16日には越境タクシーの枠が両国で500に拡大し、Zigと地場マレーシア企業が免許を得た。",
+      "summaryHtml": "<ul><li>Zigは11月23日から、シンガポール発ジョホールバル行きのタクシーを、乗車の7日前から4時間前までアプリで予約できるようにする。運賃は事前に固定で表示される（ザ・スター）。</li><li>16日に、越境タクシーの枠が両国で300から500に拡大し、コンフォートデルグロのZigとマレーシアのクンプール（Kumpool）が免許を得た（NST、ザ・スター）。</li><li>降車地はジョホールバル、イスカンダル・プテリ、スナイで、帰りの乗車場所はジョホールバル市内の3か所である（ザ・スター）。</li><li>ZigはマレーシアのKummuteと提携し、どちらの車でも配車できる。KummuteはZigとは別に、12月14日から越境の予約を始める。</li><li>グラブ（Grab）は5月に免許を得ており、ジョホールバル行きの予約の受付は発車の90分前までに短縮された。</li></ul>",
+      "bodyHtml": "<h3>アプリ予約が始まり、運営3社が出そろう</h3><p>ザ・スター（ストレーツ・タイムズ配信、11月17日付）によると、Zigは11月23日から、シンガポールのどこからでも乗車でき、ジョホールバル、イスカンダル・プテリ、スナイで降りられる越境タクシーの予約をアプリで受け付ける。予約は乗車の7日前から4時間前までで、運賃は予約時に固定額が表示される。電話予約も続け、サービスは24時間である。帰りはジョホールバル市内の3か所で乗車でき、今後増やす方針だという。</p><p>この動きの前提になったのが、16日の枠の拡大である。NST（11月6日付）によると、シンガポール陸上交通庁（LTA）とマレーシア陸上公共交通庁（APAD）は、越境タクシーの免許枠を各国300から500に引き上げ、コンフォートデルグロのCDG Zigとマレーシアのクンプールが新たに免許を得ると発表した。既存のグラブカーに加わる。ザ・スターによると、これは2025年12月5日に両国の運輸省が示した500という目標の最終段階にあたる。コンフォートデルグロは、越境タクシーの免許を150持つという。</p><h3>競争は予約の取りやすさと提携に移る</h3><p>ザ・スターによると、ZigはマレーシアのKummute（クンプールが運営）と提携し、予約はどちらの網の車でも対応できるようにする。Kummuteは12月14日から独自の越境予約を始め、予約は2時間前までに必要で、当初の乗車場所は4か所である。グラブは5月に越境の配車で免許を得ており、ジョホールバル行きの予約は、開始時の12時間前から90分前まで短縮された。同紙は、配車サービスの料金は、バン・サン・ストリート・ターミナルで流しのタクシーを拾うより高いと指摘している。具体的な運賃は記事には出ていない。</p><p>NSTによると、5月4日に両国が打ち出した強化策には、配車サービスの乗車場所の指定、降車の柔軟化、免許枠の拡大、国内の違法な営業への取り締まりが含まれた。家族連れや出張者向けに、大型車や高級車も使えるという。</p><h3>日系企業への影響と今後の見通し</h3><p>シンガポールとジョホールを往来する駐在員や出張者にとっては、予約の選択肢が3社に増え、時間帯や車種の幅が広がる可能性がある。越境の移動が日常的な企業は、移動手段として何を使うかを見直す余地があるとみられる。ただ、料金の水準や、乗車場所の増え方は、今後の運用次第である。</p><p>コンフォートデルグロにとっては、免許の数と提携先を生かし、予約の受け皿を増やせるかが課題になる。枠の拡大が完了した後、各社が予約の取りやすさや運賃でどう差をつけるかが注目される。</p>",
+      "dataFigure": "500",
+      "dataLabel": "越境タクシーの免許枠（各国、300から拡大）。11月16日から",
+      "dataSource": "NST、2026年11月6日",
+      "sources": [
+        {
+          "name": "The Star (The Straits Times/ANN)",
+          "title": "Travellers from Singapore can book taxi rides to JB round the clock from Nov 23 on ComfortDelGro app",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/17/travellers-from-singapore-can-book-taxi-rides-to-jb-round-the-clock-from-nov-23-on-comfortdelgro-app",
+          "date": "2026-11-17"
+        },
+        {
+          "name": "New Straits Times",
+          "title": "Causeway taxi quota hits 500; Singapore, Malaysian operators get licences",
+          "url": "https://www.nst.com.my/amp/news/nation/2026/11/1572005/causeway-taxi-quota-hits-500-singapore-malaysian-operators-get-licences",
+          "date": "2026-11-06"
+        }
+      ],
+      "seoTitle": "Zig、23日からジョホール行きを24時間予約",
+      "seoDescription": "コンフォートデルグロのZigが11月23日から、ジョホールバル行きタクシーをアプリで24時間予約できるようにする。越境タクシーの枠は両国で500に拡大した。",
+      "tags": [
+        "シンガポール",
+        "コンフォートデルグロ",
+        "Zig",
+        "Kummute",
+        "Grab",
+        "越境タクシー",
+        "ジョホールバル",
+        "LTA"
+      ],
+      "publishAt": "2026-11-21T21:00:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/singapore-comfortdelgro-zig-cross-border-taxi-johor-nov-23-2026.png"
+    },
+    {
+      "slug": "philippines-philippine-airlines-boeing-787-10-15-aircraft-order-nov-2026",
+      "title": "フィリピン航空、787-10を15機で発注確定 米政府は120億ドルと発表、推計は約34億ドル",
+      "country": "フィリピン",
+      "category": "観光・航空",
+      "articleType": "analysis",
+      "lead": "フィリピン航空（PAL）が、米ボーイングの787-10を15機、追加購入権を5機分付けて発注する契約を確定した。米ホワイトハウスは11月18日、ボーイングとGEエアロスペースの案件を120億ドル（約1.9兆円）と説明したが、7月には別の推計で約34億ドルと報じられており、金額に開きがある。",
+      "summaryHtml": "<ul><li>PALは7月20日に最大20機の787を発注する意向を発表し、11月に15機の787-10を確定した。さらに5機を購入する権利がある（ボーイング、エアウェイズ誌、ザ・ネーション）。</li><li>エアウェイズ誌によると、機体とGEnx-1Bエンジンの契約は11月10日にボーイングとGEエアロスペースとの間で正式に結ばれ、ボーイングは11月15日に発表した。</li><li>ホワイトハウスは11月18日、この案件を120億ドル（約1.9兆円）と説明した。ロイターは20機の販売と書き、ザ・ネーションは15機の確定発注と書いた。</li><li>7月のガルフ・ニュースは、航空コンサルのIBAグループの推計として、全20機で約34億ドル（約5,430億円）と報じた。値引き後の金額で、購入権をすべて行使した場合である。</li><li>初号機の納入は2031年と、PALのニュータル社長が7月に述べた。11月の報道は「次の10年」と書く。</li></ul>",
+      "bodyHtml": "<h3>7月の意向表明から11月に確定</h3><p>ボーイングの発表（7月20日、英ファンボロー）によると、PALは最大20機の787を発注する意向を示し、確定すれば787-10を15機、さらに5機を購入できる契約になるとしていた。エアウェイズ誌（11月17日付）は、機体とGEエアロスペース製のGEnx-1Bエンジンの契約が11月10日に正式に結ばれ、ボーイングが11月15日に発表したと伝えている。確定したのは15機で、残る5機は購入する権利にとどまる。エアウェイズ誌は、20機の確定発注ではないと明記した。</p><p>納入時期について、PALのリチャード・ニュータル（Richard Nuttall）社長は7月の調印時に、初号機は2031年に来ると述べたとガルフ・ニュース（7月21日付）が報じた。11月の報道は、納入は次の10年に入ってからで、個別の日程は示されていないと書いている。ボーイングは7月の発表で、787-10は従来機より燃料消費が25%少ないとしている。</p><h3>120億ドルと34億ドル、金額の開き</h3><p>ホワイトハウスは11月18日、トランプ米大統領のASEAN首脳会議訪問に合わせた案件の一つとして、ボーイングとGEエアロスペースによるPALへの販売を120億ドルと説明した。日本円では約1.9兆円にあたる（11月19日の東京相場、1ドル＝約159.7円で換算）。ロイター（11月19日配信）は「20機の787」の販売と書き、ザ・ネーション（11月19日付）は15機の確定発注に5機の購入権が付くと書いた。</p><p>一方、7月のガルフ・ニュースは、IBAグループの推計として、購入権を全て行使した場合の総額は約34億ドルと報じた。値引き後の金額である。日本円では約5,430億円にあたる。両者の差は約3.5倍だが、ホワイトハウスの金額が何を含むのか、確認できた出典には説明がない。機体、エンジン、整備や関連サービスの範囲が違う可能性はあるものの、推測の域を出ない。ボーイングの発表にも金額はない。</p><h3>日系企業と今後の見通し</h3><p>PALの保有機材は、ガルフ・ニュースによると777-300ERが10機、A330-300が11機、A350が4機で、A350-1000も7機を発注済みである。今回の787-10は、長距離路線を担う機材の拡充にあたるとみられる。どの路線に投入するかは、確認できた出典には示されていない。日本を含む長距離路線の計画は今後の発表待ちで、納入は数年先のため、短期の供給増にはつながらない。</p><p>今後は、PALが路線計画をいつ示すか、確定した金額がどう公表されるかが注目される。金額については、当事者の発表がない限り、公表数字の違いを前提に読む必要がある。</p>",
+      "dataFigure": "15機",
+      "dataLabel": "PALが確定したボーイング787-10の発注数（ほかに5機の購入権）",
+      "dataSource": "エアウェイズ誌、2026年11月17日",
+      "sources": [
+        {
+          "name": "Boeing",
+          "title": "Boeing and Philippine Airlines Announce Commitment for up to 20 787 Dreamliner Jets",
+          "url": "https://investors.boeing.com/investors/news/press-release-details/2026/Boeing-and-Philippine-Airlines-Announce-Commitment-for-up-to-20-787-Dreamliner-Jets/default.aspx",
+          "date": "2026-07-20"
+        },
+        {
+          "name": "Airways Magazine",
+          "title": "Philippine Airlines Finalizes Order for 15 Boeing 787-10s",
+          "url": "https://airwaysmag.com/new-post/philippine-airlines-finalizes-15-boeing-787-10-order",
+          "date": "2026-11-17"
+        },
+        {
+          "name": "TimesLIVE (Reuters)",
+          "title": "Trump unveils $17bn in Southeast Asia deals for US firms, White House says",
+          "url": "https://www.timeslive.co.za/news/world/2026-11-19-trump-unveils-17bn-in-southeast-asia-deals-for-us-firms-white-house-says/",
+          "date": "2026-11-19"
+        },
+        {
+          "name": "The Nation Thailand",
+          "title": "Trump outlines deals across five ASEAN nations at Manila summit, including Thailand's 4bn baht plan to buy HIMARS",
+          "url": "https://www.nationthailand.com/news/40073702",
+          "date": "2026-11-19"
+        },
+        {
+          "name": "Gulf News",
+          "title": "PAL orders up to 20 Boeing 787 Dreamliners in $3.4-billion push to expand global network",
+          "url": "https://gulfnews.com/business/aviation/philippine-airlines-bets-34-billion-on-boeing-787-dreamliners-sets-sights-on-new-era-of-long-haul-growth-1.500614814",
+          "date": "2026-07-21"
+        }
+      ],
+      "seoTitle": "PAL、ボーイング787-10を15機で確定",
+      "seoDescription": "フィリピン航空がボーイング787-10を15機で確定発注し、5機の購入権を得た。ホワイトハウスは120億ドル（約1.9兆円）と発表したが、7月の推計は約34億ドルで開きがある。",
+      "tags": [
+        "フィリピン航空",
+        "ボーイング",
+        "787-10",
+        "GEエアロスペース",
+        "GEnx-1B",
+        "IBAグループ",
+        "ホワイトハウス"
+      ],
+      "publishAt": "2026-11-21T20:30:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/philippines-philippine-airlines-boeing-787-10-15-aircraft-order-nov-2026.png"
+    },
+    {
+      "slug": "indonesia-danantara-latitude-energy-coal-gasification-us2-billion-nov-2026",
+      "title": "ダナンタラ、米ラティチュード・エナジーと石炭ガス化で協議 規模は20億ドル",
+      "country": "インドネシア",
+      "category": "エネルギー・環境",
+      "articleType": "news",
+      "lead": "インドネシアの政府系投資基金ダナンタラ（Danantara）が、米エネルギー技術企業ラティチュード・エナジー（Latitude Energy）と、20億ドル（約3,190億円）規模の石炭ガス化事業を協議している。米ホワイトハウスが11月18日に明らかにした。両者は7月に覚書を交わしていた。",
+      "summaryHtml": "<ul><li>ホワイトハウスは11月18日の声明で、ラティチュード・エナジーとダナンタラが米国の技術を使う20億ドル（約3,190億円）の石炭事業を協議していると明らかにした（ロイター配信）。</li><li>両者は7月8日に、石炭をガスに変える技術を使ったガス化の検討で覚書に署名していた（PRニュースワイヤーの発表資料）。</li><li>ジャカルタ・ポストは、国内でガスを作れば輸入への依存を減らせると伝えた。低品位炭からジメチルエーテル（DME）を作り、LPG輸入を減らす構想もある。</li><li>2018年に国営炭鉱会社ブキット・アサムと米エア・プロダクツが合弁を計画したが、エア・プロダクツは2023年に撤退した。</li><li>協議の段階で、投資決定や着工時期は示されていない。</li></ul>",
+      "bodyHtml": "<h3>7月の覚書から価格のついた協議へ</h3><p>ロイター（TimesLIVE配信、11月19日）によると、ホワイトハウスは18日（水）遅く、トランプ米大統領がフィリピンでの2日間のASEAN首脳会議訪問を終えて、米企業向けの商談や戦略投資が総額170億ドル超になったと発表した。この中で、ラティチュード・エナジーとダナンタラが、米国の技術を使う20億ドルの石炭事業を協議していると記した。日本円では約3,190億円にあたる（11月19日の東京相場、1ドル＝約159.7円で換算）。ジャカルタ・ポスト（11月20日付）も、ホワイトハウスが水曜日に発表した資料でこの金額が明らかになったと伝えている。</p><p>両者はすでに7月8日、ジャカルタで覚書に署名していた。ラティチュード・エナジーの発表資料（PRニュースワイヤー、7月15日）によると、ダナンタラ傘下のダナンタラ開発管理基金を通じて、同社の石炭ガス化技術（TRIG）によるガス化の検討を進めるという内容である。カタダタ（7月13日付）は、ダナンタラのシギット・P・サントサ（Sigit P. Santosa）CEOが、低カロリー炭を使うことでエネルギーの自給に資すると述べたと報じた。7月の段階では金額は示されていなかった。</p><h3>過去には外資の撤退も</h3><p>ジャカルタ・ポストによると、インドネシアの石炭ガス化は、2018年に国営炭鉱会社ブキット・アサム（PT Bukit Asam、PTBA）と米エア・プロダクツ（Air Products and Chemicals）が合弁を計画したが、エア・プロダクツが2023年に撤退した経緯がある。同紙は、国内で合成ガスを作れば輸入への依存を減らせ、産業面の機会も生まれると指摘し、低品位炭をDMEに加工してLPG輸入を減らす構想も背景にあると説明している。過去の取り組みは、外国の投資家が離脱して止まったという。</p><h3>日系企業への影響と注意点</h3><p>今回の発表は、あくまで協議の段階である。確認できた出典には、投資決定の時期、出資比率、事業の場所、着工や稼働の目標は含まれていない。20億ドルという金額も、ホワイトハウスの資料にあるもので、インドネシア側の発表では確認できていない。</p><p>日系企業にとっては、インドネシアが国内の石炭を国内の化学・燃料の原料に回す動きを強めていることを示す材料とみられる。LPGや化学品の輸入に関わる企業は、国産化の進み方を見ておく必要がある。一方で、石炭を原料とするガス化は、温室効果ガスの排出など環境面での評価が論点になりうる。ダナンタラが最終的な投資判断をいつ下すのかが、今後の注目点である。</p>",
+      "dataFigure": "20億ドル",
+      "dataLabel": "ダナンタラとラティチュード・エナジーが協議中の石炭ガス化事業の規模（約3,190億円）",
+      "dataSource": "ホワイトハウス発表（ロイター、2026年11月19日配信）",
+      "sources": [
+        {
+          "name": "The Jakarta Post",
+          "title": "Danantara, US energy firm begin negotiations over $2b coal gasification project",
+          "url": "https://www.thejakartapost.com/business/2026/11/20/danantara-us-energy-firm-begin-negotiations-over-2b-coal-gasification-project",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "TimesLIVE (Reuters)",
+          "title": "Trump unveils $17bn in Southeast Asia deals for US firms, White House says",
+          "url": "https://www.timeslive.co.za/news/world/2026-11-19-trump-unveils-17bn-in-southeast-asia-deals-for-us-firms-white-house-says/",
+          "date": "2026-11-19"
+        },
+        {
+          "name": "PR Newswire (Latitude Energy)",
+          "title": "U.S. Technology Firm Latitude Energy Signs MoU with Danantara to Advance Indonesia's First Coal Gasification Project",
+          "url": "https://www.prnewswire.com/news-releases/us-technology-firm-latitude-energy-signs-mou-with-danantara-to-advance-indonesias-first-coal-gasification-project-302825978.html",
+          "date": "2026-07-15"
+        },
+        {
+          "name": "Katadata",
+          "title": "Dorong Gasifikasi Batu Bara, Danantara Gandeng Latitude Energy dari AS",
+          "url": "https://katadata.co.id/berita/energi/6a54c1231aebb/dorong-gasifikasi-batu-bara-danantara-gandeng-latitude-energy-dari-as",
+          "date": "2026-07-13"
+        }
+      ],
+      "seoTitle": "ダナンタラ、石炭ガス化で米社と20億ドル協議",
+      "seoDescription": "インドネシアのダナンタラが米ラティチュード・エナジーと、20億ドル（約3,190億円）規模の石炭ガス化事業を協議。ホワイトハウスが11月18日に明らかにした。",
+      "tags": [
+        "インドネシア",
+        "ダナンタラ",
+        "ラティチュード・エナジー",
+        "石炭ガス化",
+        "ブキット・アサム",
+        "DME",
+        "LPG"
+      ],
+      "publishAt": "2026-11-21T20:00:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/indonesia-danantara-latitude-energy-coal-gasification-us2-billion-nov-2026.png"
+    },
+    {
+      "slug": "malaysia-us-sovereign-ai-cloud-us50-million-mcmc-nov-2026",
+      "title": "マレーシア、米国と主権AIクラウドで協力へ 米側の支援は最大5,000万ドル",
+      "country": "マレーシア",
+      "category": "IT・スタートアップ",
+      "articleType": "news",
+      "lead": "マレーシア通信マルチメディア委員会（MCMC）は11月18日、米国と主権AIクラウドの開発で協力する意向を発表した。米側の支援は5,000万ドル（約80億円）の可能性があるという。設備とデータはマレーシア国内に置き、同国の法律に従う条件が付く。",
+      "summaryHtml": "<ul><li>MCMCは11月18日夜の声明で、アンワル首相とトランプ米大統領が主権AIクラウドの協力を進める意向を発表したと明らかにした（ベルナマ）。</li><li>米国の支援は5,000万ドル（約80億円）の可能性とされ、ベルナマは潜在的な支援と表現した。ザ・スターは米国が支援を「提示」したと伝えた。</li><li>設備とデータはマレーシア国内に置き、同国の法律に従う。設計、調達、運用の取り決めはマレーシア側が決める。</li><li>米国企業の参加は、マレーシアの法律、調達手続き、技術・安全要件と、関連する合意の締結が前提になる。</li><li>協力は技術支援やAI人材の訓練も対象になりうる。参加する米国企業の名前は公表されていない。</li></ul>",
+      "bodyHtml": "<h3>発表の中身は「意向」と「条件」</h3><p>マレーシア通信社ベルナマによると、MCMCは11月18日の声明で、アンワル・イブラヒム（Anwar Ibrahim）首相とドナルド・トランプ（Donald Trump）米大統領が、主権AIクラウドの協力を進める意向を発表したと説明した。米側の支援は5,000万ドルの可能性とされ、日本円では約80億円にあたる（11月19日の東京相場、1ドル＝約159.7円で換算）。ベルナマは潜在的な支援と表記し、ザ・スター（ブルームバーグ配信）は米国が5,000万ドルを提示したと伝えた。表現に違いがあり、確定した拠出ではない点に注意が必要である。</p><p>ロイターが配信した記事は、この協力を、トランプ氏が東南アジアで発表した米企業向けの案件の一つとして伝えた。米国の企業連合がマレーシア政府のクラウド開発を支援するとしているが、ベルナマとザ・スターは参加企業名を挙げていない。</p><h3>主権の線引きが明確、参加には条件</h3><p>MCMCの説明では、インフラとそこに置かれるデータはマレーシア国内にあり、同国の法律に従う。ザ・スターによると、データはマレーシアの占有・保管・管理の下に置かれる。設計、調達、運用の取り決めはマレーシア側が決め、米国企業の参加は、同国の法律、調達手続き、技術・安全要件、関連する合意の締結に従うとされた。ベルナマによれば、協力は包括的戦略的パートナーシップの枠組みで進み、AI人材の育成に向けた技術支援や訓練、安全で強靱なデジタル基盤を運営する能力の構築も対象に含まれうる。</p><p>主権AIクラウドは、機密情報や個人データが他国の法律の影響を受けにくいよう、政府主導で整える基盤である。ザ・スターによると、政府は2026年度予算で投資を表明していた。同紙は、マレーシアのデータセンター産業が、米国の先端半導体が中国企業に転用される懸念で注目されてきたことも指摘している。今回の条件設定は、そうした懸念に配慮したものとみられる。</p><h3>日系企業への示唆と今後</h3><p>日系のクラウド事業者やデータセンター事業者にとって、直接の商機かどうかは現時点では分からない。参加の条件が、マレーシアの調達手続きと安全要件に沿うことだと示されたためである。公開された情報には、事業者の選定方法や時期、具体的な規模は含まれていない。</p><p>今後は、MCMCが示す調達の枠組みや、米国との間で結ぶ関連合意の内容が焦点になる。5,000万ドルの条件も、両政府が内容と範囲を詰めるまでは確定しないとみられる。マレーシアに拠点を持つ企業は、主権クラウドの設計方針が、データの国内保管や越境移転のルールにどう反映されるかを見ておく必要がある。</p>",
+      "dataFigure": "5,000万ドル",
+      "dataLabel": "米国が示した主権AIクラウドへの支援額（約80億円、潜在的な支援）",
+      "dataSource": "ベルナマ、2026年11月18日",
+      "sources": [
+        {
+          "name": "Bernama",
+          "title": "Malaysia, US To Strengthen Cooperation On Sovereign AI Cloud",
+          "url": "https://bernama.com/en/news.php?id=2636420",
+          "date": "2026-11-18"
+        },
+        {
+          "name": "The Star (Bloomberg)",
+          "title": "US, Malaysia to strengthen sovereign AI cloud development",
+          "url": "https://www.thestar.com.my/business/business-news/2026/11/19/us-malaysia-to-strengthen-sovereign-ai-cloud-development",
+          "date": "2026-11-19"
+        },
+        {
+          "name": "TimesLIVE (Reuters)",
+          "title": "Trump unveils $17bn in Southeast Asia deals for US firms, White House says",
+          "url": "https://www.timeslive.co.za/news/world/2026-11-19-trump-unveils-17bn-in-southeast-asia-deals-for-us-firms-white-house-says/",
+          "date": "2026-11-19"
+        }
+      ],
+      "seoTitle": "マレーシア、米と主権AIクラウド協力へ",
+      "seoDescription": "マレーシアのMCMCは11月18日、米国と主権AIクラウドで協力する意向を発表した。米側の支援は5,000万ドル（約80億円）の可能性。設備とデータは国内に置く。",
+      "tags": [
+        "マレーシア",
+        "MCMC",
+        "主権AIクラウド",
+        "アンワル首相",
+        "トランプ大統領",
+        "データセンター",
+        "AI"
+      ],
+      "publishAt": "2026-11-21T19:30:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/malaysia-us-sovereign-ai-cloud-us50-million-mcmc-nov-2026.png"
+    },
+    {
+      "slug": "philippines-psei-5306-98-nov-20-2026-lowest-since-march-2020",
+      "title": "フィリピン株価指数PSEi、20日は3.12%安の5,306.98 2020年3月以来の低水準",
+      "country": "フィリピン",
+      "category": "金融・市場",
+      "articleType": "news",
+      "lead": "フィリピン株価指数PSEiは11月20日、前日比170.93ポイント（3.12%）安の5,306.98で取引を終えた。マニラ・タイムズによると、2020年3月30日以来の低い終値である。ペソも対ドルで下げ、成長とインフレへの懸念や米国株安、大手港湾運営会社の急落が重なった。",
+      "summaryHtml": "<ul><li>PSEiは11月20日、170.93ポイント（3.12%）下落し5,306.98で終えた。マニラ・タイムズは2020年3月30日以来の低い終値と伝えた。</li><li>全銘柄指数は2.40%安で、全業種が下落した。サービス株は5.93%安、値下がりは137銘柄、値上がりは41銘柄だった。</li><li>国際コンテナターミナルサービス（ICTSI）が7.22%安と、PSEi構成銘柄で最大の下げだった。</li><li>ペソは対ドルで63.81となり、前日の63.665から下げて3週間ぶりの安値を付けた。過去最安は10月30日の日中の64.20である。</li><li>PSEiは19日に0.62%安の5,477.91で終えており、安値の更新が続いている（フィルスター、デイリー・トリビューン）。</li></ul>",
+      "bodyHtml": "<h3>全業種が下落、サービス株の下げが大きい</h3><p>マニラ・タイムズ（11月21日付）によると、PSEiは20日の取引で170.93ポイント下落し、5,306.98で終えた。下落率は3.12%で、2020年3月30日以来の低い終値だという。全銘柄指数（オール・シェアーズ）も2.40%下げ、すべての業種が下落した。サービス株は5.93%安と最も大きく下げた。値下がり銘柄は137、値上がりは41で、外国人投資家は売り越しだった。</p><p>最も下げたのは、港湾運営大手の国際コンテナターミナルサービス（ICTSI、International Container Terminal Services Inc.）で、7.22%安だった。フィリピン株の調査を行うフィルストックス・ファイナンシャルのジャペット・タンティアンコ（Japhet Tantiangco）氏は、ICTSIの利益確定売りに加え、成長とインフレへの懸念が重なったと述べた。リージーナ・キャピタルのルイス・リムリンガン（Luis Limlingan）氏は、南アフリカ政府が同社のダーバン港ターミナルの運営許可の取り消しをちらつかせたとの報道を受けた売りが出たと説明した。この報道の真偽は、本紙では確認していない。</p><h3>米国株安とペソ安が重なる</h3><p>インベストメント・アンド・キャピタル・コーポレーション・オブ・ザ・フィリピンズのマニー・オカンポ（Manny Ocampo）社長は、前日の米国株の下落が響いたとの見方を示し、PSEiの次の下値の目安を5,200とした。ペソは20日に対ドルで63.81となり、前日の63.665から下げた。3週間ぶりの安値で、10月30日に付けた日中の過去最安64.20には届いていない。週間では0.09ペソ（0.1%）の下落で、8週間のうち7度目のペソ安となった。</p><p>リサール商業銀行（RCBC）のマイケル・リカフォルト（Michael Ricafort）チーフエコノミストは、国際収支への圧力、原油高、FRB（米連邦準備制度理事会）の追加利上げ観測に伴うドル高をペソ安の要因に挙げた。一方で、海外就労者からの送金や輸出企業、BPO（業務委託）のドル流入といった季節要因が、ペソを支えるとの見方も示した。来週のペソの予想レンジは63.50〜64だという。マニラ・タイムズによると、UBSはフィリピン中央銀行（BSP）が来年にかけて利上げを続ける可能性があると予測している。</p><h3>安値更新が続く展開、日系企業は為替と資金調達に注意</h3><p>PSEiは今週、下げが続いている。デイリー・トリビューンによると、16日の終値は5,481.88で、同日の下落率は2%だった。19日はフィルスターとデイリー・トリビューンがともに0.62%安の5,477.91と報じ、20日の下落で終値は5,300台に沈んだ。なお、19日の終値を「何年何月以来の安値」とするかは報道で違い、フィルスターは2020年4月27日以来、デイリー・トリビューンは同年5月18日以来としている。20日の基準日はマニラ・タイムズの記述による。</p><p>フィリピンに拠点を持つ日系企業にとっては、ペソ安が輸入原材料のコストや、現地通貨建て収益の円換算に影響するとみられる。株価の下落は、現地での資金調達や株式公開の環境にも響く可能性がある。当面は、米国株の動向、BSPの金融政策、ペソの水準が注目される。</p>",
+      "dataFigure": "5,306.98",
+      "dataLabel": "11月20日のPSEi終値。3.12%安で、2020年3月30日以来の低水準",
+      "dataSource": "マニラ・タイムズ、2026年11月21日",
+      "sources": [
+        {
+          "name": "The Manila Times",
+          "title": "Stocks plunge to 6-year low; peso falls to P63.81",
+          "url": "https://www.manilatimes.net/2026/11/21/business/top-business/stocks-plunge-to-6-year-low-peso-falls-to-p6381/2475306",
+          "date": "2026-11-21"
+        },
+        {
+          "name": "The Philippine Star",
+          "title": "Stocks sink to fresh low in over 6 years",
+          "url": "https://www.philstar.com/business/2026/11/20/2571258/stocks-sink-fresh-low-over-6-years",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "Daily Tribune",
+          "title": "PSEi sinks to weakest close since May 2020",
+          "url": "https://tribune.net.ph/2026/11/19/psei-sinks-to-weakest-close-since-may-2020",
+          "date": "2026-11-19"
+        }
+      ],
+      "seoTitle": "フィリピンPSEi、3.12%安の5,306.98",
+      "seoDescription": "フィリピン株価指数PSEiは11月20日に3.12%安の5,306.98で終え、2020年3月以来の低水準となった。ペソも下落。ICTSIの急落や米国株安が重なった。",
+      "tags": [
+        "フィリピン",
+        "PSEi",
+        "ICTSI",
+        "フィリピン・ペソ",
+        "BSP",
+        "マイケル・リカフォルト",
+        "フィリピン株"
+      ],
+      "publishAt": "2026-11-21T19:00:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/philippines-psei-5306-98-nov-20-2026-lowest-since-march-2020.png"
+    },
     {
       "slug": "vietnam-foreign-apartment-buyers-knight-frank-korea-48-percent-oct-2026",
       "title": "ベトナムの外国人マンション購入、韓国人が約48%で首位 累計6,188戸 ナイトフランク調べ",
