@@ -1,7 +1,233 @@
 {
-  "generatedAt": "2026-11-21T10:24:50+09:00",
+  "generatedAt": "2026-11-21T14:20:43+09:00",
   "site": "東南アジア経済新聞",
   "articles": [
+    {
+      "slug": "vietnam-foreign-apartment-buyers-knight-frank-korea-48-percent-oct-2026",
+      "title": "ベトナムの外国人マンション購入、韓国人が約48%で首位 累計6,188戸 ナイトフランク調べ",
+      "country": "ベトナム",
+      "category": "不動産・インフラ",
+      "articleType": "news",
+      "lead": "不動産コンサルのナイトフランク（Knight Frank）によると、外国人が2026年10月までにベトナムで買ったマンションは累計6,188戸で、国籍別では韓国人が約48%と最も多い。所有権をめぐる手続きが障壁として挙がっている。",
+      "summaryHtml": "<ul><li>累計6,188戸のうち、韓国人が約48%、中国本土が31%、香港・台湾が合わせて10%、シンガポールが2%を占めた（Knight Frank、VnExpress）。</li><li>ホーチミン市の集計では、外国人への販売が認められた15,841戸のうち3,297戸が売れた一方、権利証書（title deed）が出たのは316戸にとどまる（VnExpress、VnEconomy）。</li><li>外国人の所有は1つのプロジェクトの戸数の30%までで、期間は50年（1回延長可）に限られる（VnExpress）。</li><li>東南アジア6か国で外国人が住宅を買いやすい順位は、ベトナムが4位。最大の障壁は所有権だった（同）。</li><li>ナイトフランクは、対象物件リストの定期更新と、売買や権利証書の手続きの簡素化を求めた（同）。</li></ul>",
+      "bodyHtml": "<h3>韓国、中国の購入が全体の8割</h3><p>VnExpressによると、ナイトフランクは建設省のデータと複数の開発案件の調査をもとに、外国人が2026年10月までにベトナムで買ったマンションが累計6,188戸だったと明らかにした。国籍別の割合は、韓国人が約48%で首位、中国本土が31%で2位、香港と台湾が合わせて10%、シンガポールが2%で、残りは内訳が示されていない。日本人の購入戸数や割合は出典には出ておらず、残りの区分に含まれるとみられる。ナイトフランクは需要の一部について、これらの国・地域の企業がベトナムで事業を広げ、駐在員の住まいの需要が生まれていることを背景に挙げた。韓国、中国、シンガポールは、ベトナムへの主な直接投資元でもある。</p><h3>ホーチミン市は売れた戸数と証書発行に開き</h3><p>同市の集計（2025年6月以降）では、外国人への販売が認められた15,841戸（158プロジェクト）のうち3,297戸が売れた。VnEconomyの英語版（11月4日）は、10月時点でこの数字は対象戸数の21%に当たると伝えた。一方、権利証書が発行されたのは316戸で、売れた戸数の約1割にとどまる（この比率は本稿の計算）。ナイトフランクは、所有権の手続きを簡素にする必要があると指摘している。</p><p>VnEconomyによると、外国人への売却が多いのは、ミッドタウン（Midtown、フーミーフン）の468戸、エンパイアシティ（Empire City）の218戸、セラドンシティ（Celadon City）の187戸の順である。シティガーデン、キャピタランド（CapitaLand）のヴィスタ、エンパイアシティ、Maeda-Thien Ducが手がけるZ1の各プロジェクトは、外国人の所有上限に達した。同市で外国人向けに売れる対象は、4件が加わって160プロジェクトになった。VnExpressは158プロジェクトと伝えており、数字が異なるのは集計時点の違いによる可能性があるが、出典からは確認できない。</p><h3>所有権が最大の障壁、制度の透明性が課題</h3><p>外国人が買えるのは、対象プロジェクトの戸数の30%までで、所有期間は50年、1回の延長が可能である。ナイトフランクが東南アジア6か国を対象に、外国人の住宅の買いやすさを調べた結果、ベトナムはタイ、マレーシア、シンガポールに次ぐ4位で、カンボジアとインドネシアを上回った。購入の障壁を測る指標でベトナムは50点満点中28.5点で、最大の障壁は所有権、次いで建設の質、法規制、透明性だった。取引コストの負担は、シンガポールやインドネシアより軽い。</p><p>ナイトフランクは、規制は整ってきたが、外国人が買える物件を決める過程の透明性を高める必要があるとし、対象物件のリストと所有枠を定期的に更新するよう求めた。ベトナムに駐在員を置く日系企業や個人にとっては、検討する物件が対象に入っているか、上限に達していないか、権利証書の発行がどの程度遅れているかを確認することが重要とみられる。</p>",
+      "dataFigure": "約48%",
+      "dataLabel": "外国人のマンション購入に占める韓国人の割合（累計）",
+      "dataSource": "ナイトフランク、2026年10月までの累計（VnExpress、2026年11月20日）",
+      "chart": {
+        "bars": [
+          {
+            "label": "韓国",
+            "value": 48,
+            "display": "約48%"
+          },
+          {
+            "label": "中国本土",
+            "value": 31,
+            "display": "31%"
+          },
+          {
+            "label": "香港・台湾",
+            "value": 10,
+            "display": "10%"
+          },
+          {
+            "label": "シンガポール",
+            "value": 2,
+            "display": "2%"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "VnExpress International",
+          "title": "South Koreans biggest foreign buyers of apartments in Vietnam",
+          "url": "https://e.vnexpress.net/news/business/property/south-koreans-biggest-foreign-buyers-of-apartments-in-vietnam-5146624.html",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "VnEconomy",
+          "title": "Ho Chi Minh City sells nearly 3,300 apartments to foreigners",
+          "url": "https://en.vneconomy.vn/ho-chi-minh-city-sells-nearly-3300-apartments-to-foreigners.htm",
+          "date": "2026-11-04"
+        }
+      ],
+      "seoTitle": "外国人のマンション購入、韓国人が約48%",
+      "seoDescription": "ナイトフランクによると、外国人のベトナムでのマンション購入は累計6,188戸。韓国人が約48%で首位。ホーチミン市は権利証書の発行が316戸にとどまる。",
+      "tags": [
+        "ベトナム",
+        "ナイトフランク",
+        "外国人住宅購入",
+        "ホーチミン市",
+        "権利証書",
+        "不動産",
+        "韓国"
+      ],
+      "publishAt": "2026-11-21T16:30:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/vietnam-foreign-apartment-buyers-knight-frank-korea-48-percent-oct-2026.png"
+    },
+    {
+      "slug": "singapore-indonesia-piped-gas-supply-fully-restored-nov-12-2026",
+      "title": "シンガポール、インドネシアからのパイプラインガス供給が11月12日に全面復旧 10月に18日間の削減",
+      "country": "シンガポール",
+      "category": "エネルギー・環境",
+      "articleType": "news",
+      "lead": "シンガポールのエネルギー・貿易・産業省は11月20日、インドネシアからのパイプラインガスの供給が11月12日に全面復旧したと明らかにした。インドネシアは10月、国内の発電向けに回すため、輸出を減らしていた。",
+      "summaryHtml": "<ul><li>同省は20日、インドネシアが11月12日にパイプラインガスの供給を全面的に戻したと発表した。追加の削減通知はないという（ロイター、VnExpress経由）。</li><li>インドネシアは10月、国内の発電向けに供給を回すため、シンガポール向けの輸出を減らした。ロイターは削減量を日量3,100万標準立方フィートと伝えた（同）。</li><li>シンガポールのエネルギー市場監督庁（EMA）は当時、削減は18日間で日量17bbtud、同国の日量ガス需要（1,000bbtud超）の2%未満と説明した（同）。</li><li>Malay Mailによると、インドネシア側は10月24日から日量31bbtudの削減を通知し、内訳はナトゥナ沖が15、ジャンビ・ムラン鉱区が16だった。</li><li>EMAは、代替のLNGと緊急時の手順で電力網の混乱は防げるとしていた（Malay Mail）。</li></ul>",
+      "bodyHtml": "<h3>11月12日に全面復旧、追加の削減通知なし</h3><p>ロイターの記事（VnExpress International掲載）によると、シンガポールのエネルギー・貿易・産業省は11月20日、インドネシアがパイプラインガスの供給を11月12日に全面復旧したと述べた。同省の報道担当者は、追加の削減通知は受けていないと説明した。ロイターは、インドネシアが10月にシンガポール向けの輸出から日量3,100万標準立方フィートを減らし、国内の発電部門に回したと伝えている。インドネシアのエネルギー省と上流部門の規制当局は、ロイターの取材にすぐには応じなかった。</p><h3>10月の削減の経緯と数字の違い</h3><p>Malay Mailは10月25日の記事で、インドネシアの上流事業監督庁（SKK Migas）のジョコ・シスワント（Djoko Siswanto）長官が地元メディアに、10月24日からシンガポール向けを日量31bbtud（日量10億英国熱量単位）減らすと述べたと伝えた。内訳はナトゥナ沖が15、スマトラのジャンビ・ムラン鉱区が16である。一方、EMAは輸入業者のデータとして、削減は18日間にわたる日量17bbtudだと説明した。両者の差が生じた理由は、出典には書かれていない。また、ロイターは単位を標準立方フィートで、Malay Mailはbbtudで書いており、換算はできないため、本稿は各報道の表記のまま記した。</p><p>Malay Mailによると、テマセク傘下のガス・サプライ（Gas Supply）は、インドネシアの上流供給元から産業向けの供給が一時的に減ると伝えられ、供給元と協議中だとした。シンガポールのガス会社シンガポール・ガスコ（Singapore GasCo）は、追加の貨物を短期間で輸入できる体制にあるという。EMAの報道担当者は、輸入業者が契約に基づくあらゆる救済手段を追求すると承知していると述べた。</p><h3>供給への影響と日系企業の視点</h3><p>EMAは削減分が日量ガス需要の2%未満にとどまると説明した。シンガポールの日量需要は1,000bbtudを超え、Malay Mailによると、通常の保守作業に伴う日量20〜100bbtud程度の変動も吸収しているという。発電の約95%はガスが担い、アナリストはLNGがガス供給の約6割を占めるとみている。EMAは代替のLNGと緊急時の手順で電力網の混乱は防げるとし、発電事業者には軽油などの予備燃料の保有が求められている。</p><p>今回の出典には、シンガポールの電力供給や料金に実際の影響が出たとの記述はない。製造や物流の拠点をシンガポールに置く日系企業にとっては、パイプライン経由のガスが全面復旧したことで、当面の供給不安は後退したとみられる。ただし、ナトゥナ沖のガスは2028年までの長期契約でセンブコープ・ガス（Sembcorp Gas）の受入基地に供給されており、今後の契約の更新や供給元の分散が、電力コストを考える際の注目点になる。</p>",
+      "dataFigure": "2%未満",
+      "dataLabel": "10月の削減分が日量ガス需要に占めた割合",
+      "dataSource": "シンガポール・エネルギー市場監督庁（EMA）、2026年10月",
+      "sources": [
+        {
+          "name": "VnExpress International（ロイター）",
+          "title": "Singapore says piped gas supply from Indonesia is fully restored",
+          "url": "https://e.vnexpress.net/news/business/economy/singapore-says-piped-gas-supply-from-indonesia-is-fully-restored-5147286.html",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "Malay Mail",
+          "title": "Singapore shrugs off Indonesian gas cuts, urges importers to take legal recourse",
+          "url": "https://www.malaymail.com/news/singapore/2026/10/25/singapore-shrugs-off-indonesian-gas-cuts-urges-importers-to-take-legal-recourse/240499",
+          "date": "2026-10-25"
+        }
+      ],
+      "seoTitle": "シンガポール、インドネシア産ガスが全面復旧",
+      "seoDescription": "シンガポール政府は、インドネシアからのパイプラインガスの供給が11月12日に全面復旧したと発表。10月の削減は日量需要の2%未満とEMAは説明していた。",
+      "tags": [
+        "シンガポール",
+        "インドネシア",
+        "パイプラインガス",
+        "EMA",
+        "SKK Migas",
+        "LNG",
+        "Sembcorp Gas"
+      ],
+      "publishAt": "2026-11-21T16:00:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/singapore-indonesia-piped-gas-supply-fully-restored-nov-12-2026.png"
+    },
+    {
+      "slug": "malaysia-big-caring-ipo-listing-nov-19-2026-rm637-8-million",
+      "title": "薬局最大手ビッグ・ケアリング、マレーシアで上場 公募で約247億円を調達 終値は1.09リンギット",
+      "country": "マレーシア",
+      "category": "消費・小売",
+      "articleType": "news",
+      "lead": "マレーシア最大の薬局チェーン、ビッグ・ケアリング・グループ（Big Caring Group）が11月19日に上場した。公募で6億3,780万リンギット（約247億円）を調達し、終値は公募価格1.08リンギットを上回る1.09リンギットだった。",
+      "summaryHtml": "<ul><li>公募価格は1株1.08リンギット。新株5億9,050万株の公募で6億3,780万リンギット（約247億円、1リンギット＝約38.8円）を調達した。木曜日の終値は1.09リンギットだった（VnExpress、The Star）。</li><li>公募価格ベースの時価総額は約80億リンギット（約3,100億円）。ロイターは評価額を80億リンギットと伝えた（VnExpress、The Sun）。</li><li>調達資金の89.5%は銀行借入の返済、4.7%は新しい物流センター、5.8%は上場費用に充てる（The Sun）。</li><li>直近の6月期は、純利益が56.7%増の1億9,160万リンギット（約74億円）、売上高が17.9%増の40億2,000万リンギット（約1,560億円）だった（VnExpress）。</li><li>店舗は668店。今後3〜5年は年40〜50店を新設する計画である（VnExpress、The Star）。</li></ul>",
+      "bodyHtml": "<h3>公募価格をわずかに上回る終値</h3><p>VnExpressによると、ビッグ・ケアリング・グループは公募で6億3,780万リンギット（約247億円）を調達した。公募価格は1株1.08リンギットで、ロイターの報道では評価額は80億リンギット（約3,100億円）。株価は上場後の木曜日に1.09リンギットで引けた。なお、円換算はx-ratesが示す11月20日の1リンギット＝約38.8円を使った。The StarとThe Sunが伝えた目論見書の内容では、株式の内訳は新株5億9,050万株（拡大後の発行済み株式の8%）と、既存株主による売り出し13億株（同17.5%）で、合計は最大19億株。上場市場はBursa MalaysiaのMain Market、上場日は11月19日とされていた。</p><p>引受先では、VnExpressが19社のコーナーストーン投資家が機関投資家向け配分の41.2%を引き受けたと伝え、国際金融公社（IFC）、JPモルガン・アセット・マネジメント（シンガポール）、イーストスプリング・インベストメンツが含まれるとした。一方、The Sunは目論見書の公表時点で、19社が機関投資家向け分（ブミプトラ向け配分を除く）の96.2%を引き受けることで合意したと報じており、数字は一致しない。算出の基準が異なる可能性があるが、出典からは確認できなかった。</p><h3>資金の使い道は借入返済が中心</h3><p>The Sunによると、調達資金の89.5%は銀行借入の返済に回す。4.7%は新しい物流センター、5.8%は上場関連の費用に充てる。The Starは、返済の対象は5億リンギット（約194億円）の借入で、利息の節減額は2,630万リンギット（約10億円）と見込まれると伝えた。2026年8月末時点で2.8倍だった負債比率は、上場後に1倍をやや下回る見込みという。配当性向は、親会社株主に帰属する純利益の最大50%を目標としている。</p><p>業績はVnExpressによると、直近の6月期の純利益が56.7%増の1億9,160万リンギット（約74億円）、売上高が17.9%増の40億2,000万リンギット（約1,560億円）。増収の理由として、新規出店、既存店の売上増、買収を挙げている。</p><h3>店舗網は668店、年40〜50店の出店を計画</h3><p>同社はBIG Pharmacy、CARiNG Pharmacy、Wellings Pharmacy、Georgetown Pharmacy、Ting Pharmacy、iCare Pharmacyなどのブランドで、マレーシア国内に668店を展開する。創業者のリー・メンチュアン（Lee Meng Chuan）氏は、薬剤師で妻のリム・シンイン（Lim Sin Yin）氏と2006年にダマンサラ・アップタウンで1号店を開いた。同氏は上場式で、グループにとって重要な節目だと述べたという（Daily Express、VnExpress経由）。今後3〜5年は年40〜50店を新設し、既存店売上高の伸び率は7〜9%を目標とする。買収にも前向きだが、規律を保つ姿勢だという（The Sun）。</p><h3>日系企業にとっての見方</h3><p>全国13州に店舗を持つ最大手の販売網が広がれば、医薬品や日用品を扱う日系メーカーにとって、販路や取引条件を考える際の比較対象が増えるとみられる。ただし、日系メーカーの商品がどの程度取り扱われているかは、今回の出典からは分からない。調達資金の大半が借入返済に回るため、上場後の資金力が新規出店や買収にどう生かされるかが、今後の注目点になる。</p>",
+      "dataFigure": "6.4億リンギット",
+      "dataLabel": "公募による調達額（約247億円）",
+      "dataSource": "VnExpress、2026年11月19日",
+      "chart": {
+        "bars": [
+          {
+            "label": "売上高",
+            "value": 17.9,
+            "display": "+17.9%"
+          },
+          {
+            "label": "純利益",
+            "value": 56.7,
+            "display": "+56.7%"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "VnExpress International",
+          "title": "Malaysia's largest pharmacy chain Big Caring fetches $155M in IPO",
+          "url": "https://e.vnexpress.net/news/business/companies/malaysia-s-largest-pharmacy-chain-big-caring-fetches-155m-in-ipo-5146997.html",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "The Star",
+          "title": "Big Caring Group to raise RM638mil from IPO",
+          "url": "https://www.thestar.com.my/business/business-news/2026/10/30/big-caring-group-to-raise-rm638mil-from-ipo",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "The Sun",
+          "title": "Big Caring Group plans 40 to 50 new outlets annually over next three to five years",
+          "url": "https://thesun.my/business/big-caring-group-plans-40-to-50-new-outlets-annually-over-next-three-to-five-years/",
+          "date": "2026-10-29"
+        },
+        {
+          "name": "x-rates",
+          "title": "Historical rates, JPY base, Nov 20, 2026",
+          "url": "https://www.x-rates.com/historical/?from=JPY&amount=1&date=2026-11-20",
+          "date": "2026-11-20"
+        }
+      ],
+      "seoTitle": "ビッグ・ケアリング上場、調達247億円",
+      "seoDescription": "マレーシア最大の薬局チェーン、ビッグ・ケアリングが11月19日に上場。公募で6億3,780万リンギットを調達し、終値は1.09リンギットだった。",
+      "tags": [
+        "マレーシア",
+        "ビッグ・ケアリング",
+        "Big Caring Group",
+        "IPO",
+        "Bursa Malaysia",
+        "薬局",
+        "ドラッグストア"
+      ],
+      "publishAt": "2026-11-21T15:30:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/malaysia-big-caring-ipo-listing-nov-19-2026-rm637-8-million.png"
+    },
+    {
+      "slug": "thailand-three-airport-rail-asia-era-one-nov-28-negotiation-deadline-2026",
+      "title": "タイ国鉄、3空港高速鉄道の協議期限は11月28日 CP系は契約解除を要請、法的手続きも視野",
+      "country": "タイ",
+      "category": "不動産・インフラ",
+      "articleType": "news",
+      "lead": "タイ国鉄（SRT）のアナン総裁は11月19日、3空港を結ぶ高速鉄道をめぐる協議の期限が11月28日だと述べた。事業を担うCPグループ主導の企業連合は契約解除を求めており、合意できなければ法的手続きに進む構えである。",
+      "summaryHtml": "<ul><li>SRTのアナン・ポニムデーン総裁は19日、契約が定める60日間の協議期間が11月28日に終わると述べた。合意できなければ法務総裁府に相談し、法的手続きに進む考えを示した（The Nation）。</li><li>事業はドンムアン、スワンナプーム、ウタパオの3空港を結ぶ総延長220キロの高速鉄道。2019年10月24日に結んだ50年のPPP契約の事業費は、締結時で約2,245億バーツ（約1.06兆円）だった（The Nation）。</li><li>民間側のアジア・エラ・ワン（Asia Era One）は解除の意思を通知済みで、SRTが出した着工通知（NTP）も受け取らなかった（The Nation）。</li><li>SRTは10月21日、既存の空港鉄道の権利金未払いなどとして、約133億バーツ（約627億円）を求めて中央行政裁判所に提訴した（The Nation）。</li><li>東部経済回廊（EEC）事務局長は10月26日、銀行が融資に応じていないとの見方を示した（The Nation）。</li></ul>",
+      "bodyHtml": "<h3>協議期限は11月28日、SRTは契約どおりの着工を優先</h3><p>The Nationによると、SRTのアナン・ポニムデーン（Anan Phonimdaeng）総裁は11月19日、契約には紛争を解決するための60日間の協議期間があり、それが11月28日に終わると述べた。民間側のアジア・エラ・ワン（Asia Era One、CPグループ主導の企業連合）は契約の解除を求めている。SRTは着工通知（NTP）を出して対応を促したが、同社はこれを受け取らず、解除の意思をすでに通知していると繰り返した。アナン氏は、SRTの最優先は相手に当初の契約どおり事業を進めさせ、これ以上の遅れを防ぐことだと説明した。協議がまとまらない場合は、法務総裁府（Office of the Attorney General）に進め方を相談し、法的手続きに入るという。</p><h3>事業の概要と、すでに始まっている係争</h3><p>事業はドンムアン、スワンナプーム、ウタパオの3空港を結ぶ総延長220キロの高速鉄道で、SRTは2019年10月24日にCP系の企業連合と50年のPPP（官民連携）契約を結んだ。事業費は締結時で約2,245億バーツ（約1.06兆円）だった。円換算は、x-ratesが示す11月20日の1バーツ＝約4.7円で計算した（以下同じ）。同紙は、費用を抑えるために設計を見直し、運行速度を時速250キロから160キロに下げる案があるとも伝えている。</p><p>別の動きとして、SRTは10月21日、中央行政裁判所にアジア・エラ・ワンと保証人を提訴した。既存の空港鉄道（エアポート・レール・リンク、ARL）の共同投資権の対価として、支払期限の2021年10月24日を過ぎても未払いの106.7億バーツ（約501億円）に、遅延利息を加えた約133億バーツ（約627億円）の支払いを求めている。被告は同社、保証銀行2行、保証書を出した5社の計8者である。これはSRT側の請求であり、判断は裁判所に委ねられている。被告側の主張は、今回開いた出典では確認できなかった。</p><h3>融資が壁に、代替案は評価の段階</h3><p>EEC事務局のチュラ・スクマノップ（Chula Sukmanop）事務局長は10月26日、当初の計画での事業実現は極めて難しく、事業性の評価で重大な懸念が出ていると述べた。契約を修正しても資金調達の問題は解決しないとの見方で、法務総裁府は提案されていた修正を法的には可能と判断したという。契約は正式には終わっておらず、関係者は守る必要があるとも述べた。代替案として、政府による直接投資や、民間が参加しやすい新たなPPPが評価対象に挙がっているが、承認された計画ではない。EEC政策委員会（議長はアヌティン首相）は11月の次回会合に向けて準備を指示したものの、結論が出るかは不透明とされる。</p><h3>空港鉄道は継続、日系企業は動向を注視</h3><p>既存のARLは、9月29日の暫定合意で2027年1月31日まで運行が続く。SRTは子会社のSRTETに、2027年2月1日の運営引き継ぎの準備を指示しており、アナン氏は旅客サービスは途切れないと述べた。一方で、高速鉄道そのものの着工時期は見通せない。EEC沿線の物流や通勤の改善を前提に投資や人員配置を考える日系企業にとっては、11月28日の協議結果と、EEC政策委員会がどのような方針を示すかが当面の注目点になるとみられる。</p>",
+      "dataFigure": "11月28日",
+      "dataLabel": "SRTと民間側の協議期限（契約上の60日間）",
+      "dataSource": "タイ国鉄総裁の発言、The Nation、2026年11月19日",
+      "sources": [
+        {
+          "name": "The Nation",
+          "title": "Three-airport rail negotiations face November 28 deadline",
+          "url": "https://www.nationthailand.com/business/economy/40073684",
+          "date": "2026-11-19"
+        },
+        {
+          "name": "The Nation",
+          "title": "EEC sees three-airport high-speed rail at risk ahead of board review",
+          "url": "https://www.nationthailand.com/business/economy/40072763",
+          "date": "2026-10-26"
+        },
+        {
+          "name": "The Nation",
+          "title": "Thai railway sues CP-led firm over THB13.3bn Airport Rail Link debt",
+          "url": "https://www.nationthailand.com/business/corporate/40072622",
+          "date": "2026-10-22"
+        },
+        {
+          "name": "x-rates",
+          "title": "Historical rates, JPY base, Nov 20, 2026",
+          "url": "https://www.x-rates.com/historical/?from=JPY&amount=1&date=2026-11-20",
+          "date": "2026-11-20"
+        }
+      ],
+      "seoTitle": "3空港高速鉄道、協議期限は11月28日",
+      "seoDescription": "タイ国鉄は3空港高速鉄道の協議期限が11月28日と説明。CP系企業連合は契約解除を求め、合意できなければ法的手続きに進む構えだ。",
+      "tags": [
+        "タイ",
+        "3空港高速鉄道",
+        "タイ国鉄",
+        "Asia Era One",
+        "CPグループ",
+        "EEC",
+        "エアポート・レール・リンク"
+      ],
+      "publishAt": "2026-11-21T15:00:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/thailand-three-airport-rail-asia-era-one-nov-28-negotiation-deadline-2026.png"
+    },
     {
       "slug": "indonesia-prabowo-mining-permits-70-percent-state-nov-2026",
       "title": "インドネシア大統領、全鉱業許可で7割以上を国が享受と発言 必要なら株式の掌握も",
