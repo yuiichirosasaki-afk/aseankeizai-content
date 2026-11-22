@@ -11,6 +11,37 @@
 - 対象外：一般消費者向けの即売会・フェア、学会、ウェビナー、小規模なセミナー。
 - 掲載の目安：1記事 **5〜15件**。日本企業との関わりが大きいもの（ジャパンパビリオンがある、日系企業の出展が多い、日本企業が強い産業）を優先して選ぶ。数を埋めるために小さな催しを入れない。
 
+## 展示会データ（`trade-shows/events.json`）— 毎月の実行で必ず更新する
+
+サイトの「展示会」タブ（https://aseankeizai.jp/trade-shows/ ）は、記事ではなく **`trade-shows/events.json` を GitHub から直接読んで**一覧を出す（1時間キャッシュ）。下書き・公開の切り替えとは関係なく、push すれば載る。だから**このファイルの日付の誤りは、そのまま読者に出る。**
+
+1件の形（キーの順もこのとおり）：
+
+```json
+{"id": "thailand-manufacturing-expo-2027", "name": "Manufacturing Expo 2027", "country": "thailand",
+ "city": "バンコク", "venue": "BITEC（バンコク国際貿易展示場）", "start": "2027-06-16", "end": "2027-06-19",
+ "field": "製造・機械", "organizer": "（分かれば）", "note": "40字以内の日本語。何の展示会か、併催展など",
+ "url": "公式サイト", "source": "日程を確かめたページ", "sourceType": "organizer", "checked": "YYYY-MM-DD"}
+```
+
+- `id`：`<国slug>-<名称を英小文字とハイフンにしたもの>`。年が変われば別の id（毎年の回は別の行）。
+- `field`：`製造・機械` `食品・飲料` `建設・インフラ` `エネルギー・環境` `医療・医薬` `物流・運輸` `自動車・部品` `IT・電子` `化学・素材` `農業・畜産` `生活用品・繊維・美容` `印刷・包装` `総合・その他` のどれか1つ。
+- `sourceType`（日程をどこで確かめたか。ページに表示される）：
+  - `organizer` 主催者の公式サイト（最優先）
+  - `venue` 会場の公式の催事予定（例：SECC の https://secc.com.vn/events は2027年分まで一覧が出る。IMPACT、BITEC の各展示会ページも可）
+  - `press` 主催者のプレスリリース
+  - `jmesse` JETRO J-messe。**主催者・会場のサイトが開けないときだけ**。会場が書かれていなければ `venue` は省く（推測で埋めない）
+- 一覧サイト（10times、showsbee、expomap、eventseye、tradefairdates、cantonfair、expolume、luminik など）は**手がかりだけ**。`source` にすると `validate_trade_shows.py` が止める。
+- 日程が公式に出ていない回は載せない（「例年◯月」も書かない）。B2B の見本市・業界展示会だけ（一般消費者向けの即売会、コンサート、学会だけの催しは入れない）。
+
+毎月の実行でやること：
+
+1. `python3 scripts/validate_trade_shows.py --prune` で、終了から60日を過ぎた展示会を消す。
+2. **今後の展示会が各国30件前後になるまで足す。** 少ない国から優先（2026-11-22 の初期データは、インドネシア37・ベトナム25・タイ13・シンガポール9・フィリピン7・マレーシア6）。翌々月の国別記事のために調べた展示会は、すべてここにも入れる。
+3. 既にある行のうち**3か月以内に始まるもの**は、公式ページを開き直して日程・会場が変わっていないか確かめる。変わっていれば直して `checked` を更新。中止・延期は行を消す（延期後の日程が公式に出ていれば、それに直す）。
+4. `python3 scripts/validate_trade_shows.py` がすべて OK になるまで直す。
+5. 記事と同じコミットで push してよい（メッセージに `trade-shows +n` を足す）。記事が1本も書けない月でも、`events.json` の更新だけで push する。
+
 ## 実行手順（毎月10日ごろ）
 
 1. `git pull origin main`。
@@ -25,7 +56,8 @@
 5. `python3 scripts/make_images.py articles/YYYY-MM-DD`
 6. `python3 scripts/validate.py articles/YYYY-MM-DD` — すべて OK になるまで直す。直せない記事は削除する。
 7. `python3 scripts/build_feed.py`
-8. `git pull --rebase origin main` のあと、`images/` を含めて `main` に commit・push。メッセージは `Exhibitions YYYY-MM (n)`（YYYY-MM は対象月）。メッセージ、Slack、メールは送らない。基準を満たす記事が無ければ何も push しない。
+8. 上の「展示会データ」の手順で `trade-shows/events.json` を更新し、`python3 scripts/validate_trade_shows.py` を通す。
+9. `git pull --rebase origin main` のあと、`images/` と `trade-shows/` を含めて `main` に commit・push。メッセージは `Exhibitions YYYY-MM (n) / trade-shows +追加数 -削除数`（YYYY-MM は対象月）。メッセージ、Slack、メールは送らない。記事も展示会データも変わらなければ何も push しない。
 
 ## 記事の形式（CLAUDE.md との違いだけ）
 
@@ -55,3 +87,4 @@
 ## コスト
 
 1国あたり検索10〜15回、公式ページの確認は掲載件数分。1回の実行で最大12本（6か国×2か月）。
+展示会データの追加・確認は、1回の実行で合計60件程度まで。会場の公式の催事一覧（1ページで多数の日程が出るもの）を先に使うと少ない取得で済む。
