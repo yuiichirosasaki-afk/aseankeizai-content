@@ -12,6 +12,9 @@ Actions が毎時 `feed.json` を読み、WordPress に予約投稿します。�
 
 ## 実行手順（1回ごと）
 
+展示会カレンダー（国別・月別の展示会一覧、slug が `-trade-shows-` を含む記事）は、月1回の別の実行（`EXHIBITIONS.md`）が書く。日次の実行では書かない。1つの展示会で発表されたニュース（政府の発表、大型契約など）は通常の記事として書いてよい。
+
+
 1. `python3 scripts/recent_slugs.py` — 直近30日の記事（重複防止）と、直近7日の国別・
 分野別の本数を表示する。
 2. 直近48時間のニュースを調べる。国は `taxonomy.json` の `countries`、分野は
@@ -35,7 +38,7 @@ DealStreetAsia）。
 6. `python3 scripts/validate.py articles/YYYY-MM-DD` — すべて OK になるまで直す。
 直せない記事は削除する。
 7. `python3 scripts/build_feed.py` — `feed.json` を作り直す。
-8. `images/` を含めて `main` に commit・push。メッセージは `Articles YYYY-MM-DD HH:MM
+8. `git pull --rebase origin main` のあと、`images/` を含めて `main` に commit・push。メッセージは `Articles YYYY-MM-DD HH:MM
 (n)`。メッセージ、Slack、メールは送らない。
 
 ## 記事の形式
