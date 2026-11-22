@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T10:20:19+09:00",
+  "generatedAt": "2026-11-22T10:20:30+09:00",
   "site": "東南アジア経済新聞",
   "articles": [
     {
@@ -113,22 +113,22 @@
           {
             "label": "10月第1回",
             "value": 13.0,
-            "display": "13.0万Sドル"
+            "display": "13.0万"
           },
           {
             "label": "10月第2回",
             "value": 13.2,
-            "display": "13.2万Sドル"
+            "display": "13.2万"
           },
           {
             "label": "11月第1回",
             "value": 13.9,
-            "display": "13.9万Sドル"
+            "display": "13.9万"
           },
           {
             "label": "11月第2回",
             "value": 13.0,
-            "display": "13.0万Sドル"
+            "display": "13.0万"
           }
         ]
       },
