@@ -1006,6 +1006,22 @@
    "checked": "2026-11-22"
   },
   {
+   "id": "indonesia-b2b-tech-asia-expo-2027",
+   "name": "B2B Tech Asia Expo 2027",
+   "country": "indonesia",
+   "city": "ジャカルタ",
+   "venue": "ザ・リッツ・カールトン・ジャカルタ パシフィック・プレイス",
+   "start": "2027-07-14",
+   "end": "2027-07-15",
+   "field": "IT・電子",
+   "organizer": "VRIGroup",
+   "note": "ソフトウェア専門のB2Bテック展示会（SaaS・AI）",
+   "url": "https://www.b2btechasia.com/",
+   "source": "https://www.b2btechasia.com/",
+   "sourceType": "organizer",
+   "checked": "2026-11-22"
+  },
+  {
    "id": "vietnam-shoes-leather-vietnam-2027",
    "name": "Shoes & Leather Vietnam 2027",
    "country": "vietnam",
