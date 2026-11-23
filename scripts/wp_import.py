@@ -2,7 +2,7 @@
 """feed.json を WordPress に取り込む（Review の Wix ジョブ importReviewFeed と同じ役)。
 slug で上書き。publishAt で future / publish を決める。IMPORT_MODE=draft なら必ず下書き。"""
 import hashlib, html, json, os, sys, time
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 import requests
 from requests.adapters import HTTPAdapter
@@ -20,6 +20,43 @@ S.mount('http://', HTTPAdapter(max_retries=_retry))
 S.auth = (os.environ['WP_USER'], os.environ['WP_APP_PASSWORD'])
 S.headers['User-Agent'] = 'aseankeizai-content-import'
 DRAFT = os.environ.get('IMPORT_MODE', '').strip() == 'draft'
+JST = timezone(timedelta(hours=9))
+
+
+def _load_publish_from():
+    """公開モード（IMPORT_MODE が draft 以外）のときの「切り替え時刻」を返す。
+    環境変数 PUBLISH_FROM か config/publish_from.txt（1行・ISO形式。時刻だけならJST）。
+    この時刻より前の publishAt の記事は、公開モードでも下書きのまま（並行稼働中の古い下書きを誤って出さない）。
+    どちらも無ければ None。"""
+    raw = os.environ.get('PUBLISH_FROM', '').strip()
+    f = ROOT / 'config' / 'publish_from.txt'
+    if not raw and f.exists():
+        lines = f.read_text(encoding='utf-8').strip().splitlines()
+        raw = lines[0].strip() if lines else ''
+    if not raw:
+        return None
+    dt = datetime.fromisoformat(raw)
+    return dt if dt.tzinfo else dt.replace(tzinfo=JST)
+
+
+PUBLISH_FROM = None
+if not DRAFT:
+    PUBLISH_FROM = _load_publish_from()
+    if PUBLISH_FROM is None:
+        # 切り替え時刻が決まっていないのに公開モードにすると、古い下書きまで出かねない。安全側に倒す
+        print('WARNING: IMPORT_MODE が draft ではないが publish_from が未設定のため、下書きとして取り込む', file=sys.stderr)
+        DRAFT = True
+
+
+def decide_status(when, now):
+    """記事の公開状態を決める。draft／future（予約）／publish（即公開）。"""
+    if DRAFT:
+        return 'draft'
+    if PUBLISH_FROM and when < PUBLISH_FROM.astimezone(timezone.utc):
+        return 'draft'
+    return 'future' if when > now else 'publish'
+
+
 TAX = json.loads((ROOT / 'taxonomy.json').read_text(encoding='utf-8'))
 CAT = {c['name']: c.get('wpCategoryId') for c in TAX['countries'] + TAX['categories']}
 
@@ -89,7 +126,50 @@ def media_id(a):
         return None
 
 
+def audit():
+    """読み取りだけ。feed の各記事が WordPress にどういう状態で入っているかを表示する（何も書き換えない）。"""
+    feed = json.loads((ROOT / 'feed.json').read_text(encoding='utf-8'))
+    counts = {}
+    problems = []
+    for a in feed['articles']:
+        r = S.get(f'{API}/posts', params={'slug': a['slug'], 'status': 'any', 'context': 'edit',
+                                          '_fields': 'id,status,date_gmt,featured_media,categories,tags'})
+        try:
+            body = r.json()
+        except ValueError:
+            body = None
+        if not isinstance(body, list):
+            print(f'AUDIT ERROR {a["slug"]}: {r.status_code} {r.text[:80]}')
+            problems.append((a['slug'], 'lookup-error'))
+            continue
+        if not body:
+            print(f'AUDIT MISSING {a["slug"]}')
+            problems.append((a['slug'], 'missing'))
+            continue
+        p = body[0]
+        counts[p['status']] = counts.get(p['status'], 0) + 1
+        flags = []
+        if not p.get('featured_media'):
+            flags.append('no-image')
+        if len(p.get('categories') or []) < 2:
+            flags.append('categories<2')
+        if p['status'] != 'draft':
+            flags.append('NOT-DRAFT')
+        for f in flags:
+            problems.append((a['slug'], f))
+        print(f'AUDIT {p["status"]} img={"Y" if p.get("featured_media") else "N"} cats={len(p.get("categories") or [])} '
+              f'tags={len(p.get("tags") or [])} {a["publishAt"][:16]} {a["slug"]}' + (f'  <{",".join(flags)}>' if flags else ''))
+        time.sleep(0.3)
+    kinds = {}
+    for _, k in problems:
+        kinds[k] = kinds.get(k, 0) + 1
+    print(f'AUDIT SUMMARY total={len(feed["articles"])} status={counts} problems={kinds}')
+
+
 def main():
+    if '--audit' in sys.argv:
+        audit()
+        return
     feed = json.loads((ROOT / 'feed.json').read_text(encoding='utf-8'))
     now = datetime.now(timezone.utc)
     done = 0
@@ -112,13 +192,21 @@ def import_one(a, now):
     digest = hashlib.sha256(json.dumps(a, ensure_ascii=False, sort_keys=True).encode()).hexdigest()[:16]
     marker = f'<!-- feed:{digest} -->'
     when = datetime.fromisoformat(a['publishAt']).astimezone(timezone.utc)
-    status = 'draft' if DRAFT else ('future' if when > now else 'publish')
+    status = decide_status(when, now)
     old = S.get(f'{API}/posts', params={'slug': a['slug'], 'status': 'any', 'context': 'edit'}).json()
     if not isinstance(old, list):
         raise RuntimeError(f'posts lookup failed: {str(old)[:200]}')
     if old and marker in old[0]['content']['raw']:
-        # 中身は取り込み済み。前回、画像だけ付かなかった記事なら、画像をやり直す
         p = old[0]
+        # 中身は取り込み済み。切り替え後に、公開してよい記事（publish_from 以後）がまだ下書きなら、予約・公開に上げる
+        if p['status'] == 'draft' and status != 'draft':
+            r = S.post(f'{API}/posts/{p["id"]}', json={'status': status, 'date_gmt': when.strftime('%Y-%m-%dT%H:%M:%S')})
+            if r.status_code >= 300:
+                raise RuntimeError(f'promote {r.status_code} {r.text[:300]}')
+            print('promoted', a['slug'], status)
+            time.sleep(1)
+            return 1
+        # 前回、画像だけ付かなかった記事なら、画像をやり直す
         if not p.get('featured_media') and a.get('heroImage'):
             m = media_id(a)
             if m and S.post(f'{API}/posts/{p["id"]}', json={'featured_media': m}).status_code < 300:
