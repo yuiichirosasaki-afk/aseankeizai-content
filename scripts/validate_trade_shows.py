@@ -86,7 +86,24 @@ def main():
                 errors.append(f"{tag}: {s.year}年は先すぎる（仏暦のままでは？ 西暦＝仏暦−543）")
         except Exception:
             errors.append(f"{tag}: start/end が YYYY-MM-DD でない")
-        text = " ".join(str(e.get(k, "")) for k in ("name", "note", "venue", "city"))
+        # 個別ページ（/trade-shows/<id>/）の中身
+        if not e.get("lead"):
+            errors.append(f"{tag}: lead（個別ページのリード）が空")
+        if not isinstance(e.get("overview"), list) or not e.get("overview"):
+            errors.append(f"{tag}: overview（概要の段落の配列）が空")
+        srcs = e.get("sources")
+        if not isinstance(srcs, list) or not srcs:
+            errors.append(f"{tag}: sources（出典の配列）が空")
+        else:
+            for s_ in srcs:
+                if not URL.match(str(s_.get("url", ""))) or not s_.get("name"):
+                    errors.append(f"{tag}: sources の項目に name / url が無い")
+                elif AGGREGATORS.search(s_["url"]):
+                    errors.append(f"{tag}: sources に一覧サイト（{s_['url']}）")
+        for f in e.get("faq", []) or []:
+            if not f.get("q") or not f.get("a"):
+                errors.append(f"{tag}: faq の項目に q / a が無い")
+        text = " ".join(str(e.get(k, "")) for k in ("name", "note", "venue", "city", "lead", "previous", "scale", "admission")) + " ".join(e.get("overview") or [])
         if re.search(r"25\d\d", text):
             errors.append(f"{tag}: 2500年代の年が残っている（仏暦）")
         if re.search(r"TODO|insufficient|TBA|TBD|未定", text, re.I):

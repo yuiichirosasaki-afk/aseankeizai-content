@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22",
+ "updated": "2026-11-24",
  "events": [
   {
    "id": "vietnam-vietnam-elevator-expo-2026",
@@ -10,11 +10,32 @@
    "start": "2026-12-03",
    "end": "2026-12-05",
    "field": "建設・インフラ",
+   "organizer": "ベトナムエレベーター協会（VNEA）、VINEXAD",
    "note": "エレベーター・昇降機",
-   "url": "https://secc.com.vn/events/vietnam-elevator-expo-2026-1583740389",
+   "lead": "エレベーター・エスカレーターと部品の専門展。ベトナムエレベーター協会（VNEA）とVINEXADが共催し、2026年は12月3〜5日にホーチミンのSECCで開かれる。",
+   "admission": "公式サイトに来場登録（Visit Registration）のページがある。",
+   "overview": [
+    "公式サイトの正式名は「Vietnam International Elevators Exhibition in Ho Chi Minh City」。毎年開かれる国際展示会で、エレベーター、エスカレーター、部品、昇降機の技術を扱う。",
+    "出展企業にとっては製品の紹介、仕入れ先探し、販売網の拡大、国内外の取引先との接点づくりの場になると、主催者は説明している。"
+   ],
+   "url": "https://elevatorexpo.vn/en/",
    "source": "https://secc.com.vn/events",
    "sourceType": "venue",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "Vietnam Elevator Expo 公式サイト",
+     "title": "Vietnam Elevator Expo 2026",
+     "url": "https://elevatorexpo.vn/en/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "SECC（サイゴン展示会議センター）",
+     "title": "Events",
+     "url": "https://secc.com.vn/events",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "vietnam-vietnam-expo-in-hcmc-2026",
@@ -26,10 +47,28 @@
    "end": "2026-12-05",
    "field": "総合・その他",
    "note": "ホーチミンで開く総合国際見本市",
-   "url": "https://secc.com.vn/events/vietnam-expo-in-hcmc-2026-1583740412",
+   "lead": "ホーチミンで開くベトナム国際見本市。2026年は12月3〜5日にSECCで開かれる。",
+   "overview": [
+    "正式名は「Viet Nam International Trade Fair in Ho Chi Minh City（VIETNAM EXPO in HCMC）」。業種を限らない総合の国際見本市。ハノイでは2027年5月にVietnam Expoが開かれる。"
+   ],
+   "url": "https://hcm.vietnamexpo.com.vn/en",
    "source": "https://secc.com.vn/events",
    "sourceType": "venue",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "Vietnam Expo in HCMC 公式サイト",
+     "title": "VIETNAM EXPO 2026 in HCMC",
+     "url": "https://hcm.vietnamexpo.com.vn/en",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "SECC（サイゴン展示会議センター）",
+     "title": "Events",
+     "url": "https://secc.com.vn/events",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "vietnam-vietnam-hardware-hand-tools-expo-2026",
@@ -40,11 +79,34 @@
    "start": "2026-12-03",
    "end": "2026-12-05",
    "field": "製造・機械",
+   "edition": "第11回",
    "note": "金物・手工具",
-   "url": "https://secc.com.vn/events/vietnam-hardware-hand-tools-expo-2026-1583743898",
+   "lead": "金物と手工具の国際展示会。第11回となる2026年は12月3〜5日にホーチミンのSECCで開かれる。",
+   "previous": "2025年（380社が出展）",
+   "scale": "350社・400ブース、来場見込み14,000人（公式サイト）",
+   "admission": "公式サイトに来場登録（Visit Registration）のページがある。",
+   "overview": [
+    "公式サイトは2026年の規模を350社、400ブース、来場見込み14,000人としている。2025年は380社が出展した（同サイトのニュース）。",
+    "来場登録とE-カタログ（出展企業の一覧）が公式サイトにある。"
+   ],
+   "url": "https://hcm.hardwaretools.com.vn/en/",
    "source": "https://secc.com.vn/events",
    "sourceType": "venue",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "Vietnam Hardware & Hand Tools Expo 公式サイト",
+     "title": "VHHE 2026",
+     "url": "https://hcm.hardwaretools.com.vn/en/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "SECC（サイゴン展示会議センター）",
+     "title": "Events",
+     "url": "https://secc.com.vn/events",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "vietnam-ighe-ho-chi-minh-2026",
@@ -56,10 +118,30 @@
    "end": "2026-12-13",
    "field": "生活用品・繊維・美容",
    "note": "家庭用品の見本市",
-   "url": "https://secc.com.vn/events/ighe-ho-chi-minh-2026-1583740435",
+   "lead": "家庭用品・ギフト・ライフスタイル商品のB2B展示会。2026年は12月10〜13日にホーチミンのSECCで開かれる。",
+   "scale": "海外出展300社超・来場15,000人超・10,000㎡（公式サイト）",
+   "overview": [
+    "公式サイトの名称は「Global Housewares Expo（Ho Chi Minh）」。家庭用品、ギフト、生活雑貨の取引の場と位置づける。",
+    "公式サイトは海外出展300社超、展示面積10,000㎡、来場15,000人超、500ブース、展示品50,000点超を掲げる。"
+   ],
+   "url": "https://www.ighevietnam.com/en",
    "source": "https://secc.com.vn/events",
    "sourceType": "venue",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "IGHE 公式サイト",
+     "title": "IGHE 2026",
+     "url": "https://www.ighevietnam.com/en",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "SECC（サイゴン展示会議センター）",
+     "title": "Events",
+     "url": "https://secc.com.vn/events",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "philippines-wofex-drinks-bakes-2027",
@@ -71,10 +153,22 @@
    "end": "2027-01-30",
    "field": "食品・飲料",
    "note": "飲料・ベーカリー",
+   "lead": "飲料とベーカリーに絞ったWOFEX（世界食品展）の専門展。2027年は1月28〜30日にマニラ（パサイ）のSMXコンベンションセンターで開かれる。",
+   "overview": [
+    "WOFEX（World Food Expo）はフィリピンの食品・外食の展示会。本体のWOFEX Manilaは例年7月末〜8月初めにワールドトレードセンターとSMXで開かれる。Drinks + Bakesでは製菓・飲料の競技会も開かれる。"
+   ],
    "url": "https://www.wofex.com/",
    "source": "https://www.wofex.com/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "WOFEX 公式サイト",
+     "title": "WOFEX - World Food Expo",
+     "url": "https://www.wofex.com/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "malaysia-miff-2027",
@@ -86,10 +180,22 @@
    "end": "2027-03-04",
    "field": "生活用品・繊維・美容",
    "note": "マレーシア国際家具見本市",
+   "lead": "マレーシア国際家具見本市（MIFF）。2027年は3月1〜4日にクアラルンプールのMITECとWTCKLで開かれる。",
+   "overview": [
+    "マレーシアの家具を中心に、海外のバイヤーとの輸出商談を行う見本市。公式サイトで2027年の出展者リストを公開している。"
+   ],
    "url": "https://www.miff.com.my/",
    "source": "https://www.miff.com.my/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "MIFF 公式サイト",
+     "title": "MIFF",
+     "url": "https://www.miff.com.my/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "vietnam-hawa-expo-2027",
@@ -101,10 +207,31 @@
    "end": "2027-03-06",
    "field": "生活用品・繊維・美容",
    "note": "家具・インテリアの輸出見本市",
-   "url": "https://secc.com.vn/events/hawaexpo-2027-1584000401",
+   "lead": "ベトナムの家具・インテリアの輸出見本市。2027年は3月3〜6日にホーチミンのSECCで開かれる。",
+   "scale": "出展500社・2,700ブース、バイヤー・来場者20,000人（公式サイト）",
+   "admission": "公式サイトに来場者向けの案内（ビザ支援・宿泊・FAQ）がある。",
+   "overview": [
+    "公式サイトはHawaExpoを「ベトナムの家具の実力への入口」と位置づけ、出展500社、2,700ブース・展示、バイヤー・来場者20,000人を掲げる。海外のバイヤーに向けた輸出商談が中心の見本市である。",
+    "2024〜2026年もSECCなどで開かれ、公式サイトで会場の360度画像を公開している。来場者向けにビザの支援と宿泊の案内がある。"
+   ],
+   "url": "https://www.hawaexpo.com/",
    "source": "https://secc.com.vn/events",
    "sourceType": "venue",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "HawaExpo 公式サイト",
+     "title": "HawaExpo 2027",
+     "url": "https://www.hawaexpo.com/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "SECC（サイゴン展示会議センター）",
+     "title": "Events",
+     "url": "https://secc.com.vn/events",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "philippines-interior-design-manila-2027",
@@ -116,10 +243,22 @@
    "end": "2027-03-06",
    "field": "建設・インフラ",
    "note": "内装・デザイン",
+   "lead": "内装・デザインの展示会。2027年は3月4〜6日にマニラ（パサイ）のSMXコンベンションセンターで、家具見本市PIFSと同時に開かれる。",
+   "overview": [
+    "内装デザイン、建材、家具などの出展企業が集まる。公式サイトは、デザインの動きを体感できる場と紹介している。"
+   ],
    "url": "https://www.interioranddesignmanila.com/",
    "source": "https://www.interioranddesignmanila.com/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "Interior & Design Manila 公式サイト",
+     "title": "2027 Interior & Design Manila",
+     "url": "https://interioranddesignmanila.com/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "philippines-philippine-international-furniture-show-2027",
@@ -131,10 +270,22 @@
    "end": "2027-03-06",
    "field": "生活用品・繊維・美容",
    "note": "家具",
+   "lead": "フィリピンの家具の見本市（PIFS）。2027年は3月4〜6日にマニラ（パサイ）のSMXコンベンションセンターで開かれる。",
+   "overview": [
+    "家具のデザインと製造を紹介する見本市で、公式サイトで出展者を公開している。同じ会期・会場で内装デザインのInterior & Design Manilaも開かれる。"
+   ],
    "url": "https://pifs.ph/",
    "source": "https://pifs.ph/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "PIFS 公式サイト",
+     "title": "2027 Philippine International Furniture Show",
+     "url": "https://pifs.ph/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "thailand-automation-thailand-2027",
@@ -145,11 +296,24 @@
    "start": "2027-03-10",
    "end": "2027-03-12",
    "field": "製造・機械",
+   "organizer": "Messe Frankfurt",
    "note": "産業オートメーション（メッセフランクフルト）",
+   "lead": "産業オートメーションの展示会。メッセフランクフルトが主催し、2027年は3月10〜12日にバンコクのBITECで開かれる。",
+   "overview": [
+    "工場の自動化の機器・システムを扱う。電子機器の製造・実装の展示会PCB Thailandと同時に開かれる（公式サイト）。"
+   ],
    "url": "https://automation-thailand.tw.messefrankfurt.com/thailand/en.html",
    "source": "https://automation-thailand.tw.messefrankfurt.com/thailand/en/facts-figures/Show-Overview.html",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "Automation Thailand 公式サイト",
+     "title": "Show Overview",
+     "url": "https://automation-thailand.tw.messefrankfurt.com/thailand/en/facts-figures/Show-Overview.html",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "thailand-viv-asia-2027",
@@ -161,10 +325,22 @@
    "end": "2027-03-12",
    "field": "農業・畜産",
    "note": "畜産・飼料・食肉加工",
+   "lead": "畜産・飼料・食肉加工の国際見本市。2027年は3月10〜12日にバンコク近郊のIMPACT（ムアントンタニ）で開かれる。",
+   "overview": [
+    "飼料から食肉加工までの畜産のバリューチェーンを扱う。公式サイトで2027年の出展者リストを公開している。"
+   ],
    "url": "https://asia.viv.net/",
    "source": "https://asia.viv.net/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "VIV Asia 公式サイト",
+     "title": "VIV Asia 2027",
+     "url": "https://asia.viv.net/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "vietnam-propak-vietnam-2027",
@@ -176,10 +352,36 @@
    "end": "2027-03-12",
    "field": "印刷・包装",
    "note": "加工・包装技術",
-   "url": "https://secc.com.vn/events/propak-vietnam-2027-1584017537",
+   "lead": "食品・飲料・医薬品の加工と包装の技術展。2027年は開始から20年目の節目で、3月10〜12日にホーチミンのSECCで開かれる。",
+   "scale": "業界来場者9,600人超（公式サイト）",
+   "overview": [
+    "公式サイトは、2027年がProPak Vietnamの20周年にあたるとしている。工場の経営者、技術者、調達担当など9,600人を超える業界来場者が集まるとしている。",
+    "2026年にはProPak Hanoiとして北部に初めて進出した。"
+   ],
+   "url": "https://propakvietnam.com/en",
    "source": "https://secc.com.vn/events",
    "sourceType": "venue",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "ProPak Vietnam 公式サイト",
+     "title": "PROPAK Vietnam 2027",
+     "url": "https://propakvietnam.com/en",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "ProPak Hanoi 公式サイト",
+     "title": "ProPak Hanoi",
+     "url": "https://www.propakhanoi.com/eng",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "SECC（サイゴン展示会議センター）",
+     "title": "Events",
+     "url": "https://secc.com.vn/events",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "philippines-worldbex-2027",
@@ -191,10 +393,23 @@
    "end": "2027-03-14",
    "field": "建設・インフラ",
    "note": "建築・建設の総合展",
+   "lead": "フィリピン最大級の建築・建設の総合展（WORLDBEX）。2027年は3月11〜14日、ワールドトレードセンター・メトロマニラとSMXマニラの2会場で開かれる。",
+   "admission": "開場は10:00〜19:00（公式サイト）。",
+   "overview": [
+    "正式名は「Philippine World Building and Construction Exposition」。建材、設備、建設機械、建築の技術を扱う。開場は10:00〜19:00（公式サイト）。"
+   ],
    "url": "https://worldbex.com/",
    "source": "https://www.worldbex.com/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "WORLDBEX 公式サイト",
+     "title": "WORLDBEX",
+     "url": "https://worldbex.com/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "singapore-sea-asia-2027",
@@ -205,9 +420,28 @@
    "end": "2027-03-18",
    "field": "物流・運輸",
    "note": "海運・港湾・海事サービス",
+   "lead": "海運・港湾・海事サービスの国際展示会と会議。2027年は3月16〜18日にシンガポールで、シンガポール海事週間に合わせて開かれる。",
+   "overview": [
+    "2027年は海洋・オフショアのOSEAと同時に開き、シンガポール海事週間（Singapore Maritime Week）2027に合わせて開かれる（公式サイト）。海運会社、港湾、造船、海事サービスの関係者が集まる。"
+   ],
+   "url": "https://www.sea-asia.com",
    "source": "https://www.jetro.go.jp/en/database/j-messe/country/asia/sg/transportation/",
    "sourceType": "jmesse",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "Sea Asia 公式サイト",
+     "title": "Sea Asia 2027",
+     "url": "https://www.sea-asia.com",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "JETRO J-messe",
+     "title": "シンガポールの運輸関連展示会",
+     "url": "https://www.jetro.go.jp/en/database/j-messe/country/asia/sg/transportation/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "thailand-asee-asean-smart-energy-energy-storage-expo-2027",
@@ -219,10 +453,30 @@
    "end": "2027-03-19",
    "field": "エネルギー・環境",
    "note": "太陽光・蓄電・電力網・EV充電。風力（AWE）、バイオマス（ABEE）、空調・クリーンルーム（ARHC）を併催",
+   "lead": "太陽光・蓄電・電力網・EV充電の展示会。2027年は3月17〜19日にバンコク近郊のIMPACTで開かれる。",
+   "scale": "出展500社超の見込み（公式サイト）",
+   "overview": [
+    "公式サイトは3日間で500社を超える出展を見込むとしている。2026年にもタイで開かれた。",
+    "風力（AWE）、バイオマス（ABEE）、空調・クリーンルーム（ARHC）の展示会を同時に開く（IMPACTの催事予定）。"
+   ],
    "url": "https://www.impact.co.th/en/visitors/event-calendar/exhibition-trade/asee-asean-smart-energy-energy-storage-expo-2027",
    "source": "https://www.impact.co.th/en/visitors/event-calendar/exhibition-trade/asee-asean-smart-energy-energy-storage-expo-2027",
    "sourceType": "venue",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "ASEE 公式サイト",
+     "title": "ASEE–ASEAN Smart Energy & Energy Storage Expo",
+     "url": "https://www.aseancleanenergyexpo.com",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "IMPACT",
+     "title": "ASEE 2027",
+     "url": "https://www.impact.co.th/en/visitors/event-calendar/exhibition-trade/asee-asean-smart-energy-energy-storage-expo-2027",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "vietnam-agritechnica-asia-2027",
@@ -233,11 +487,31 @@
    "start": "2027-03-17",
    "end": "2027-03-19",
    "field": "農業・畜産",
+   "organizer": "DLG（ドイツ農業協会）",
    "note": "農業機械の国際見本市（DLG 主催）",
+   "lead": "農業機械の国際見本市。ドイツのAGRITECHNICAのアジア版で、2027年は3月17〜19日にホーチミンのSECCで園芸展HortExと同時に開かれる。",
+   "overview": [
+    "主催はドイツ農業協会（DLG）。農業機械とその関連技術を扱う。",
+    "2025年から園芸・花きのHortExと同時に開かれており、両展の主催者は、一つの会場でアジアでの事業の開始・拡大の場を提供するとしている。"
+   ],
    "url": "https://www.agritechnica-asia.com/",
    "source": "https://www.agritechnica-asia.com/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "AGRITECHNICA ASIA 公式サイト",
+     "title": "AGRITECHNICA ASIA",
+     "url": "https://www.agritechnica-asia.com/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "HortEx 公式サイト",
+     "title": "HortEx 2027",
+     "url": "https://hortex-exhibitions.com/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "vietnam-hortex-vietnam-2027",
@@ -249,23 +523,56 @@
    "end": "2027-03-19",
    "field": "農業・畜産",
    "note": "園芸・青果の生産と流通",
-   "url": "https://secc.com.vn/events/hortex-vietnam-2027-1583998223",
+   "lead": "園芸・花きの生産と加工技術の見本市。2027年は3月17〜19日にホーチミンのSECCで、農業機械のAgritechnica Asiaと同時に開かれる。",
+   "overview": [
+    "公式サイトはHortExを「アジアの主要な園芸・花きの生産・加工技術の見本市」と紹介する。2018年にホーチミンで始まり、毎年開かれてきた。",
+    "2025年からはAGRITECHNICA ASIA（農業機械）と同時開催となり、二つの展示会を一つの会場で回れる。"
+   ],
+   "url": "https://hortex-exhibitions.com/",
    "source": "https://secc.com.vn/events",
    "sourceType": "venue",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "HortEx 公式サイト",
+     "title": "HortEx 2027",
+     "url": "https://hortex-exhibitions.com/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "SECC（サイゴン展示会議センター）",
+     "title": "Events",
+     "url": "https://secc.com.vn/events",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "singapore-iasea-2027-inter-airport-southeast-asia",
    "name": "IASEA 2027 – inter airport Southeast Asia",
    "country": "singapore",
    "city": "シンガポール",
+   "venue": "マリーナベイ・サンズ",
    "start": "2027-03-23",
    "end": "2027-03-25",
    "field": "物流・運輸",
    "note": "空港の設備・技術・サービス",
-   "source": "https://www.jetro.go.jp/en/database/j-messe/country/asia/sg/transportation/",
-   "sourceType": "jmesse",
-   "checked": "2026-11-22"
+   "lead": "空港の設備・技術・サービスの展示会。2027年は3月23〜25日にシンガポールのマリーナベイ・サンズ（Hall B・C）で開かれる。",
+   "overview": [
+    "公式サイトは「アジアの空港エアサイド（駐機場・滑走路側）の展示会」とうたう。同時に開く会議では、空港運営会社、航空会社、地上支援会社、技術企業が、自動化やデジタル化による駐機場・ランプ・飛行場の運用を議論する。"
+   ],
+   "url": "https://www.interairport-southeastasia.com",
+   "source": "https://www.interairport-southeastasia.com",
+   "sourceType": "organizer",
+   "sources": [
+    {
+     "name": "inter airport Southeast Asia 公式サイト",
+     "title": "IASEA 2027",
+     "url": "https://www.interairport-southeastasia.com",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "vietnam-food-hospitality-vietnam-2027",
@@ -277,10 +584,29 @@
    "end": "2027-03-26",
    "field": "食品・飲料",
    "note": "食品・飲料・ホテル外食",
-   "url": "https://secc.com.vn/events/food-hospitality-vietnam-2027-1584019821",
+   "lead": "食品・飲料とホテル・外食の国際展示会。2027年は3月24〜26日にホーチミンのSECCで開かれる。",
+   "overview": [
+    "食品・飲料、ホテル・レストランの設備や関連サービスを扱う。公式サイトは2026年までの開催の実績を踏まえて2027年を開くとしている。",
+    "北部ではFood & Hospitality Hanoiが9月にハノイで開かれる。"
+   ],
+   "url": "https://www.foodnhospitalityvietnam.com/trang-chu-en/",
    "source": "https://secc.com.vn/events",
    "sourceType": "venue",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "Food & Hospitality Vietnam 公式サイト",
+     "title": "Food & Hospitality Vietnam",
+     "url": "https://www.foodnhospitalityvietnam.com/trang-chu-en/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "SECC（サイゴン展示会議センター）",
+     "title": "Events",
+     "url": "https://secc.com.vn/events",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "indonesia-whx-jakarta-2027",
@@ -292,11 +618,31 @@
    "end": "2027-04-02",
    "field": "医療・医薬",
    "organizer": "Informa Markets",
+   "edition": "初回",
    "note": "医療機器・医薬品・ヘルスケア。2027年が初開催",
+   "lead": "医療機器・医薬品・臨床検査の国際展示会。Informa Marketsが既存の医療見本市（WHX）を広げる形で、2027年にジャカルタで初めて開く。",
+   "overview": [
+    "公式サイトはWHX Jakartaを「東南アジアの主要な医療の催事、臨床検査の展示会」と紹介している。Informa Marketsは2027年にインドネシアでの開催を始めると発表した。",
+    "会場はタンゲラン（バンテン州）のICE（インドネシア・コンベンション・エキシビション）。病院、医療機器、検査の関係者が主な対象となる。"
+   ],
    "url": "https://www.worldhealthexpo.com/events/healthcare/jakarta/",
    "source": "https://www.prnewswire.com/apac/news-releases/informa-markets-expands-established-healthcare-trade-event-to-indonesia-with-launch-of-whx-jakarta-2027-302928952.html",
    "sourceType": "press",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "World Health Expo",
+     "title": "WHX Jakarta",
+     "url": "https://www.worldhealthexpo.com/events/healthcare/jakarta/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "PR Newswire（Informa Markets）",
+     "title": "Informa Markets expands established healthcare trade event to Indonesia with launch of WHX Jakarta 2027",
+     "url": "https://www.prnewswire.com/apac/news-releases/informa-markets-expands-established-healthcare-trade-event-to-indonesia-with-launch-of-whx-jakarta-2027-302928952.html",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "thailand-bangkok-rhvac-2027",
@@ -308,10 +654,22 @@
    "end": "2027-04-03",
    "field": "建設・インフラ",
    "note": "冷凍・空調・換気",
+   "lead": "冷凍・空調・換気（RHVAC）の展示会。2027年は4月1〜3日にバンコクのBITEC（Hall 98〜100）で開かれる。",
+   "overview": [
+    "冷凍・空調・換気の機器と部品を扱う。公式サイトで出展企業の名簿を公開している。"
+   ],
    "url": "https://www.bangkokrhvac.com/",
    "source": "https://www.bangkokrhvac.com/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "Bangkok RHVAC 公式サイト",
+     "title": "Visitor Information",
+     "url": "https://bangkokrhvac.com/visitors",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "malaysia-automechanika-kuala-lumpur-2027",
@@ -322,11 +680,24 @@
    "start": "2027-04-08",
    "end": "2027-04-10",
    "field": "自動車・部品",
+   "organizer": "Messe Frankfurt",
    "note": "自動車部品・アフターマーケット",
+   "lead": "自動車部品・アフターマーケットの展示会。メッセフランクフルトが主催し、2027年は4月8〜10日にクアラルンプール・コンベンションセンター（KLCC）で開かれる。",
+   "overview": [
+    "自動車部品、整備機器、アフターマーケット製品を扱う。公式サイトで2026年の出展企業を検索できる。"
+   ],
    "url": "https://automechanika-kualalumpur.hk.messefrankfurt.com/kualalumpur/en.html",
    "source": "https://automechanika-kualalumpur.hk.messefrankfurt.com/kualalumpur/en.html",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "Automechanika Kuala Lumpur 公式サイト",
+     "title": "Automechanika Kuala Lumpur",
+     "url": "https://automechanika-kualalumpur.hk.messefrankfurt.com/kualalumpur/en.html",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "malaysia-solar-storage-live-malaysia-2027",
@@ -337,11 +708,24 @@
    "start": "2027-04-14",
    "end": "2027-04-15",
    "field": "エネルギー・環境",
+   "organizer": "Terrapinn",
    "note": "太陽光発電・蓄電",
+   "lead": "太陽光発電と蓄電の展示会。Terrapinnが主催し、2027年は4月14〜15日にクアラルンプールのMITECで開かれる。",
+   "overview": [
+    "太陽光、蓄電の技術と事業者が集まり、導入を検討する企業が質問や商談をする場と位置づけられている。フィリピン版は5月にマニラで開かれる。"
+   ],
    "url": "https://www.terrapinn.com/exhibition/solar-storage-live-malaysia/",
    "source": "https://www.terrapinn.com/exhibition/solar-storage-live-malaysia/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "Terrapinn",
+     "title": "Solar & Storage Live Malaysia 2027",
+     "url": "https://www.terrapinn.com/exhibition/solar-storage-live-malaysia/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "singapore-fha-food-beverage-2027",
@@ -352,11 +736,24 @@
    "start": "2027-04-20",
    "end": "2027-04-23",
    "field": "食品・飲料",
+   "organizer": "Informa Markets",
    "note": "食品・飲料・ホスピタリティ",
+   "lead": "アジアの主要な食品・飲料の見本市（FHA）。Informa Marketsが主催し、2027年は4月20〜23日にシンガポール・エキスポで開かれる。",
+   "overview": [
+    "公式サイトは、食品メーカー、サプライヤー、ブランド、技術企業が集まる見本市と紹介している。"
+   ],
    "url": "https://www.foodnhotelasia.com/",
    "source": "https://www.foodnhotelasia.com/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "FHA 公式サイト",
+     "title": "Food & Hospitality Asia",
+     "url": "https://www.foodnhotelasia.com/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "indonesia-battery-indonesia-2027",
@@ -368,11 +765,39 @@
    "end": "2027-04-23",
    "field": "エネルギー・環境",
    "organizer": "PT Global Expo Management（GEM Indonesia）",
+   "edition": "第11回",
    "note": "蓄電池・エネルギー貯蔵と原材料。4月の GEM 合同展の一つ",
+   "lead": "蓄電池・エネルギー貯蔵とその原材料を扱うインドネシアの専門展。第11回となる2027年の会期はジャカルタのJIExpo（ジャカルタ国際展示場）で、GEM Indonesiaが主催する。",
+   "admission": "公式サイトに来場登録（Visitor Registration）のページがある。",
+   "overview": [
+    "正式名称は「The 11th Indonesia International Rechargeable Battery, Energy Storage, Technology & Raw Material Exhibition」。公式サイトは「インドネシアで唯一の電池・原材料・部品の専門展」とうたい、蓄電システム（BESS）、電力変換、エネルギー管理、系統向けの技術、再生可能エネルギーとの統合を扱う。太陽光のSolartech Indonesiaと同時に開き、太陽光・蓄電・スマートエネルギーを一体で見せる構成をとる。",
+    "4月の会期には、電子部品（INATRONICS）、照明（INALIGHT）、太陽光発電（Solartech Indonesia）、蓄電池（Battery Indonesia）、電線（Cable & Wire Indonesia）、スマートホーム・都市（Smart Home & City Indonesia）、IoT（Smart IoT Indonesia）、環境技術（INAGREENTECH）の各展が同じJIExpoで同時に開かれる。1回の来場で関連する分野をまとめて回れるのが、GEM Indonesiaの合同展の特徴だ。",
+    "主催のGEM Indonesia（PT Global Expo Management）は、2009年に設立されたジャカルタの展示会会社で、テーマ別の専門展をまとめて同じ会期に開く形をとっている。"
+   ],
    "url": "http://www.battery-exhibition.net/",
    "source": "https://gem-indonesia.net/upcoming-events/automotive-industry-sub-events-list/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "GEM Indonesia",
+     "title": "Automotive Industry Sub Events List",
+     "url": "https://gem-indonesia.net/upcoming-events/automotive-industry-sub-events-list/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "INAPA 公式サイト",
+     "title": "INAPA 2027",
+     "url": "https://inapa-exhibition.net/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "Battery Indonesia 公式サイト",
+     "title": "Battery & Energy Storage Indonesia 2027",
+     "url": "https://www.battery-exhibition.net/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "indonesia-cable-wire-indonesia-2027",
@@ -384,11 +809,38 @@
    "end": "2027-04-23",
    "field": "製造・機械",
    "organizer": "PT Global Expo Management（GEM Indonesia）",
+   "edition": "第10回",
    "note": "電線・ケーブル産業。4月の GEM 合同展の一つ",
+   "lead": "電線・ケーブルを扱うインドネシアの専門展。第10回となる2027年の会期はジャカルタのJIExpo（ジャカルタ国際展示場）で、GEM Indonesiaが主催する。",
+   "overview": [
+    "正式名称は「The 10th Indonesia International Cable & Wire Industry Exhibition」。公式サイトは、インドネシアの電力供給事業計画（RUPTL 2025〜2034年）で69.5GWの発電容量の追加と送電網の拡張が予定されていることを背景に挙げている。",
+    "4月の会期には、電子部品（INATRONICS）、照明（INALIGHT）、太陽光発電（Solartech Indonesia）、蓄電池（Battery Indonesia）、電線（Cable & Wire Indonesia）、スマートホーム・都市（Smart Home & City Indonesia）、IoT（Smart IoT Indonesia）、環境技術（INAGREENTECH）の各展が同じJIExpoで同時に開かれる。1回の来場で関連する分野をまとめて回れるのが、GEM Indonesiaの合同展の特徴だ。",
+    "主催のGEM Indonesia（PT Global Expo Management）は、2009年に設立されたジャカルタの展示会会社で、テーマ別の専門展をまとめて同じ会期に開く形をとっている。"
+   ],
    "url": "https://www.cableandwire-exhibition.net/",
    "source": "https://gem-indonesia.net/upcoming-events/automotive-industry-sub-events-list/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "GEM Indonesia",
+     "title": "Automotive Industry Sub Events List",
+     "url": "https://gem-indonesia.net/upcoming-events/automotive-industry-sub-events-list/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "INAPA 公式サイト",
+     "title": "INAPA 2027",
+     "url": "https://inapa-exhibition.net/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "Cable & Wire Indonesia 公式サイト",
+     "title": "Cable & Wire Exhibition Indonesia",
+     "url": "https://www.cableandwire-exhibition.net/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "indonesia-inagreentech-2027",
@@ -400,11 +852,32 @@
    "end": "2027-04-23",
    "field": "エネルギー・環境",
    "organizer": "PT Global Expo Management（GEM Indonesia）",
+   "edition": "第12回",
    "note": "環境技術・エコ製品。4月の GEM 合同展の一つ",
+   "lead": "環境技術・環境配慮型製品を扱うインドネシアの専門展。第12回となる2027年の会期はジャカルタのJIExpo（ジャカルタ国際展示場）で、GEM Indonesiaが主催する。",
+   "overview": [
+    "正式名称は「The 12th Indonesia International Green Technology & Eco Friendly Product Exhibition」。省エネルギーや廃棄物処理、環境配慮型の製品・技術を扱う。",
+    "4月の会期には、電子部品（INATRONICS）、照明（INALIGHT）、太陽光発電（Solartech Indonesia）、蓄電池（Battery Indonesia）、電線（Cable & Wire Indonesia）、スマートホーム・都市（Smart Home & City Indonesia）、IoT（Smart IoT Indonesia）、環境技術（INAGREENTECH）の各展が同じJIExpoで同時に開かれる。1回の来場で関連する分野をまとめて回れるのが、GEM Indonesiaの合同展の特徴だ。",
+    "主催のGEM Indonesia（PT Global Expo Management）は、2009年に設立されたジャカルタの展示会会社で、テーマ別の専門展をまとめて同じ会期に開く形をとっている。"
+   ],
    "url": "http://www.inagreentech-exhibition.net/",
    "source": "https://gem-indonesia.net/upcoming-events/green-technology-sub-events-list/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "GEM Indonesia",
+     "title": "Green Technology Sub Events List",
+     "url": "https://gem-indonesia.net/upcoming-events/green-technology-sub-events-list/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "INAPA 公式サイト",
+     "title": "INAPA 2027",
+     "url": "https://inapa-exhibition.net/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "indonesia-inalight-2027",
@@ -416,11 +889,32 @@
    "end": "2027-04-23",
    "field": "IT・電子",
    "organizer": "PT Global Expo Management（GEM Indonesia）",
+   "edition": "第11回",
    "note": "照明機器。4月の GEM 合同展の一つ",
+   "lead": "照明機器を扱うインドネシアの専門展。第11回となる2027年の会期はジャカルタのJIExpo（ジャカルタ国際展示場）で、GEM Indonesiaが主催する。",
+   "overview": [
+    "正式名称は「The 11th Indonesia International Lighting Exhibition」。照明器具・LEDなどの照明機器を扱う。公式サイト（inalight-exhibition.com）は2026年11月時点で中身が掲載されておらず、日程はGEM Indonesiaの催事一覧で確認した。",
+    "4月の会期には、電子部品（INATRONICS）、照明（INALIGHT）、太陽光発電（Solartech Indonesia）、蓄電池（Battery Indonesia）、電線（Cable & Wire Indonesia）、スマートホーム・都市（Smart Home & City Indonesia）、IoT（Smart IoT Indonesia）、環境技術（INAGREENTECH）の各展が同じJIExpoで同時に開かれる。1回の来場で関連する分野をまとめて回れるのが、GEM Indonesiaの合同展の特徴だ。",
+    "主催のGEM Indonesia（PT Global Expo Management）は、2009年に設立されたジャカルタの展示会会社で、テーマ別の専門展をまとめて同じ会期に開く形をとっている。"
+   ],
    "url": "http://www.inalight-exhibition.com/",
    "source": "https://gem-indonesia.net/upcoming-events/green-technology-sub-events-list/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "GEM Indonesia",
+     "title": "Green Technology Sub Events List",
+     "url": "https://gem-indonesia.net/upcoming-events/green-technology-sub-events-list/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "INAPA 公式サイト",
+     "title": "INAPA 2027",
+     "url": "https://inapa-exhibition.net/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "indonesia-inatronics-2027",
@@ -432,11 +926,39 @@
    "end": "2027-04-23",
    "field": "IT・電子",
    "organizer": "PT Global Expo Management（GEM Indonesia）",
+   "edition": "第14回",
    "note": "電子部品・電子機器。4月の GEM 合同展の一つ",
+   "lead": "電子部品・電子機器を扱うインドネシアの専門展。第14回となる2027年の会期はジャカルタのJIExpo（ジャカルタ国際展示場）で、GEM Indonesiaが主催する。",
+   "admission": "公式サイトに来場登録（Visitor Registration）のページがある。",
+   "overview": [
+    "正式名称は「The 14th Indonesian International Electronics, Components & Technology Exhibition」。公式サイトは「インドネシアで最も影響力のある電子産業のプラットフォーム」とうたう。電子部品、電子機器の製造技術を扱い、会場ではIPC（電子回路の国際業界団体）の競技会も開かれる。",
+    "4月の会期には、電子部品（INATRONICS）、照明（INALIGHT）、太陽光発電（Solartech Indonesia）、蓄電池（Battery Indonesia）、電線（Cable & Wire Indonesia）、スマートホーム・都市（Smart Home & City Indonesia）、IoT（Smart IoT Indonesia）、環境技術（INAGREENTECH）の各展が同じJIExpoで同時に開かれる。1回の来場で関連する分野をまとめて回れるのが、GEM Indonesiaの合同展の特徴だ。",
+    "主催のGEM Indonesia（PT Global Expo Management）は、2009年に設立されたジャカルタの展示会会社で、テーマ別の専門展をまとめて同じ会期に開く形をとっている。"
+   ],
    "url": "https://inatronics-exhibition.net/",
    "source": "https://gem-indonesia.net/upcoming-events/electronic-sub-events-list/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "GEM Indonesia",
+     "title": "Electronic Sub Events List",
+     "url": "https://gem-indonesia.net/upcoming-events/electronic-sub-events-list/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "INAPA 公式サイト",
+     "title": "INAPA 2027",
+     "url": "https://inapa-exhibition.net/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "INATRONICS 公式サイト",
+     "title": "INATRONICS 2027",
+     "url": "https://inatronics-exhibition.net/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "indonesia-smart-home-city-indonesia-2027",
@@ -448,11 +970,38 @@
    "end": "2027-04-23",
    "field": "IT・電子",
    "organizer": "PT Global Expo Management（GEM Indonesia）",
+   "edition": "第8回",
    "note": "スマートホーム・ビル・都市。4月の GEM 合同展の一つ",
+   "lead": "スマートホーム・ビル・オフィス・都市の技術を扱うインドネシアの専門展。第8回となる2027年の会期はジャカルタのJIExpo（ジャカルタ国際展示場）で、GEM Indonesiaが主催する。",
+   "overview": [
+    "正式名称は「The 8th Indonesia International Smart Home, Smart Building, Smart Office & Smart City Technology Exhibition」。公式サイトは「インドネシア最大のスマートホーム管理技術の展示会」とうたう。",
+    "4月の会期には、電子部品（INATRONICS）、照明（INALIGHT）、太陽光発電（Solartech Indonesia）、蓄電池（Battery Indonesia）、電線（Cable & Wire Indonesia）、スマートホーム・都市（Smart Home & City Indonesia）、IoT（Smart IoT Indonesia）、環境技術（INAGREENTECH）の各展が同じJIExpoで同時に開かれる。1回の来場で関連する分野をまとめて回れるのが、GEM Indonesiaの合同展の特徴だ。",
+    "主催のGEM Indonesia（PT Global Expo Management）は、2009年に設立されたジャカルタの展示会会社で、テーマ別の専門展をまとめて同じ会期に開く形をとっている。"
+   ],
    "url": "https://www.smarthomecity-exhibition.net/",
    "source": "https://gem-indonesia.net/upcoming-events/electronic-sub-events-list/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "GEM Indonesia",
+     "title": "Electronic Sub Events List",
+     "url": "https://gem-indonesia.net/upcoming-events/electronic-sub-events-list/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "INAPA 公式サイト",
+     "title": "INAPA 2027",
+     "url": "https://inapa-exhibition.net/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "Smart Home+City 公式サイト",
+     "title": "SMART HOME+CITY EXHIBITION",
+     "url": "https://www.smarthomecity-exhibition.net/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "indonesia-smart-iot-indonesia-2027",
@@ -464,11 +1013,38 @@
    "end": "2027-04-23",
    "field": "IT・電子",
    "organizer": "PT Global Expo Management（GEM Indonesia）",
+   "edition": "第7回",
    "note": "IoTソリューション。4月の GEM 合同展の一つ",
+   "lead": "IoT（モノのインターネット）を扱うインドネシアの専門展。第7回となる2027年の会期はジャカルタのJIExpo（ジャカルタ国際展示場）で、GEM Indonesiaが主催する。",
+   "overview": [
+    "正式名称は「The 7th Indonesia International Smart Internet of Things Exhibition & Conference」。展示会と会議で構成し、公式サイトは「インドネシア最大の国際IoT展」とうたう。",
+    "4月の会期には、電子部品（INATRONICS）、照明（INALIGHT）、太陽光発電（Solartech Indonesia）、蓄電池（Battery Indonesia）、電線（Cable & Wire Indonesia）、スマートホーム・都市（Smart Home & City Indonesia）、IoT（Smart IoT Indonesia）、環境技術（INAGREENTECH）の各展が同じJIExpoで同時に開かれる。1回の来場で関連する分野をまとめて回れるのが、GEM Indonesiaの合同展の特徴だ。",
+    "主催のGEM Indonesia（PT Global Expo Management）は、2009年に設立されたジャカルタの展示会会社で、テーマ別の専門展をまとめて同じ会期に開く形をとっている。"
+   ],
    "url": "https://www.smartiot-indonesia.com/",
    "source": "https://gem-indonesia.net/upcoming-events/electronic-sub-events-list/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "GEM Indonesia",
+     "title": "Electronic Sub Events List",
+     "url": "https://gem-indonesia.net/upcoming-events/electronic-sub-events-list/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "INAPA 公式サイト",
+     "title": "INAPA 2027",
+     "url": "https://inapa-exhibition.net/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "Smart IoT Indonesia 公式サイト",
+     "title": "Smart IoT Indonesia",
+     "url": "https://www.smartiot-indonesia.com/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "indonesia-solartech-indonesia-2027",
@@ -480,11 +1056,40 @@
    "end": "2027-04-23",
    "field": "エネルギー・環境",
    "organizer": "PT Global Expo Management（GEM Indonesia）",
+   "edition": "第11回",
    "note": "太陽光発電・PV。4月の GEM 合同展の一つ",
+   "lead": "太陽光発電・PV（太陽電池）技術を扱うインドネシアの専門展。第11回となる2027年の会期はジャカルタのJIExpo（ジャカルタ国際展示場）で、GEM Indonesiaが主催する。",
+   "previous": "2026年4月22〜24日、JIExpo",
+   "scale": "2026年は800社超が参加（detikFinance）",
+   "overview": [
+    "正式名称は「The 11th Indonesia International Solar Power & PV Technologies Exhibition」。2026年は「Indonesia Smart Energy & Technology Week 2026」の一部として開かれ、地元紙detikFinanceは800社を超える企業が参加したと報じた。2027年も蓄電池のBattery Indonesiaと同時に開く。",
+    "4月の会期には、電子部品（INATRONICS）、照明（INALIGHT）、太陽光発電（Solartech Indonesia）、蓄電池（Battery Indonesia）、電線（Cable & Wire Indonesia）、スマートホーム・都市（Smart Home & City Indonesia）、IoT（Smart IoT Indonesia）、環境技術（INAGREENTECH）の各展が同じJIExpoで同時に開かれる。1回の来場で関連する分野をまとめて回れるのが、GEM Indonesiaの合同展の特徴だ。",
+    "主催のGEM Indonesia（PT Global Expo Management）は、2009年に設立されたジャカルタの展示会会社で、テーマ別の専門展をまとめて同じ会期に開く形をとっている。"
+   ],
    "url": "http://www.solartech-exhibition.com/",
    "source": "https://gem-indonesia.net/upcoming-events/green-technology-sub-events-list/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "GEM Indonesia",
+     "title": "Green Technology Sub Events List",
+     "url": "https://gem-indonesia.net/upcoming-events/green-technology-sub-events-list/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "INAPA 公式サイト",
+     "title": "INAPA 2027",
+     "url": "https://inapa-exhibition.net/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "detikFinance",
+     "title": "800 Perusahaan Ramaikan Pameran Solartech Indonesia 2026, Terbesar di ASEAN（2026年4月22日）",
+     "url": "https://finance.detik.com/energi/d-8455978/800-perusahaan-ramaikan-pameran-solartech-indonesia-2026-terbesar-di-asean",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "vietnam-global-sourcing-fair-vietnam-2027",
@@ -495,11 +1100,32 @@
    "start": "2027-04-22",
    "end": "2027-04-24",
    "field": "総合・その他",
+   "organizer": "Global Sources",
    "note": "調達・サプライヤー探しの見本市",
+   "lead": "輸出向けメーカーとバイヤーをつなぐ調達の見本市。Global Sourcesが主催し、2027年は4月22〜24日にホーチミンのSECCで開かれる。",
+   "admission": "Global Sourcesのサイトで来場の事前登録ができる。",
+   "overview": [
+    "主催者の案内では、ベトナム、中国本土、香港、台湾、韓国、インド、ASEANから500社を超えるメーカーが出展する（来場登録ページでは600社超）。",
+    "輸出に対応できるメーカーから直接調達したいバイヤー向けの見本市で、来場は事前登録できる。"
+   ],
    "url": "https://secc.com.vn/events/global-sourcing-fair-vietnam-2027-1583998715",
    "source": "https://secc.com.vn/events",
    "sourceType": "venue",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "Global Sources",
+     "title": "Global Sourcing Fair Vietnam 2027（来場事前登録・出展者）",
+     "url": "https://www.globalsources.com/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "SECC（サイゴン展示会議センター）",
+     "title": "Events",
+     "url": "https://secc.com.vn/events",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "thailand-architect-27",
@@ -511,10 +1137,23 @@
    "end": "2027-05-02",
    "field": "建設・インフラ",
    "note": "建築・建材（業界関係者と一般の両方が来場）",
+   "lead": "タイ最大級の建築・建材の展示会「ASA EXPO」。2027年は4月27日〜5月2日の6日間、IMPACTのチャレンジャーホールで開かれる。",
+   "overview": [
+    "公式サイトの名称は「Building Technology Exposition（ASA EXPO）」。建材、設備、建築の技術を扱い、会場では素材をテーマにしたパビリオン（Palette of Materials Pavilion）などを設ける。",
+    "業界関係者と一般の両方が来場する。出展者リストは公式サイトで公開している。"
+   ],
    "url": "https://architectexpo.com/",
    "source": "https://architectexpo.com/faqs/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "Architect Expo 公式サイト",
+     "title": "Building Technology Exposition (ASA EXPO)",
+     "url": "https://architectexpo.com/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "thailand-lift-expo-thailand-2027",
@@ -526,23 +1165,49 @@
    "end": "2027-04-30",
    "field": "建設・インフラ",
    "note": "エレベーター・エスカレーター",
+   "lead": "エレベーター・エスカレーターなど昇降機の展示会。2027年は4月28〜30日にバンコク近郊のIMPACT（ムアントンタニ）で開かれる。",
+   "overview": [
+    "IMPACTは、地域の垂直搬送（昇降機）業界の取引のつながりを強める国際展示会・ビジネスの場と紹介している。"
+   ],
    "url": "https://www.impact.co.th/en/visitors/event-calendar/exhibition-trade/lift-expo-thailand-2027",
    "source": "https://www.impact.co.th/en/visitors/event-calendar/exhibition-trade/lift-expo-thailand-2027",
    "sourceType": "venue",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "IMPACT",
+     "title": "LIFT EXPO THAILAND 2027",
+     "url": "https://www.impact.co.th/en/visitors/event-calendar/exhibition-trade/lift-expo-thailand-2027",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "singapore-imdex-asia-2027",
    "name": "IMDEX Asia 2027",
    "country": "singapore",
    "city": "シンガポール",
-   "start": "2027-05-05",
-   "end": "2027-05-07",
+   "venue": "チャンギ・エキシビションセンター",
+   "start": "2027-05-04",
+   "end": "2027-05-06",
    "field": "総合・その他",
    "note": "海軍・海上保安の防衛展示会",
-   "source": "https://www.jetro.go.jp/en/database/j-messe/country/asia/sg/001/living/",
-   "sourceType": "jmesse",
-   "checked": "2026-11-22"
+   "lead": "アジア太平洋の海軍・海上防衛の展示会（IMDEX Asia）。隔年開催で、2027年は5月4〜6日にチャンギ・エキシビションセンターで開かれる。",
+   "overview": [
+    "公式サイトは、各国の海軍と海上防衛の関係者が集まる隔年の展示会と紹介する。艦艇、海上防衛の装備・技術、海事のイノベーションが対象。"
+   ],
+   "url": "https://www.imdexasia.com",
+   "source": "https://www.imdexasia.com",
+   "sourceType": "organizer",
+   "sources": [
+    {
+     "name": "IMDEX Asia 公式サイト",
+     "title": "IMDEX Asia 2027",
+     "url": "https://www.imdexasia.com",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "vietnam-vietnam-expo-2027",
@@ -553,11 +1218,24 @@
    "start": "2027-05-13",
    "end": "2027-05-15",
    "field": "総合・その他",
+   "edition": "第36回",
    "note": "第36回ベトナム国際見本市",
+   "lead": "ハノイで毎年開かれるベトナム国際見本市。第36回となる2027年は5月13〜15日にVEC（ベトナム国家展示センター、ドンアイン）で開かれる。",
+   "overview": [
+    "業種を限らない総合の国際見本市で、主催者は2027年を第36回としている。ホーチミン版のVietnam Expo in HCMCは12月に開かれる。"
+   ],
    "url": "https://vietnamexpo.com.vn/",
    "source": "https://vietnamexpo.com.vn/en/overview/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "Vietnam Expo 公式サイト",
+     "title": "Overview - VIETNAM EXPO 2027",
+     "url": "https://vietnamexpo.com.vn/en/overview/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "philippines-solar-storage-live-philippines-2027",
@@ -568,11 +1246,24 @@
    "start": "2027-05-18",
    "end": "2027-05-19",
    "field": "エネルギー・環境",
+   "organizer": "Terrapinn",
    "note": "太陽光発電・蓄電",
+   "lead": "太陽光発電と蓄電の展示会。Terrapinnが主催し、2027年は5月18〜19日にマニラ（パサイ）のSMXCITEで開かれる。",
+   "overview": [
+    "公式サイトは、フィリピンのエネルギー市場の3万人を超える専門家が集まる場と紹介する。太陽光、蓄電、送配電の技術と事業者が対象。マレーシア版は4月にクアラルンプールで開かれる。"
+   ],
    "url": "https://www.terrapinn.com/exhibition/solar-storage-live-philippines/",
    "source": "https://www.terrapinn.com/exhibition/solar-storage-live-philippines/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "Terrapinn",
+     "title": "Solar & Storage Live Philippines 2027",
+     "url": "https://www.terrapinn.com/exhibition/solar-storage-live-philippines/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "vietnam-gentexh-vietnam-2027",
@@ -583,11 +1274,38 @@
    "start": "2027-05-19",
    "end": "2027-05-21",
    "field": "生活用品・繊維・美容",
+   "organizer": "VEAS",
+   "edition": "第3回",
    "note": "縫製・繊維の機械と材料",
-   "url": "https://secc.com.vn/events/gentexh-vietnam-2027-1583997356",
+   "lead": "縫製・繊維の機械と材料の国際展示会。第3回となる2027年は5月19〜21日にホーチミンのSECCで開かれ、VEASが主催する。",
+   "overview": [
+    "縫製・繊維産業の製造機械、材料、関連サービスを扱う。公式サイトのタイトルは「3rd GENTEXH」で、出展企業の声として、B2Bの橋渡しになったという評価を載せている。",
+    "ベトナムは衣料品の主要な生産国で、縫製工場向けの機械・資材の需要が大きい。"
+   ],
+   "url": "https://gentexh.com",
    "source": "https://secc.com.vn/events",
    "sourceType": "venue",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "GENTEXH 公式サイト",
+     "title": "GENTEXH",
+     "url": "https://gentexh.com",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "VEAS",
+     "title": "VEAS の展示会",
+     "url": "https://veas.com.vn/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "SECC（サイゴン展示会議センター）",
+     "title": "Events",
+     "url": "https://secc.com.vn/events",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "philippines-ifex-philippines-2027",
@@ -598,11 +1316,25 @@
    "start": "2027-05-20",
    "end": "2027-05-22",
    "field": "食品・飲料",
+   "organizer": "CITEM（フィリピン国際見本市・使節団センター）",
    "note": "フィリピン産食品の輸出見本市（CITEM）",
+   "lead": "フィリピン産食品の輸出見本市。フィリピン貿易産業省の輸出振興機関CITEMが主催し、2027年は5月20〜22日にワールドトレードセンター・メトロマニラで開かれる。",
+   "admission": "バイヤーは公式サイトで事業情報を登録し、ビジネスマッチングを受けられる。",
+   "overview": [
+    "公式サイトは「国内最大の食品見本市」とうたう。フィリピンの食品メーカーと海外のバイヤーを結ぶ輸出向けの見本市で、バイヤーが調達の要望を登録すると商談の相手探しを支援する仕組みがある。"
+   ],
    "url": "https://www.ifexconnect.com/",
    "source": "https://www.ifexconnect.com/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "IFEX Philippines 公式サイト",
+     "title": "IFEX Philippines",
+     "url": "https://www.ifexconnect.com/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "thailand-thaifex-anuga-asia-2027",
@@ -614,10 +1346,29 @@
    "end": "2027-05-29",
    "field": "食品・飲料",
    "note": "アジア最大級の食品・飲料見本市（主催者による）",
+   "lead": "アジア最大級の食品・飲料見本市。2027年は5月25〜29日にバンコク近郊のIMPACTで開かれる。",
+   "previous": "2026年5月26〜30日、IMPACT",
+   "overview": [
+    "2026年は5月26〜30日に開かれ、主要な指標がすべて前年を上回った（Food Safety Magazine）。食品・飲料のメーカーと、小売・外食・輸入のバイヤーが集まる。"
+   ],
    "url": "https://www.thaifex-anuga.com/",
    "source": "https://www.thaifex-anuga.com/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "THAIFEX - Anuga Asia 公式サイト",
+     "title": "THAIFEX - Anuga Asia",
+     "url": "https://www.thaifex-anuga.com/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "Food Safety Magazine",
+     "title": "THAIFEX–ANUGA ASIA 2026 Records Continued Growth（2026年6月22日）",
+     "url": "https://www.food-safety.com/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "indonesia-conmine-2027",
@@ -629,11 +1380,32 @@
    "end": "2027-05-28",
    "field": "建設・インフラ",
    "organizer": "PT Global Expo Management（GEM Indonesia）",
+   "edition": "第15回",
    "note": "建設・インフラ・鉱業。5月の GEM 合同展の一つ",
+   "lead": "建設・インフラ・鉱業を扱うインドネシアの専門展。第15回となる2027年の会期はジャカルタのJIExpo（ジャカルタ国際展示場）で、GEM Indonesiaが主催する。",
+   "overview": [
+    "正式名称は「The 15th Indonesia International Construction, Infrastructure and Mining Exhibition」。建設機械、インフラ整備、鉱業の機械・技術を扱う。",
+    "5月の会期には、自動車部品（INAPA）、二輪車（INABIKE）、タイヤ（Tyre Indonesia）、潤滑油（LUBE Indonesia）、ファスナー（INAFASTENER）、溶接（INAWELDING）、バス・トラック（IIBT）、建設・鉱業（CONMINE）、フォークリフト（Forklift Indonesia）、造船・海洋（INAMARINE）、物流（Logistics Indonesia）の各展が同じJIExpoで同時に開かれる。1回の来場で関連する分野をまとめて回れるのが、GEM Indonesiaの合同展の特徴だ。",
+    "主催のGEM Indonesia（PT Global Expo Management）は、2009年に設立されたジャカルタの展示会会社で、テーマ別の専門展をまとめて同じ会期に開く形をとっている。"
+   ],
    "url": "http://www.con-mine.net/",
    "source": "https://gem-indonesia.net/upcoming-events/building-construction-sub-event-list/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "GEM Indonesia",
+     "title": "Building & Construction Sub Event List",
+     "url": "https://gem-indonesia.net/upcoming-events/building-construction-sub-event-list/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "INAPA 公式サイト",
+     "title": "INAPA 2027",
+     "url": "https://inapa-exhibition.net/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "indonesia-forklift-indonesia-2027",
@@ -645,11 +1417,32 @@
    "end": "2027-05-28",
    "field": "物流・運輸",
    "organizer": "PT Global Expo Management（GEM Indonesia）",
+   "edition": "第10回",
    "note": "フォークリフト・荷役機器。5月の GEM 合同展の一つ",
+   "lead": "フォークリフト・荷役機器を扱うインドネシアの専門展。第10回となる2027年の会期はジャカルタのJIExpo（ジャカルタ国際展示場）で、GEM Indonesiaが主催する。",
+   "overview": [
+    "正式名称は「The 10th Indonesia International Forklift, Lifting, Equipment, Parts & Services Exhibition」。フォークリフト、つり上げ機器、部品、関連サービスを扱う。",
+    "5月の会期には、自動車部品（INAPA）、二輪車（INABIKE）、タイヤ（Tyre Indonesia）、潤滑油（LUBE Indonesia）、ファスナー（INAFASTENER）、溶接（INAWELDING）、バス・トラック（IIBT）、建設・鉱業（CONMINE）、フォークリフト（Forklift Indonesia）、造船・海洋（INAMARINE）、物流（Logistics Indonesia）の各展が同じJIExpoで同時に開かれる。1回の来場で関連する分野をまとめて回れるのが、GEM Indonesiaの合同展の特徴だ。",
+    "主催のGEM Indonesia（PT Global Expo Management）は、2009年に設立されたジャカルタの展示会会社で、テーマ別の専門展をまとめて同じ会期に開く形をとっている。"
+   ],
    "url": "https://www.forklift-exhibition.net/",
    "source": "https://gem-indonesia.net/upcoming-events/building-construction-sub-event-list/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "GEM Indonesia",
+     "title": "Building & Construction Sub Event List",
+     "url": "https://gem-indonesia.net/upcoming-events/building-construction-sub-event-list/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "INAPA 公式サイト",
+     "title": "INAPA 2027",
+     "url": "https://inapa-exhibition.net/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "indonesia-iibt-2027",
@@ -661,11 +1454,32 @@
    "end": "2027-05-28",
    "field": "自動車・部品",
    "organizer": "PT Global Expo Management（GEM Indonesia）",
+   "edition": "第13回",
    "note": "バス・トラック・部品。5月の GEM 合同展の一つ",
+   "lead": "バス・コーチ・トラックと部品を扱うインドネシアの専門展。第13回となる2027年の会期はジャカルタのJIExpo（ジャカルタ国際展示場）で、GEM Indonesiaが主催する。",
+   "overview": [
+    "正式名称は「The 13th Indonesia International Bus, Coach, Truck and Component Exhibition」。バス、長距離バス（コーチ）、トラックの車両と部品を扱う。同じサイトでトラック・トレーラーの展示（Truck & Trailer）も案内している。",
+    "5月の会期には、自動車部品（INAPA）、二輪車（INABIKE）、タイヤ（Tyre Indonesia）、潤滑油（LUBE Indonesia）、ファスナー（INAFASTENER）、溶接（INAWELDING）、バス・トラック（IIBT）、建設・鉱業（CONMINE）、フォークリフト（Forklift Indonesia）、造船・海洋（INAMARINE）、物流（Logistics Indonesia）の各展が同じJIExpoで同時に開かれる。1回の来場で関連する分野をまとめて回れるのが、GEM Indonesiaの合同展の特徴だ。",
+    "主催のGEM Indonesia（PT Global Expo Management）は、2009年に設立されたジャカルタの展示会会社で、テーマ別の専門展をまとめて同じ会期に開く形をとっている。"
+   ],
    "url": "https://www.iibt-exhibition.net/",
    "source": "https://gem-indonesia.net/upcoming-events/automotive-industry-sub-events-list/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "GEM Indonesia",
+     "title": "Automotive Industry Sub Events List",
+     "url": "https://gem-indonesia.net/upcoming-events/automotive-industry-sub-events-list/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "INAPA 公式サイト",
+     "title": "INAPA 2027",
+     "url": "https://inapa-exhibition.net/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "indonesia-inabike-2027",
@@ -677,11 +1491,32 @@
    "end": "2027-05-28",
    "field": "自動車・部品",
    "organizer": "PT Global Expo Management（GEM Indonesia）",
+   "edition": "第14回",
    "note": "二輪車・部品。5月の GEM 合同展の一つ",
+   "lead": "二輪車・部品・アクセサリーを扱うインドネシアの専門展。第14回となる2027年の会期はジャカルタのJIExpo（ジャカルタ国際展示場）で、GEM Indonesiaが主催する。",
+   "overview": [
+    "正式名称は「The 14th Indonesia International Motorcycle, Parts & Accessories Exhibition」。インドネシアは二輪車の利用が多く、二輪車本体と部品、アクセサリーのメーカー・販売会社が対象。INAPAと同じ会期に開かれる。",
+    "5月の会期には、自動車部品（INAPA）、二輪車（INABIKE）、タイヤ（Tyre Indonesia）、潤滑油（LUBE Indonesia）、ファスナー（INAFASTENER）、溶接（INAWELDING）、バス・トラック（IIBT）、建設・鉱業（CONMINE）、フォークリフト（Forklift Indonesia）、造船・海洋（INAMARINE）、物流（Logistics Indonesia）の各展が同じJIExpoで同時に開かれる。1回の来場で関連する分野をまとめて回れるのが、GEM Indonesiaの合同展の特徴だ。",
+    "主催のGEM Indonesia（PT Global Expo Management）は、2009年に設立されたジャカルタの展示会会社で、テーマ別の専門展をまとめて同じ会期に開く形をとっている。"
+   ],
    "url": "https://www.inabike.net/",
    "source": "https://gem-indonesia.net/upcoming-events/automotive-industry-sub-events-list/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "GEM Indonesia",
+     "title": "Automotive Industry Sub Events List",
+     "url": "https://gem-indonesia.net/upcoming-events/automotive-industry-sub-events-list/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "INAPA 公式サイト",
+     "title": "INAPA 2027",
+     "url": "https://inapa-exhibition.net/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "indonesia-inafastener-2027",
@@ -693,11 +1528,32 @@
    "end": "2027-05-28",
    "field": "製造・機械",
    "organizer": "PT Global Expo Management（GEM Indonesia）",
+   "edition": "第8回",
    "note": "ファスナー・締結技術。5月の GEM 合同展の一つ",
+   "lead": "ファスナー（ねじ・ボルトなどの締結部品）と固定技術を扱うインドネシアの専門展。第8回となる2027年の会期はジャカルタのJIExpo（ジャカルタ国際展示場）で、GEM Indonesiaが主催する。",
+   "overview": [
+    "正式名称は「The 8th Indonesia International Fastener and Fixing Technology Exhibition」。締結部品と、その製造・加工の技術を扱う。",
+    "5月の会期には、自動車部品（INAPA）、二輪車（INABIKE）、タイヤ（Tyre Indonesia）、潤滑油（LUBE Indonesia）、ファスナー（INAFASTENER）、溶接（INAWELDING）、バス・トラック（IIBT）、建設・鉱業（CONMINE）、フォークリフト（Forklift Indonesia）、造船・海洋（INAMARINE）、物流（Logistics Indonesia）の各展が同じJIExpoで同時に開かれる。1回の来場で関連する分野をまとめて回れるのが、GEM Indonesiaの合同展の特徴だ。",
+    "主催のGEM Indonesia（PT Global Expo Management）は、2009年に設立されたジャカルタの展示会会社で、テーマ別の専門展をまとめて同じ会期に開く形をとっている。"
+   ],
    "url": "http://www.inafastener-exhibition.net/",
    "source": "https://gem-indonesia.net/upcoming-events/automotive-industry-sub-events-list/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "GEM Indonesia",
+     "title": "Automotive Industry Sub Events List",
+     "url": "https://gem-indonesia.net/upcoming-events/automotive-industry-sub-events-list/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "INAPA 公式サイト",
+     "title": "INAPA 2027",
+     "url": "https://inapa-exhibition.net/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "indonesia-inamarine-2027",
@@ -709,11 +1565,39 @@
    "end": "2027-05-28",
    "field": "物流・運輸",
    "organizer": "PT Global Expo Management（GEM Indonesia）",
+   "edition": "第15回",
    "note": "造船・海洋・舶用機器。5月の GEM 合同展の一つ",
+   "lead": "造船・海洋・舶用機械を扱うインドネシアの専門展。第15回となる2027年の会期はジャカルタのJIExpo（ジャカルタ国際展示場）で、GEM Indonesiaが主催する。",
+   "previous": "2026年7月28〜30日、JIExpo",
+   "overview": [
+    "正式名称は「The 15th Indonesia International Shipbuilding, Offshore, Marine, Machinery & Equipment Exhibition」。造船、海洋（オフショア）、舶用機械・機器を扱う。2026年は7月の会期（7月28〜30日）に開かれたが、2027年は5月の会期に移る。",
+    "5月の会期には、自動車部品（INAPA）、二輪車（INABIKE）、タイヤ（Tyre Indonesia）、潤滑油（LUBE Indonesia）、ファスナー（INAFASTENER）、溶接（INAWELDING）、バス・トラック（IIBT）、建設・鉱業（CONMINE）、フォークリフト（Forklift Indonesia）、造船・海洋（INAMARINE）、物流（Logistics Indonesia）の各展が同じJIExpoで同時に開かれる。1回の来場で関連する分野をまとめて回れるのが、GEM Indonesiaの合同展の特徴だ。",
+    "主催のGEM Indonesia（PT Global Expo Management）は、2009年に設立されたジャカルタの展示会会社で、テーマ別の専門展をまとめて同じ会期に開く形をとっている。"
+   ],
    "url": "http://inamarine-exhibition.net/",
    "source": "https://gem-indonesia.net/upcoming-events/maritime-logistic-sub-events-list/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "GEM Indonesia",
+     "title": "Maritime & Logistic Sub Events List",
+     "url": "https://gem-indonesia.net/upcoming-events/maritime-logistic-sub-events-list/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "INAPA 公式サイト",
+     "title": "INAPA 2027",
+     "url": "https://inapa-exhibition.net/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "JETRO J-messe",
+     "title": "INAMARINE 2026",
+     "url": "https://www.jetro.go.jp/en/database/j-messe/tradefair/detail/159444",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "indonesia-inapa-2027",
@@ -725,11 +1609,41 @@
    "end": "2027-05-28",
    "field": "自動車・部品",
    "organizer": "PT Global Expo Management（GEM Indonesia）",
+   "edition": "第16回",
    "note": "自動車部品・アフターマーケット。5月の GEM 合同展の一つ",
+   "lead": "自動車部品・アクセサリー・整備機器を扱うインドネシアの専門展。第16回となる2027年の会期はジャカルタのJIExpo（ジャカルタ国際展示場）で、GEM Indonesiaが主催する。",
+   "previous": "2026年5月20〜22日、JIExpo",
+   "scale": "2025年は来場30,803人・出展1,402社・35,000㎡（併催展を含む場合あり。JETRO J-messe）",
+   "admission": "公式サイトに来場登録（Visitor Registration）のページがある。",
+   "overview": [
+    "正式名称は「The 16th Indonesia International Trade Show for Automotive Industry」。公式サイトの英語名は Indonesia International Auto Parts, Accessories & Equipment Exhibition。自動車部品、電気自動車（EV）、電池、充電設備、アクセサリー、整備機器、潤滑油、フリート管理、アフターマーケットを扱う。公式サイトは出展1,500社、来場5万人、30,000㎡、25か国を掲げる（年の記載なし）。",
+    "5月の会期には、自動車部品（INAPA）、二輪車（INABIKE）、タイヤ（Tyre Indonesia）、潤滑油（LUBE Indonesia）、ファスナー（INAFASTENER）、溶接（INAWELDING）、バス・トラック（IIBT）、建設・鉱業（CONMINE）、フォークリフト（Forklift Indonesia）、造船・海洋（INAMARINE）、物流（Logistics Indonesia）の各展が同じJIExpoで同時に開かれる。1回の来場で関連する分野をまとめて回れるのが、GEM Indonesiaの合同展の特徴だ。",
+    "主催のGEM Indonesia（PT Global Expo Management）は、2009年に設立されたジャカルタの展示会会社で、テーマ別の専門展をまとめて同じ会期に開く形をとっている。"
+   ],
    "url": "https://inapa-exhibition.net/",
    "source": "https://gem-indonesia.net/upcoming-events/automotive-industry-sub-events-list/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "GEM Indonesia",
+     "title": "Automotive Industry Sub Events List",
+     "url": "https://gem-indonesia.net/upcoming-events/automotive-industry-sub-events-list/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "INAPA 公式サイト",
+     "title": "INAPA 2027",
+     "url": "https://inapa-exhibition.net/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "JETRO J-messe",
+     "title": "INAPA 2026 - Indonesia International Auto Parts, Accessories & Equipment Exhibition",
+     "url": "https://www.jetro.go.jp/en/database/j-messe/tradefair/detail/158669",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "indonesia-inawelding-2027",
@@ -741,11 +1655,32 @@
    "end": "2027-05-28",
    "field": "製造・機械",
    "organizer": "PT Global Expo Management（GEM Indonesia）",
+   "edition": "第11回",
    "note": "溶接機器・材料。5月の GEM 合同展の一つ",
+   "lead": "溶接機器・溶接材料を扱うインドネシアの専門展。第11回となる2027年の会期はジャカルタのJIExpo（ジャカルタ国際展示場）で、GEM Indonesiaが主催する。",
+   "overview": [
+    "正式名称は「The 11th Indonesia International Welding Equipment and Consumables, Material & Services Exhibition」。溶接機器、溶接材料（消耗品）、関連サービスを扱う。",
+    "5月の会期には、自動車部品（INAPA）、二輪車（INABIKE）、タイヤ（Tyre Indonesia）、潤滑油（LUBE Indonesia）、ファスナー（INAFASTENER）、溶接（INAWELDING）、バス・トラック（IIBT）、建設・鉱業（CONMINE）、フォークリフト（Forklift Indonesia）、造船・海洋（INAMARINE）、物流（Logistics Indonesia）の各展が同じJIExpoで同時に開かれる。1回の来場で関連する分野をまとめて回れるのが、GEM Indonesiaの合同展の特徴だ。",
+    "主催のGEM Indonesia（PT Global Expo Management）は、2009年に設立されたジャカルタの展示会会社で、テーマ別の専門展をまとめて同じ会期に開く形をとっている。"
+   ],
    "url": "http://www.inawelding-exhibition.net/",
    "source": "https://gem-indonesia.net/upcoming-events/automotive-industry-sub-events-list/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "GEM Indonesia",
+     "title": "Automotive Industry Sub Events List",
+     "url": "https://gem-indonesia.net/upcoming-events/automotive-industry-sub-events-list/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "INAPA 公式サイト",
+     "title": "INAPA 2027",
+     "url": "https://inapa-exhibition.net/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "indonesia-lube-indonesia-2027",
@@ -757,11 +1692,32 @@
    "end": "2027-05-28",
    "field": "化学・素材",
    "organizer": "PT Global Expo Management（GEM Indonesia）",
+   "edition": "第7回",
    "note": "潤滑油・グリース・保守。5月の GEM 合同展の一つ",
+   "lead": "潤滑油・グリースと保守技術を扱うインドネシアの専門展。第7回となる2027年の会期はジャカルタのJIExpo（ジャカルタ国際展示場）で、GEM Indonesiaが主催する。",
+   "overview": [
+    "正式名称は「The 7th Indonesia International Lubricants, Grease, Maintenance & Technology Exhibition」。潤滑油、グリース、設備保守の製品・技術を扱う。",
+    "5月の会期には、自動車部品（INAPA）、二輪車（INABIKE）、タイヤ（Tyre Indonesia）、潤滑油（LUBE Indonesia）、ファスナー（INAFASTENER）、溶接（INAWELDING）、バス・トラック（IIBT）、建設・鉱業（CONMINE）、フォークリフト（Forklift Indonesia）、造船・海洋（INAMARINE）、物流（Logistics Indonesia）の各展が同じJIExpoで同時に開かれる。1回の来場で関連する分野をまとめて回れるのが、GEM Indonesiaの合同展の特徴だ。",
+    "主催のGEM Indonesia（PT Global Expo Management）は、2009年に設立されたジャカルタの展示会会社で、テーマ別の専門展をまとめて同じ会期に開く形をとっている。"
+   ],
    "url": "https://www.lube-indonesia.net/",
    "source": "https://gem-indonesia.net/upcoming-events/automotive-industry-sub-events-list/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "GEM Indonesia",
+     "title": "Automotive Industry Sub Events List",
+     "url": "https://gem-indonesia.net/upcoming-events/automotive-industry-sub-events-list/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "INAPA 公式サイト",
+     "title": "INAPA 2027",
+     "url": "https://inapa-exhibition.net/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "indonesia-logistics-indonesia-2027",
@@ -773,11 +1729,32 @@
    "end": "2027-05-28",
    "field": "物流・運輸",
    "organizer": "PT Global Expo Management（GEM Indonesia）",
+   "edition": "第9回",
    "note": "輸送・物流機器とサービス。5月の GEM 合同展の一つ",
+   "lead": "輸送・物流の機器とサービスを扱うインドネシアの専門展。第9回となる2027年の会期はジャカルタのJIExpo（ジャカルタ国際展示場）で、GEM Indonesiaが主催する。",
+   "overview": [
+    "正式名称は「The 9th Indonesia International Transport, Logistic, Equipment and Services Exhibition」。輸送、物流の機器・システムとサービスを扱う。",
+    "5月の会期には、自動車部品（INAPA）、二輪車（INABIKE）、タイヤ（Tyre Indonesia）、潤滑油（LUBE Indonesia）、ファスナー（INAFASTENER）、溶接（INAWELDING）、バス・トラック（IIBT）、建設・鉱業（CONMINE）、フォークリフト（Forklift Indonesia）、造船・海洋（INAMARINE）、物流（Logistics Indonesia）の各展が同じJIExpoで同時に開かれる。1回の来場で関連する分野をまとめて回れるのが、GEM Indonesiaの合同展の特徴だ。",
+    "主催のGEM Indonesia（PT Global Expo Management）は、2009年に設立されたジャカルタの展示会会社で、テーマ別の専門展をまとめて同じ会期に開く形をとっている。"
+   ],
    "url": "https://logistics-indonesia.net/",
    "source": "https://gem-indonesia.net/upcoming-events/maritime-logistic-sub-events-list/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "GEM Indonesia",
+     "title": "Maritime & Logistic Sub Events List",
+     "url": "https://gem-indonesia.net/upcoming-events/maritime-logistic-sub-events-list/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "INAPA 公式サイト",
+     "title": "INAPA 2027",
+     "url": "https://inapa-exhibition.net/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "indonesia-tyre-indonesia-2027",
@@ -789,11 +1766,39 @@
    "end": "2027-05-28",
    "field": "自動車・部品",
    "organizer": "PT Global Expo Management（GEM Indonesia）",
+   "edition": "第13回",
    "note": "タイヤ・ゴム産業。5月の GEM 合同展の一つ",
+   "lead": "タイヤ・ゴム産業を扱うインドネシアの専門展。第13回となる2027年の会期はジャカルタのJIExpo（ジャカルタ国際展示場）で、GEM Indonesiaが主催する。",
+   "previous": "2026年5月20〜22日、JIExpo",
+   "overview": [
+    "正式名称は「The 13th Indonesia International Tyre & Rubber Industry Exhibition」。タイヤと、ゴム製品の原料・製造設備を扱う。",
+    "5月の会期には、自動車部品（INAPA）、二輪車（INABIKE）、タイヤ（Tyre Indonesia）、潤滑油（LUBE Indonesia）、ファスナー（INAFASTENER）、溶接（INAWELDING）、バス・トラック（IIBT）、建設・鉱業（CONMINE）、フォークリフト（Forklift Indonesia）、造船・海洋（INAMARINE）、物流（Logistics Indonesia）の各展が同じJIExpoで同時に開かれる。1回の来場で関連する分野をまとめて回れるのが、GEM Indonesiaの合同展の特徴だ。",
+    "主催のGEM Indonesia（PT Global Expo Management）は、2009年に設立されたジャカルタの展示会会社で、テーマ別の専門展をまとめて同じ会期に開く形をとっている。"
+   ],
    "url": "http://www.tyre-indonesia.net/",
    "source": "https://gem-indonesia.net/upcoming-events/automotive-industry-sub-events-list/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "GEM Indonesia",
+     "title": "Automotive Industry Sub Events List",
+     "url": "https://gem-indonesia.net/upcoming-events/automotive-industry-sub-events-list/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "INAPA 公式サイト",
+     "title": "INAPA 2027",
+     "url": "https://inapa-exhibition.net/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "JETRO J-messe",
+     "title": "Tyre & Rubber Indonesia 2026",
+     "url": "https://www.jetro.go.jp/en/database/j-messe/tradefair/detail/158670",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "singapore-asia-tech-x-singapore-2027",
@@ -804,11 +1809,24 @@
    "start": "2027-05-26",
    "end": "2027-05-28",
    "field": "IT・電子",
+   "organizer": "IMDA ほか",
    "note": "AI・通信・デジタル技術",
+   "lead": "アジアの旗艦テック催事（ATxSG）。シンガポール情報通信メディア開発庁（IMDA）が共同で主催し、2027年は5月26〜28日に開かれる。",
+   "overview": [
+    "公式サイトはAsia Tech x Singaporeを、IMDAが共同主催するアジアの旗艦テクノロジー催事と紹介する。展示会のATxEnterpriseでは、AI、通信、メディアなどの技術と企業が集まる。"
+   ],
    "url": "https://www.asiatechxsg.com/",
    "source": "https://www.asiatechxsg.com/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "Asia Tech x Singapore 公式サイト",
+     "title": "Asia Tech x Singapore 2027",
+     "url": "https://www.asiatechxsg.com/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "vietnam-global-energy-exhibition-congress-vietnam-2027",
@@ -819,11 +1837,31 @@
    "start": "2027-05-26",
    "end": "2027-05-28",
    "field": "エネルギー・環境",
-   "organizer": "dmg events",
+   "organizer": "dmg events、VEC",
+   "edition": "初回",
    "note": "電力・石油ガス・燃料のエネルギー展示会と会議。2027年が初開催（dmg events と VEC が発表）",
-   "source": "https://www.taiwannews.com.tw/en/news/6478001",
-   "sourceType": "press",
-   "checked": "2026-11-22"
+   "lead": "電力・石油ガス・燃料のエネルギー展示会と会議。VECとdmg eventsが立ち上げ、初回の2027年は5月26〜28日にハノイのVECで開かれる。",
+   "overview": [
+    "ベトナム展示センター（VEC）とdmg eventsがハノイの記者会見で開催を発表した。公式サイトは、需要の増加と急速な変化の中でベトナムのエネルギー開発が重要な局面に入ったと位置づけ、投資・開発に関わる企業をつなぐとしている。"
+   ],
+   "url": "https://www.globalenergyvietnam.com",
+   "source": "https://www.globalenergyvietnam.com",
+   "sourceType": "organizer",
+   "sources": [
+    {
+     "name": "Global Energy Vietnam 公式サイト",
+     "title": "Global Energy Exhibition & Congress Vietnam",
+     "url": "https://www.globalenergyvietnam.com",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "Taiwan News",
+     "title": "Global Energy Exhibition & Congress Vietnam",
+     "url": "https://www.taiwannews.com.tw/en/news/6478001",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "vietnam-rubber-tyre-vietnam-2027",
@@ -834,11 +1872,40 @@
    "start": "2027-06-09",
    "end": "2027-06-11",
    "field": "化学・素材",
+   "organizer": "VEAS",
+   "edition": "第13回",
    "note": "ゴム・タイヤ産業",
-   "url": "https://secc.com.vn/events/rubber-tyre-vietnam-2027-1584027769",
+   "lead": "ゴム産業とタイヤ製造の国際展示会。第13回となる2027年は6月9〜11日にホーチミンのSECCで開かれ、VEASが主催する。",
+   "scale": "出展200社・ブランド以上、来場7,000人以上（公式サイト）",
+   "admission": "公式サイトの来場登録（Register To Visit）で事前登録する。ビジネスマッチングもある。",
+   "overview": [
+    "公式サイトは、出展200社・ブランド以上、15か国・地域以上、業界来場者7,000人以上、商談2,000件以上を掲げる。ゴム原料、ゴム加工の機械・技術、タイヤを中心とするゴム製品を扱う。",
+    "来場登録、ビジネスマッチング、ビザ、ホテルの案内が公式サイトにある。主催のVEASは、6月下旬にも紙・塗料・化学などの展示会をSECCで開く。"
+   ],
+   "url": "https://rubber-tyre.com.vn",
    "source": "https://secc.com.vn/events",
    "sourceType": "venue",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "Rubber & Tyre Vietnam 公式サイト",
+     "title": "Rubber & Tyre Vietnam 2027",
+     "url": "https://rubber-tyre.com.vn",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "VEAS",
+     "title": "VEAS の展示会",
+     "url": "https://veas.com.vn/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "SECC（サイゴン展示会議センター）",
+     "title": "Events",
+     "url": "https://secc.com.vn/events",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "thailand-manufacturing-expo-2027",
@@ -849,11 +1916,32 @@
    "start": "2027-06-16",
    "end": "2027-06-19",
    "field": "製造・機械",
+   "organizer": "RX BITEC（Thailand）",
    "note": "製造機械・技術。InterPlas、InterMold、NEPCON Thailand などを併催",
+   "lead": "製造業の機械・技術の総合展。RX BITECが主催し、2027年は6月16〜19日にバンコクのBITECで開かれる。",
+   "scale": "30か国の2,000社超が出展、9万人超が参加（公式サイト）",
+   "overview": [
+    "公式サイトは30か国の2,000社超が出展し、ASEAN全域から9万人超が参加するとしている。",
+    "プラスチック（InterPlas）、金型（InterMold）、電子機器製造（NEPCON Thailand）などを同時に開く。2026年もBITECで開かれた。"
+   ],
    "url": "https://www.manufacturing-expo.com/",
    "source": "https://www.manufacturing-expo.com/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "Manufacturing Expo 公式サイト",
+     "title": "Manufacturing Expo 2027",
+     "url": "https://www.manufacturing-expo.com/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "BITEC",
+     "title": "Manufacturing Expo 2026",
+     "url": "https://www.bitec.co.th/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "vietnam-agri-vietnam-2027",
@@ -864,11 +1952,38 @@
    "start": "2027-06-23",
    "end": "2027-06-25",
    "field": "農業・畜産",
+   "organizer": "VEAS",
+   "edition": "第7回",
    "note": "農業の機械・資材",
-   "url": "https://secc.com.vn/events/agri-vietnam-2027-1584027994",
+   "lead": "農業機械・農業資材の国際展示会。第7回となる2027年はホーチミンのSECC（サイゴン展示会議センター）で開かれ、VEASが主催する。",
+   "overview": [
+    "公式サイトの名称は「Agri Vietnam 2027 – The 7th International Exhibition on Machinery, Chemicals and Technology for Agriculture」。農業機械、農業用化学品などを扱う国際展示会と商談会で、VEASは国内の農業分野から数百社が集まるとしている。",
+    "主催のVEASは、同じ6月の会期に紙（Paper Vietnam）、塗料（Coatings Expo Vietnam）、化学（ChemExpo Vietnam）、研削（Grindtech Expo Vietnam）、畜産（Livestock Vietnam）、バイオ（BioTech Vietnam）、農業（Agri Vietnam）の各展をSECCで開く。"
+   ],
+   "url": "https://agri-vietnam.com.vn",
    "source": "https://secc.com.vn/events",
    "sourceType": "venue",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "Agri Vietnam 2027 公式サイト",
+     "title": "Agri Vietnam 2027 – The 7th International Exhibition on Machinery, Chemicals and Technology for Agriculture",
+     "url": "https://agri-vietnam.com.vn",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "VEAS",
+     "title": "VEAS の展示会",
+     "url": "https://veas.com.vn/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "SECC（サイゴン展示会議センター）",
+     "title": "Events",
+     "url": "https://secc.com.vn/events",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "vietnam-biotech-vietnam-2027",
@@ -879,11 +1994,38 @@
    "start": "2027-06-23",
    "end": "2027-06-25",
    "field": "化学・素材",
+   "organizer": "VEAS",
+   "edition": "第2回",
    "note": "バイオテクノロジー",
-   "url": "https://secc.com.vn/events/biotech-vietnam-2027-1584028022",
+   "lead": "バイオテクノロジーの国際展示会。第2回となる2027年はホーチミンのSECC（サイゴン展示会議センター）で開かれ、VEASが主催する。",
+   "overview": [
+    "公式サイトの名称は「BioTech Vietnam 2027 – The 2nd Vietnam International Exhibition on Biotechnology」。農業分野のバイオ技術などを扱い、農家や協同組合が技術に触れる場にもなる。",
+    "主催のVEASは、同じ6月の会期に紙（Paper Vietnam）、塗料（Coatings Expo Vietnam）、化学（ChemExpo Vietnam）、研削（Grindtech Expo Vietnam）、畜産（Livestock Vietnam）、バイオ（BioTech Vietnam）、農業（Agri Vietnam）の各展をSECCで開く。"
+   ],
+   "url": "https://biotechexpo-vietnam.com",
    "source": "https://secc.com.vn/events",
    "sourceType": "venue",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "BioTech Vietnam 2027 公式サイト",
+     "title": "BioTech Vietnam 2027 – The 2nd Vietnam International Exhibition on Biotechnology",
+     "url": "https://biotechexpo-vietnam.com",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "VEAS",
+     "title": "VEAS の展示会",
+     "url": "https://veas.com.vn/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "SECC（サイゴン展示会議センター）",
+     "title": "Events",
+     "url": "https://secc.com.vn/events",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "vietnam-chemexpo-vietnam-2027",
@@ -894,11 +2036,38 @@
    "start": "2027-06-23",
    "end": "2027-06-25",
    "field": "化学・素材",
+   "organizer": "VEAS",
+   "edition": "第2回",
    "note": "化学品・化学工業",
-   "url": "https://secc.com.vn/events/chemexpo-vietnam-2027-1583997010",
+   "lead": "化学品・化学工業の国際展示会。第2回となる2027年はホーチミンのSECC（サイゴン展示会議センター）で開かれ、VEASが主催する。",
+   "overview": [
+    "公式サイトの名称は「ChemExpo Vietnam 2027 – The 2nd International Exhibition for the Chemical Industry in Vietnam」。化学品のメーカー、販売会社、設備・技術の提供企業をつなぐ。",
+    "主催のVEASは、同じ6月の会期に紙（Paper Vietnam）、塗料（Coatings Expo Vietnam）、化学（ChemExpo Vietnam）、研削（Grindtech Expo Vietnam）、畜産（Livestock Vietnam）、バイオ（BioTech Vietnam）、農業（Agri Vietnam）の各展をSECCで開く。"
+   ],
+   "url": "https://chemexpo-vietnam.com",
    "source": "https://secc.com.vn/events",
    "sourceType": "venue",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "ChemExpo Vietnam 2027 公式サイト",
+     "title": "ChemExpo Vietnam 2027 – The 2nd International Exhibition for the Chemical Industry in Vietnam",
+     "url": "https://chemexpo-vietnam.com",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "VEAS",
+     "title": "VEAS の展示会",
+     "url": "https://veas.com.vn/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "SECC（サイゴン展示会議センター）",
+     "title": "Events",
+     "url": "https://secc.com.vn/events",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "vietnam-coatings-expo-vietnam-2027",
@@ -909,11 +2078,38 @@
    "start": "2027-06-23",
    "end": "2027-06-25",
    "field": "化学・素材",
+   "organizer": "VEAS",
+   "edition": "第12回",
    "note": "塗料・コーティング",
-   "url": "https://secc.com.vn/events/coatings-expo-vietnam-2027-1583997204",
+   "lead": "塗料・色材・特殊化学品・印刷インキの国際展示会。第12回となる2027年はホーチミンのSECC（サイゴン展示会議センター）で開かれ、VEASが主催する。",
+   "overview": [
+    "公式サイトの名称は「Coatings Expo Vietnam 2027 – The 12th International Exhibition on Coatings, Color, SpeChem and Printing Ink Industry in Vietnam」。塗料、色材、特殊化学品、印刷インキの原料と製造技術を扱う。",
+    "主催のVEASは、同じ6月の会期に紙（Paper Vietnam）、塗料（Coatings Expo Vietnam）、化学（ChemExpo Vietnam）、研削（Grindtech Expo Vietnam）、畜産（Livestock Vietnam）、バイオ（BioTech Vietnam）、農業（Agri Vietnam）の各展をSECCで開く。"
+   ],
+   "url": "https://coatings-vietnam.com",
    "source": "https://secc.com.vn/events",
    "sourceType": "venue",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "Coatings Expo Vietnam 2027 公式サイト",
+     "title": "Coatings Expo Vietnam 2027 – The 12th International Exhibition on Coatings, Color, SpeChem and Printing Ink Industry in Vietnam",
+     "url": "https://coatings-vietnam.com",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "VEAS",
+     "title": "VEAS の展示会",
+     "url": "https://veas.com.vn/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "SECC（サイゴン展示会議センター）",
+     "title": "Events",
+     "url": "https://secc.com.vn/events",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "vietnam-grindtech-expo-vietnam-2027",
@@ -924,11 +2120,37 @@
    "start": "2027-06-23",
    "end": "2027-06-25",
    "field": "製造・機械",
+   "organizer": "VEAS",
    "note": "研削・研磨技術",
-   "url": "https://secc.com.vn/events/grindtech-expo-vietnam-2027-1583997452",
+   "lead": "研削技術・研削盤・砥材・工具の国際展示会。2027年はホーチミンのSECC（サイゴン展示会議センター）で開かれ、VEASが主催する。",
+   "overview": [
+    "公式サイトの名称は「GTE Vietnam 2027 – Grind Tech Expo Vietnam」。研削盤、砥材、研削工具、表面仕上げの技術を扱う。",
+    "主催のVEASは、同じ6月の会期に紙（Paper Vietnam）、塗料（Coatings Expo Vietnam）、化学（ChemExpo Vietnam）、研削（Grindtech Expo Vietnam）、畜産（Livestock Vietnam）、バイオ（BioTech Vietnam）、農業（Agri Vietnam）の各展をSECCで開く。"
+   ],
+   "url": "https://gte-vietnam.com",
    "source": "https://secc.com.vn/events",
    "sourceType": "venue",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "GTE Vietnam 2027 公式サイト",
+     "title": "GTE Vietnam 2027 – Grind Tech Expo Vietnam",
+     "url": "https://gte-vietnam.com",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "VEAS",
+     "title": "VEAS の展示会",
+     "url": "https://veas.com.vn/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "SECC（サイゴン展示会議センター）",
+     "title": "Events",
+     "url": "https://secc.com.vn/events",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "vietnam-livestock-vietnam-2027",
@@ -939,11 +2161,38 @@
    "start": "2027-06-23",
    "end": "2027-06-25",
    "field": "農業・畜産",
+   "organizer": "VEAS",
+   "edition": "第4回",
    "note": "畜産・飼料",
-   "url": "https://secc.com.vn/events/livestock-vietnam-2027-1583997525",
+   "lead": "畜産・飼料・動物用医薬・酪農・食肉加工の国際展示会。第4回となる2027年はホーチミンのSECC（サイゴン展示会議センター）で開かれ、VEASが主催する。",
+   "overview": [
+    "公式サイトの名称は「Livestock Vietnam 2027 – The 4th International Exhibition for Livestock, Feed, Animal Health, Dairy And Meat Processing Industry」。畜産、飼料、動物の健康、酪農、食肉加工の各産業を扱う。",
+    "主催のVEASは、同じ6月の会期に紙（Paper Vietnam）、塗料（Coatings Expo Vietnam）、化学（ChemExpo Vietnam）、研削（Grindtech Expo Vietnam）、畜産（Livestock Vietnam）、バイオ（BioTech Vietnam）、農業（Agri Vietnam）の各展をSECCで開く。"
+   ],
+   "url": "https://livestock-vietnam.com",
    "source": "https://secc.com.vn/events",
    "sourceType": "venue",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "Livestock Vietnam 2027 公式サイト",
+     "title": "Livestock Vietnam 2027 – The 4th International Exhibition for Livestock, Feed, Animal Health, Dairy And Meat Processing Industry",
+     "url": "https://livestock-vietnam.com",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "VEAS",
+     "title": "VEAS の展示会",
+     "url": "https://veas.com.vn/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "SECC（サイゴン展示会議センター）",
+     "title": "Events",
+     "url": "https://secc.com.vn/events",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "vietnam-paper-vietnam-2027",
@@ -954,11 +2203,38 @@
    "start": "2027-06-23",
    "end": "2027-06-25",
    "field": "印刷・包装",
+   "organizer": "VEAS",
+   "edition": "第14回",
    "note": "紙・パルプ",
-   "url": "https://secc.com.vn/events/paper-vietnam-2027-1583997653",
+   "lead": "紙・パルプの国際展示会。第14回となる2027年はホーチミンのSECC（サイゴン展示会議センター）で開かれ、VEASが主催する。",
+   "overview": [
+    "公式サイトの名称は「Paper Vietnam 2027 – The 14th International Exhibition on Paper and Pulp industry in Vietnam」。紙・パルプ産業の原料、機械、製品を扱う。",
+    "主催のVEASは、同じ6月の会期に紙（Paper Vietnam）、塗料（Coatings Expo Vietnam）、化学（ChemExpo Vietnam）、研削（Grindtech Expo Vietnam）、畜産（Livestock Vietnam）、バイオ（BioTech Vietnam）、農業（Agri Vietnam）の各展をSECCで開く。"
+   ],
+   "url": "https://paper-vietnam.com",
    "source": "https://secc.com.vn/events",
    "sourceType": "venue",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "Paper Vietnam 2027 公式サイト",
+     "title": "Paper Vietnam 2027 – The 14th International Exhibition on Paper and Pulp industry in Vietnam",
+     "url": "https://paper-vietnam.com",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "VEAS",
+     "title": "VEAS の展示会",
+     "url": "https://veas.com.vn/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "SECC（サイゴン展示会議センター）",
+     "title": "Events",
+     "url": "https://secc.com.vn/events",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "vietnam-edutech-vietnam-2027",
@@ -970,10 +2246,21 @@
    "end": "2027-07-01",
    "field": "IT・電子",
    "note": "教育機器・教育テクノロジー",
-   "url": "https://secc.com.vn/events/edutech-vietnam-2027-1583989211",
+   "lead": "教育機器と教育テクノロジーの展示会。2027年は6月29日〜7月1日にホーチミンのSECCで開かれる。",
+   "overview": [
+    "SECCの公式の催事予定に掲載されている。主催者の公式サイトは本誌では確認できておらず、出展・来場の条件は主催者に問い合わせる必要がある。"
+   ],
    "source": "https://secc.com.vn/events",
    "sourceType": "venue",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "SECC（サイゴン展示会議センター）",
+     "title": "Events",
+     "url": "https://secc.com.vn/events",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "vietnam-mta-vietnam-2027",
@@ -985,10 +2272,22 @@
    "end": "2027-07-09",
    "field": "製造・機械",
    "note": "工作機械・金属加工・精密工学",
-   "url": "https://secc.com.vn/events/mta-vietnam-2027-1584017933",
+   "lead": "工作機械・金属加工・精密工学の展示会。2027年は7月6〜9日にホーチミンのSECCで開かれる。",
+   "overview": [
+    "公式サイトは精密工学と製造の展示会と位置づけ、技術の紹介と取引先との接点づくりの場としている。出展品目の一覧（Exhibit Profiles）を公開している。"
+   ],
+   "url": "https://www.mtavietnam.com",
    "source": "https://secc.com.vn/events",
    "sourceType": "venue",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "MTA Vietnam 公式サイト",
+     "title": "MTA Vietnam",
+     "url": "https://www.mtavietnam.com",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "malaysia-cphi-south-east-asia-2027",
@@ -1000,10 +2299,22 @@
    "end": "2027-07-15",
    "field": "医療・医薬",
    "note": "医薬品の原料・製造",
+   "lead": "医薬品の原料・製造の展示会（CPHI）。2027年は7月13〜15日にクアラルンプールのMITECで開かれる。",
+   "overview": [
+    "世界の製薬業界をつなぐCPHIの東南アジア版。医薬品の原料、受託製造、製造設備・包装の企業が出展する。公式サイトで出展者リストを公開している。"
+   ],
    "url": "https://www.cphi.com/sea/en/home.html",
    "source": "https://www.cphi.com/sea/en/home.html",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "CPHI South East Asia 公式サイト",
+     "title": "CPHI South East Asia",
+     "url": "https://www.cphi.com/sea/en/home.html",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "indonesia-b2b-tech-asia-expo-2027",
@@ -1016,10 +2327,24 @@
    "field": "IT・電子",
    "organizer": "VRIGroup",
    "note": "ソフトウェア専門のB2Bテック展示会（SaaS・AI）",
+   "lead": "SaaS・AIなどソフトウェアに絞ったB2Bテック展示会。2027年はジャカルタのザ・リッツ・カールトン（パシフィック・プレイス）で7月14〜15日に開かれる。",
+   "admission": "一般来場は公式サイトから招待を申し込む（Request an Invitation）。VIP券（990万ルピア、約8.6万円）はディナー参加などが付く。",
+   "overview": [
+    "公式サイトは「東南アジアのソフトウェア専門のB2Bテック展示会」とうたい、テーマに「B2Bメガマーケットの台頭」を掲げる。展示のほか、基調講演、ネットワーキング、招待制のプレミアム・ネットワーキング・ディナーがある。",
+    "主催はVRIGroup。メディアパートナーにMetro TVが入る。本誌（東南アジア経済新聞）の運営会社のグループが主催する展示会である。"
+   ],
    "url": "https://www.b2btechasia.com/",
    "source": "https://www.b2btechasia.com/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "B2B Tech Asia 公式サイト",
+     "title": "B2B Tech Asia Expo 2027",
+     "url": "https://www.b2btechasia.com/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "vietnam-shoes-leather-vietnam-2027",
@@ -1030,11 +2355,32 @@
    "start": "2027-07-14",
    "end": "2027-07-16",
    "field": "生活用品・繊維・美容",
+   "organizer": "Top Repute",
+   "edition": "第27回",
    "note": "履物・皮革産業",
-   "url": "https://secc.com.vn/events/shoes-leather-2027-1584000331",
+   "lead": "履物・皮革の国際展示会。第27回となる2027年は7月14〜16日にホーチミンのSECCで開かれる。",
+   "overview": [
+    "主催は香港のTop Repute。履物・皮革の材料、部品、製造機械を扱う。",
+    "ベトナムは世界有数の靴の生産国で、製造設備と材料の調達の場となっている。"
+   ],
+   "url": "https://www.toprepute.com.hk/shoes-and-leather-vietnam",
    "source": "https://secc.com.vn/events",
    "sourceType": "venue",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "Top Repute",
+     "title": "Shoes & Leather - Vietnam 2027",
+     "url": "https://www.toprepute.com.hk/shoes-and-leather-vietnam",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "SECC（サイゴン展示会議センター）",
+     "title": "Events",
+     "url": "https://secc.com.vn/events",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "singapore-itap-2027-industrial-transformation-asia-pacific",
@@ -1046,10 +2392,23 @@
    "end": "2027-07-22",
    "field": "製造・機械",
    "note": "製造業の自動化・デジタル化",
+   "lead": "製造業の自動化・デジタル化の展示会（ITAP）。2027年は7月20〜22日にシンガポールのマリーナベイ・サンズで開かれる。",
+   "admission": "公式サイトで2027年の来場事前登録を受け付けている。",
+   "overview": [
+    "公式サイトは、ITAPが2027年に本格規模で開かれ、物流・マテリアルハンドリングのCeMAT Southeast Asiaと同時開催になるとしている。来場の事前登録を受け付けている。"
+   ],
    "url": "https://www.industrial-transformation.com/",
    "source": "https://www.industrial-transformation.com/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "ITAP 公式サイト",
+     "title": "2027 Pre-Registration – Industrial Transformation Asia Pacific",
+     "url": "https://www.industrial-transformation.com/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "indonesia-chemical-indonesia-2027",
@@ -1062,10 +2421,30 @@
    "field": "化学・素材",
    "organizer": "PT Global Expo Management（GEM Indonesia）",
    "note": "化学プロセス・設備。7月の GEM 合同展の一つ",
+   "lead": "化学プロセス・設備を扱うインドネシアの専門展。2027年の会期はジャカルタのJIExpo（ジャカルタ国際展示場）で、GEM Indonesiaが主催する。",
+   "overview": [
+    "正式名称は「The Indonesia International Chemical Processing & Equipment Exhibition」。化学品の製造プロセスと設備を扱う。",
+    "7月の会期には、農業機械（INAGRITECH）、パーム油（INAPALM）、農薬・肥料（INAGRICHEM）、製糖機械（SugarMach Indonesia）、ポンプ・バルブ（Pump & Valve Indonesia）、塗料（INACOATING）、食品製造（Food Manufacturing Indonesia）、試験・分析（INALAB）、化学（Chemical Indonesia）、医薬（INAPHARM）、鉄道（RailwayTech Indonesia）の各展が同じJIExpoで同時に開かれる。1回の来場で関連する分野をまとめて回れるのが、GEM Indonesiaの合同展の特徴だ。",
+    "主催のGEM Indonesia（PT Global Expo Management）は、2009年に設立されたジャカルタの展示会会社で、テーマ別の専門展をまとめて同じ会期に開く形をとっている。"
+   ],
    "url": "https://chemical-indonesia.net/",
    "source": "https://gem-indonesia.net/upcoming-events/food-technology-sub-events-list/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "GEM Indonesia",
+     "title": "Food Technology Sub Events List",
+     "url": "https://gem-indonesia.net/upcoming-events/food-technology-sub-events-list/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "INAPA 公式サイト",
+     "title": "INAPA 2027",
+     "url": "https://inapa-exhibition.net/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "indonesia-food-manufacturing-indonesia-2027",
@@ -1078,10 +2457,30 @@
    "field": "食品・飲料",
    "organizer": "PT Global Expo Management（GEM Indonesia）",
    "note": "食品の加工・包装・原料。7月の GEM 合同展の一つ",
+   "lead": "食品・飲料の加工・包装・原料を扱うインドネシアの専門展。2027年の会期はジャカルタのJIExpo（ジャカルタ国際展示場）で、GEM Indonesiaが主催する。",
+   "overview": [
+    "正式名称は「The Indonesia International Food & Beverage Processing, Packaging, Ingredients and Supply Chain Exhibition」。食品の加工、包装、原料、サプライチェーンを扱う。食品包装（Food Packaging）、食品原料（Food Ingredients）、食品技術（Food Technology）の各展も同じサイトで案内している。",
+    "7月の会期には、農業機械（INAGRITECH）、パーム油（INAPALM）、農薬・肥料（INAGRICHEM）、製糖機械（SugarMach Indonesia）、ポンプ・バルブ（Pump & Valve Indonesia）、塗料（INACOATING）、食品製造（Food Manufacturing Indonesia）、試験・分析（INALAB）、化学（Chemical Indonesia）、医薬（INAPHARM）、鉄道（RailwayTech Indonesia）の各展が同じJIExpoで同時に開かれる。1回の来場で関連する分野をまとめて回れるのが、GEM Indonesiaの合同展の特徴だ。",
+    "主催のGEM Indonesia（PT Global Expo Management）は、2009年に設立されたジャカルタの展示会会社で、テーマ別の専門展をまとめて同じ会期に開く形をとっている。"
+   ],
    "url": "https://foodmanufacturing-indonesia.com/",
    "source": "https://gem-indonesia.net/upcoming-events/food-technology-sub-events-list/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "GEM Indonesia",
+     "title": "Food Technology Sub Events List",
+     "url": "https://gem-indonesia.net/upcoming-events/food-technology-sub-events-list/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "INAPA 公式サイト",
+     "title": "INAPA 2027",
+     "url": "https://inapa-exhibition.net/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "indonesia-inacoating-2027",
@@ -1093,11 +2492,32 @@
    "end": "2027-07-29",
    "field": "化学・素材",
    "organizer": "PT Global Expo Management（GEM Indonesia）",
+   "edition": "第15回",
    "note": "塗料・樹脂・複合材。7月の GEM 合同展の一つ",
+   "lead": "塗料・塗装・樹脂・複合材を扱うインドネシアの専門展。第15回となる2027年の会期はジャカルタのJIExpo（ジャカルタ国際展示場）で、GEM Indonesiaが主催する。",
+   "overview": [
+    "正式名称は「The 15th Indonesia International Coating, Painting, Resins and Composite Exhibition」。塗料、塗装の設備と技術、樹脂、複合材料を扱う。",
+    "7月の会期には、農業機械（INAGRITECH）、パーム油（INAPALM）、農薬・肥料（INAGRICHEM）、製糖機械（SugarMach Indonesia）、ポンプ・バルブ（Pump & Valve Indonesia）、塗料（INACOATING）、食品製造（Food Manufacturing Indonesia）、試験・分析（INALAB）、化学（Chemical Indonesia）、医薬（INAPHARM）、鉄道（RailwayTech Indonesia）の各展が同じJIExpoで同時に開かれる。1回の来場で関連する分野をまとめて回れるのが、GEM Indonesiaの合同展の特徴だ。",
+    "主催のGEM Indonesia（PT Global Expo Management）は、2009年に設立されたジャカルタの展示会会社で、テーマ別の専門展をまとめて同じ会期に開く形をとっている。"
+   ],
    "url": "http://www.inacoating-exhibition.net/",
    "source": "https://gem-indonesia.net/upcoming-events/coating-chemical-sub-events-list/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "GEM Indonesia",
+     "title": "Coating & Chemical Sub Events List",
+     "url": "https://gem-indonesia.net/upcoming-events/coating-chemical-sub-events-list/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "INAPA 公式サイト",
+     "title": "INAPA 2027",
+     "url": "https://inapa-exhibition.net/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "indonesia-inagrichem-2027",
@@ -1109,11 +2529,39 @@
    "end": "2027-07-29",
    "field": "農業・畜産",
    "organizer": "PT Global Expo Management（GEM Indonesia）",
+   "edition": "第11回",
    "note": "農薬・肥料。7月の GEM 合同展の一つ",
+   "lead": "農薬・肥料を扱うインドネシアの専門展。第11回となる2027年の会期はジャカルタのJIExpo（ジャカルタ国際展示場）で、GEM Indonesiaが主催する。",
+   "previous": "2026年7月28〜30日、JIExpo",
+   "overview": [
+    "正式名称は「The 11th Indonesia International Agricultural Chemicals, Fertilizer and Pesticide Exhibition」。農業用化学品、肥料、農薬を扱う。2026年は7月28〜30日にJIExpoで開かれた（出展企業の告知）。",
+    "7月の会期には、農業機械（INAGRITECH）、パーム油（INAPALM）、農薬・肥料（INAGRICHEM）、製糖機械（SugarMach Indonesia）、ポンプ・バルブ（Pump & Valve Indonesia）、塗料（INACOATING）、食品製造（Food Manufacturing Indonesia）、試験・分析（INALAB）、化学（Chemical Indonesia）、医薬（INAPHARM）、鉄道（RailwayTech Indonesia）の各展が同じJIExpoで同時に開かれる。1回の来場で関連する分野をまとめて回れるのが、GEM Indonesiaの合同展の特徴だ。",
+    "主催のGEM Indonesia（PT Global Expo Management）は、2009年に設立されたジャカルタの展示会会社で、テーマ別の専門展をまとめて同じ会期に開く形をとっている。"
+   ],
    "url": "http://www.inagrichem-exhibition.net/",
    "source": "https://gem-indonesia.net/upcoming-events/agriculture-sub-events-list/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "GEM Indonesia",
+     "title": "Agriculture Sub Events List",
+     "url": "https://gem-indonesia.net/upcoming-events/agriculture-sub-events-list/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "INAPA 公式サイト",
+     "title": "INAPA 2027",
+     "url": "https://inapa-exhibition.net/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "Van Iperen International（出展企業）",
+     "title": "Events, fairs & tradeshows agenda",
+     "url": "https://www.vaniperen.com/events-fairs-tradeshows-agenda/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "indonesia-inagritech-2027",
@@ -1125,11 +2573,32 @@
    "end": "2027-07-29",
    "field": "農業・畜産",
    "organizer": "PT Global Expo Management（GEM Indonesia）",
+   "edition": "第13回",
    "note": "農業機械・技術。7月の GEM 合同展の一つ",
+   "lead": "農業機械・農業技術を扱うインドネシアの専門展。第13回となる2027年の会期はジャカルタのJIExpo（ジャカルタ国際展示場）で、GEM Indonesiaが主催する。",
+   "overview": [
+    "正式名称は「The 13th Indonesia International Agriculture Machinery, Equipment, Technology & Services Exhibition」。農業機械、設備、技術、サービスを扱う。",
+    "7月の会期には、農業機械（INAGRITECH）、パーム油（INAPALM）、農薬・肥料（INAGRICHEM）、製糖機械（SugarMach Indonesia）、ポンプ・バルブ（Pump & Valve Indonesia）、塗料（INACOATING）、食品製造（Food Manufacturing Indonesia）、試験・分析（INALAB）、化学（Chemical Indonesia）、医薬（INAPHARM）、鉄道（RailwayTech Indonesia）の各展が同じJIExpoで同時に開かれる。1回の来場で関連する分野をまとめて回れるのが、GEM Indonesiaの合同展の特徴だ。",
+    "主催のGEM Indonesia（PT Global Expo Management）は、2009年に設立されたジャカルタの展示会会社で、テーマ別の専門展をまとめて同じ会期に開く形をとっている。"
+   ],
    "url": "http://www.inagritech-exhibition.net/",
    "source": "https://gem-indonesia.net/upcoming-events/agriculture-sub-events-list/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "GEM Indonesia",
+     "title": "Agriculture Sub Events List",
+     "url": "https://gem-indonesia.net/upcoming-events/agriculture-sub-events-list/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "INAPA 公式サイト",
+     "title": "INAPA 2027",
+     "url": "https://inapa-exhibition.net/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "indonesia-inalab-2027",
@@ -1142,10 +2611,30 @@
    "field": "化学・素材",
    "organizer": "PT Global Expo Management（GEM Indonesia）",
    "note": "試験・分析機器。7月の GEM 合同展の一つ",
+   "lead": "試験・分析機器を扱うインドネシアの専門展。2027年の会期はジャカルタのJIExpo（ジャカルタ国際展示場）で、GEM Indonesiaが主催する。",
+   "overview": [
+    "正式名称は「The Indonesia International Laboratory Equipment, Analytical Instruments & Services Exhibition」。研究所・検査室の設備、分析機器、関連サービスを扱う。",
+    "7月の会期には、農業機械（INAGRITECH）、パーム油（INAPALM）、農薬・肥料（INAGRICHEM）、製糖機械（SugarMach Indonesia）、ポンプ・バルブ（Pump & Valve Indonesia）、塗料（INACOATING）、食品製造（Food Manufacturing Indonesia）、試験・分析（INALAB）、化学（Chemical Indonesia）、医薬（INAPHARM）、鉄道（RailwayTech Indonesia）の各展が同じJIExpoで同時に開かれる。1回の来場で関連する分野をまとめて回れるのが、GEM Indonesiaの合同展の特徴だ。",
+    "主催のGEM Indonesia（PT Global Expo Management）は、2009年に設立されたジャカルタの展示会会社で、テーマ別の専門展をまとめて同じ会期に開く形をとっている。"
+   ],
    "url": "https://inalab-exhibition.net/",
    "source": "https://gem-indonesia.net/upcoming-events/food-technology-sub-events-list/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "GEM Indonesia",
+     "title": "Food Technology Sub Events List",
+     "url": "https://gem-indonesia.net/upcoming-events/food-technology-sub-events-list/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "INAPA 公式サイト",
+     "title": "INAPA 2027",
+     "url": "https://inapa-exhibition.net/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "indonesia-inapalm-2027",
@@ -1157,11 +2646,32 @@
    "end": "2027-07-29",
    "field": "農業・畜産",
    "organizer": "PT Global Expo Management（GEM Indonesia）",
+   "edition": "第13回",
    "note": "パーム油の機械・加工技術。7月の GEM 合同展の一つ",
+   "lead": "パーム油の機械・加工技術を扱うインドネシアの専門展。第13回となる2027年の会期はジャカルタのJIExpo（ジャカルタ国際展示場）で、GEM Indonesiaが主催する。",
+   "overview": [
+    "正式名称は「The 13th Indonesia International Palm Oil Machinery & Processing Technology Exhibition」。世界有数のパーム油産地であるインドネシアで、搾油・精製などの機械と加工技術を扱う。",
+    "7月の会期には、農業機械（INAGRITECH）、パーム油（INAPALM）、農薬・肥料（INAGRICHEM）、製糖機械（SugarMach Indonesia）、ポンプ・バルブ（Pump & Valve Indonesia）、塗料（INACOATING）、食品製造（Food Manufacturing Indonesia）、試験・分析（INALAB）、化学（Chemical Indonesia）、医薬（INAPHARM）、鉄道（RailwayTech Indonesia）の各展が同じJIExpoで同時に開かれる。1回の来場で関連する分野をまとめて回れるのが、GEM Indonesiaの合同展の特徴だ。",
+    "主催のGEM Indonesia（PT Global Expo Management）は、2009年に設立されたジャカルタの展示会会社で、テーマ別の専門展をまとめて同じ会期に開く形をとっている。"
+   ],
    "url": "http://www.inapalm.net/",
    "source": "https://gem-indonesia.net/upcoming-events/agriculture-sub-events-list/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "GEM Indonesia",
+     "title": "Agriculture Sub Events List",
+     "url": "https://gem-indonesia.net/upcoming-events/agriculture-sub-events-list/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "INAPA 公式サイト",
+     "title": "INAPA 2027",
+     "url": "https://inapa-exhibition.net/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "indonesia-inapharm-2027",
@@ -1174,10 +2684,30 @@
    "field": "医療・医薬",
    "organizer": "PT Global Expo Management（GEM Indonesia）",
    "note": "医薬品の原料・製造技術。7月の GEM 合同展の一つ",
+   "lead": "医薬品の原料・製造技術を扱うインドネシアの専門展。2027年の会期はジャカルタのJIExpo（ジャカルタ国際展示場）で、GEM Indonesiaが主催する。",
+   "overview": [
+    "正式名称は「The Indonesia International Pharmaceutical, Raw Materials & Manufacturing Technologies Exhibition」。医薬品の原料と製造技術を扱う。",
+    "7月の会期には、農業機械（INAGRITECH）、パーム油（INAPALM）、農薬・肥料（INAGRICHEM）、製糖機械（SugarMach Indonesia）、ポンプ・バルブ（Pump & Valve Indonesia）、塗料（INACOATING）、食品製造（Food Manufacturing Indonesia）、試験・分析（INALAB）、化学（Chemical Indonesia）、医薬（INAPHARM）、鉄道（RailwayTech Indonesia）の各展が同じJIExpoで同時に開かれる。1回の来場で関連する分野をまとめて回れるのが、GEM Indonesiaの合同展の特徴だ。",
+    "主催のGEM Indonesia（PT Global Expo Management）は、2009年に設立されたジャカルタの展示会会社で、テーマ別の専門展をまとめて同じ会期に開く形をとっている。"
+   ],
    "url": "https://inapharm-exhibition.net/",
    "source": "https://gem-indonesia.net/upcoming-events/food-technology-sub-events-list/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "GEM Indonesia",
+     "title": "Food Technology Sub Events List",
+     "url": "https://gem-indonesia.net/upcoming-events/food-technology-sub-events-list/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "INAPA 公式サイト",
+     "title": "INAPA 2027",
+     "url": "https://inapa-exhibition.net/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "indonesia-pump-valve-indonesia-2027",
@@ -1189,11 +2719,32 @@
    "end": "2027-07-29",
    "field": "製造・機械",
    "organizer": "PT Global Expo Management（GEM Indonesia）",
+   "edition": "第8回",
    "note": "ポンプ・バルブ。7月の GEM 合同展の一つ",
+   "lead": "ポンプ・バルブを扱うインドネシアの専門展。第8回となる2027年の会期はジャカルタのJIExpo（ジャカルタ国際展示場）で、GEM Indonesiaが主催する。",
+   "overview": [
+    "正式名称は「The 8th Indonesia International Pump, Valve System & Equipment Exhibition」。ポンプ、バルブのシステムと機器を扱う。",
+    "7月の会期には、農業機械（INAGRITECH）、パーム油（INAPALM）、農薬・肥料（INAGRICHEM）、製糖機械（SugarMach Indonesia）、ポンプ・バルブ（Pump & Valve Indonesia）、塗料（INACOATING）、食品製造（Food Manufacturing Indonesia）、試験・分析（INALAB）、化学（Chemical Indonesia）、医薬（INAPHARM）、鉄道（RailwayTech Indonesia）の各展が同じJIExpoで同時に開かれる。1回の来場で関連する分野をまとめて回れるのが、GEM Indonesiaの合同展の特徴だ。",
+    "主催のGEM Indonesia（PT Global Expo Management）は、2009年に設立されたジャカルタの展示会会社で、テーマ別の専門展をまとめて同じ会期に開く形をとっている。"
+   ],
    "url": "https://www.pump-valve-indonesia.net/",
    "source": "https://gem-indonesia.net/upcoming-events/agriculture-sub-events-list/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "GEM Indonesia",
+     "title": "Agriculture Sub Events List",
+     "url": "https://gem-indonesia.net/upcoming-events/agriculture-sub-events-list/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "INAPA 公式サイト",
+     "title": "INAPA 2027",
+     "url": "https://inapa-exhibition.net/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "indonesia-railwaytech-indonesia-2027",
@@ -1205,11 +2756,32 @@
    "end": "2027-07-29",
    "field": "物流・運輸",
    "organizer": "PT Global Expo Management（GEM Indonesia）",
+   "edition": "第10回",
    "note": "鉄道技術・設備。7月の GEM 合同展の一つ",
+   "lead": "鉄道技術・設備を扱うインドネシアの専門展。第10回となる2027年の会期はジャカルタのJIExpo（ジャカルタ国際展示場）で、GEM Indonesiaが主催する。",
+   "overview": [
+    "正式名称は「The 10th Indonesia International Railway Technology, Equipment, Systems & Services Exhibition」。鉄道の技術、車両・設備、システム、サービスを扱う。",
+    "7月の会期には、農業機械（INAGRITECH）、パーム油（INAPALM）、農薬・肥料（INAGRICHEM）、製糖機械（SugarMach Indonesia）、ポンプ・バルブ（Pump & Valve Indonesia）、塗料（INACOATING）、食品製造（Food Manufacturing Indonesia）、試験・分析（INALAB）、化学（Chemical Indonesia）、医薬（INAPHARM）、鉄道（RailwayTech Indonesia）の各展が同じJIExpoで同時に開かれる。1回の来場で関連する分野をまとめて回れるのが、GEM Indonesiaの合同展の特徴だ。",
+    "主催のGEM Indonesia（PT Global Expo Management）は、2009年に設立されたジャカルタの展示会会社で、テーマ別の専門展をまとめて同じ会期に開く形をとっている。"
+   ],
    "url": "https://www.railwaytech-indonesia.com/",
    "source": "https://gem-indonesia.net/upcoming-events/maritime-logistic-sub-events-list/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "GEM Indonesia",
+     "title": "Maritime & Logistic Sub Events List",
+     "url": "https://gem-indonesia.net/upcoming-events/maritime-logistic-sub-events-list/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "INAPA 公式サイト",
+     "title": "INAPA 2027",
+     "url": "https://inapa-exhibition.net/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "indonesia-sugarmach-indonesia-2027",
@@ -1221,11 +2793,32 @@
    "end": "2027-07-29",
    "field": "農業・畜産",
    "organizer": "PT Global Expo Management（GEM Indonesia）",
+   "edition": "第9回",
    "note": "製糖機械・加工技術。7月の GEM 合同展の一つ",
+   "lead": "製糖の機械・加工技術を扱うインドネシアの専門展。第9回となる2027年の会期はジャカルタのJIExpo（ジャカルタ国際展示場）で、GEM Indonesiaが主催する。",
+   "overview": [
+    "正式名称は「The 9th Indonesia International Sugar Machinery, Equipment, Processing & Technology Exhibition」。製糖工場の機械、設備、加工技術を扱う。",
+    "7月の会期には、農業機械（INAGRITECH）、パーム油（INAPALM）、農薬・肥料（INAGRICHEM）、製糖機械（SugarMach Indonesia）、ポンプ・バルブ（Pump & Valve Indonesia）、塗料（INACOATING）、食品製造（Food Manufacturing Indonesia）、試験・分析（INALAB）、化学（Chemical Indonesia）、医薬（INAPHARM）、鉄道（RailwayTech Indonesia）の各展が同じJIExpoで同時に開かれる。1回の来場で関連する分野をまとめて回れるのが、GEM Indonesiaの合同展の特徴だ。",
+    "主催のGEM Indonesia（PT Global Expo Management）は、2009年に設立されたジャカルタの展示会会社で、テーマ別の専門展をまとめて同じ会期に開く形をとっている。"
+   ],
    "url": "https://www.sugarmach-indonesia.net/",
    "source": "https://gem-indonesia.net/upcoming-events/agriculture-sub-events-list/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "GEM Indonesia",
+     "title": "Agriculture Sub Events List",
+     "url": "https://gem-indonesia.net/upcoming-events/agriculture-sub-events-list/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "INAPA 公式サイト",
+     "title": "INAPA 2027",
+     "url": "https://inapa-exhibition.net/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "indonesia-indo-garment-textile-expo-2027",
@@ -1237,11 +2830,31 @@
    "end": "2027-08-06",
    "field": "生活用品・繊維・美容",
    "organizer": "Krista Exhibitions",
+   "edition": "第14回",
    "note": "縫製・繊維の機械と材料",
+   "lead": "縫製・繊維の製造機械と材料の国際展示会。Krista Exhibitionsが主催し、第14回となる2027年は8月4〜6日にジャカルタのJIExpoで開かれる。",
+   "overview": [
+    "公式サイトの説明は「The 14th International Exhibition on Garments and Textiles Manufacturing, Equipment」。縫製・繊維の製造設備と材料を扱う。",
+    "同じ会期・会場で、皮革・履物のIndo Leather & Footwear Expoも開かれる。"
+   ],
    "url": "https://indogartexexpo.com/",
    "source": "https://www.kristamedia.com/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "Indo Garment & Textile 公式サイト",
+     "title": "IGT - Indo Garment and Textile",
+     "url": "https://indogartexexpo.com/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "Krista Exhibitions",
+     "title": "Exhibitions",
+     "url": "https://www.kristamedia.com/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "indonesia-indo-leather-footwear-expo-2027",
@@ -1253,11 +2866,38 @@
    "end": "2027-08-06",
    "field": "生活用品・繊維・美容",
    "organizer": "Krista Exhibitions",
+   "edition": "第20回",
    "note": "皮革・履物の製造技術と材料",
+   "lead": "皮革・履物の製品、機械、製造技術の国際展示会。Krista Exhibitionsが主催し、第20回となる2027年は8月4〜6日にジャカルタのJIExpoで開かれる。",
+   "admission": "Kristaの来場登録ページで事前登録できる。開場は9:30〜18:00。",
+   "overview": [
+    "公式サイトの説明は「The 20th International Exhibition on Leather and Footwear Products, Machinery, Manufacturing」。靴・皮革の製造に関わる機械、材料、製品を扱う。",
+    "同じ会期・会場で、縫製・繊維のIndo Garment & Textile Expoも開かれる。"
+   ],
    "url": "https://indoleatherfootwear.com/",
    "source": "https://www.kristamedia.com/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "Indo Leather & Footwear 公式サイト",
+     "title": "ILF - Indo Leather and Footwear",
+     "url": "https://indoleatherfootwear.com/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "Krista Exhibitions",
+     "title": "Visitor Registration INDO LEATHER AND FOOTWEAR EXPO 2027",
+     "url": "https://register.kristaonline.com/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "Krista Exhibitions",
+     "title": "Exhibitions",
+     "url": "https://www.kristamedia.com/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "malaysia-mihas-2027",
@@ -1268,11 +2908,25 @@
    "start": "2027-08-04",
    "end": "2027-08-07",
    "field": "食品・飲料",
+   "organizer": "MATRADE（マレーシア貿易開発公社）",
    "note": "ハラール製品・サービスの国際見本市",
+   "lead": "ハラール製品・サービスの国際見本市（MIHAS）。マレーシア貿易開発公社（MATRADE）が主催し、2027年は8月4〜7日にクアラルンプールのMITECで開かれる。",
+   "overview": [
+    "食品にとどまらず、ハラール経済の幅広い分野を扱う。2026年は14の分野別の区画（クラスター）を設け、MATRADEは出展者を対象にした賞も設けた。",
+    "日本企業にとっては、イスラム圏向けの商品開発や認証の情報を得る場にもなる。"
+   ],
    "url": "https://www.mihas.com.my/",
    "source": "https://www.mihas.com.my/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "MIHAS 公式サイト",
+     "title": "MIHAS - Malaysia International Halal Showcase",
+     "url": "https://www.mihas.com.my/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "thailand-tilog-logistix-2027",
@@ -1284,10 +2938,23 @@
    "end": "2027-08-27",
    "field": "物流・運輸",
    "note": "物流・サプライチェーン",
+   "lead": "物流・サプライチェーンの技術展。2027年は8月25〜27日にバンコクのBITECで開かれる。",
+   "admission": "公式サイトで来場を事前登録すると、オンラインで商談を予約できる。",
+   "overview": [
+    "物流技術を総合的に扱う展示会。来場の事前登録をすると、オンラインで出展企業との商談を予約できる仕組みがある（公式サイト）。"
+   ],
    "url": "https://www.tilog-logistix.com/",
    "source": "https://www.tilog-logistix.com/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "TILOG-LOGISTIX 公式サイト",
+     "title": "TILOG – LOGISTIX",
+     "url": "https://www.tilog-logistix.com/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "thailand-thailand-lab-international-2027",
@@ -1299,10 +2966,22 @@
    "end": "2027-09-03",
    "field": "化学・素材",
    "note": "試験・分析・研究機器",
+   "lead": "試験・分析・研究機器の展示会。2027年は9月1〜3日にバンコクのBITECで開かれる。",
+   "overview": [
+    "公式サイトはアジアの主要な研究所向け展示会と紹介する。毎年開かれ、バイオ産業のBio Asia Pacificを同時に開く。"
+   ],
    "url": "https://www.thailandlab.com/",
    "source": "https://www.thailandlab.com/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "Thailand LAB INTERNATIONAL 公式サイト",
+     "title": "Thailand LAB INTERNATIONAL 2027",
+     "url": "https://thailandlab.com/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "singapore-innotrans-asia-2027",
@@ -1313,10 +2992,30 @@
    "start": "2027-09-07",
    "end": "2027-09-09",
    "field": "物流・運輸",
+   "edition": "初回",
    "note": "鉄道技術・公共交通",
-   "source": "https://www.jetro.go.jp/en/database/j-messe/tradefair/detail/158519",
-   "sourceType": "jmesse",
-   "checked": "2026-11-22"
+   "lead": "鉄道・公共交通の技術見本市。ベルリンのInnoTransのアジア版として初めて開かれ、2027年は9月7〜9日にシンガポール・エキスポで開かれる。",
+   "overview": [
+    "公式サイトは、世界有数の交通技術の見本市InnoTransに新しく加わるアジアの見本市と紹介する。鉄道車両、インフラ、公共交通のシステムを扱う。"
+   ],
+   "url": "https://www.innotrans-asia.com",
+   "source": "https://www.innotrans-asia.com",
+   "sourceType": "organizer",
+   "sources": [
+    {
+     "name": "InnoTrans Asia 公式サイト",
+     "title": "InnoTrans Asia",
+     "url": "https://www.innotrans-asia.com",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "JETRO J-messe",
+     "title": "InnoTrans Asia",
+     "url": "https://www.jetro.go.jp/en/database/j-messe/tradefair/detail/158519",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "thailand-medical-fair-thailand-2027",
@@ -1327,11 +3026,25 @@
    "start": "2027-09-08",
    "end": "2027-09-10",
    "field": "医療・医薬",
+   "organizer": "Messe Düsseldorf Asia",
+   "edition": "第12回",
    "note": "医療機器・病院設備（メッセ・デュッセルドルフ・アジア）",
+   "lead": "医療機器・病院設備の国際展示会。第12回となる2027年は9月8〜10日にバンコクのBITECで開かれる。",
+   "overview": [
+    "メッセ・デュッセルドルフ・アジアが主催する、タイの主要な医療・ヘルスケアの展示会。公式サイトで出展者リストを公開している。"
+   ],
    "url": "https://www.medicalfair-thailand.com/",
    "source": "https://www.medicalfair-thailand.com/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "MEDICAL FAIR THAILAND 公式サイト",
+     "title": "MEDICAL FAIR THAILAND 2027",
+     "url": "https://www.medicalfair-thailand.com/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "thailand-wire-southeast-asia-2027",
@@ -1342,11 +3055,24 @@
    "start": "2027-09-15",
    "end": "2027-09-17",
    "field": "製造・機械",
+   "organizer": "Messe Düsseldorf Asia",
    "note": "線材・ケーブル。Tube、GIFA（鋳造）、METEC（冶金）の各 Southeast Asia を併催",
+   "lead": "線材・ケーブル・管の国際展示会。2027年は9月15〜17日にバンコクのBITECで開かれる。",
+   "overview": [
+    "ドイツのwire・Tubeの東南アジア版。管材のTube Southeast Asiaと同時に開き、鋳造（GIFA）と冶金（METEC）の東南アジア版も併催する。主催はメッセ・デュッセルドルフ・アジア。"
+   ],
    "url": "https://www.wire-southeastasia.com/",
    "source": "https://www.wire-southeastasia.com/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "wire Southeast Asia 公式サイト",
+     "title": "wire SOUTHEAST ASIA 2027",
+     "url": "https://www.wire-southeastasia.com/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "malaysia-vitafoods-asia-2027",
@@ -1358,10 +3084,28 @@
    "end": "2027-09-23",
    "field": "食品・飲料",
    "note": "健康食品・栄養補助食品の原料",
+   "lead": "健康食品・栄養補助食品の原料の展示会。2027年からクアラルンプールに会場を移し、9月21〜23日にMITECで開かれる。",
+   "overview": [
+    "ニュートラシューティカル（栄養補助食品）業界の原料・製造・ブランドの企業が集まる。主催者は2026年8月、2027年からクアラルンプールで開くと発表した。"
+   ],
    "url": "https://www.vitafoodsasia.com/en/home.html",
    "source": "https://www.vitafoodsasia.com/en/home.html",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "Vitafoods Asia 公式サイト",
+     "title": "Vitafoods Asia 2027",
+     "url": "https://www.vitafoodsasia.com/en/home.html",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "ANTARA（PRNewswire）",
+     "title": "Vitafoods Asia Announces Strategic Move to Kuala Lumpur for 2027（2026年8月10日）",
+     "url": "https://en.antaranews.com/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "vietnam-food-hospitality-hanoi-2027",
@@ -1373,10 +3117,23 @@
    "end": "2027-09-23",
    "field": "食品・飲料",
    "note": "食品・飲料・ホテル外食（ハノイ）",
+   "lead": "ベトナム北部の食品・飲料とホテル・外食の国際展示会。2027年は9月21〜23日にハノイのVEC（ベトナム国家展示センター）で開かれる。",
+   "overview": [
+    "公式サイトは北部で主要な、F&B・レストラン・ホテルの国際展示会と紹介している。",
+    "南部ではFood & Hospitality Vietnamが3月にホーチミンで開かれる。"
+   ],
    "url": "https://www.foodnhospitalityhanoi.com/",
    "source": "https://www.foodnhospitalityhanoi.com/trang-chu-en/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "Food & Hospitality Hanoi 公式サイト",
+     "title": "Food & Hospitality Hanoi",
+     "url": "https://www.foodnhospitalityhanoi.com/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "philippines-packprintplas-philippines-2027",
@@ -1387,11 +3144,24 @@
    "start": "2027-10-07",
    "end": "2027-10-09",
    "field": "印刷・包装",
+   "organizer": "Global-Link MP Events International、Messe Düsseldorf Asia",
    "note": "包装・印刷・プラスチック",
+   "lead": "包装・印刷・プラスチックの展示会。2027年は10月7〜9日にマニラ（パサイ）のSMXコンベンションセンターで開かれる。",
+   "overview": [
+    "Global-Link MP Events InternationalとMesse Düsseldorf Asiaが共催する（公式サイト）。互いに関連する包装、印刷、プラスチックの3産業をまとめて扱う。"
+   ],
    "url": "https://www.packprintplasphilippines.com/",
    "source": "https://www.packprintplasphilippines.com/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "PackPrintPlas Philippines 公式サイト",
+     "title": "PackPrintPlas Philippines",
+     "url": "https://packprintplasphilippines.com/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "indonesia-allpack-indonesia-2027",
@@ -1403,11 +3173,31 @@
    "end": "2027-10-15",
    "field": "印刷・包装",
    "organizer": "Krista Exhibitions",
+   "edition": "第26回",
    "note": "加工・包装・充填の機械と材料",
+   "lead": "食品・飲料などの加工・包装・自動化・搬送の国際展示会。Krista Exhibitionsが主催し、第26回となる2027年は10月12〜15日にジャカルタのJIExpoで開かれる。",
+   "overview": [
+    "公式サイトの説明は「The 26th International Exhibition on Processing, Packaging, Automation, Handling for Food」。食品などの加工機械、包装機械・資材、充填、自動化、マテリアルハンドリングを扱う。",
+    "印刷のALLPRINT Indonesiaも同じ月にJIExpoで開かれる（10月20〜23日）。"
+   ],
    "url": "https://allpack-indonesia.com/",
    "source": "https://www.kristamedia.com/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "ALLPACK Indonesia 公式サイト",
+     "title": "ALLPacK INDONESIA",
+     "url": "https://allpack-indonesia.com/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "Krista Exhibitions",
+     "title": "Exhibitions",
+     "url": "https://www.kristamedia.com/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "indonesia-allprint-indonesia-2027",
@@ -1419,11 +3209,31 @@
    "end": "2027-10-23",
    "field": "印刷・包装",
    "organizer": "Krista Exhibitions",
+   "edition": "第28回",
    "note": "印刷機械・資材",
+   "lead": "印刷の機械・資材・ソリューションの国際展示会。Krista Exhibitionsが主催し、第28回となる2027年は10月20〜23日にジャカルタのJIExpoで開かれる。",
+   "overview": [
+    "公式サイトの説明は「The 28th International Exhibition on Total Solution for Printing」。印刷機械、資材、関連ソリューションを扱う。",
+    "包装のALLPACK Indonesiaが直前の10月12〜15日に同じJIExpoで開かれる。"
+   ],
    "url": "https://allprint.co.id",
    "source": "https://www.kristamedia.com/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "ALLPRINT Indonesia 公式サイト",
+     "title": "ALLPRINT INDONESIA",
+     "url": "https://allprint.co.id",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "Krista Exhibitions",
+     "title": "Exhibitions",
+     "url": "https://www.kristamedia.com/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "thailand-in-cosmetics-asia-2027",
@@ -1435,10 +3245,22 @@
    "end": "2027-11-04",
    "field": "生活用品・繊維・美容",
    "note": "化粧品の原料・処方",
+   "lead": "化粧品・パーソナルケア原料の展示会。2027年は11月2〜4日にバンコクのBITECで開かれる。",
+   "overview": [
+    "公式サイトはアジア太平洋のパーソナルケア・化粧品原料の主要な展示会と紹介する。原料メーカーと化粧品の処方・開発の担当者が主な対象となる。"
+   ],
    "url": "https://www.in-cosmetics.com/asia/en-gb.html",
    "source": "https://www.in-cosmetics.com/asia/en-gb.html",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "in-cosmetics Asia 公式サイト",
+     "title": "in-cosmetics Asia",
+     "url": "https://www.in-cosmetics.com/asia/en-gb.html",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "indonesia-krista-interfood-2027",
@@ -1451,10 +3273,37 @@
    "field": "食品・飲料",
    "organizer": "Krista Exhibitions",
    "note": "食品・飲料と関連機器",
+   "lead": "食品・飲料と関連機器の国際展示会。Krista Exhibitionsが主催し、2027年は11月3〜6日にタンゲラン（バンテン州）のNICE（PIK2）で開かれる。",
+   "previous": "2026年11月4〜7日、NICE（PIK2）",
+   "admission": "開場は10:00〜19:00。当日の来場登録は9:00から受け付ける。",
+   "overview": [
+    "食品・飲料の製品と、その製造・加工の機器を扱う。公式サイトは冷凍食品、水産物、食肉製品も対象に挙げる。",
+    "2026年も11月4〜7日に同じNICE（PIK2）で開かれた。"
+   ],
    "url": "https://kristainterfood.com",
    "source": "https://www.kristamedia.com/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "Krista Interfood 公式サイト",
+     "title": "KRISTA INTERFOOD",
+     "url": "https://kristainterfood.com",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "Krista Exhibitions",
+     "title": "KRISTA INTERFOOD 2027（来場者向け）",
+     "url": "https://kristamedia.com/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "Krista Exhibitions",
+     "title": "Visitor Registration KRISTA INTERFOOD",
+     "url": "https://register2.kristaonline.com/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "singapore-singapore-airshow-2028",
@@ -1466,10 +3315,22 @@
    "end": "2028-02-20",
    "field": "物流・運輸",
    "note": "航空宇宙・防衛",
+   "lead": "アジアを代表する航空宇宙・防衛の展示会。隔年開催で、2028年は2月15〜20日にチャンギ・エキシビションセンターで開かれる。",
+   "overview": [
+    "公式サイトはシンガポール航空ショーを、アジアで最も影響力のある航空宇宙の催事の一つと紹介する。"
+   ],
    "url": "https://www.singaporeairshow.com/",
    "source": "https://www.singaporeairshow.com/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "Singapore Airshow 公式サイト",
+     "title": "Singapore Airshow",
+     "url": "https://www.singaporeairshow.com/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "singapore-asia-pacific-maritime-2028",
@@ -1480,11 +3341,24 @@
    "start": "2028-03-22",
    "end": "2028-03-24",
    "field": "物流・運輸",
+   "organizer": "RX",
    "note": "造船・海洋・舶用機器",
+   "lead": "造船・海洋・舶用機器の展示会（APM）。RXが主催し、2028年は3月22〜24日にシンガポールのマリーナベイ・サンズ（Hall A〜F）で開かれる。",
+   "overview": [
+    "公式サイトは41か国・地域からの出展を掲げる。東南アジアの海運の移行（脱炭素）を後押しするため、電動・ハイブリッド動力の区画を新しく設ける。"
+   ],
    "url": "https://www.apmaritime.com/",
-   "source": "https://www.apmaritime.com/",
+   "source": "https://www.apmaritime.com",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "Asia Pacific Maritime 公式サイト",
+     "title": "Asia Pacific Maritime",
+     "url": "https://www.apmaritime.com",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   },
   {
    "id": "indonesia-busworld-south-east-asia-2028",
@@ -1497,10 +3371,29 @@
    "field": "自動車・部品",
    "organizer": "PT Global Expo Management（GEM Indonesia）",
    "note": "バス産業の国際見本市",
+   "lead": "バスとコーチ（長距離バス）に絞ったB2B展示会。Busworldの東南アジア版で、2028年5月にジャカルタのJIExpoで開かれる。",
+   "overview": [
+    "公式サイトは、Busworld Southeast Asia（ジャカルタ）を「この地域で唯一のバス・コーチ専門のB2B展示会」と紹介している。GEM Indonesiaの催事一覧では「Indonesia International Bus Exhibition」として2028年5月20〜22日の日程が出ている。",
+    "主催のGEM Indonesia（PT Global Expo Management）は、2009年に設立されたジャカルタの展示会会社で、テーマ別の専門展をまとめて同じ会期に開く形をとっている。"
+   ],
    "url": "https://www.busworldsoutheastasia.org/",
    "source": "https://gem-indonesia.net/upcoming-events/automotive-industry-sub-events-list/",
    "sourceType": "organizer",
-   "checked": "2026-11-22"
+   "sources": [
+    {
+     "name": "Busworld Southeast Asia 公式サイト",
+     "title": "Busworld Southeast Asia",
+     "url": "https://www.busworldsoutheastasia.org/",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "GEM Indonesia",
+     "title": "Automotive Industry Sub Events List",
+     "url": "https://gem-indonesia.net/upcoming-events/automotive-industry-sub-events-list/",
+     "date": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24"
   }
  ]
 }
