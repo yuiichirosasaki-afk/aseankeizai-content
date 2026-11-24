@@ -1,7 +1,178 @@
 {
-  "generatedAt": "2026-11-24T14:20:14+09:00",
+  "generatedAt": "2026-11-24T18:19:08+09:00",
   "site": "東南アジア経済新聞",
   "articles": [
+    {
+      "slug": "vietnam-hanoi-cptpp-commission-11th-nov-27-eu-asean-dialogue",
+      "title": "ハノイでCPTPP会合、27日に第11回委員会 EU・ASEANとの対話も開催",
+      "country": "ベトナム",
+      "category": "貿易・物流",
+      "articleType": "news",
+      "lead": "ベトナムは11月23〜27日、議長国としてハノイでCPTPPの高級実務者会合と閣僚級の会合を続けて開く。26日にEUおよびASEANとの対話とビジネス・フォーラムがあり、27日に第11回委員会が開かれる。日本を含む加盟国の通商政策の動きとして注目される。",
+      "summaryHtml": "<ul><li>ベトナム商工省によると、CPTPPの会合群は11月23〜27日にハノイで開かれる。23〜25日は第5回高級実務者会合（SOM5）である。</li><li>26日にCPTPP・EU閣僚対話（現地時間8時30分〜）、CPTPP・ASEAN対話（11時〜）、CPTPP・ASEAN・EUビジネス・フォーラム（15時30分〜）が予定されている。</li><li>27日の第11回CPTPP委員会は9時から12時まで。15時から閣僚の記者会見がある。</li><li>ベトナムは2026年の議長国で、テーマは『共通のビジョン、共通の行動』である。</li></ul>",
+      "bodyHtml": "<h3>5日間の日程</h3><p>ベトナム通信社系のVietnamPlus（11月23日付）は、商工省の外国市場開発・多国間通商局の情報として、ハノイでの会合の日程を伝えた。23〜25日は第5回高級実務者会合（SOM5）である。26日は、CPTPP・EU貿易投資閣僚対話が現地時間8時30分から10時、CPTPP・ASEAN対話が11時から13時、CPTPP・ASEAN・EUビジネス・フォーラムが15時30分から17時30分に開かれる。27日は第11回CPTPP委員会が9時から12時まで、閣僚の記者会見が15時から15時45分まで行われる。報道は、出席する閣僚や議長の名前、個別の議題を挙げていない。</p><p>CPTPPは加盟12か国の協定で、2018年3月8日に署名され、ベトナムでは2019年1月14日に発効した。ベトナムは2026年の議長国で、会合のテーマを『共通のビジョン、共通の行動』としている。報道によれば、2025年に始めたEUやASEANとの連携の枠組みを土台に、政策対話から企業に成果が届く具体的な行動への移行を目指す。6月26日の第10回委員会では、コスタリカの加入交渉の実質的な妥結が宣言され、拡大・実施・協力に関する声明と、エネルギー安全保障に関する声明の2本が採択された。</p><h3>ビジネス・フォーラムの暫定日程</h3><p>26日のフォーラムは、ハノイ市内のフェアモント・ホテルで開かれ、商工省が主催する。暫定日程（PDF）によると、参加は約250人を見込む。商工相の基調講演のあと、企業経営者の提言、閣僚と経営者の対話、『ハノイ・ビジネス提言2026』の発表と続く。旗艦となる官民連携の事例を3〜5件紹介し、閉会で『ハノイ・ビジネス行動パッケージ2026』を発表する予定である。同資料は、これらの提言が政府間で交渉した成果ではなく、CPTPPに義務を生じさせないと明記している。日程は暫定で、講演者の名前は示されていない。</p><h3>背景と注目点</h3><p>商工省の2025年12月15日付の記事によれば、CPTPPとASEANの初の貿易投資対話は2025年11月20日にメルボルンで開かれた。ASEAN加盟国のうちCPTPP加盟はブルネイ、マレーシア、シンガポール、ベトナムの4か国で、加入を希望する4か国にはフィリピンとインドネシアが含まれ、2026年に必要に応じて加入手続きを始めるとされていた。2025年の第9回委員会の出席国には日本も含まれていた。</p><p>今回の会合で、加入手続きの具体的な進展が示されるかは、現時点の報道からは分からない。ASEANに進出する日系企業にとっては、EUやASEANとのサプライチェーン連携が話題になるため、27日の委員会後に出る閣僚声明や記者会見の内容が注目される。</p>",
+      "dataFigure": "12か国",
+      "dataLabel": "CPTPPの加盟国数（2026年はベトナムが議長国）",
+      "dataSource": "VietnamPlus（ベトナム通信社）、2026年11月23日",
+      "sources": [
+        {
+          "name": "VietnamPlus",
+          "title": "Vietnam stages November 23-27 run of CPTPP gatherings",
+          "url": "https://en.vietnamplus.vn/vietnam-stages-november-23-27-run-of-cptpp-gatherings-post355975.vnp",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "trungtamwto.vn（暫定日程PDF）",
+          "title": "CPTPP-ASEAN-EU Business Forum 2026 tentative agenda",
+          "url": "https://trungtamwto.vn/download/24542/for-business-2026.10.30-tentative-agenda-cptpp-asean-eu-business-forum-final.pdf",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "ベトナム商工省（VNTR）",
+          "title": "CPTPP – ASEAN: Building Bridges for Economic and Trade Cooperation",
+          "url": "https://vntr.moit.gov.vn/news/cptpp-asean-building-bridges-for-economic-and-trade-cooperation-strengthening-confidence-amid-global-uncertainty",
+          "date": "2025-12-15"
+        }
+      ],
+      "seoTitle": "ハノイでCPTPP会合 27日に第11回委員会",
+      "seoDescription": "ベトナムが議長国としてハノイで11月23〜27日にCPTPP会合を開催。26日にEU・ASEANとの対話とビジネス・フォーラム、27日に第11回委員会を開く。",
+      "tags": [
+        "CPTPP",
+        "ベトナム商工省",
+        "ハノイ",
+        "EU",
+        "ASEAN",
+        "コスタリカ",
+        "ビジネス・フォーラム"
+      ],
+      "publishAt": "2026-11-24T20:00:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/vietnam-hanoi-cptpp-commission-11th-nov-27-eu-asean-dialogue.png"
+    },
+    {
+      "slug": "singapore-china-mas-rmb-facility-corporate-liquidity-collateral-jcbc-22",
+      "title": "シンガポールと中国、人民元融資枠を二分し担保を拡大 MASが新施策を発表",
+      "country": "シンガポール",
+      "category": "金融・市場",
+      "articleType": "news",
+      "lead": "シンガポール通貨庁（MAS）は11月23日、中国との金融協力の新施策を発表した。中国人民銀行との通貨スワップを裏づけとする人民元ファシリティを法人向けと流動性向けに分け、担保も広げる。第22回合同協議会（JCBC）の成果の一つで、人民元取引の拠点としての機能強化とみられる。",
+      "summaryHtml": "<ul><li>MASは中国人民銀行（PBC）との通貨スワップを裏づけとする『MAS人民元ファシリティ』を、法人向けと流動性向けの二つに分けると発表した。</li><li>法人向けは第三国との貿易金融、運転資金、設備投資に使え、期間は1・3・6か月。流動性向けは人民元の補完的な調達手段を従来どおり提供する。</li><li>担保はシンガポール・ドルの現金に加え、シンガポール国債とMAS債を受け入れる。中国国債の受け入れも検討する。</li><li>決済網の連携、証券・ETF、銀行・保険の規制協力でも新たな取り組みを示した。金額は示されていない。</li></ul>",
+      "bodyHtml": "<h3>人民元ファシリティを二分、担保も拡大</h3><p>MASの発表（11月23日付）によると、MASとPBC（中国人民銀行）は、両者の通貨スワップを裏づけとする『MAS人民元ファシリティ』を強化し、二つに分ける。一つは法人向けの『人民元コーポレート・ファシリティ』で、人民元建ての貿易と資金調達を支える。対象の金融機関は、第三国との貿易金融、運転資金、設備投資など、より広い用途で利用でき、グループ内の資金融通にも使える。期間は1か月、3か月、6か月から選べる。もう一つの『人民元流動性ファシリティ』は、対象の金融機関にシンガポール市場での人民元の補完的な調達手段を提供し、オフショア人民元市場の安定を支える。</p><p>担保について、MASは両ファシリティで、シンガポール・ドルの現金に加え、シンガポール国債（SGS）とMAS債を受け入れる。MASとPBCは、中国国債（CGB）を担保に認めることも検討している。発表には融資枠の総額や適用開始日が書かれていない。</p><h3>従来制度との比較</h3><p>MASの同ファシリティのページ（2019年3月更新）は、貿易目的の期間を3か月（更改可）、市場安定目的を1週間または1か月と記している。新しい法人向けの期間に6か月が加わる点と、用途に運転資金や設備投資が明記された点が違いとして読み取れる。ただしこのページは2019年の更新で、その後の運用変更を反映していない可能性があり、新旧の差の全体像は、MASの運用細則の公表を待つ必要がある。2025年12月の第21回JCBC（重慶）に合わせたMASの発表は、DBS銀行を第2の人民元決済銀行に指定するなどの施策を示したが、このファシリティには触れていなかった。</p><h3>決済・市場・規制でも連携</h3><p>発表は、このほかの取り組みも並べた。MASとPBCは、少額送金向けの即時決済システム（ファスト・ペイメント）の連携を検討する。MASと中国証券監督管理委員会（CSRC）は、双方の市場での上場と資金調達を支え、シンガポール取引所（SGX）と上海・深圳の両取引所による新たな指数とETFも後押しする。MASと国家金融監督管理総局は、銀行・保険の監督で定期的な意見交換と研修を進める。</p><p>民間の動きとして、DBS銀行は人民元決済銀行としての決済サービスを始めた。中国銀行（BOC）シンガポール支店はMASのプライマリー・ディーラーに加わった。BOCとDBSは、中国本土の人民元建て債券の取引・保管で顧客の受け入れを始めた。SGXと中国外貨取引センター（CFETS）はパンダ債の上場で協力する。中国工商銀行（ICBC）シンガポール支店とCGSインターナショナル証券は、『一帯一路』債券指数連動のETFをSGXに上場した。MASのチー・ホンタット副会長（国家開発相）は、市場の接続で目に見える進展があったとの認識を示した。</p><h3>日系企業への含み</h3><p>シンガポールで中国向けの貿易や投資を手がける日系企業や日系銀行にとって、人民元の調達先と担保の選択肢が増える可能性がある。ただし利用できるのは対象の金融機関に限られ、具体的な条件はまだ示されていない。中国国債の担保受け入れが実現するかも含め、運用細則と開始時期が注目される。</p>",
+      "dataFigure": "6か月",
+      "dataLabel": "新設の法人向け人民元ファシリティの最長期間（1・3・6か月）",
+      "dataSource": "シンガポール通貨庁（MAS）、2026年11月23日",
+      "sources": [
+        {
+          "name": "シンガポール通貨庁（MAS）",
+          "title": "Singapore and China Strengthen Financial Cooperation with New RMB Initiatives",
+          "url": "https://www.mas.gov.sg/news/media-releases/2026/singapore-and-china-strengthen-financial-cooperation-with-new-rmb-initiatives",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "シンガポール通貨庁（MAS）",
+          "title": "Singapore and China Deepen Financial Cooperation through New RMB and Capital Market Initiatives",
+          "url": "https://www.mas.gov.sg/news/media-releases/2025/singapore-and-china-deepen-financial-cooperation-through-new-rmb-and-capital-market-initiatives",
+          "date": "2025-12-15"
+        },
+        {
+          "name": "シンガポール通貨庁（MAS）",
+          "title": "MAS RMB Facility",
+          "url": "https://www.mas.gov.sg/monetary-policy/liquidity-facilities/mas-rmb-facility",
+          "date": "2019-03-15"
+        }
+      ],
+      "seoTitle": "MAS、中国との人民元ファシリティを二分し担保拡大",
+      "seoDescription": "シンガポール通貨庁が11月23日、中国人民銀行との人民元ファシリティを法人向けと流動性向けに分け、国債やMAS債も担保に加えると発表。決済網の連携も検討する。",
+      "tags": [
+        "シンガポール通貨庁",
+        "MAS",
+        "中国人民銀行",
+        "人民元",
+        "JCBC",
+        "SGX",
+        "DBS",
+        "パンダ債"
+      ],
+      "publishAt": "2026-11-24T19:30:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/singapore-china-mas-rmb-facility-corporate-liquidity-collateral-jcbc-22.png"
+    },
+    {
+      "slug": "indonesia-smbc-indonesia-btpn-go-private-delisting-trading-halt",
+      "title": "インドネシアのSMBC、上場廃止と非公開化を計画 株式売買は23日から停止",
+      "country": "インドネシア",
+      "category": "企業・産業",
+      "articleType": "news",
+      "lead": "インドネシアの上場銀行、バンクSMBCインドネシア（旧BTPN）が、非公開化と全株式の上場廃止を計画していると当局と取引所に届け出た。取引所は23日から同社株の売買を全市場で停止した。詳細は30日に開示される予定で、少数株主の扱いが焦点となる。",
+      "summaryHtml": "<ul><li>PT Bank SMBC Indonesia Tbk（旧BTPN）は、非公開化と全株式の上場廃止を臨時株主総会（RUPSLB）に諮る計画を、金融サービス庁（OJK）とインドネシア証券取引所（IDX）に届け出た。</li><li>IDXは11月23日の取引前から、同社株の売買を全市場で一時停止した。再開時期は取引所の追加発表待ちである。</li><li>会社は、手順や事業・財務への影響を、30日に予定するRUPSLBの公告と併せて開示するとしている。買い取り価格などは現時点で示されていない。</li><li>Infobankは、KSEIデータとして三井住友銀行の持ち株比率が91.05%と伝えた。高株式集中（HSC）委員会の調査では集中度は99.779%である。</li></ul>",
+      "bodyHtml": "<h3>届け出の内容と売買停止</h3><p>CNBCインドネシア（11月22日付）によると、PT Bank SMBC Indonesia Tbk（バンクSMBCインドネシア、旧PT Bank BTPN Tbk。以下SMBCインドネシア）は、上場会社から非公開会社へ地位を変える『ゴー・プライベート』と、全株式のIDX上場廃止について、臨時株主総会（RUPSLB）を開く計画をOJKとIDXに届け出た。Kontan（11月23日付）は、IDXの決定が、同社の11月20日付の書簡（番号S.102/CCS/XI/2026）による企業行動の開示を理由に挙げていると報じた。これを受け、IDXは23日の取引前から、同社株（BTPN）の売買を全市場で一時停止した。再開は取引所の追加発表による。</p><p>会社は、手順や、事業、法務、財務、事業継続への影響を、30日に予定するRUPSLBの公告と併せて開示すると説明している（CNBCインドネシア）。当面の報道には、少数株主から株式を買い取る場合の価格や方法、総会の開催日は含まれていない。CNBCインドネシアの見出しは総会が月末に開かれると読めるが、本文が示す30日は総会そのものではなく公告の予定日であり、開催日は確認できていない。会社は、手続きの間は関連規則を遵守するとしている。</p><h3>株主構成と少数株主の扱い</h3><p>金融専門誌Infobank（11月24日付）は、インドネシア中央証券保管機関（KSEI）のデータとして、持ち株比率を次のように伝えた。三井住友銀行（Sumitomo Mitsui Banking Corporation）が91.05%、UBS AG Londonが3.76%、Barclays Capital SecuritiesとCitigroup Global Marketsがそれぞれ1.88%、BCAが1.03%である。同誌は、IDXがすでに同社を高株式集中（HSC）区分に置いており、HSC委員会の調査による集中度は99.779%で、浮動株と流動性が極めて限られていると述べている。区分に置かれた時期は記事に示されていない。</p><p>少数株主への影響について、同誌は銀行ウォッチャーのパウル・スタリヨノ（Paul Sutaryono）氏の見方を紹介した。同氏は、発行体は要件を満たせば非公開化を選べるが、少数株主が資本市場で売却できなくなる点が主なリスクだと指摘した。OJKは要件が満たされなければ却下できる一方、恣意的には動けないとも述べた。同誌の見出しは『OJKは拒否すべきだ』だが、この主張は同誌の内部討論に参加した匿名の人物のもので、銀行の透明性や公衆による監督の観点から前例になると懸念する内容である。SMBCインドネシア、OJK、IDXのコメントは、今回確認した3本の報道には含まれていない。なお、非公開化の可否はOJKなどの審査や総会の議決を経て決まるもので、現時点で決まった事項はない。</p><h3>日系企業・投資家への含み</h3><p>日系の金融機関が約9割を持つ上場銀行が、実現すれば市場から退く。SMBCインドネシアの取引先である日系企業にとっては、直ちに業務が変わるとの発表はなく、影響は今後の開示を待つ必要がある。情報開示の頻度や形式が変わる可能性はあるが、現時点では推測の域を出ない。今後は、30日の開示で示される条件、OJKの審査、少数株主への対応が焦点になるとみられる。</p>",
+      "dataFigure": "91.05%",
+      "dataLabel": "三井住友銀行のSMBCインドネシア持ち株比率（KSEIデータ）",
+      "dataSource": "KSEIデータ（Infobank報道）、2026年11月24日",
+      "chart": {
+        "bars": [
+          {
+            "label": "三井住友",
+            "value": 91.05,
+            "display": "91.05%"
+          },
+          {
+            "label": "UBS",
+            "value": 3.76,
+            "display": "3.76%"
+          },
+          {
+            "label": "バークレイズ",
+            "value": 1.88,
+            "display": "1.88%"
+          },
+          {
+            "label": "シティ",
+            "value": 1.88,
+            "display": "1.88%"
+          },
+          {
+            "label": "BCA",
+            "value": 1.03,
+            "display": "1.03%"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "CNBCインドネシア",
+          "title": "SMBC Mau Go Private & Delisting, Gelar RUPSLB Akhir November",
+          "url": "https://www.cnbcindonesia.com/market/20261122101307-17-787268/smbc-mau-go-private-delisting-gelar-rupslb-akhir-november",
+          "date": "2026-11-22"
+        },
+        {
+          "name": "Kontan",
+          "title": "BEI Suspensi Saham BTPN, SMBC Indonesia Berencana Go Private",
+          "url": "https://investasi.kontan.co.id/news/bei-suspensi-saham-btpn-smbc-indonesia-berencana-go-private",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "Infobank",
+          "title": "OJK Harus Menolak Rencana Go Private SMBC Indonesia",
+          "url": "https://infobanknews.com/ojk-harus-menolak-rencana-go-private-smbc-indonesia",
+          "date": "2026-11-24"
+        }
+      ],
+      "seoTitle": "SMBCインドネシア、非公開化と上場廃止を計画",
+      "seoDescription": "バンクSMBCインドネシア（旧BTPN）が非公開化と全株式の上場廃止を計画し、IDXは23日から売買を停止。三井住友銀行の持ち株比率は91.05%、詳細は30日に開示予定。",
+      "tags": [
+        "SMBCインドネシア",
+        "BTPN",
+        "三井住友銀行",
+        "ゴー・プライベート",
+        "上場廃止",
+        "インドネシア証券取引所",
+        "OJK"
+      ],
+      "publishAt": "2026-11-24T19:00:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/indonesia-smbc-indonesia-btpn-go-private-delisting-trading-halt.png"
+    },
     {
       "slug": "malaysia-klci-nov-23-2026-close-1549-05-down-0-47-percent-utilities-tech-rebound",
       "title": "マレーシアKLCI、23日は0.47%安の1,549.05 ハイテク株は反発も公益株が重し",

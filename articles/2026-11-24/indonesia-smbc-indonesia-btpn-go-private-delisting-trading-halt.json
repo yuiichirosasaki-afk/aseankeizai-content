@@ -1,0 +1,76 @@
+{
+ "slug": "indonesia-smbc-indonesia-btpn-go-private-delisting-trading-halt",
+ "title": "インドネシアのSMBC、上場廃止と非公開化を計画 株式売買は23日から停止",
+ "country": "インドネシア",
+ "category": "企業・産業",
+ "articleType": "news",
+ "lead": "インドネシアの上場銀行、バンクSMBCインドネシア（旧BTPN）が、非公開化と全株式の上場廃止を計画していると当局と取引所に届け出た。取引所は23日から同社株の売買を全市場で停止した。詳細は30日に開示される予定で、少数株主の扱いが焦点となる。",
+ "summaryHtml": "<ul><li>PT Bank SMBC Indonesia Tbk（旧BTPN）は、非公開化と全株式の上場廃止を臨時株主総会（RUPSLB）に諮る計画を、金融サービス庁（OJK）とインドネシア証券取引所（IDX）に届け出た。</li><li>IDXは11月23日の取引前から、同社株の売買を全市場で一時停止した。再開時期は取引所の追加発表待ちである。</li><li>会社は、手順や事業・財務への影響を、30日に予定するRUPSLBの公告と併せて開示するとしている。買い取り価格などは現時点で示されていない。</li><li>Infobankは、KSEIデータとして三井住友銀行の持ち株比率が91.05%と伝えた。高株式集中（HSC）委員会の調査では集中度は99.779%である。</li></ul>",
+ "bodyHtml": "<h3>届け出の内容と売買停止</h3><p>CNBCインドネシア（11月22日付）によると、PT Bank SMBC Indonesia Tbk（バンクSMBCインドネシア、旧PT Bank BTPN Tbk。以下SMBCインドネシア）は、上場会社から非公開会社へ地位を変える『ゴー・プライベート』と、全株式のIDX上場廃止について、臨時株主総会（RUPSLB）を開く計画をOJKとIDXに届け出た。Kontan（11月23日付）は、IDXの決定が、同社の11月20日付の書簡（番号S.102/CCS/XI/2026）による企業行動の開示を理由に挙げていると報じた。これを受け、IDXは23日の取引前から、同社株（BTPN）の売買を全市場で一時停止した。再開は取引所の追加発表による。</p><p>会社は、手順や、事業、法務、財務、事業継続への影響を、30日に予定するRUPSLBの公告と併せて開示すると説明している（CNBCインドネシア）。当面の報道には、少数株主から株式を買い取る場合の価格や方法、総会の開催日は含まれていない。CNBCインドネシアの見出しは総会が月末に開かれると読めるが、本文が示す30日は総会そのものではなく公告の予定日であり、開催日は確認できていない。会社は、手続きの間は関連規則を遵守するとしている。</p><h3>株主構成と少数株主の扱い</h3><p>金融専門誌Infobank（11月24日付）は、インドネシア中央証券保管機関（KSEI）のデータとして、持ち株比率を次のように伝えた。三井住友銀行（Sumitomo Mitsui Banking Corporation）が91.05%、UBS AG Londonが3.76%、Barclays Capital SecuritiesとCitigroup Global Marketsがそれぞれ1.88%、BCAが1.03%である。同誌は、IDXがすでに同社を高株式集中（HSC）区分に置いており、HSC委員会の調査による集中度は99.779%で、浮動株と流動性が極めて限られていると述べている。区分に置かれた時期は記事に示されていない。</p><p>少数株主への影響について、同誌は銀行ウォッチャーのパウル・スタリヨノ（Paul Sutaryono）氏の見方を紹介した。同氏は、発行体は要件を満たせば非公開化を選べるが、少数株主が資本市場で売却できなくなる点が主なリスクだと指摘した。OJKは要件が満たされなければ却下できる一方、恣意的には動けないとも述べた。同誌の見出しは『OJKは拒否すべきだ』だが、この主張は同誌の内部討論に参加した匿名の人物のもので、銀行の透明性や公衆による監督の観点から前例になると懸念する内容である。SMBCインドネシア、OJK、IDXのコメントは、今回確認した3本の報道には含まれていない。なお、非公開化の可否はOJKなどの審査や総会の議決を経て決まるもので、現時点で決まった事項はない。</p><h3>日系企業・投資家への含み</h3><p>日系の金融機関が約9割を持つ上場銀行が、実現すれば市場から退く。SMBCインドネシアの取引先である日系企業にとっては、直ちに業務が変わるとの発表はなく、影響は今後の開示を待つ必要がある。情報開示の頻度や形式が変わる可能性はあるが、現時点では推測の域を出ない。今後は、30日の開示で示される条件、OJKの審査、少数株主への対応が焦点になるとみられる。</p>",
+ "dataFigure": "91.05%",
+ "dataLabel": "三井住友銀行のSMBCインドネシア持ち株比率（KSEIデータ）",
+ "dataSource": "KSEIデータ（Infobank報道）、2026年11月24日",
+ "chart": {
+  "bars": [
+   {
+    "label": "三井住友",
+    "value": 91.05,
+    "display": "91.05%"
+   },
+   {
+    "label": "UBS",
+    "value": 3.76,
+    "display": "3.76%"
+   },
+   {
+    "label": "バークレイズ",
+    "value": 1.88,
+    "display": "1.88%"
+   },
+   {
+    "label": "シティ",
+    "value": 1.88,
+    "display": "1.88%"
+   },
+   {
+    "label": "BCA",
+    "value": 1.03,
+    "display": "1.03%"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "name": "CNBCインドネシア",
+   "title": "SMBC Mau Go Private & Delisting, Gelar RUPSLB Akhir November",
+   "url": "https://www.cnbcindonesia.com/market/20261122101307-17-787268/smbc-mau-go-private-delisting-gelar-rupslb-akhir-november",
+   "date": "2026-11-22"
+  },
+  {
+   "name": "Kontan",
+   "title": "BEI Suspensi Saham BTPN, SMBC Indonesia Berencana Go Private",
+   "url": "https://investasi.kontan.co.id/news/bei-suspensi-saham-btpn-smbc-indonesia-berencana-go-private",
+   "date": "2026-11-23"
+  },
+  {
+   "name": "Infobank",
+   "title": "OJK Harus Menolak Rencana Go Private SMBC Indonesia",
+   "url": "https://infobanknews.com/ojk-harus-menolak-rencana-go-private-smbc-indonesia",
+   "date": "2026-11-24"
+  }
+ ],
+ "seoTitle": "SMBCインドネシア、非公開化と上場廃止を計画",
+ "seoDescription": "バンクSMBCインドネシア（旧BTPN）が非公開化と全株式の上場廃止を計画し、IDXは23日から売買を停止。三井住友銀行の持ち株比率は91.05%、詳細は30日に開示予定。",
+ "tags": [
+  "SMBCインドネシア",
+  "BTPN",
+  "三井住友銀行",
+  "ゴー・プライベート",
+  "上場廃止",
+  "インドネシア証券取引所",
+  "OJK"
+ ],
+ "publishAt": "2026-11-24T19:00:00+09:00",
+ "language": "ja",
+ "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/indonesia-smbc-indonesia-btpn-go-private-delisting-trading-halt.png"
+}
