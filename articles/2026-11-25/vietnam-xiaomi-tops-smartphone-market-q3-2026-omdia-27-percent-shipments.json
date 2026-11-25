@@ -1,0 +1,71 @@
+{
+  "slug": "vietnam-xiaomi-tops-smartphone-market-q3-2026-omdia-27-percent-shipments",
+  "title": "ベトナムのスマホ出荷、7〜9月はシャオミが初の首位 シェア27%でサムスンと並ぶ",
+  "country": "ベトナム",
+  "category": "消費・小売",
+  "articleType": "news",
+  "lead": "ベトナムのスマートフォン市場で、7〜9月期にシャオミ（Xiaomi）が出荷台数で初めて首位に立った。調査会社Omdiaのデータでシェアは27%で、サムスン電子と並んだ。東南アジアで唯一、市場全体の出荷が前年を上回った国でもある。",
+  "summaryHtml": "<ul><li>VnEconomyによると、Omdiaの7〜9月期データで、ベトナムのスマホ出荷シェアはシャオミ27%、サムスン電子（Samsung）27%、アップル（Apple）19%、OPPO16%、vivo6%だった。シャオミが首位に立つのは初めてである。</li><li>シャオミのベトナム出荷は前年同期比50%増で、Omdiaは手ごろな価格帯の量販モデルが押し上げたと説明した。</li><li>ベトナムの市場全体の出荷は同1%増で、東南アジアで唯一の成長市場。インドネシア、フィリピン、マレーシア、タイは、いずれも30%超減った。</li><li>東南アジア全体の出荷は前年同期比36%減の1,650万台。メモリー供給の不足と部品費の上昇が背景で、平均販売価格は53%上がった。</li></ul>",
+  "bodyHtml": "<h3>首位交代の中身</h3><p>VnEconomyは11月24日、Omdiaの最新データとして、ベトナムの7〜9月期のスマホ出荷でシャオミがシェア27%を占め、初めて首位になったと伝えた。サムスン電子も27%で、丸めた数字では並ぶ形になる。3位はアップルの19%で順位を1つ上げ、OPPOが16%、vivoが6%と続く。Omdiaの発表文では、ベトナムのメーカー別シェアは図表の中にあり、本文には書かれていない。このため上の数字はVnEconomyの記事によるものである。</p><p>Omdiaの発表文（11月16日付）によると、シャオミのベトナム出荷は前年同期比50%増だった。要因は価格を抑えた量販モデルである。シャオミは東南アジア全体では出荷が24%減り、小売の平均販売価格は55%上がった。ベトナムでの伸びは、地域の流れに逆らう動きである。</p><h3>地域全体は36%減、ベトナムだけが増加</h3><p>Omdiaによると、7〜9月期の東南アジアのスマホ出荷は前年同期比36%減の1,650万台だった。金額ベースでは1%減にとどまり、平均販売価格が53%上がった。メモリーの供給制約と部品費の上昇で、メーカーが価格を引き上げ、低価格帯から撤退したためとされる。サムスンは370万台で20%減ったが首位を保った。アップルは4%増で、上位5社で唯一伸びた。OPPO（realmeを含む）は62%減の220万台だった。</p><p>国別では、ベトナムが1%増で唯一の成長となり、インドネシア、フィリピン、マレーシア、タイは30%超の減少、その他の市場も2桁減だった。Omdiaのリサーチマネジャー、レ・スアン・チュウ（Le Xuan Chiew）氏は、ベトナムの底堅さをマクロ経済の強さの表れだと説明した。VnEconomyによると、外国直接投資（FDI）、製造業、AI関連機器を含む輸出がそれを支えたという。Omdiaのシニアアナリスト、シェン・ウィン・チョウ（Sheng Win Chow）氏は、出荷の減少を需要の弱まりとそのまま受け取るべきではないと述べている。</p><h3>日系企業にとっての意味</h3><p>ベトナムは、東南アジアのスマホ市場で相対的に需要が保たれている。一方、メモリーの供給不足が続くと、メーカーが同じ仕様を同じ価格で出しにくくなるとOmdiaは指摘する。ベトナムで電子機器や部品を売る日系企業にとっては、価格帯ごとに中国勢と韓国勢の競争が強まる可能性がある。今回の発表文には、メモリー不足がいつ緩むかの見通しは示されていない。10〜12月期の出荷と価格の動きが、次の判断材料になるとみられる。</p>",
+  "dataFigure": "27%",
+  "dataLabel": "7〜9月期のベトナムのスマホ出荷シェア（シャオミ、初の首位）",
+  "dataSource": "Omdia、VnEconomy、2026年11月24日",
+  "chart": {
+    "bars": [
+      {
+        "label": "シャオミ",
+        "value": 27,
+        "display": "27%"
+      },
+      {
+        "label": "サムスン",
+        "value": 27,
+        "display": "27%"
+      },
+      {
+        "label": "アップル",
+        "value": 19,
+        "display": "19%"
+      },
+      {
+        "label": "OPPO",
+        "value": 16,
+        "display": "16%"
+      },
+      {
+        "label": "vivo",
+        "value": 6,
+        "display": "6%"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "VnEconomy",
+      "title": "Xiaomi takes top spot in Vietnam's smartphone market",
+      "url": "https://en.vneconomy.vn/xiaomi-takes-top-spot-in-vietnams-smartphone-market.htm",
+      "date": "2026-11-24"
+    },
+    {
+      "name": "Omdia",
+      "title": "Southeast Asia smartphone shipments fall 36% in 3Q26 as memory supply constraints intensify",
+      "url": "https://omdia.tech.informa.com/pr/2026/nov/southeast-asia-smartphone-shipments-fall-36percent-in-3q26-as-memory-supply-constraints-intensify",
+      "date": "2026-11-16"
+    }
+  ],
+  "seoTitle": "ベトナムのスマホ、シャオミが7〜9月に初の首位",
+  "seoDescription": "Omdiaによると、ベトナムの7〜9月期のスマホ出荷でシャオミがシェア27%で初の首位。サムスンと並んだ。東南アジアで唯一出荷が増えたベトナム市場の背景を整理する。",
+  "tags": [
+    "ベトナム",
+    "シャオミ",
+    "Xiaomi",
+    "サムスン電子",
+    "Omdia",
+    "スマートフォン",
+    "メモリー不足",
+    "アップル"
+  ],
+  "publishAt": "2026-11-25T20:00:00+09:00",
+  "language": "ja",
+  "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/illust/vietnam-xiaomi-tops-smartphone-market-q3-2026-omdia-27-percent-shipments.png"
+}

@@ -1,0 +1,67 @@
+{
+  "slug": "malaysia-mag-boeing-787-order-10-aircraft-6-options-replace-a350-2032-2035",
+  "title": "マレーシア航空の親会社、ボーイング787を10機発注 追加6機のオプション付き、A350の後継に",
+  "country": "マレーシア",
+  "category": "観光・航空",
+  "articleType": "news",
+  "lead": "マレーシア航空の親会社マレーシア・アビエーション・グループ（MAG）は11月25日、ボーイング787型機を10機発注すると発表した。追加6機のオプションも確保し、現行のエアバスA350を置き換える。発注額は公表されていない。",
+  "summaryHtml": "<ul><li>MAG（Malaysia Aviation Group）は11月25日、ボーイング787ドリームライナー10機の発注を発表した。追加6機を購入できるオプションも付く。</li><li>マレー・メール（Malay Mail）によると、納入は2032〜2035年。現行のエアバスA350（7機）を段階的に置き換え、マレーシアの航空会社として初めて787を運航する。ロイターは、納入時期は当日の時点で明らかになっていないと書いた。</li><li>発注額は公表されず、787の型式も明らかにされていない。エンジンはGEエアロスペース（GE Aerospace）のGEnxとされる。</li><li>ロイターによると、MAGは2026年に燃料高を受けて運航能力を約6%減らしたが、2027年は約8%増やす計画である。</li></ul>",
+  "bodyHtml": "<h3>発注の中身と時期</h3><p>ロイターとマレー・メールによると、MAGは11月25日、クアラルンプールで書類を交わす式典を開き、ボーイング787ドリームライナー10機の購入を決めた。ほかに6機を追加で購入できるオプションを確保した。マレー・メールは、アンワル・イブラヒム（Anwar Ibrahim）首相が式典に出席し、機体をボーイングから直接購入すると伝えた。ロイターは金融条件が公表されていないと書き、マレー・メールの記事も発注額や機体の細かい型式に触れていない。</p><p>納入時期は出典で食い違う。マレー・メールは2032〜2035年と書く一方、ロイターは納入の日程が当日の時点で公表されていないとしている。報道の時間差による違いとみられるが、出典どうしでは確認できない。ナサルディン・A・バカル（Nasaruddin A. Bakar）社長兼グループ最高経営責任者（CEO）は、787が長期の成長に必要な輸送力、柔軟性、効率性をもたらすと述べた。マレー・メールによると、選定は広範な評価を経て決まった。</p><h3>A350からの切り替えと路線</h3><p>MAGは現在、エアバスA350を7機運航している。マレー・メールによると、これらは2032〜2035年に段階的に退く。787はGEエアロスペースのGEnxエンジンを積み、座席は3クラスで319席と伝えられた。就航先の候補として、ロンドン、パリ、シドニー、メルボルン、東京、大阪、ソウルが挙がっているが、今後のネットワーク計画しだいで変わりうるとされる。日本路線への投入は2032年以降の話で、日本路線の座席数や運賃への影響は当面小さいとみられる。</p><p>機材更新は長距離だけではない。マレー・メールによると、MAGはボーイング737を計55機発注済みで、内訳は737-8が43機、737-10が12機である。残りの納入は2030年までに見込まれる。ロイターによると、マレーシアは昨年、米国との貿易合意の一環として737 MAXを30機購入し、さらに30機のオプションを持つと表明していた。</p><h3>運航計画への含意</h3><p>ロイターは、MAGが2026年に中東の紛争に伴うジェット燃料の高騰を受けて運航能力を約6%、便数で8,000〜9,000便減らしたと書く。2027年は約8%増やす計画で、これはナサルディン氏が11月初めにロイターに語った内容とされる。長距離機の更新は、燃料費と座席供給の両面で、MAGの収益構造を左右する材料になる。ただ、発注額やリース条件が公表されていないため、財務への影響は現時点では判断できない。日本から東南アジアへ出張する企業にとっては、2030年代前半の欧州・豪州・日本路線の座席供給が焦点になるとみられる。</p>",
+  "dataFigure": "10機",
+  "dataLabel": "MAGが発注するボーイング787の機数（ほかに6機のオプション）",
+  "dataSource": "マレーシア・アビエーション・グループ、ロイター、2026年11月25日",
+  "chart": {
+    "bars": [
+      {
+        "label": "確定発注",
+        "value": 10,
+        "display": "10機"
+      },
+      {
+        "label": "オプション",
+        "value": 6,
+        "display": "6機"
+      },
+      {
+        "label": "現行A350",
+        "value": 7,
+        "display": "7機"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "ロイター（Business Recorder転載）",
+      "title": "Malaysia Airlines' parent to buy 10 Boeing 787 Dreamliners, CEO says",
+      "url": "https://www.brecorder.com/news/40450660/malaysia-airlines-parent-to-buy-10-boeing-787-dreamliners-ceo-says",
+      "date": "2026-11-25"
+    },
+    {
+      "name": "Malay Mail",
+      "title": "Malaysia Airlines eyes six more Boeing Dreamliners on top of 10-aircraft order, MAG president says",
+      "url": "https://www.malaymail.com/news/money/2026/11/25/malaysia-airlines-eyes-six-more-boeing-dreamliners-on-top-of-10-aircraft-order-mag-president-says/244697",
+      "date": "2026-11-25"
+    },
+    {
+      "name": "Malay Mail",
+      "title": "Malaysia Airlines bets on Boeing with 10 Dreamliners, plans Airbus A350 phase-out",
+      "url": "https://www.malaymail.com/news/money/2026/11/25/malaysia-airlines-bets-on-boeing-with-10-dreamliners-plans-airbus-a350-phase-out/244665",
+      "date": "2026-11-25"
+    }
+  ],
+  "seoTitle": "マレーシア航空の親会社、ボーイング787を10機発注",
+  "seoDescription": "マレーシア・アビエーション・グループが11月25日、ボーイング787を10機発注すると発表。追加6機のオプション付きで、A350を置き換える。納入時期や路線、発注額の扱いを整理する。",
+  "tags": [
+    "マレーシア航空",
+    "MAG",
+    "ボーイング787",
+    "エアバスA350",
+    "GEエアロスペース",
+    "ナサルディン・A・バカル",
+    "アンワル首相",
+    "ボーイング737"
+  ],
+  "publishAt": "2026-11-25T19:30:00+09:00",
+  "language": "ja",
+  "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/illust/malaysia-mag-boeing-787-order-10-aircraft-6-options-replace-a350-2032-2035.png"
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "vietnam-labor-code-amendment-paid-holidays-13-days-2027-july-27-november-24",
+  "title": "ベトナム国会、労働法などの改正法を可決 有給の祝祭日は2027年から年13日に",
+  "country": "ベトナム",
+  "category": "政治・政策",
+  "articleType": "news",
+  "lead": "ベトナム国会は11月21日、労働法などの改正法を可決し、有給の祝祭日を2027年から年13日にすると決めた。7月27日と11月24日が加わる。改正法は2027年3月1日に施行され、人材派遣の規制も見直される。",
+  "summaryHtml": "<ul><li>国会は11月21日午前、労働法、公文書法、男女平等法、赤十字活動法、雇用法を一括して改める法律を可決した。経済誌Doanh nghiệp & Hội nhậpによると、出席議員463人のうち461人が賛成した。</li><li>有給の祝祭日に、7月27日（傷病兵・戦没者の日）と11月24日（ベトナム文化の日）が加わり、年13日になる。内訳は旧正月（テト）5日、建国記念日の9月2日が2日、ほかの6日は各1日である。</li><li>改正法の施行は2027年3月1日。11月24日をいつから有給とするかは、出典で説明が分かれる。</li><li>振替休日に固定の規則はなく、国会は柔軟な方式を選んだ。交代制や24時間稼働の企業への影響が論点になる。</li><li>同じ法律で人材派遣は政府が定める職種に限られ、許可制は保証金と届け出に替わる。</li></ul>",
+  "bodyHtml": "<h3>改正の内容と日程</h3><p>VnExpressとVnEconomyによると、国会は11月21日午前、労働法と公文書法、男女平等法、赤十字活動法、雇用法を一括して改める法律を可決した。Doanh nghiệp & Hội nhập誌は、出席議員463人のうち461人が賛成したと書いている。施行は2027年3月1日である。法律番号は、確認した出典のいずれにも書かれていない。</p><p>有給の祝祭日は、既存の日に2日が加わって年13日になる。VnExpressの数え方では、旧正月（テト）が5日、建国記念日の9月2日が2日、新年、フン王の命日、4月30日、5月1日、7月27日、11月24日が各1日である。7月27日は傷病兵・戦没者を悼む「祖国感謝の日」で、2027年から適用される。11月24日の「ベトナム文化の日」は、VnExpressとDoanh nghiệp & Hội nhậpが2026年から、ハノイ・モイ紙が2027年からと書いていて食い違う。VnExpressは、2026年分は国会決議28/2026によると説明している。日系企業は、2026年と2027年のどちらから有給になるのかを、労務の担当者や弁護士に確かめておく必要がある。</p><h3>振替休日と派遣の規制</h3><p>Doanh nghiệp & Hội nhậpによると、振替休日には固定の規則がなく、国会は柔軟な方式を選んだ。同誌は、内務省が、交代制や連続操業、決まった休日のない企業では全社一律の振替が人員配置の問題になりうると述べたと伝えている。毎年9月30日までに内務相が、首相の決定に基づいて翌年の休日の日程を公表する。</p><p>VnExpressによると、同じ法律は人材派遣のルールも変える。派遣会社は毎月、派遣先に通知する義務を負う。派遣先は賃金の全額払いを求めることができ、違反は省の労働当局に報告する必要がある。許可制は保証金と届け出に替わり、派遣できるのは政府が列挙する職種に限られる。施行は2027年3月1日である。外国人従業員への適用や、休日出勤時の割増賃金率の変更は、確認した出典に書かれていない。</p><h3>日系企業への影響</h3><p>追加の祝祭日は、人件費と稼働日数に直結する。Doanh nghiệp & Hội nhậpは、製造、加工、物流、サービスなどの連続操業の企業で、残業手当や交代要員の費用が増え、納期にも響く可能性があると指摘した。この部分は同誌の見立てで、出典に数字は示されていない。ベトナムに工場を持つ日系企業は、2027年の稼働カレンダーの作り直しと、派遣社員の活用方針の点検が当面の課題になるとみられる。</p>",
+  "dataFigure": "年13日",
+  "dataLabel": "ベトナムの有給の祝祭日（2027年から、7月27日と11月24日が加わる）",
+  "dataSource": "ベトナム国会、VnExpress、2026年11月21日",
+  "sources": [
+    {
+      "name": "VnExpress",
+      "title": "Người lao động được bổ sung hai ngày nghỉ lễ",
+      "url": "https://vnexpress.net/nguoi-lao-dong-duoc-bo-sung-hai-ngay-nghi-le-5147309.html",
+      "date": "2026-11-21"
+    },
+    {
+      "name": "Tạp chí Doanh nghiệp và Hội nhập",
+      "title": "Quốc hội bổ sung hai ngày nghỉ lễ, doanh nghiệp tính lại nhân sự",
+      "url": "https://doanhnghiephoinhap.vn/quoc-hoi-bo-sung-hai-ngay-nghi-le-doanh-nghiep-tinh-lai-nhan-su-154857.html",
+      "date": "2026-11-22"
+    },
+    {
+      "name": "VnEconomy",
+      "title": "Total annual public holidays with full pay in Vietnam to reach 13 from 2027",
+      "url": "https://en.vneconomy.vn/total-annual-public-holidays-with-full-pay-in-vietnam-to-reach-13-from-2027.htm",
+      "date": "2026-11-24"
+    },
+    {
+      "name": "Báo Hànộimới",
+      "title": "Từ năm 2027, người lao động có 13 ngày nghỉ hưởng nguyên lương",
+      "url": "https://hanoimoi.vn/tu-nam-2027-nguoi-lao-dong-co-13-ngay-nghi-huong-nguyen-luong-1767374.html",
+      "date": "2026-11-24"
+    }
+  ],
+  "seoTitle": "ベトナム、有給の祝祭日が2027年から年13日に",
+  "seoDescription": "ベトナム国会が11月21日、労働法などの改正法を可決。有給の祝祭日に7月27日と11月24日が加わり年13日に。施行は2027年3月1日で、振替休日と人材派遣の規制も見直す。",
+  "tags": [
+    "ベトナム",
+    "労働法",
+    "祝祭日",
+    "国会",
+    "人材派遣",
+    "内務省",
+    "ベトナム文化の日",
+    "テト"
+  ],
+  "publishAt": "2026-11-25T20:30:00+09:00",
+  "language": "ja",
+  "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/illust/vietnam-labor-code-amendment-paid-holidays-13-days-2027-july-27-november-24.png"
+}
