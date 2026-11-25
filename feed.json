@@ -1,7 +1,212 @@
 {
-  "generatedAt": "2026-11-25T18:22:47+09:00",
+  "generatedAt": "2026-11-25T20:21:22+09:00",
   "site": "東南アジア経済新聞",
   "articles": [
+    {
+      "slug": "philippines-bpi-sibol-bonds-7-251-percent-p5-billion-offer-dec-4-2026",
+      "title": "フィリピン・BPI、50億ペソの持続可能債を募集 利率7.251%、12月4日まで",
+      "country": "フィリピン",
+      "category": "金融・市場",
+      "articleType": "news",
+      "lead": "アヤラ・グループ系のフィリピン諸島銀行（BPI）は、50億ペソ（約125億円）規模のペソ建て持続可能債「SIBOL債」の募集を11月23日に始めた。利率は年7.251%で、募集は12月4日まで、上場は12月16日の予定である。",
+      "summaryHtml": "<ul><li>BPI（Bank of the Philippine Islands）は11月23日から12月4日まで、ペソ建て固定利付のSIBOL債を募集する。規模は50億ペソ（約125億円）で、増額オプションが付く。</li><li>利率は年7.251%（税引き前）で、利払いは年4回、額面で発行する。償還は2028年で、期間は1年9か月（1.75年）。</li><li>発行と上場は12月16日にフィリピン・ディーリング・アンド・エクスチェンジ（PDEx）で行う予定で、2000億ペソ（約4,980億円）の債券・コマーシャルペーパー（CP）プログラムの3回目の発行にあたる。</li><li>調達資金は、持続可能な資金調達の枠組みに沿った環境・社会プロジェクトの資金や借り換えに充てる。証券取引委員会（SEC）は10月20日に「ASEANサステナビリティ債」の表示を認めた。</li></ul>",
+      "bodyHtml": "<h3>債券の条件</h3><p>Philippine Starによると、BPIのSIBOL（Sustainable Impact Building Our Legacy）債は、年7.251%の固定利率で、利払いは四半期ごと、額面で発行する。利率は税引き前である。規模は50億ペソで、需要に応じて増額できる。BPIの10月26日付のリリースは、期間を1年9か月とした理由を、創業175年にちなむと説明している。円換算は、本紙の直近の記事と同じ1ペソ＝約2.49円で行った。</p><p>募集期間は11月23日から12月4日までで、12月16日に発行し、PDExに上場する予定である。主幹事兼販売代理は、BPIキャピタルとING銀行マニラ支店が務める。BPIは、条件や日程を通知のうえ変更する権利を留保している。債券は預金ではなく、フィリピン預金保険公社（PDIC）の保険の対象外だと、同社は明記している。</p><h3>資金の使い道と背景</h3><p>調達資金は、BPIの「持続可能な資金調達の枠組み」に沿い、適格な環境・社会プロジェクトへの融資や借り換えに使う。枠組みはASEANサステナビリティ債基準に沿ったもので、SECは10月20日、この債券に「ASEANサステナビリティ債」の名称を付けることを認めた。InsiderPHは、具体的な対象事業はまだ明らかにされていないと伝えている。</p><p>BPIは、アヤラ・グループの銀行部門である。Daily Tribuneは、2026年1〜9月の純利益が489億ペソ（約1,220億円）と前年同期から3.2%減ったと伝えた。Philippine Starは、営業費用と貸倒引当金の増加が要因としている。</p><h3>見通し</h3><p>今回の債券は、期間が2年に満たず、利率が7%台と高い。利率の水準の背景は、確認した出典では説明されていない。募集が増額に至るかどうかが、今後の注目点である。本紙は個別の債券の購入を勧めるものではない。</p>",
+      "dataFigure": "7.251%",
+      "dataLabel": "BPIのSIBOL債の年利率（50億ペソ、償還は2028年）",
+      "dataSource": "Philippine Star、2026年11月25日",
+      "sources": [
+        {
+          "name": "Philippine Star",
+          "title": "BPI offers 7.251% interest on P5 billion SIBOL bonds",
+          "url": "https://www.philstar.com/business/2026/11/25/2572342/bpi-offers-7251-interest-p5-billion-sibol-bonds",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "BPI（フィリピン諸島銀行）",
+          "title": "BPI announces upcoming BPI SIBOL Bonds",
+          "url": "https://www.bpi.com.ph/about-bpi/news/bpi-announces-upcoming-bpi-sibol-bonds",
+          "date": "2026-10-26"
+        },
+        {
+          "name": "Daily Tribune",
+          "title": "BPI plans P5-billion sustainable bond offering",
+          "url": "https://tribune.net.ph/2026/10/26/bpi-plans-p5-billion-sustainable-bond-offering",
+          "date": "2026-10-26"
+        },
+        {
+          "name": "InsiderPH",
+          "title": "BPI marks 175 years with 1.75-year bonds, eyes another big sale",
+          "url": "https://insiderph.com/bpi-marks-175-years-with-175-year-bonds-eyes-another-big-sale",
+          "date": "2026-10-26"
+        }
+      ],
+      "seoTitle": "BPI、利率7.251%の持続可能債を50億ペソ募集",
+      "seoDescription": "フィリピンのBPIが50億ペソ（約125億円）のSIBOL債を募集。利率は年7.251%、期間1.75年で、12月4日まで。12月16日にPDExへ上場予定。",
+      "tags": [
+        "フィリピン",
+        "BPI",
+        "SIBOL債",
+        "持続可能債",
+        "ASEANサステナビリティ債",
+        "PDEx",
+        "アヤラ・グループ",
+        "ING"
+      ],
+      "publishAt": "2026-11-25T22:20:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/illust/philippines-bpi-sibol-bonds-7-251-percent-p5-billion-offer-dec-4-2026.png"
+    },
+    {
+      "slug": "singapore-australia-essential-supplies-mou-carbon-storage-agreement-nov-24-2026",
+      "title": "シンガポールと豪州、必須物資の輸出制限回避で覚書 CO2の越境貯留でも協定",
+      "country": "シンガポール",
+      "category": "貿易・物流",
+      "articleType": "news",
+      "lead": "シンガポールとオーストラリアは11月24日、キャンベラでの首脳会談に合わせ、食料や医薬品など必須物資の供給を守る覚書に署名した。シンガポールから豪州へCO2を移送する越境の炭素回収・貯留（CCS）協定も結んだ。",
+      "summaryHtml": "<ul><li>両国は2026年11月24日、第11回シンガポール・豪州年次首脳会談（キャンベラ）に合わせ、必須物資に関する覚書（MOU）に署名した。</li><li>AsiaOneによると、覚書は2026年7月の議定書を補うもので、対象を石油製品とLNGから広い範囲の物資に広げる。</li><li>ウォン首相は、対象に食料、医薬品・医療品、農業資材が含まれると説明した。AsiaOneは、半導体や通信機器なども含まれると報じている。</li><li>両国は、シンガポールから豪州へCO2を移送する越境CCS協定にも署名した。CO2の測定・報告・計上の方法もパリ協定などの指針に沿って定める。</li><li>低排出の製品・サービスの開発を支える「ゲッティング・トゥ・ゼロ共同イノベーション・プログラム」も発足する予定である。</li></ul>",
+      "bodyHtml": "<h3>必須物資の覚書：何が加わったか</h3><p>シンガポール首相府（PMO）によると、ウォン首相とアルバニージー首相は2026年4月、中東危機を受けて必須物資の流れを保つことで一致し、まず石油製品（ディーゼルを含む）とLNGを対象にした。AsiaOneによると、7月には経済の強靱性と必須物資に関する議定書を結んでいる。同紙が伝えたエネルギー・貿易産業省（METI）の発表では、今回の覚書は議定書を補い、対象を石油製品とLNGの先まで広げるものだという。</p><p>AsiaOneによると、両国は対象の物資について輸出制限を採らない、または維持しないよう努める。制限を導入する場合は事前の通知と協議を行い、措置の見直しや撤回の手続きも設ける。対象について、ウォン首相は食料、医薬品・医療品、農業資材などを挙げた。AsiaOneは、同省の発表をもとに、農薬、建設資材、燃料・燃料添加剤、再生可能エネルギー関連技術、半導体、通信機器、信号機器、水処理薬品なども含まれると報じたが、同省のページの本文では確認できなかった（詳細は添付の資料にあるとみられる）。食料や燃料の大半を輸入に頼るシンガポールにとって、供給元との間で輸出制限を抑える約束を重ねる意味は大きいとみられる。</p><h3>越境CCS協定と今後の注目点</h3><p>CO2の越境CCS協定は、シンガポールで回収したCO2を豪州へ移し、貯留するための枠組みである。AsiaOneが伝えた同省の発表によると、両国がCO2の量を測定、報告、計上する方法を、パリ協定と国連気候変動枠組条約の報告指針に沿って定める。出典には、貯留量、対象となる事業や企業、輸送の方法、費用負担の記載がない。このため、日系を含む企業が実際にどう参加できるかは、今後の詳細の公表待ちである。</p><p>このほか、両国は低排出の製品やサービスを企業が開発し事業化するのを支える共同プログラムを始めるほか、AIの評価や保証、相互運用性、ガバナンスの協力を進めることでも一致した。ウォン首相は、必須物資とCCSの取り組みを、東南アジアの他国にも広げられる模範と位置づけた。シンガポールに地域拠点を置く日本企業にとっては、食料・医薬品などの調達網や、排出削減の取引ルールが今後どう整うかが、事業計画を立てる際の材料になると考えられる。</p>",
+      "dataFigure": "11月24日",
+      "dataLabel": "必須物資の覚書と越境CCS協定に署名（第11回年次首脳会談）",
+      "dataSource": "シンガポール・エネルギー貿易産業省、首相府、2026年11月24日",
+      "sources": [
+        {
+          "name": "シンガポール・エネルギー貿易産業省（METI）",
+          "title": "Singapore-Australia MOU on Essential Supplies",
+          "url": "https://www.meti.gov.sg/newsroom/singapore-australia-mou-on-essential-supplies-/",
+          "date": "2026-11-24"
+        },
+        {
+          "name": "シンガポール首相府（PMO）",
+          "title": "PM Lawrence Wong and Australia PM Anthony Albanese at the 11th Singapore-Australia Annual Leaders' Meeting Joint Press Conference",
+          "url": "https://www.pmo.gov.sg/newsroom/pm-lawrence-wong-and-australia-pm-anthony-albanese-at-the-11th-singapore-australia-annual-leaders-meeting-alm-joint-press-conference-on-24-november-2026/",
+          "date": "2026-11-24"
+        },
+        {
+          "name": "AsiaOne",
+          "title": "Carbon storage agreement, essential supplies deals between Singapore and Australia can serve as 'lighthouse' for region: PM Wong",
+          "url": "https://www.asiaone.com/singapore/singapore-australia-essential-supplies-cross-border-carbon-capture-agreements",
+          "date": "2026-11-24"
+        }
+      ],
+      "seoTitle": "シンガポールと豪州、必須物資の覚書とCCS協定",
+      "seoDescription": "シンガポールと豪州が11月24日、食料や医薬品など必須物資の輸出制限を避ける覚書と、CO2を豪州へ移す越境CCS協定に署名。第11回首脳会談で。",
+      "tags": [
+        "シンガポール",
+        "オーストラリア",
+        "必須物資",
+        "ローレンス・ウォン",
+        "アルバニージー",
+        "CCS",
+        "エネルギー貿易産業省",
+        "年次首脳会談"
+      ],
+      "publishAt": "2026-11-25T21:50:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/illust/singapore-australia-essential-supplies-mou-carbon-storage-agreement-nov-24-2026.png"
+    },
+    {
+      "slug": "philippines-nscr-operations-contract-bid-deadline-january-2027-tokyo-metro",
+      "title": "フィリピン南北通勤鉄道の運営契約、入札期限を2027年1月に延期 日本勢が要請",
+      "country": "フィリピン",
+      "category": "不動産・インフラ",
+      "articleType": "news",
+      "lead": "フィリピン運輸省は、南北通勤鉄道（NSCR）の運営・保守契約（2,293億ペソ、約5,700億円）の入札期限を2027年1月に延ばした。日本の2社の要請に応じたもので、入札には東京地下鉄が名乗りを上げている。",
+      "summaryHtml": "<ul><li>フィリピン運輸省（DOTr）は、南北通勤鉄道（North-South Commuter Railway、NSCR）の運営・保守（O&M）契約の入札期限を、当初の2026年5月から2027年1月に延ばした。</li><li>契約の規模は2,293億ペソ（約5,700億円）。路線はクラーク国際空港からラグナ州カランバまでの147キロ、35駅で、事業費全体は8,736億ペソ（約2兆1,750億円）とされる。</li><li>延期は日本の入札者2社の要請によるもので、ディゾン運輸相が記者団に明らかにした。東京地下鉄（Tokyo Metro）が参加する。JR東日本は、報道によって入札者とも、運輸省の連携先とも伝えられている。</li><li>運営権の期間は15年で、一部開業の期間として7.5年が別に付く。一部区間の開業は2027年12月、全線開業は2032年が目標とされる。</li></ul>",
+      "bodyHtml": "<h3>期限延長の中身</h3><p>Philippine Starによると、ディゾン運輸相は記者団に、NSCRの運営・保守契約の入札期限が2027年1月に延びたと述べた。当初の予定は2026年5月で、運輸省は日本の入札者2社からの要請を認めた。The Chronicleも25日付で、2社の要請を受けて入札者に準備の時間を与えたと伝えている。要請の理由について、確認した出典に詳しい説明はない。円換算は、本紙の直近の記事と同じ1ペソ＝約2.49円で行った。</p><p>契約額は2,293億ペソで、約5,700億円に相当する。対象は鉄道システムの運営と保守で、Philippine Starは、運営権者が15年間の運営に加えて、一部開業の期間として7.5年を担うと書いている。The Chronicleにはこの期間の記載がない。</p><h3>路線と開業の見通し</h3><p>NSCRは、パンパンガ州のクラーク国際空港からラグナ州カランバまでを結ぶ全長147キロの路線で、中部ルソン、マニラ首都圏、南タガログの35駅を通る。Philippine Starによると、総事業費は8,736億ペソ（約2兆1,750億円）で、日本政府が協調融資している。ただし、JICAなど具体的な機関名は出典に書かれていない。一部区間のバレンスエラ〜マロロス間は2027年12月までの開業、全線は2032年の開業が目標である。</p><p>入札者の記述は2紙で食い違う。Philippine Starは東京地下鉄を入札者の1社とし、運輸省はJR東日本とも協力していると書く。一方、The Chronicleは東京地下鉄とJR東日本の両社が契約を狙っているとする。本紙は、2社のうち東京地下鉄の参加が確認できた点を事実として扱い、JR東日本の位置づけは出典によって異なると記す。</p><h3>日系企業と今後の注目点</h3><p>運営・保守契約は、車両や信号を納める事業とは別に、完成後の長期の収益を取る権利である。Philippine Starによると、フィリピンではほかに、MRT3の運営・保守契約（1,036億ペソ、約2,580億円）の入札が2027年に予定され、メトロ・マニラ・サブウェイの運営・保守契約は782億4,000万ペソ（約1,950億円）とされる。日本の鉄道会社が海外の運営に踏み込む動きが続くかどうかが、日系企業の関心になるとみられる。入札期限が約半年延びたことで、開業時期に影響が出る可能性もあり、運輸省の今後の説明が注目される。</p>",
+      "dataFigure": "2,293億ペソ",
+      "dataLabel": "NSCR運営・保守契約の規模（入札期限は2027年1月に延期）",
+      "dataSource": "フィリピン運輸省、Philippine Star、2026年11月23日",
+      "sources": [
+        {
+          "name": "Philippine Star",
+          "title": "Japanese bidders line up for Philippines longest railway",
+          "url": "https://www.philstar.com/business/2026/11/23/2571918/japanese-bidders-line-philippines-longest-railway",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "The Chronicle",
+          "title": "Japanese railway giants eye P229.3-billion NSCR operations contract",
+          "url": "https://thechronicle.com.ph/japanese-railway-giants-eye-p229-3-billion-nscr-operations-contract/",
+          "date": "2026-11-25"
+        }
+      ],
+      "seoTitle": "NSCR運営契約、入札期限を2027年1月に延期",
+      "seoDescription": "フィリピン運輸省が南北通勤鉄道の運営・保守契約（2,293億ペソ、約5,700億円）の入札期限を2027年1月に延期。日本の2社の要請で、東京地下鉄が参加。",
+      "tags": [
+        "フィリピン",
+        "南北通勤鉄道",
+        "NSCR",
+        "東京地下鉄",
+        "JR東日本",
+        "運輸省",
+        "ディゾン運輸相",
+        "運営・保守契約"
+      ],
+      "publishAt": "2026-11-25T21:20:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/illust/philippines-nscr-operations-contract-bid-deadline-january-2027-tokyo-metro.png"
+    },
+    {
+      "slug": "thailand-floods-45-billion-baht-nesdc-58-provinces-sep-nov-2026",
+      "title": "タイの洪水被害、経済損失は450.7億バーツ 58県で680万人に影響 NESDC",
+      "country": "タイ",
+      "category": "経済",
+      "articleType": "news",
+      "lead": "タイ国家経済社会開発評議会（NESDC）は、9月16日から11月10日の洪水による経済損失が450.7億バーツ（約2,120億円）に達したとまとめた。農業と製造業で9割を占め、エルニーニョによる次の干ばつ懸念も浮上している。",
+      "summaryHtml": "<ul><li>NESDCの集計では、洪水は2026年9月16日〜11月10日に58県で発生し、約680万人（人口の9.65%）、221万世帯が影響を受けた。</li><li>経済損失は450.7億バーツ（約2,120億円）。内訳は農業223.6億バーツ、製造業182.1億バーツ、観光・サービス業45.1億バーツ。</li><li>損失の約5割が農業で、約199万ライ（約31.8万ヘクタール）の農地・漁業区域が被害を受けた。製造業では4,635事業所が影響を受け、工業団地が同部門の被害の98.02%を占めた。</li><li>家屋や社会インフラの被害は暫定で507.3億バーツ（約2,380億円）あり、経済損失とは別に計上されている。</li><li>政府の支援には約257万世帯が11月10日までに申請し、約173万世帯に計127億バーツ（約600億円）が支払われた。</li></ul>",
+      "bodyHtml": "<h3>損失の中身：農業と製造業で約9割</h3><p>The Nationによると、NESDCは23日、9月16日から11月10日にかけてタイ58県を襲った洪水の経済損失を450.07億バーツと発表した。円換算は本紙の直近の記事と同じ1バーツ＝約4.7円で行い、約2,120億円となる。被害を受けたのは約680万人、221万世帯で、住宅は8万169戸、車両は約10万台に上る。</p><p>部門別では、農業が223.6億バーツ（約1,050億円）と全体の約49.6%を占める。作物が215.3億バーツ、畜産が4.7億バーツ、漁業が約3.5億バーツで、作物の被害は186万ライ、農家17万6,004戸に及んだ。製造業は182.1億バーツ（約860億円）で全体の約40.4%、観光・サービス業は45.1億バーツ（約210億円）で約10%だった。観光では、チョンブリ県やバンコクの一部で宿泊の取り消しが1〜2割出たと伝えられている。</p><h3>工業団地に集中した製造業の被害</h3><p>製造業の損失は4,635の事業所にまたがり、工業団地が同部門の被害の98.02%を占めた。県別ではチョンブリ県が最も大きく、サムットプラカン、ラヨーン、プラチンブリ、サケオ、アユタヤの各県が続く。東部や中部の工業団地には日系企業の工場が多いとされるが、確認した出典には個別企業や日系企業の被害は書かれていない。生産や納期への影響を確かめたい担当者は、取引先や団地管理会社への直接の確認が必要になるとみられる。</p><p>なお、上記の経済損失とは別に、家屋や道路などの財産・インフラの被害が暫定で507.3億バーツ（約2,380億円）と集計された。両者は性質が異なるため、単純には足し合わせられない。</p><h3>支援の進み具合と今後の焦点</h3><p>災害対策当局の数字として、約257万世帯が11月10日までに支援を申請し、約173万世帯に計127億バーツ（約600億円）が支払われた。NESDCは、今回の影響は2011年の大洪水を「大きく下回る」との見方を示したが、確認した出典にはGDPへの影響を示す数字はない。</p><p>両紙は、今後の大きな懸念としてエルニーニョを挙げている。気温が上がり雨が減ることで、次の作期の水の確保に影響が出る恐れがあるという。ただし、発生時期の見通しや想定される損失額は出典に示されていない。洪水の後に干ばつが重なれば農家の収入回復が遅れ、地方の消費や食品・農産物の調達に波及する可能性があり、今後の政府の対策や次の統計が注目される。</p>",
+      "dataFigure": "450.7億バーツ",
+      "dataLabel": "9月16日〜11月10日の洪水による経済損失",
+      "dataSource": "タイ国家経済社会開発評議会（NESDC）、The Nation、2026年11月23日",
+      "chart": {
+        "bars": [
+          {
+            "label": "農業",
+            "value": 223.6,
+            "display": "223.6億"
+          },
+          {
+            "label": "製造業",
+            "value": 182.1,
+            "display": "182.1億"
+          },
+          {
+            "label": "観光等",
+            "value": 45.1,
+            "display": "45.1億"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "The Nation",
+          "title": "Thailand's floods cost economy over 45 billion baht, with farmers facing fresh El Niño threat",
+          "url": "https://www.nationthailand.com/news/general/40073820",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "The Star（ANN配信）",
+          "title": "Thailand's floods cost economy over US$1.33bil, with farmers facing fresh El Nino threat",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/24/thailands-floods-cost-economy-over-us133bil-with-farmers-facing-fresh-el-nino-threat",
+          "date": "2026-11-24"
+        }
+      ],
+      "seoTitle": "タイ洪水の経済損失450.7億バーツ NESDC",
+      "seoDescription": "タイNESDCは9〜11月の洪水の経済損失を450.7億バーツ（約2,120億円）と集計。58県で680万人に影響し、農業と製造業が約9割。エルニーニョの懸念も。",
+      "tags": [
+        "タイ",
+        "洪水",
+        "NESDC",
+        "エルニーニョ",
+        "工業団地",
+        "チョンブリ県",
+        "農業",
+        "災害支援"
+      ],
+      "publishAt": "2026-11-25T20:50:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/illust/thailand-floods-45-billion-baht-nesdc-58-provinces-sep-nov-2026.png"
+    },
     {
       "slug": "vietnam-labor-code-amendment-paid-holidays-13-days-2027-july-27-november-24",
       "title": "ベトナム国会、労働法などの改正法を可決 有給の祝祭日は2027年から年13日に",
