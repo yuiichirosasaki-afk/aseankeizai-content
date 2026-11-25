@@ -1,0 +1,54 @@
+{
+  "slug": "malaysia-miti-advises-data-centres-against-hosting-seven-us-entity-list-firms",
+  "title": "マレーシア政府、データセンターに米輸出規制リストの7事業体の受け入れ自粛を助言へ",
+  "country": "マレーシア",
+  "category": "IT・スタートアップ",
+  "articleType": "news",
+  "lead": "マレーシアの投資・貿易・産業省（MITI）は11月24日、米商務省が前日に輸出管理の対象リストへ加えた7事業体について、国内のデータセンター事業者に受け入れを控えるよう助言すると発表した。米国の半導体規制が強まるなか、データセンターの拠点としての信頼を保つ動きとみられる。",
+  "summaryHtml": "<ul><li>米商務省産業安全保障局（BIS）は11月23日、最終規則で7事業体をエンティティー・リストに加えた。</li><li>MITIは24日、データセンター事業者に、7事業体の受け入れ、スペースの貸し出し、サービス提供を控えるよう助言すると発表した。ザ・スターによると、マレーシア投資開発庁（MIDA）が全事業者に通知を出す。</li><li>7事業体のうちマレーシア企業は、ザ・スターが2社（Speedmatrix Sdn BhdとMSFusion Sdn Bhd）、フリー・マレーシア・トゥデー（FMT）が3社（PT Megaspeed Internationalを含む）と報じ、食い違う。</li><li>MITIはMIDAの記録から、PT Megaspeed Internationalはマレーシアに存在せず、データセンターの運営者でも利用者でもないと説明した。</li></ul>",
+  "bodyHtml": "<h3>MITIの発表の内容</h3><p>MITIの発表によると、助言の対象は、米商務省産業安全保障局（BIS）が11月23日の最終規則でエンティティー・リストに加えた7事業体だ。MIDAが国内のすべてのデータセンター事業者に通知を出し、これらの事業体をホスティング（受け入れ）の対象とすることや、スペースの貸し出し、サービスの提供を控えるよう求める、とザ・スターは伝えた。FMTの記事は、通知を出す主体を明記していない。助言の根拠として示されたのはBISの規則だけで、マレーシア国内の法令の条文は挙げられていない。MITIは、マレーシアが輸出規制を回避する経路に使われることは認めず、法に違反した者には措置を取ると表明した。</p><h3>事業体の名前と国籍をめぐる報道の違い</h3><p>7事業体のうち、マレーシアに関わる企業の数は報道ごとに異なる。ザ・スターはマレーシア企業を2社、スピードマトリックス（Speedmatrix Sdn Bhd）とMSフュージョン（MSFusion Sdn Bhd）とし、前者はシンガポールで設立されたメガスピード・インターナショナル（Megaspeed International Pte Ltd）の完全子会社だと伝えた。FMTはこの2社にPT Megaspeed Internationalを加えた3社とする。MITIはPT Megaspeed Internationalについて、MIDAの記録ではマレーシアの事業体でもなく、データセンターの運営者や利用者でもないと説明している。両社の関係は、いずれの記事にも詳しい説明がない。FMTによると、MITIはスピードマトリックスをすでに調べていると以前に述べていた。BISがこれらを加えた理由は、本稿の出典では確認できていない。</p><h3>背景にある米国の半導体規制</h3><p>マレー・メールが伝えた民主行動党（DAP）顧問のリム・グアンエン（Lim Guan Eng）氏の声明によると、米国が導入した新しい許可制は11月19日に発効し、先端半導体のマレーシア、シンガポール、インドネシア、タイ、ブラジルへの輸出や再輸出、移転に許可を求める。証券会社HLIBは11月19日のマレーシア株の取引中の解説で、米国の規制強化がKLCI（FBMクアラルンプール総合指数）の重しになっていると指摘した（ベルナマ通信）。AIやデータセンターへの不安が相場の重しになっているという。</p><h3>日系企業への含み</h3><p>マレーシアのデータセンターを利用する日系企業は、契約先の事業者がこの助言にどう対応するかを確認する必要が出る。取引先や利用者に7事業体が含まれていないか、事業者側が点検を進めるとみられる。ただし、助言は法的な拘束力を持つ命令なのか、対応の期限があるのかは、本稿の出典に記載がない。MIDAの通知の文面が公表され次第、確認したい。</p>",
+  "dataFigure": "7事業体",
+  "dataLabel": "米商務省が11月23日にエンティティー・リストへ加えた事業体の数",
+  "dataSource": "ザ・スター、2026年11月24日",
+  "sources": [
+    {
+      "name": "ザ・スター",
+      "title": "Miti: Data centre operators to be advised against hosting US-blacklisted entities",
+      "url": "https://www.thestar.com.my/news/nation/2026/11/24/miti-data-centre-operators-to-be-advised-against-hosting-us-blacklisted-entities",
+      "date": "2026-11-24"
+    },
+    {
+      "name": "フリー・マレーシア・トゥデー",
+      "title": "Miti to advise data centres against hosting US-blacklisted firms",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/24/miti-to-advise-data-centres-against-hosting-us-blacklisted-firms",
+      "date": "2026-11-24"
+    },
+    {
+      "name": "マレー・メール",
+      "title": "With Nvidia CEO back, Lim Guan Eng urges PM Anwar to press Trump to lift chip curbs on Malaysia",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/24/with-nvidia-ceo-back-lim-guan-eng-urges-pm-anwar-to-press-trump-to-lift-chip-curbs-on-malaysia/244499",
+      "date": "2026-11-24"
+    },
+    {
+      "name": "ベルナマ通信",
+      "title": "Bursa Malaysia Slightly Lower At Midday Amid Choppy Regional Markets",
+      "url": "https://bernama.com/en/news.php?id=2636563",
+      "date": "2026-11-19"
+    }
+  ],
+  "seoTitle": "マレーシア、DCに米リスト7事業体の受け入れ自粛を助言",
+  "seoDescription": "マレーシアのMITIが11月24日、米商務省がエンティティー・リストに加えた7事業体を、国内データセンターが受け入れないよう助言すると発表。MIDAが通知を出す。",
+  "tags": [
+    "MITI",
+    "MIDA",
+    "エンティティー・リスト",
+    "データセンター",
+    "米商務省",
+    "Speedmatrix",
+    "MSFusion",
+    "Megaspeed"
+  ],
+  "publishAt": "2026-11-25T12:00:00+09:00",
+  "language": "ja",
+  "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/malaysia-miti-advises-data-centres-against-hosting-seven-us-entity-list-firms.png"
+}

@@ -1,7 +1,236 @@
 {
-  "generatedAt": "2026-11-25T06:22:51+09:00",
+  "generatedAt": "2026-11-25T10:26:27+09:00",
   "site": "東南アジア経済新聞",
   "articles": [
+    {
+      "slug": "thailand-fti-rejects-erc-ft-options-jan-apr-2027-power-tariff-up-to-5-02-baht",
+      "title": "タイ工業連盟、2027年1〜4月の電気料金2案を拒否 最高案は1ユニット5.02バーツ",
+      "country": "タイ",
+      "category": "エネルギー・環境",
+      "articleType": "news",
+      "lead": "タイのエネルギー規制委員会（ERC）が公聴会にかけた2027年1〜4月の電気料金案について、タイ工業連盟（FTI）は11月23日の執行委員会で2案とも拒否した。二層制の案では家庭以外の料金が1ユニット4.73バーツ（約22円）に上がる。データセンターなど新規の需要家には、輸入LNGの追加費用を映した料金を求めた。",
+      "summaryHtml": "<ul><li>ERCは2027年1〜4月の燃料調整料金（Ft）で2案を示し、11月18〜24日に意見を募った。11月13日の国家エネルギー政策委員会（NEPC）の決議を受けた対応で、ガス価格上昇の影響を和らげる措置が背景にある。</li><li>第1案は二層制。家庭、小規模事業、農業用ポンプはFt16.23サタンで、料金は1ユニット3.86バーツ（約18円）のまま。それ以外はFt103.34サタンで、4.73バーツ（約22円）に上がる。</li><li>第2案は一律。Ftは132.48サタン、料金は5.02バーツ（約24円）。タイ発電公社（EGAT）の未回収費用364億3,000万バーツ（約1,710億円、2026年8月末）を含む。</li><li>FTIは2案とも拒否した。新規需要家への追加費用を映した料金、安価なガスの調達、効率化など5項目を提言した。</li></ul>",
+      "bodyHtml": "<h3>ERCの2案の違い</h3><p>ネーション紙によると、ERCの事務局は2027年1〜4月のFtについて、11月18日から24日まで意見を募っている。11月13日のNEPCの決議で、ガス価格の上昇の影響を和らげる措置が決まり、タイ湾のガスを処理する分離工場の産出分は、まず家庭、小規模事業、農業用ポンプに回す方針が示された。2案はいずれも、平均の基準料金を1ユニット3.69バーツ（約17円）として組み立てられている。</p><p>第1案はEGATの提案による二層制だ。家庭、小規模事業、農業用ポンプにはFt16.23サタン（1バーツ＝100サタン）をかけ、料金は3.86バーツのまま据え置く。それ以外の中大型の事業者などにはFt103.34サタンをかけ、4.73バーツに引き上げる。第2案は通常の算定式にそのまま従い、すべての需要家に同じ料金をかける。EGATの未回収費用（2026年8月末で364億3,000万バーツ、Ftで53.84サタン分）と、燃料・購入電力費の変動分78.64サタンを合わせてFtは132.48サタン、料金は5.02バーツになる。過去の精算で積み上がった充当用の資金は、これまでの期の補填に使い切っており、今回の見直しでは2027年1〜4月のFtの相殺に回せない、と同紙は書いている。</p><h3>FTIの主張</h3><p>FTIによると、執行委員会は11月23日の会合で2案とも拒否することを決めた。副会長のイサレス・ラタナディロク・ナ・プーケット（Isares Rattanadilok Na Phuket）氏は、NEPCとERCに、実際の発電費用を映した解決策を求めた。政府が家庭の料金を据え置くなら、「direct subsidies from the state budget」、つまり国家予算からの直接補助を使うべきだとも述べ、第1案の二層制は内部補助にあたると批判した。</p><p>FTIは5項目を提言している。データセンターなど新規の需要家には、輸入液化天然ガス（LNG）の追加費用を映した料金とする。安価な天然ガスの調達を急ぐ。発電・配電の非効率を減らし、再生可能エネルギーとLNG代替を前提に仕組みを組み替える。内部補助のない原価主義の料金にする。家庭への支援は中央予算か精算資金で直接行う。需要家を、新規の需要と、既存の需要に分ける案も示した。</p><h3>産業界への影響と見通し</h3><p>カオフーン・インターナショナルが伝えたFSSIAの分析によると、小売り各社の電気代は平均で売上高の約2%で、生活必需品を扱うハイパーマーケットやモールは2〜3.5%と重い。工業向けの料金が2027年を通して4.73バーツのままなら、BJCとCPAXTの利益は7〜8%押し下げられる見通しだ。通年の料金が10%（1ユニット約0.4バーツ）上がるごとに、業界全体の利益は平均約2%減るという。</p><p>タイに工場や販売拠点を持つ日系企業にとっては、1〜4月の電気料金が二層制で上がるか、一律で上がるかで、コストが変わる。ただし、最終的な料金はERCの決定を待つ必要がある。本稿の換算は1バーツ＝約4.7円の概算による。</p>",
+      "dataFigure": "5.02バーツ",
+      "dataLabel": "ERC第2案（一律）の1ユニット当たり電気料金、2027年1〜4月",
+      "dataSource": "ネーション紙、2026年11月24日",
+      "chart": {
+        "bars": [
+          {
+            "label": "基準",
+            "value": 3.69,
+            "display": "3.69バーツ"
+          },
+          {
+            "label": "案1家庭",
+            "value": 3.86,
+            "display": "3.86バーツ"
+          },
+          {
+            "label": "案1他",
+            "value": 4.73,
+            "display": "4.73バーツ"
+          },
+          {
+            "label": "案2一律",
+            "value": 5.02,
+            "display": "5.02バーツ"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "ネーション（The Nation）",
+          "title": "Thai industry rejects 2027 power hikes, urges end to cross-subsidies",
+          "url": "https://www.nationthailand.com/business/economy/40073862",
+          "date": "2026-11-24"
+        },
+        {
+          "name": "カオフーン・インターナショナル",
+          "title": "Finansia Sees Thai Industrial Power Tariff Hike Posing Greater Risk to Hypermarket Retailers",
+          "url": "https://www.kaohooninternational.com/markets/595047",
+          "date": "2026-11-19"
+        }
+      ],
+      "seoTitle": "タイ工業連盟、2027年1〜4月の電気料金2案を拒否",
+      "seoDescription": "タイ工業連盟が11月23日、ERCの2027年1〜4月の電気料金2案を拒否。二層制で家庭外は4.73バーツ、一律案は5.02バーツ。データセンターへの割増を提案した。",
+      "tags": [
+        "タイ工業連盟",
+        "FTI",
+        "ERC",
+        "EGAT",
+        "燃料調整料金",
+        "電気料金",
+        "データセンター",
+        "NEPC"
+      ],
+      "publishAt": "2026-11-25T13:00:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/thailand-fti-rejects-erc-ft-options-jan-apr-2027-power-tariff-up-to-5-02-baht.png"
+    },
+    {
+      "slug": "singapore-gdp-q3-2026-6-1-percent-2026-forecast-raised-around-6-percent",
+      "title": "シンガポール、2026年成長率見通しを約6%に上方修正 7〜9月は前年比6.1%増",
+      "country": "シンガポール",
+      "category": "経済",
+      "articleType": "news",
+      "lead": "シンガポール政府が2026年通年の成長率見通しを約6%に引き上げたと、ロイターが11月24日に報じた。7〜9月期のGDPは前年同期比6.1%増で、速報値の5.4%を上回った。AI関連の電子機器や機械の輸出が牽引し、2027年は2.5〜4.5%と鈍化を見込む。",
+      "summaryHtml": "<ul><li>7〜9月期のGDPは前年同期比6.1%増。速報値は5.4%、ロイターの民間予測の平均は5.6%だった。季節調整済みの前期比は1.5%増（速報値は1.1%増）。</li><li>2026年通年の見通しは約6.0%。8月に4.5〜5.5%へ引き上げており（その前は2.0〜4.0%）、今回は再度の上方修正となる。</li><li>2027年は2.5〜4.5%を見込む。AI投資の勢いは続くが、伸びは鈍る見方だ。</li><li>非石油地場輸出（NODX）の2026年見通しは、前年比30〜32%増に上げた（従来は14〜16%増）。</li></ul>",
+      "bodyHtml": "<h3>7〜9月期の中身</h3><p>ロイターの報道によると、7〜9月期のGDPは前年同期比6.1%増となり、速報値5.4%と、同社がまとめた民間予測の平均5.6%を上回った。季節調整済みの前期比は1.5%増で、速報値の1.1%増から上方に改定された。政府の発表では、AI関連の生産と輸出が、データセンターの建設需要などを背景に8月以降さらに加速した。ヴェトナムのVnExpressが配信した記事は、牽引役として卸売業と製造業を挙げている。</p><h3>通年見通しと2027年</h3><p>政府は2026年の見通しを約6%とした。8月には4.5〜5.5%へ引き上げていた。2027年については、エネルギー・貿易産業省（METI）が2.5〜4.5%の成長を見込む。同省のベー・スワン・ギン（Beh Swan Gin）次官は、AI投資の勢いは2026年の残りも続くが、新規投資の伸びは今年の高さから和らぐとの見方を示した。米国や中国など主な貿易相手の成長も2027年は鈍るという。エンタープライズ・シンガポールは、NODXの2026年見通しを30〜32%増へ引き上げた。電子機器と特殊機械に加え、船舶関連の大口輸出が寄与した。</p><h3>リスクと見方</h3><p>リスクとして、記事は米国の先端半導体の出荷規制を挙げる。マレーシアやタイなど域内の一部の経済への出荷を制限する規則と、中国企業向けに計算資源を提供する海外のデータセンターへの新たな要件が出ており、ベー次官はシンガポールへの影響を初期の評価で「管理できる範囲」と述べた。また、メイバンクのエコノミスト、チュア・ハク・ビン氏は、見通しの引き上げは「largely technical」（主に技術的）なものだと評し、小売りや飲食が低調で、現代的なサービス業の雇用も弱い、K字型の回復が課題になるとみる。OCBCのセリーナ・リン氏は、10月のコア物価が1.5%と落ち着いていることから、中央銀行は1月の政策会合で金融政策を据え置くとみている。</p><h3>日系企業への含み</h3><p>シンガポールに拠点を置く日系メーカーや商社にとって、域内のAI関連需要の強さは、電子部品や機械の取引に追い風となる。一方で、2027年の鈍化見通しと米国の半導体規制の動向は、投資や在庫の判断に影響しうる。今回の数字はロイターの報道にもとづき、政府の原文は本稿の作成時点で確認できていない。</p>",
+      "dataFigure": "6.1%",
+      "dataLabel": "7〜9月期のGDP成長率（前年同期比）",
+      "dataSource": "ロイター（シンガポール政府発表）、2026年11月24日",
+      "chart": {
+        "bars": [
+          {
+            "label": "速報値",
+            "value": 5.4,
+            "display": "5.4%"
+          },
+          {
+            "label": "予測平均",
+            "value": 5.6,
+            "display": "5.6%"
+          },
+          {
+            "label": "改定値",
+            "value": 6.1,
+            "display": "6.1%"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "ロイター（ザ・スター掲載）",
+          "title": "Singapore raises 2026 growth forecast after 6.1% Q3 expansion",
+          "url": "https://www.thestar.com.my/business/business-news/2026/11/24/singapore-raises-2026-growth-forecast-after-61-q3-expansion",
+          "date": "2026-11-24"
+        },
+        {
+          "name": "ロイター（VnExpress掲載）",
+          "title": "Singapore raises 2026 growth forecast to about 6%",
+          "url": "https://e.vnexpress.net/news/business/economy/singapore-raises-2026-growth-forecast-to-about-6-5148382.html",
+          "date": "2026-11-24"
+        }
+      ],
+      "seoTitle": "シンガポール、2026年成長率を約6%に上方修正",
+      "seoDescription": "シンガポールの7〜9月期GDPは前年比6.1%増。政府は2026年の見通しを約6%に引き上げ、2027年は2.5〜4.5%を見込む。AI関連輸出が牽引した。",
+      "tags": [
+        "シンガポール",
+        "GDP",
+        "成長率見通し",
+        "NODX",
+        "AI関連需要",
+        "エンタープライズ・シンガポール",
+        "メイバンク",
+        "OCBC"
+      ],
+      "publishAt": "2026-11-25T12:30:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/singapore-gdp-q3-2026-6-1-percent-2026-forecast-raised-around-6-percent.png"
+    },
+    {
+      "slug": "malaysia-miti-advises-data-centres-against-hosting-seven-us-entity-list-firms",
+      "title": "マレーシア政府、データセンターに米輸出規制リストの7事業体の受け入れ自粛を助言へ",
+      "country": "マレーシア",
+      "category": "IT・スタートアップ",
+      "articleType": "news",
+      "lead": "マレーシアの投資・貿易・産業省（MITI）は11月24日、米商務省が前日に輸出管理の対象リストへ加えた7事業体について、国内のデータセンター事業者に受け入れを控えるよう助言すると発表した。米国の半導体規制が強まるなか、データセンターの拠点としての信頼を保つ動きとみられる。",
+      "summaryHtml": "<ul><li>米商務省産業安全保障局（BIS）は11月23日、最終規則で7事業体をエンティティー・リストに加えた。</li><li>MITIは24日、データセンター事業者に、7事業体の受け入れ、スペースの貸し出し、サービス提供を控えるよう助言すると発表した。ザ・スターによると、マレーシア投資開発庁（MIDA）が全事業者に通知を出す。</li><li>7事業体のうちマレーシア企業は、ザ・スターが2社（Speedmatrix Sdn BhdとMSFusion Sdn Bhd）、フリー・マレーシア・トゥデー（FMT）が3社（PT Megaspeed Internationalを含む）と報じ、食い違う。</li><li>MITIはMIDAの記録から、PT Megaspeed Internationalはマレーシアに存在せず、データセンターの運営者でも利用者でもないと説明した。</li></ul>",
+      "bodyHtml": "<h3>MITIの発表の内容</h3><p>MITIの発表によると、助言の対象は、米商務省産業安全保障局（BIS）が11月23日の最終規則でエンティティー・リストに加えた7事業体だ。MIDAが国内のすべてのデータセンター事業者に通知を出し、これらの事業体をホスティング（受け入れ）の対象とすることや、スペースの貸し出し、サービスの提供を控えるよう求める、とザ・スターは伝えた。FMTの記事は、通知を出す主体を明記していない。助言の根拠として示されたのはBISの規則だけで、マレーシア国内の法令の条文は挙げられていない。MITIは、マレーシアが輸出規制を回避する経路に使われることは認めず、法に違反した者には措置を取ると表明した。</p><h3>事業体の名前と国籍をめぐる報道の違い</h3><p>7事業体のうち、マレーシアに関わる企業の数は報道ごとに異なる。ザ・スターはマレーシア企業を2社、スピードマトリックス（Speedmatrix Sdn Bhd）とMSフュージョン（MSFusion Sdn Bhd）とし、前者はシンガポールで設立されたメガスピード・インターナショナル（Megaspeed International Pte Ltd）の完全子会社だと伝えた。FMTはこの2社にPT Megaspeed Internationalを加えた3社とする。MITIはPT Megaspeed Internationalについて、MIDAの記録ではマレーシアの事業体でもなく、データセンターの運営者や利用者でもないと説明している。両社の関係は、いずれの記事にも詳しい説明がない。FMTによると、MITIはスピードマトリックスをすでに調べていると以前に述べていた。BISがこれらを加えた理由は、本稿の出典では確認できていない。</p><h3>背景にある米国の半導体規制</h3><p>マレー・メールが伝えた民主行動党（DAP）顧問のリム・グアンエン（Lim Guan Eng）氏の声明によると、米国が導入した新しい許可制は11月19日に発効し、先端半導体のマレーシア、シンガポール、インドネシア、タイ、ブラジルへの輸出や再輸出、移転に許可を求める。証券会社HLIBは11月19日のマレーシア株の取引中の解説で、米国の規制強化がKLCI（FBMクアラルンプール総合指数）の重しになっていると指摘した（ベルナマ通信）。AIやデータセンターへの不安が相場の重しになっているという。</p><h3>日系企業への含み</h3><p>マレーシアのデータセンターを利用する日系企業は、契約先の事業者がこの助言にどう対応するかを確認する必要が出る。取引先や利用者に7事業体が含まれていないか、事業者側が点検を進めるとみられる。ただし、助言は法的な拘束力を持つ命令なのか、対応の期限があるのかは、本稿の出典に記載がない。MIDAの通知の文面が公表され次第、確認したい。</p>",
+      "dataFigure": "7事業体",
+      "dataLabel": "米商務省が11月23日にエンティティー・リストへ加えた事業体の数",
+      "dataSource": "ザ・スター、2026年11月24日",
+      "sources": [
+        {
+          "name": "ザ・スター",
+          "title": "Miti: Data centre operators to be advised against hosting US-blacklisted entities",
+          "url": "https://www.thestar.com.my/news/nation/2026/11/24/miti-data-centre-operators-to-be-advised-against-hosting-us-blacklisted-entities",
+          "date": "2026-11-24"
+        },
+        {
+          "name": "フリー・マレーシア・トゥデー",
+          "title": "Miti to advise data centres against hosting US-blacklisted firms",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/24/miti-to-advise-data-centres-against-hosting-us-blacklisted-firms",
+          "date": "2026-11-24"
+        },
+        {
+          "name": "マレー・メール",
+          "title": "With Nvidia CEO back, Lim Guan Eng urges PM Anwar to press Trump to lift chip curbs on Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/24/with-nvidia-ceo-back-lim-guan-eng-urges-pm-anwar-to-press-trump-to-lift-chip-curbs-on-malaysia/244499",
+          "date": "2026-11-24"
+        },
+        {
+          "name": "ベルナマ通信",
+          "title": "Bursa Malaysia Slightly Lower At Midday Amid Choppy Regional Markets",
+          "url": "https://bernama.com/en/news.php?id=2636563",
+          "date": "2026-11-19"
+        }
+      ],
+      "seoTitle": "マレーシア、DCに米リスト7事業体の受け入れ自粛を助言",
+      "seoDescription": "マレーシアのMITIが11月24日、米商務省がエンティティー・リストに加えた7事業体を、国内データセンターが受け入れないよう助言すると発表。MIDAが通知を出す。",
+      "tags": [
+        "MITI",
+        "MIDA",
+        "エンティティー・リスト",
+        "データセンター",
+        "米商務省",
+        "Speedmatrix",
+        "MSFusion",
+        "Megaspeed"
+      ],
+      "publishAt": "2026-11-25T12:00:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/malaysia-miti-advises-data-centres-against-hosting-seven-us-entity-list-firms.png"
+    },
+    {
+      "slug": "singapore-starhub-m1-all-share-merger-651-million-new-shares-keppel-2027",
+      "title": "スターハブとM1が全株式交換で合併へ シンガポール通信、2027年上期の完了めざす",
+      "country": "シンガポール",
+      "category": "企業・産業",
+      "articleType": "news",
+      "lead": "シンガポールの通信会社スターハブ（StarHub）とM1は11月24日、全株式交換方式で合併する最終契約を結んだと発表した。スターハブがM1の株主に新株を発行し、拡大後の株式の約27.4%を渡す。IMDAなど当局の承認を経て、2027年上期の完了をめざす。",
+      "summaryHtml": "<ul><li>スターハブはM1の株主に約6億5,170万株の新株を発行する。拡大後の発行済み株式の約27.4%にあたる。全株式交換方式で進める。</li><li>M1は約3億8,000万Sドル（約470億円）の純債務を抱えたまま統合される。M1の企業価値は、スターハブの説明で約13億6,000万Sドル（約1,670億円）、ジ・エッジの報道では約10億6,000万Sドルと食い違う。</li><li>統合後の直近12か月（2026年6月まで）の売上高は約26億Sドル（約3,200億円）、顧客は約410万。2030年までに年1億1,000万Sドル（約135億円）のコスト削減を見込む。</li><li>承認は情報通信メディア開発庁（IMDA）、デジタル開発情報省（MDDI）と両社の臨時株主総会が必要。完了は2027年上期の見通しで、それまで両社は別々に事業を続ける。</li></ul>",
+      "bodyHtml": "<h3>合併の枠組みと株主構成</h3><p>スターハブの発表によると、合併は全株式交換方式で、最終契約はすでに結ばれた。スターハブは約6億5,170万株の新株をM1の株主に発行する。M1は純債務約3億8,000万Sドルを引き継ぐ。スターハブは、既存の合弁会社アンティナ（Antina）の持ち分も一本化し、周波数やネットワーク資産の統合につなげるとしている。</p><p>株主構成について、スターハブは『ケッペル（Keppel）がM1の株主を通じて実質23.0%、M1のほかの株主が4.4%を持つ』と説明した。この二つを足すと27.4%になり、ジ・エッジとテックノード（TechNode）は拡大後の持ち分と読んでいる。ケッペルは少なくとも12か月は株を持ち続け、その後の売却は『計画的かつ秩序立てて』進める方針だ。ケッペルの支配株主であるテマセクと、スターハブの大株主アジア・モバイル・ホールディングスは、それぞれの臨時株主総会で議決を棄権する。</p><h3>M1の評価額をめぐる報道の違い</h3><p>M1の企業価値は、出典によって数字が異なる。スターハブの発表では、1株1.50Sドル（運営費の削減効果の現在価値11億Sドルを含む想定）で計算すると、M1に渡す新株は企業価値13億6,000万Sドルに相当する。一方、ジ・エッジは、1株1.04Sドルの発行価格と約3億8,000万Sドルの純債務をもとに、M1単体の企業価値を約10億6,000万Sドル（約1,300億円）と伝えた。差は1株の評価の基準が違うためとみられるが、各社の記事に説明はない。ジ・エッジはこれを『買収』、スターハブは『統合』と表現している点にも差がある。</p><p>ジ・エッジによると、ケッペルはM1の実質約83.9%を持つ。同社のロー・チンファ（Loh Chin Hua）CEOは、M1の債務が連結から外れる分を2027年の特別配当の算定に反映すると述べた。M1の通信事業をめぐっては、豪州上場のチュアス（Tuas）傘下のシンバ・テレコム（Simba Telecom）がケッペルのM1持ち分を14億3,000万Sドル（約1,760億円）で買う計画があったが、規制当局が審査を止め、頓挫したとジ・エッジは書いている。</p><h3>統合の効果と今後の手続き</h3><p>スターハブによると、統合後の直近12か月（2026年6月まで）の売上高は約26億Sドル、利払い・税・償却前利益（EBITDA）は約5億Sドル（約620億円）。純債務のEBITDA比は2.9倍で、顧客は約410万に上る。ネットワーク、インフラ、営業、ITの重複を減らし、2030年までに年1億1,000万Sドルの費用削減を見込む。現在価値では11億Sドル（約1,350億円）という。スターハブのニキル・イーペン（Nikhil Eapen）CEOは「consolidation is the answer」と述べた。『プレミアム、デジタル、バリュー』の各ブランドを組み合わせ、5G、光ファイバー、クラウド、サイバーセキュリティーに投資するとしている。</p><p>完了にはIMDAとMDDIの承認が要る。完了時期は2027年上期とされ、それまでは既存のプランやサービス、窓口は変わらない。</p><h3>日系企業への含み</h3><p>シンガポールで通信サービスを使う日系企業にとって、料金やサービスの設計が変わる可能性がある。ただし、当局の審査はこれからで、統合後の料金や法人向けサービスの具体策は示されていない。日系を含む外資の通信・データセンター事業者との競争環境への影響も、審査の結果を待つ必要がある。換算は1Sドル＝約123円の概算による。</p>",
+      "dataFigure": "27.4%",
+      "dataLabel": "M1の株主に発行する新株が、拡大後のスターハブ株式に占める割合",
+      "dataSource": "スターハブ、2026年11月24日",
+      "sources": [
+        {
+          "name": "スターハブ（StarHub）",
+          "title": "StarHub and M1 to Combine, Creating a Stronger Connectivity and Digital Services Group in Singapore",
+          "url": "https://www.starhub.com/about-us/newsroom/2026/November/starhub-and-m1-to-combine-creating-a-stronger-connectivity-and-digital-services-group-in-singapore.html",
+          "date": "2026-11-24"
+        },
+        {
+          "name": "ジ・エッジ・マレーシア",
+          "title": "StarHub-M1 deal to create Singapore telecoms group with US$3.9 bil enterprise value",
+          "url": "https://theedgemalaysia.com/node/826980",
+          "date": "2026-11-24"
+        },
+        {
+          "name": "テックノード（TNGlobal）",
+          "title": "Singapore's StarHub, M1 to merge in $850M cost-synergy deal",
+          "url": "https://technode.global/2026/11/24/singapores-starhub-m1-to-merge-in-850m-cost-synergy-deal/",
+          "date": "2026-11-24"
+        }
+      ],
+      "seoTitle": "スターハブとM1が全株式交換で合併へ",
+      "seoDescription": "シンガポールのスターハブとM1が11月24日、全株式交換での合併を発表。新株は拡大後の約27.4%で、2027年上期の完了をめざす。M1の評価額は報道で食い違う。",
+      "tags": [
+        "スターハブ",
+        "StarHub",
+        "M1",
+        "ケッペル",
+        "IMDA",
+        "テマセク",
+        "通信再編",
+        "シンガポール"
+      ],
+      "publishAt": "2026-11-25T11:30:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/singapore-starhub-m1-all-share-merger-651-million-new-shares-keppel-2027.png"
+    },
     {
       "slug": "philippines-maharlika-investment-corp-new-ceo-ignacio-succeeds-consing",
       "title": "フィリピンのマハルリカ投資公社、新社長にイグナシオ氏 前任コンシング氏の任期満了で交代",
