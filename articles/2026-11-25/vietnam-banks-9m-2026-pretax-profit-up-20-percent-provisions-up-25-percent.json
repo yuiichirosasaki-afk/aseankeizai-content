@@ -1,0 +1,82 @@
+{
+  "slug": "vietnam-banks-9m-2026-pretax-profit-up-20-percent-provisions-up-25-percent",
+  "title": "ベトナム銀行、1〜9月の税引き前利益20%増 引当金は25%増の約8,570億円",
+  "country": "ベトナム",
+  "category": "金融・市場",
+  "articleType": "news",
+  "lead": "ベトナムのメディアVIRは11月23日、上場銀行の2026年1〜9月の決算を整理した。多くの銀行が年間の利益目標に近づく一方、信用リスクの引当費用は25%増えており、第4四半期にその負担が強まるとの見方が出ている。",
+  "summaryHtml": "<ul><li>VIRによると、銀行全体の1〜9月の税引き前利益は20%増。上場29行の純金利収入は前年同期比18%増の約195.9億ドル（約3兆1,200億円）だった。</li><li>最大手ヴィエトコムバンク（Vietcombank）の税引き前利益は約16.2億ドル（約2,580億円）で22.1%増。通期目標の約87%に達した。</li><li>信用リスクの引当費用は25%増の約53.8億ドル（約8,570億円）。サコムバンク（Sacombank）は約5.1億ドルで、ほぼ6倍に膨らんだ。</li><li>国家銀行（中央銀行）によると、10月26日時点の与信残高は年初比11.9%増。手数料などの純サービス収入は61%増えた。</li><li>ベトナム・ドラゴン証券（VDSC）は、不良債権の処理が進むため第4四半期は引当圧力が強まると見る。</li></ul>",
+  "bodyHtml": "<h3>目標超過の銀行も 手数料収入が伸びる</h3><p>VIRは11月23日付の記事で、上場銀行の1〜9月決算を整理した。ドルの金額はVIRの換算に基づく。BVバンク（BVBank）の税引き前利益は約3,300万ドルで、通期目標の117.9%に達した。ABバンク（ABBank）は目標の95.6%、ヴィエトコムバンクは約87%、SHBは約81%、MBは約77.5%、テクコムバンク（Techcombank）は約77.1%、アジア商業銀行（ACB）は約74%、VPバンク（VPBank）は約72.4%である。</p><p>収益の構成にも変化が見える。上場29行の純金利収入は18%増だったが、純サービス収入（手数料収入）は約31.9億ドル（約5,080億円）で61%増えた。融資の伸びだけに頼らず、手数料などの非金利収益が利益を支えた格好である。VPバンクが10月19日に公表した発表でも、連結税引き前利益は約47%増で、2025年通期の実績に並んだとしている。</p><h3>引当費用の増加と、利益が減った銀行</h3><p>一方で、費用の重さも際立つ。銀行全体の信用リスク引当費用は9月末までに25%増えた。サコムバンクは、引当前利益が42.6%増の約7.5億ドル（約1,190億円）だったのに対し、引当費用は約5.1億ドル（約819億円）に増え、税引き前利益は46.4%減の約2.4億ドル（約375億円）だった。SeABankは41.5%減、エクシムバンク（Eximbank）は58%減、サイゴン銀行（Saigonbank）は74.4%減と、利益が大きく落ちた銀行もある。</p><p>VDSCは、銀行が債務の処理を急ぐため、第4四半期は引当の圧力が強まるとみている。特に、不良債権のカバー率が60%を下回る銀行がリスクになるという。格付け会社FiinRatingsによると、銀行全体の不良債権カバー率は2026年上期に80%を割り、5年ぶりの低水準になった。</p><h3>日系企業への影響と今後の注目点</h3><p>国家銀行の集計では、10月26日時点の与信残高は約8,320億ドル（約132.5兆円）で、年初から11.9%増えた。現地で資金調達する日系企業にとっては、銀行の利益が厚い一方で、引当の負担が増えれば、貸し出し姿勢や条件に影響する可能性がある。ただし出典に貸出金利の動向はなく、現時点では判断できない。注目されるのは、年末に向けた引当の積み増しの規模と、不良債権のカバー率の回復である。2026年の利益目標を達成する銀行がどこまで増えるかも、決算発表で確かめることになる。</p><p>本記事の金額は1ドル＝約159.3円（日本銀行、2026年11月24日の東京市場、17時時点）で換算した。</p>",
+  "dataFigure": "+20%",
+  "dataLabel": "ベトナム銀行の1〜9月の税引き前利益の増加率",
+  "dataSource": "VIR、2026年11月23日",
+  "chart": {
+    "bars": [
+      {
+        "label": "VCB",
+        "value": 87,
+        "display": "約87%"
+      },
+      {
+        "label": "SHB",
+        "value": 81,
+        "display": "約81%"
+      },
+      {
+        "label": "MB",
+        "value": 77.5,
+        "display": "約77.5%"
+      },
+      {
+        "label": "TCB",
+        "value": 77.1,
+        "display": "約77.1%"
+      },
+      {
+        "label": "ACB",
+        "value": 74,
+        "display": "約74%"
+      },
+      {
+        "label": "VPB",
+        "value": 72.4,
+        "display": "約72.4%"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "Vietnam Investment Review",
+      "title": "Banks race ahead of 2026 profit targets but risks persist",
+      "url": "https://vir.com.vn/banks-race-ahead-of-2026-profit-targets-but-risks-persist-165812.html",
+      "date": "2026-11-23"
+    },
+    {
+      "name": "Vietnam Investment Review",
+      "title": "Banks lift nine-month earnings through diversified revenue",
+      "url": "https://vir.com.vn/banks-lift-nine-month-earnings-through-diversified-revenue-164925.html",
+      "date": "2026-11-11"
+    },
+    {
+      "name": "VPBank",
+      "title": "VPBank records VND 30 trillion in PBT in 9 months, up nearly 47% YoY",
+      "url": "https://www.vpbank.com.vn/en/tin-tuc/thong-cao-bao-chi/2026/vpbank-dat-loi-nhuan-gan-30000-ty-dong-sau-9-thang-tang-gan-47-so-voi-cung-ky-nam-ngoai",
+      "date": "2026-10-19"
+    }
+  ],
+  "seoTitle": "ベトナム銀行 1〜9月利益20%増、引当25%増",
+  "seoDescription": "VIRによると、ベトナム上場銀行の1〜9月の税引き前利益は20%増。信用リスク引当費用は25%増の約8,570億円で、第4四半期に圧力が強まるとの見方がある。",
+  "tags": [
+    "ベトナム",
+    "ヴィエトコムバンク",
+    "サコムバンク",
+    "VPバンク",
+    "テクコムバンク",
+    "FiinRatings",
+    "ベトナム・ドラゴン証券",
+    "不良債権"
+  ],
+  "publishAt": "2026-11-25T17:00:00+09:00",
+  "language": "ja",
+  "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/illust/vietnam-banks-9m-2026-pretax-profit-up-20-percent-provisions-up-25-percent.png"
+}

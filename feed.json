@@ -1,7 +1,137 @@
 {
-  "generatedAt": "2026-11-25T14:22:05+09:00",
+  "generatedAt": "2026-11-25T16:19:04+09:00",
   "site": "東南アジア経済新聞",
   "articles": [
+    {
+      "slug": "vietnam-ca-na-lng-power-plant-trungnam-ansaldo-two-gt36-turbines-1500mw",
+      "title": "ベトナム・カーナーLNG火力、伊アンサルドとGT36型ガスタービン2基の契約 出力150万kW",
+      "country": "ベトナム",
+      "category": "エネルギー・環境",
+      "articleType": "news",
+      "lead": "ベトナムのチュンナム建設投資（Trung Nam）は11月20日、イタリアのアンサルド・エネルジア（Ansaldo Energia）と、カーナーLNG火力発電所向けにGT36型ガスタービン2基などを供給する契約を結んだ。総事業費は約22億ドルである。",
+      "summaryHtml": "<ul><li>チュンナムとアンサルド・エネルジアは11月20日、ガスタービン「GT36」2基と発電機、付帯設備の供給契約に署名した。</li><li>発電所はカインホア省にあり、出力は150万kW。年間約90億kWhを国の送電網に供給する計画である。</li><li>総事業費は約22億ドル（約3,500億円）で、VIRはベトナムの第8次電力開発計画（PDP8）改定版に基づく、初の国際競争入札の案件と伝えた。</li><li>4月の報道では、運転開始は2030年の予定とされた。</li><li>VIRの11月23日付の記事は、企業発表の形式の掲載（Biz Link）で、LNGの調達契約には触れていない。</li></ul>",
+      "bodyHtml": "<h3>契約の内容と事業の枠組み</h3><p>VIR（Vietnam Investment Review）によると、チュンナム建設投資とアンサルド・エネルジアは11月20日、カインホア省のカーナー（Cà Ná）LNG火力発電所向けに、GT36型ガスタービン2基、発電機、付帯設備を供給する契約に署名した。同記事は11月23日に掲載された企業発表形式の記事で、契約額は示されていない。チュンナムの会長グエン・タム・ティン（Nguyen Tam Thinh）氏と、アンサルド・エネルジアの新型発電タービン事業担当の執行副社長ステファノ・ジャンナッティ（Stefano Gianatti）氏がコメントを寄せた。</p><p>発電所は出力150万kWのコンバインドサイクル方式で、年間約90億kWhを国の送電網に供給する見込みである。VIRは、同事業がPDP8の改定版のもとで、初めて国際競争入札を経た事業だと伝えた。4月10日には、チュンナムとシデロス・リバー（Sideros River）の企業連合が、カインホア省人民委員会と事業の契約に署名している。</p><h3>事業費と運転開始の時期</h3><p>総事業費について、ベトナム・ニュース（Vietnam News）は4月の記事で約57.4兆ドン（約21.8億ドル）、VIRは「57兆ドン超（約22億ドル）」と伝えた。VIRの11月の記事は22億ドル近くとしており、1ドル＝約159.3円（日本銀行、2026年11月24日の東京市場、17時時点）で換算すると約3,500億円になる。運転開始の予定は2030年とされた。</p><p>同じ4月の契約では、港湾の第1期に向けて、ベトナム開発銀行（VDB）が3兆ドン規模の融資契約を結んだ。港湾はLNGの受け入れ施設を含み、LNGの貯蔵・再ガス化の能力は年100万〜120万トンとされる。ただし、出典にはLNGの調達先や長期購入契約への言及がない。</p><h3>今後の注目点</h3><p>LNG火力はベトナムの電力需給を支える電源として計画が進むが、燃料の調達条件は発電コストを左右する。日系企業にとっては、機器メーカー、商社、金融機関が関わる余地があるとみられるが、現時点では出典に日本企業の関与はない。今後は、LNGの調達契約、港湾の整備、2030年の運転開始に向けた工程の進み具合が注目される。なお、港湾向け融資の実行期限は、Vietnam Newsが2027年6月30日、VIRが同年7月と、報道で異なっている。</p>",
+      "dataFigure": "150万kW",
+      "dataLabel": "カーナーLNG火力発電所の計画出力",
+      "dataSource": "Vietnam Investment Review、2026年11月23日",
+      "sources": [
+        {
+          "name": "Vietnam Investment Review",
+          "title": "Trungnam and Ansaldo Energia ink deal to supply gas turbines to Ca Na LNG power plant",
+          "url": "https://vir.com.vn/trungnam-and-ansaldo-energia-ink-deal-to-supply-gas-turbines-to-ca-na-lng-power-plant-165813.html",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "Vietnam Investment Review",
+          "title": "Khanh Hoa kicks off construction of $2.2 billion Ca Na LNG power plant",
+          "url": "https://vir.com.vn/khanh-hoa-kicks-off-construction-of-22-billion-ca-na-lng-power-plant-150496.html",
+          "date": "2026-04-14"
+        },
+        {
+          "name": "Vietnam News",
+          "title": "Investment deal signed for Cà Ná LNG power plant, wharf projects",
+          "url": "https://vietnamnews.vn/economy/1779216/investment-deal-signed-for-ca-na-lng-power-plant-wharf-projects.html",
+          "date": "2026-04"
+        }
+      ],
+      "seoTitle": "カーナーLNG火力、アンサルドとタービン契約",
+      "seoDescription": "ベトナムのチュンナムは11月20日、伊アンサルド・エネルジアとカーナーLNG火力向けGT36型ガスタービン2基の契約を締結。出力150万kW、総事業費は約3,500億円。",
+      "tags": [
+        "ベトナム",
+        "カーナーLNG火力",
+        "チュンナム",
+        "アンサルド・エネルジア",
+        "GT36",
+        "PDP8",
+        "カインホア省",
+        "LNG"
+      ],
+      "publishAt": "2026-11-25T17:30:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/illust/vietnam-ca-na-lng-power-plant-trungnam-ansaldo-two-gt36-turbines-1500mw.png"
+    },
+    {
+      "slug": "vietnam-banks-9m-2026-pretax-profit-up-20-percent-provisions-up-25-percent",
+      "title": "ベトナム銀行、1〜9月の税引き前利益20%増 引当金は25%増の約8,570億円",
+      "country": "ベトナム",
+      "category": "金融・市場",
+      "articleType": "news",
+      "lead": "ベトナムのメディアVIRは11月23日、上場銀行の2026年1〜9月の決算を整理した。多くの銀行が年間の利益目標に近づく一方、信用リスクの引当費用は25%増えており、第4四半期にその負担が強まるとの見方が出ている。",
+      "summaryHtml": "<ul><li>VIRによると、銀行全体の1〜9月の税引き前利益は20%増。上場29行の純金利収入は前年同期比18%増の約195.9億ドル（約3兆1,200億円）だった。</li><li>最大手ヴィエトコムバンク（Vietcombank）の税引き前利益は約16.2億ドル（約2,580億円）で22.1%増。通期目標の約87%に達した。</li><li>信用リスクの引当費用は25%増の約53.8億ドル（約8,570億円）。サコムバンク（Sacombank）は約5.1億ドルで、ほぼ6倍に膨らんだ。</li><li>国家銀行（中央銀行）によると、10月26日時点の与信残高は年初比11.9%増。手数料などの純サービス収入は61%増えた。</li><li>ベトナム・ドラゴン証券（VDSC）は、不良債権の処理が進むため第4四半期は引当圧力が強まると見る。</li></ul>",
+      "bodyHtml": "<h3>目標超過の銀行も 手数料収入が伸びる</h3><p>VIRは11月23日付の記事で、上場銀行の1〜9月決算を整理した。ドルの金額はVIRの換算に基づく。BVバンク（BVBank）の税引き前利益は約3,300万ドルで、通期目標の117.9%に達した。ABバンク（ABBank）は目標の95.6%、ヴィエトコムバンクは約87%、SHBは約81%、MBは約77.5%、テクコムバンク（Techcombank）は約77.1%、アジア商業銀行（ACB）は約74%、VPバンク（VPBank）は約72.4%である。</p><p>収益の構成にも変化が見える。上場29行の純金利収入は18%増だったが、純サービス収入（手数料収入）は約31.9億ドル（約5,080億円）で61%増えた。融資の伸びだけに頼らず、手数料などの非金利収益が利益を支えた格好である。VPバンクが10月19日に公表した発表でも、連結税引き前利益は約47%増で、2025年通期の実績に並んだとしている。</p><h3>引当費用の増加と、利益が減った銀行</h3><p>一方で、費用の重さも際立つ。銀行全体の信用リスク引当費用は9月末までに25%増えた。サコムバンクは、引当前利益が42.6%増の約7.5億ドル（約1,190億円）だったのに対し、引当費用は約5.1億ドル（約819億円）に増え、税引き前利益は46.4%減の約2.4億ドル（約375億円）だった。SeABankは41.5%減、エクシムバンク（Eximbank）は58%減、サイゴン銀行（Saigonbank）は74.4%減と、利益が大きく落ちた銀行もある。</p><p>VDSCは、銀行が債務の処理を急ぐため、第4四半期は引当の圧力が強まるとみている。特に、不良債権のカバー率が60%を下回る銀行がリスクになるという。格付け会社FiinRatingsによると、銀行全体の不良債権カバー率は2026年上期に80%を割り、5年ぶりの低水準になった。</p><h3>日系企業への影響と今後の注目点</h3><p>国家銀行の集計では、10月26日時点の与信残高は約8,320億ドル（約132.5兆円）で、年初から11.9%増えた。現地で資金調達する日系企業にとっては、銀行の利益が厚い一方で、引当の負担が増えれば、貸し出し姿勢や条件に影響する可能性がある。ただし出典に貸出金利の動向はなく、現時点では判断できない。注目されるのは、年末に向けた引当の積み増しの規模と、不良債権のカバー率の回復である。2026年の利益目標を達成する銀行がどこまで増えるかも、決算発表で確かめることになる。</p><p>本記事の金額は1ドル＝約159.3円（日本銀行、2026年11月24日の東京市場、17時時点）で換算した。</p>",
+      "dataFigure": "+20%",
+      "dataLabel": "ベトナム銀行の1〜9月の税引き前利益の増加率",
+      "dataSource": "VIR、2026年11月23日",
+      "chart": {
+        "bars": [
+          {
+            "label": "VCB",
+            "value": 87,
+            "display": "約87%"
+          },
+          {
+            "label": "SHB",
+            "value": 81,
+            "display": "約81%"
+          },
+          {
+            "label": "MB",
+            "value": 77.5,
+            "display": "約77.5%"
+          },
+          {
+            "label": "TCB",
+            "value": 77.1,
+            "display": "約77.1%"
+          },
+          {
+            "label": "ACB",
+            "value": 74,
+            "display": "約74%"
+          },
+          {
+            "label": "VPB",
+            "value": 72.4,
+            "display": "約72.4%"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "Vietnam Investment Review",
+          "title": "Banks race ahead of 2026 profit targets but risks persist",
+          "url": "https://vir.com.vn/banks-race-ahead-of-2026-profit-targets-but-risks-persist-165812.html",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "Vietnam Investment Review",
+          "title": "Banks lift nine-month earnings through diversified revenue",
+          "url": "https://vir.com.vn/banks-lift-nine-month-earnings-through-diversified-revenue-164925.html",
+          "date": "2026-11-11"
+        },
+        {
+          "name": "VPBank",
+          "title": "VPBank records VND 30 trillion in PBT in 9 months, up nearly 47% YoY",
+          "url": "https://www.vpbank.com.vn/en/tin-tuc/thong-cao-bao-chi/2026/vpbank-dat-loi-nhuan-gan-30000-ty-dong-sau-9-thang-tang-gan-47-so-voi-cung-ky-nam-ngoai",
+          "date": "2026-10-19"
+        }
+      ],
+      "seoTitle": "ベトナム銀行 1〜9月利益20%増、引当25%増",
+      "seoDescription": "VIRによると、ベトナム上場銀行の1〜9月の税引き前利益は20%増。信用リスク引当費用は25%増の約8,570億円で、第4四半期に圧力が強まるとの見方がある。",
+      "tags": [
+        "ベトナム",
+        "ヴィエトコムバンク",
+        "サコムバンク",
+        "VPバンク",
+        "テクコムバンク",
+        "FiinRatings",
+        "ベトナム・ドラゴン証券",
+        "不良債権"
+      ],
+      "publishAt": "2026-11-25T17:00:00+09:00",
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/illust/vietnam-banks-9m-2026-pretax-profit-up-20-percent-provisions-up-25-percent.png"
+    },
     {
       "slug": "thailand-cabinet-efta-fta-dairy-instant-coffee-duty-exemption-jan-2027",
       "title": "タイ閣議、EFTA協定の乳製品・即席コーヒー関税免除案を承認 2027年1月発効めざす",
