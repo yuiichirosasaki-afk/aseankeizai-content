@@ -35,10 +35,14 @@ DealStreetAsia）。
 `schema/article.schema.json` のとおり保存する。
 5. `python3 scripts/make_images.py articles/YYYY-MM-DD` — 図版
 （`images/<slug>.png`）を作り `heroImage` を入れる。
+5b. **イラスト**：記事ごとに `illust/scenes/<slug>.js` に場面を書き（書き方・部品・禁止事項は
+`illust/README.md`、見本は `illust/examples.js`）、`node scripts/make_illust.js articles/YYYY-MM-DD` を
+実行する。`images/illust/<slug>.png` ができ、`heroImage` がイラストに替わる。できた PNG を Read で開いて
+確かめる。実在の人物の顔・企業ロゴ・数字・文字は描かない。描けない記事は図版のままでよい。
 6. `python3 scripts/validate.py articles/YYYY-MM-DD` — すべて OK になるまで直す。
 直せない記事は削除する。
 7. `python3 scripts/build_feed.py` — `feed.json` を作り直す。
-8. `git pull --rebase origin main` のあと、`images/` を含めて `main` に commit・push。メッセージは `Articles YYYY-MM-DD HH:MM
+8. `git pull --rebase origin main` のあと、`images/` と `illust/scenes/` を含めて `main` に commit・push。メッセージは `Articles YYYY-MM-DD HH:MM
 (n)`。メッセージ、Slack、メールは送らない。
 
 ## 記事の形式
