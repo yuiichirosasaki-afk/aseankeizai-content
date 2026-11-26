@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-11-26T18:23:53+09:00",
+  "generatedAt": "2026-11-26T20:23:16+09:00",
   "site": "東南アジア経済新聞",
   "articles": [
+    {
+      "slug": "vietnam-politburo-van-phong-special-economic-zone-conclusion-128-nov-2026",
+      "language": "ja",
+      "title": "ベトナム政治局、カインホア省バンフォンの特別経済区設置を了承 優遇はズンクアット並み",
+      "country": "ベトナム",
+      "category": "政治・政策",
+      "articleType": "news",
+      "lead": "ベトナム共産党政治局は11月20日付の結論第128号で、中南部カインホア省のバンフォン（Vân Phong）に特別経済区を設ける方針に同意した。投資優遇はクアンガイ省のズンクアット経済区並みとし、都市開発法で認められる最高水準も適用できる。制度の詳細は、政府党委員会が今後詰める。",
+      "summaryHtml": "<ul><li>政治局は11月20日付の結論第128号で、カインホア省のバンフォン特別経済区を設置する方針に同意した。</li><li>優遇措置は、クアンガイ省のズンクアット経済区と同じ最大限の優遇を認め、都市開発法の最高水準も加える。</li><li>11月13日の政治局会議で、カインホア省党委員会の提案と関係機関の意見を検討した。</li><li>政府党委員会は、同省党委員会と協力して計画案の見直しと完成を進める。</li><li>出典には、面積、投資額、時期の記載がない。</li></ul>",
+      "bodyHtml": "<h3>政治局の結論の中身</h3><p>ベトナム通信社（VNA）系のBnewsによると、結論第128号（128-KL/TW）は11月20日付で、政治局を代表して党書記局常務のチャン・カム・トゥ（Trần Cẩm Tú）氏が署名した。政治局は11月13日の会議で、カインホア省党委員会が10月29日付と11月10日付の文書で出した提案と、関係機関の意見を検討した。そのうえで、バンフォン特別経済区（Khu kinh tế đặc biệt Vân Phong）の設置方針に同意した。ベトナムの国営通信VietnamPlusはこれを、国際競争力の高い新たな成長の中心を築く道を開くものと伝えている。</p><p>優遇の水準は、クアンガイ省のズンクアット（Dung Quất）経済区の最大限の制度・政策に準じる。加えて、都市開発法の枠内で認められる最高の優遇も使える。具体的な税率や補助の中身は、出典に書かれていない。なお、この話は11月22日にベトナムのZnewsも報じており、26日にBnewsとVietnamPlusが結論の全体を伝えた。</p><h3>これから詰める課題</h3><p>結論は設置の確定ではなく、方針への同意である。Bnewsによると、政府党委員会は、カインホア省党委員会と協力し、関係機関を指導して、計画案の見直しと完成を続ける。詰めるべき点は大きく3つある。1つ目は、海洋国家づくりや物流、新たな成長の極といった国家目標の中での、バンフォンの位置づけと強みである。2つ目は、権限を地方へ大きく移しつつ、統制も効かせる運営・統治の仕組みである。3つ目は、戦略的な投資家を呼び込む優遇の制度と基準で、資源や工程の実現性、社会経済上の効果も確かめる。国防・安全保障、環境、文化、住民の暮らしとの両立も求められた。</p><p>省の権限を超える課題は、所管の機関に報告する。カインホア省党委員会の常務委員会は、目標や影響を周知し、住民の暮らしや権利に関わる政策は公開して透明性を保つ役割を負う。</p><h3>日系企業にとっての見方</h3><p>面積や投資額、時期が示されていないため、現時点で事業環境への影響を測るのは難しい。優遇の水準がズンクアット並みとされた点から、製造業や港湾、物流への投資を検討する企業にとっては、新たな立地の選択肢になる可能性がある。ただし、細かな優遇の中身や運営の仕組みは今後の計画案で決まるとみられ、日系企業が判断できるのはその公表後になる。政府党委員会がどの時期に計画案をまとめるかが、まず注目される。</p>",
+      "dataFigure": "128-KL/TW",
+      "dataLabel": "バンフォン特別経済区に同意した政治局の結論番号",
+      "dataSource": "ベトナム共産党政治局、2026年11月20日付",
+      "sources": [
+        {
+          "name": "Bnews（ベトナム通信社）",
+          "title": "Kết luận của Bộ Chính trị về chủ trương thành lập Khu kinh tế đặc biệt Vân Phong, tỉnh Khánh Hoà",
+          "url": "https://bnews.vn/ket-luan-cua-bo-chinh-tri-ve-chu-truong-thanh-lap-khu-kinh-te-dac-biet-van-phong-tinh-khanh-hoa/445658.html",
+          "date": "2026-11-26"
+        },
+        {
+          "name": "VietnamPlus",
+          "title": "Politburo agrees in principle to establish Van Phong Special Economic Zone",
+          "url": "https://en.vietnamplus.vn/politburo-agrees-in-principle-to-establish-van-phong-special-economic-zone-post356079.vnp",
+          "date": "2026-11-26"
+        },
+        {
+          "name": "Znews",
+          "title": "Bộ Chính trị đồng ý thành lập Khu kinh tế đặc biệt Vân Phong",
+          "url": "https://znews.vn/bo-chinh-tri-dong-y-thanh-lap-khu-kinh-te-dac-biet-van-phong-post1698241.html",
+          "date": "2026-11-22"
+        }
+      ],
+      "seoTitle": "ベトナム政治局、バンフォン特別経済区に同意",
+      "seoDescription": "ベトナム政治局は11月20日付の結論第128号で、カインホア省バンフォンの特別経済区設置に同意。優遇はズンクアット並み。制度の詳細は政府党委員会が今後詰める。",
+      "publishAt": "2026-11-26T21:30:00+09:00",
+      "tags": [
+        "ベトナム",
+        "バンフォン",
+        "Vân Phong",
+        "カインホア省",
+        "特別経済区",
+        "ズンクアット",
+        "政治局"
+      ],
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/illust/vietnam-politburo-van-phong-special-economic-zone-conclusion-128-nov-2026.png"
+    },
     {
       "slug": "philippines-psei-5493-41-nov-25-2026-third-straight-gain-foreign-selling",
       "language": "ja",
@@ -61,6 +108,47 @@
         "ペソ"
       ],
       "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/illust/philippines-psei-5493-41-nov-25-2026-third-straight-gain-foreign-selling.png"
+    },
+    {
+      "slug": "singapore-singtel-govtech-open-digital-platform-one-comcentre-mou-nov-2026",
+      "language": "ja",
+      "title": "シングテルとGovTech、新社屋One Comcentreでスマートビル基盤を導入へ 覚書に署名",
+      "country": "シンガポール",
+      "category": "IT・スタートアップ",
+      "articleType": "news",
+      "lead": "シンガポール通信大手シングテル（Singtel）と政府技術庁GovTechは11月26日、新社屋「One Comcentre」にオープン・デジタル・プラットフォーム（ODP）を導入し、AIを使ったスマートビルの用途を探る覚書に署名した。同ビルは2028年末の完成予定で、通信機能を加えたODPを使う初の建物になる見通しである。",
+      "summaryHtml": "<ul><li>シングテルとGovTechは11月26日、スマートビル分野の協力に関する覚書（MOU）に署名した。</li><li>対象はシングテルの新開発「One Comcentre」で、GovTechと産業用地開発公社JTCが共同開発したODPを導入する。</li><li>シングテルは5G+の通信、ネットワークの知見、AIの技術を提供する。</li><li>One Comcentreの完成は2028年末の予定で、通信機能を強化したODPを使う最初の建物になる見込みである。</li><li>両者は、ODPはそれ自体がAIではなく、運用上の判断を自ら下すものではないと説明している。</li></ul>",
+      "bodyHtml": "<h3>覚書の内容とODPの位置づけ</h3><p>シングテルによると、同社と政府技術庁（GovTech Singapore）は26日、覚書に署名した。内容は、同社の新開発One Comcentreにオープン・デジタル・プラットフォーム（Open Digital Platform、ODP）を導入し、AIを活用したスマートビルの用途を共同で探るというものである。ODPはGovTechと産業用地開発公社JTC（JTC Corporation）が共同で開発した統合基盤で、ロボットや建物の設備といった別々のシステムが、共通のインターフェースを通じてつながり、データをやり取りできるようにする。シングテルは5G+の通信、ネットワークの知見、AIの技術を持ち込む。</p><p>TechNode Globalの報道によると、この案件は、建物の設備、通信網、フィジカルAI（現実の機械や設備を動かすAI）を結びつける実証の場と位置づけられている。One Comcentreは旧Comcentre本社に代わる、オーチャード・ロード沿いの複合ビルで、2028年末の完成を予定する。通信機能を強化した版のODPを使う最初の建物になる見込みである。</p><h3>検討する用途と既存の導入例</h3><p>TechNodeによれば、両者が検討するのは、予防的な設備保守、配送、清掃、警備の巡回といった分野である。建物の設備情報をリアルタイムで映すデジタルツイン（現実の建物を仮想空間に再現したもの）も対象に入る。シングテルは、共用部で複数のロボットを動かす際にネットワークをどう使えるかも調べる。その場合も、出入りと運用の監督は建物の運営者が担うとしている。</p><p>ODPはすでに別の場所で使われている。TechNodeは、プンゴル・デジタル・ディストリクトで2万以上のセンサーやシステムをつないでいるほか、JTCサミットとウッドランズ・ノース・コーストにも導入されていると伝えた。海事港湾庁の海事デジタルツインにも、その設計を応用した。今回の案件は、これに通信事業者の機能を重ねる最初の試みにあたる。</p><h3>誤解されやすい点と、日系企業への見方</h3><p>両者は、ODPは「それ自体がAIシステムではない」と説明している。運用の判断を自動で下す仕組みでもない。名前にあるオープンは、相互に接続でき、機能を足していける設計を指し、建物のデータを一般に公開するという意味ではない。</p><p>出典に費用や参加企業の追加の記載はなく、事業規模や今後の公募の有無は分からない。共通の接続規格が広がれば、シンガポールでビル管理、ロボット、センサー、通信機器を扱う日系企業にとって、個別の仕様に合わせる負担が減るとみられる。一方で、実際にどの機器が接続の対象になるかは今後の詳細発表を待つ必要がある。2028年末の完成までに、実証の範囲がどこまで広がるかが注目される。</p>",
+      "dataFigure": "2028年末",
+      "dataLabel": "One Comcentreの完成予定時期",
+      "dataSource": "TechNode Global、2026年11月26日",
+      "sources": [
+        {
+          "name": "Singtel",
+          "title": "Singtel and GovTech Singapore partner to advance AI-enabled smart buildings with the Open Digital Platform",
+          "url": "https://www.singtel.com/about-us/media-centre/news-releases/singtel-and-govtech-singapore-partner-to-advance-ai-enabled-smart-buildings-with-the-open-digital-platform",
+          "date": "2026-11-26"
+        },
+        {
+          "name": "TechNode Global",
+          "title": "Singtel and GovTech plan AI-enabled smart-building platform at One Comcentre",
+          "url": "https://technode.global/2026/11/26/singtel-govtech-smart-buildings/",
+          "date": "2026-11-26"
+        }
+      ],
+      "seoTitle": "シングテルとGovTech、スマートビルで覚書",
+      "seoDescription": "シングテルとGovTechは11月26日、新社屋One ComcentreにオープンデジタルプラットフォームODPを導入する覚書に署名。2028年末完成予定で、通信機能を加えた初の建物になる。",
+      "publishAt": "2026-11-26T21:00:00+09:00",
+      "tags": [
+        "シンガポール",
+        "シングテル",
+        "Singtel",
+        "GovTech",
+        "JTC",
+        "オープン・デジタル・プラットフォーム",
+        "スマートビル"
+      ],
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/illust/singapore-singtel-govtech-open-digital-platform-one-comcentre-mou-nov-2026.png"
     },
     {
       "slug": "malaysia-cimb-3q-2026-net-profit-rm1-87bn-special-dividend-rm596m",

@@ -1,0 +1,41 @@
+{
+  "slug": "singapore-singtel-govtech-open-digital-platform-one-comcentre-mou-nov-2026",
+  "language": "ja",
+  "title": "シングテルとGovTech、新社屋One Comcentreでスマートビル基盤を導入へ 覚書に署名",
+  "country": "シンガポール",
+  "category": "IT・スタートアップ",
+  "articleType": "news",
+  "lead": "シンガポール通信大手シングテル（Singtel）と政府技術庁GovTechは11月26日、新社屋「One Comcentre」にオープン・デジタル・プラットフォーム（ODP）を導入し、AIを使ったスマートビルの用途を探る覚書に署名した。同ビルは2028年末の完成予定で、通信機能を加えたODPを使う初の建物になる見通しである。",
+  "summaryHtml": "<ul><li>シングテルとGovTechは11月26日、スマートビル分野の協力に関する覚書（MOU）に署名した。</li><li>対象はシングテルの新開発「One Comcentre」で、GovTechと産業用地開発公社JTCが共同開発したODPを導入する。</li><li>シングテルは5G+の通信、ネットワークの知見、AIの技術を提供する。</li><li>One Comcentreの完成は2028年末の予定で、通信機能を強化したODPを使う最初の建物になる見込みである。</li><li>両者は、ODPはそれ自体がAIではなく、運用上の判断を自ら下すものではないと説明している。</li></ul>",
+  "bodyHtml": "<h3>覚書の内容とODPの位置づけ</h3><p>シングテルによると、同社と政府技術庁（GovTech Singapore）は26日、覚書に署名した。内容は、同社の新開発One Comcentreにオープン・デジタル・プラットフォーム（Open Digital Platform、ODP）を導入し、AIを活用したスマートビルの用途を共同で探るというものである。ODPはGovTechと産業用地開発公社JTC（JTC Corporation）が共同で開発した統合基盤で、ロボットや建物の設備といった別々のシステムが、共通のインターフェースを通じてつながり、データをやり取りできるようにする。シングテルは5G+の通信、ネットワークの知見、AIの技術を持ち込む。</p><p>TechNode Globalの報道によると、この案件は、建物の設備、通信網、フィジカルAI（現実の機械や設備を動かすAI）を結びつける実証の場と位置づけられている。One Comcentreは旧Comcentre本社に代わる、オーチャード・ロード沿いの複合ビルで、2028年末の完成を予定する。通信機能を強化した版のODPを使う最初の建物になる見込みである。</p><h3>検討する用途と既存の導入例</h3><p>TechNodeによれば、両者が検討するのは、予防的な設備保守、配送、清掃、警備の巡回といった分野である。建物の設備情報をリアルタイムで映すデジタルツイン（現実の建物を仮想空間に再現したもの）も対象に入る。シングテルは、共用部で複数のロボットを動かす際にネットワークをどう使えるかも調べる。その場合も、出入りと運用の監督は建物の運営者が担うとしている。</p><p>ODPはすでに別の場所で使われている。TechNodeは、プンゴル・デジタル・ディストリクトで2万以上のセンサーやシステムをつないでいるほか、JTCサミットとウッドランズ・ノース・コーストにも導入されていると伝えた。海事港湾庁の海事デジタルツインにも、その設計を応用した。今回の案件は、これに通信事業者の機能を重ねる最初の試みにあたる。</p><h3>誤解されやすい点と、日系企業への見方</h3><p>両者は、ODPは「それ自体がAIシステムではない」と説明している。運用の判断を自動で下す仕組みでもない。名前にあるオープンは、相互に接続でき、機能を足していける設計を指し、建物のデータを一般に公開するという意味ではない。</p><p>出典に費用や参加企業の追加の記載はなく、事業規模や今後の公募の有無は分からない。共通の接続規格が広がれば、シンガポールでビル管理、ロボット、センサー、通信機器を扱う日系企業にとって、個別の仕様に合わせる負担が減るとみられる。一方で、実際にどの機器が接続の対象になるかは今後の詳細発表を待つ必要がある。2028年末の完成までに、実証の範囲がどこまで広がるかが注目される。</p>",
+  "dataFigure": "2028年末",
+  "dataLabel": "One Comcentreの完成予定時期",
+  "dataSource": "TechNode Global、2026年11月26日",
+  "sources": [
+    {
+      "name": "Singtel",
+      "title": "Singtel and GovTech Singapore partner to advance AI-enabled smart buildings with the Open Digital Platform",
+      "url": "https://www.singtel.com/about-us/media-centre/news-releases/singtel-and-govtech-singapore-partner-to-advance-ai-enabled-smart-buildings-with-the-open-digital-platform",
+      "date": "2026-11-26"
+    },
+    {
+      "name": "TechNode Global",
+      "title": "Singtel and GovTech plan AI-enabled smart-building platform at One Comcentre",
+      "url": "https://technode.global/2026/11/26/singtel-govtech-smart-buildings/",
+      "date": "2026-11-26"
+    }
+  ],
+  "seoTitle": "シングテルとGovTech、スマートビルで覚書",
+  "seoDescription": "シングテルとGovTechは11月26日、新社屋One ComcentreにオープンデジタルプラットフォームODPを導入する覚書に署名。2028年末完成予定で、通信機能を加えた初の建物になる。",
+  "publishAt": "2026-11-26T21:00:00+09:00",
+  "tags": [
+    "シンガポール",
+    "シングテル",
+    "Singtel",
+    "GovTech",
+    "JTC",
+    "オープン・デジタル・プラットフォーム",
+    "スマートビル"
+  ],
+  "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/illust/singapore-singtel-govtech-open-digital-platform-one-comcentre-mou-nov-2026.png"
+}
