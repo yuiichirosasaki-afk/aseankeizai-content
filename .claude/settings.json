@@ -1,0 +1,37 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:kontan.co.id)",
+      "WebFetch(domain:bisnis.com)",
+      "WebFetch(domain:katadata.co.id)",
+      "WebFetch(domain:cnbcindonesia.com)",
+      "WebFetch(domain:thejakartapost.com)",
+      "WebFetch(domain:antaranews.com)",
+      "WebFetch(domain:vnexpress.net)",
+      "WebFetch(domain:tuoitre.vn)",
+      "WebFetch(domain:tuoitrenews.vn)",
+      "WebFetch(domain:vietnamplus.vn)",
+      "WebFetch(domain:bangkokpost.com)",
+      "WebFetch(domain:nationthailand.com)",
+      "WebFetch(domain:prachachat.net)",
+      "WebFetch(domain:bworldonline.com)",
+      "WebFetch(domain:inquirer.net)",
+      "WebFetch(domain:philstar.com)",
+      "WebFetch(domain:theedgemarkets.com)",
+      "WebFetch(domain:thestar.com.my)",
+      "WebFetch(domain:nst.com.my)",
+      "WebFetch(domain:businesstimes.com.sg)",
+      "WebFetch(domain:straitstimes.com)",
+      "WebFetch(domain:channelnewsasia.com)",
+      "WebFetch(domain:reuters.com)",
+      "WebFetch(domain:asia.nikkei.com)",
+      "WebFetch(domain:dealstreetasia.com)",
+      "WebFetch(domain:ustr.gov)",
+      "WebFetch(domain:mof.gov.sg)",
+      "WebFetch(domain:mas.gov.sg)",
+      "WebFetch(domain:bi.go.id)",
+      "WebFetch(domain:bps.go.id)",
+      "WebFetch(domain:pajak.go.id)"
+    ]
+  }
+}
