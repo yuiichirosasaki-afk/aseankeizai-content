@@ -1,7 +1,134 @@
 {
-  "generatedAt": "2026-11-26T14:21:23+09:00",
+  "generatedAt": "2026-11-26T16:18:10+09:00",
   "site": "東南アジア経済新聞",
   "articles": [
+    {
+      "slug": "malaysia-johari-19-percent-tariff-ceiling-art-talks-first-quarter-2027",
+      "title": "マレーシア、米関税は19%超えぬよう要求 過剰生産能力の協議は2027年1〜3月期まで",
+      "country": "マレーシア",
+      "category": "貿易・物流",
+      "articleType": "news",
+      "lead": "マレーシアのジョハリ投資・貿易・産業相は11月26日、米国との相互貿易協定（ART）で約束された19%を、関税の合計が超えてはならないと述べた。USTRは同国に最大18%の関税案を示したが、過剰生産能力をめぐる協議は2027年1〜3月期まで続く。",
+      "summaryHtml": "<ul><li>ジョハリ・アブドル・ガニ投資・貿易・産業相は26日、米国向けの関税の合計はARTで合意した19%を超えてはならないと述べた。</li><li>USTRは25日、マレーシアに最大18%の関税案を示した。協議が不十分なら最大25%とする代替案もある。</li><li>同相によると、米国は18〜25%の幅を非公式に伝えたが、マレーシアの立場は変わらない。協議は2027年1〜3月期まで続く。</li><li>意見書の期限は2027年1月5日、公聴会は1月25日。</li></ul>",
+      "bodyHtml": "<h3>19%の上限をめぐる発言</h3><p>ジョハリ・アブドル・ガニ投資・貿易・産業相（Johari Abdul Ghani）は11月26日、記者団に語った。通信社ベルナマによると、同相は「我々は最初にARTに署名し、19%を約束された」と述べ、米国の関税の総額が19%を超えてはならないとの立場を示した。協議は2027年1〜3月期まで続くため、説明と主張の時間は残っているとも語った。</p><p>米国側は、過剰生産能力の評価に基づく税率として18〜25%の幅をマレーシアに伝えたという。同相は、この幅を示されても立場は変わらないとした。過剰生産能力については、米国がまだ最終的な方針を固めておらず、実施の仕方も詰めている段階だと説明した。マレーシア投資貿易産業省（MITI）は、同国に過剰生産能力はないと一貫して主張してきた。</p><h3>USTRの案と、示されていない点</h3><p>USTRは11月25日、構造的な過剰生産能力をめぐる通商法301条の調査で、14経済圏への関税案を公表した。ベーカー・マッケンジー（Baker McKenzie）の整理では、マレーシアは既存の301条関税を織り込んだ最大18%で、協議の結果が不十分なら最大25%とする代替案が付いた。インドネシア、タイ、カンボジアも同じ水準である。シンガポールは最大20%、ベトナムは最大35%とされた。</p><p>提案の18%は、ARTの19%を下回る数字である。一方で、代替案の25%は19%を上回る。ただし、19%と301条の関税がどう組み合わさるかは、本紙が開いた出典では確認できない。法律事務所は、通知が「織り込む」計算の方法を明示していないと指摘している。ジョハリ氏は、強制労働をめぐる301条の関税は10%で確定したとも述べた。</p><h3>対象分野と今後の日程</h3><p>ベルナマによると、過剰生産能力の調査では鉄鋼が精査の対象となり得る。過剰な生産能力が他国の輸出の経由地となることへの懸念があるためである。半導体は、現段階では評価の対象外だと同相は語った。日系を含む電気・電子分野の対米輸出に影響が及ぶかどうかは、最終的な品目の範囲しだいとみられる。</p><p>手続きは、意見書と公聴会への出席申請が2027年1月5日、公聴会が1月25日にワシントンで開かれる。最終判断は2027年初めになる見通しである。USTRは、マレーシアを含む一部の通知で、繊維・衣料に低い税率を適用する仕組みについても意見を求めている。マレーシア政府は引き続きUSTRと協議する考えで、日系を含む輸出企業は、19%の約束がどこまで最終案に反映されるかを注視することになる。</p>",
+      "dataFigure": "19%",
+      "dataLabel": "マレーシアが関税の合計の上限とするARTの税率",
+      "dataSource": "ジョハリ投資・貿易・産業相、2026年11月26日",
+      "chart": {
+        "bars": [
+          {
+            "label": "ART",
+            "value": 19,
+            "display": "19%"
+          },
+          {
+            "label": "提案上限",
+            "value": 18,
+            "display": "最大18%"
+          },
+          {
+            "label": "代替案",
+            "value": 25,
+            "display": "最大25%"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "Malay Mail（Bernama）",
+          "title": "Malaysia wants US to honour 19pc tariff deal, Miti says, as fresh duties loom",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/26/malaysia-wants-us-to-honour-19pc-tariff-deal-miti-says-as-fresh-duties-loom/244867",
+          "date": "2026-11-26"
+        },
+        {
+          "name": "Baker McKenzie Global Import Blog",
+          "title": "US: USTR Proposes Section 301 Tariffs on 14 Economies Over \"Structural Excess Capacity\"",
+          "url": "https://globalimportblog.bakermckenzie.com/2026/11/25/us-ustr-proposes-section-301-tariffs-on-14-economies-over-structural-excess-capacity/",
+          "date": "2026-11-25"
+        }
+      ],
+      "seoTitle": "マレーシア、米関税は19%超えぬよう要求",
+      "seoDescription": "ジョハリ貿易相は11月26日、米国の関税の合計はARTの19%を超えてはならないと述べた。USTRの案は最大18%で、協議は2027年1〜3月期まで続く。",
+      "publishAt": "2026-11-26T17:45:00+09:00",
+      "tags": [
+        "マレーシア",
+        "ジョハリ貿易相",
+        "USTR",
+        "通商法301条",
+        "相互貿易協定",
+        "関税",
+        "過剰生産能力"
+      ],
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/illust/malaysia-johari-19-percent-tariff-ceiling-art-talks-first-quarter-2027.png"
+    },
+    {
+      "slug": "thailand-ustr-301-proposed-tariff-18-percent-suphajee-nov-2026",
+      "title": "米国、タイに最大18%の関税案 商務相は「想定内」 意見書は2027年1月5日まで",
+      "country": "タイ",
+      "category": "貿易・物流",
+      "articleType": "news",
+      "lead": "米通商代表部（USTR）は11月25日、通商法301条に基づく過剰生産能力の調査で、タイに最大18%の関税を課す案を示した。スパチー副首相兼商務相は想定の範囲内と述べ、相互貿易協定（ART）の早期署名を急ぐ考えを示した。意見書の期限は2027年1月5日、公聴会は1月25日である。",
+      "summaryHtml": "<ul><li>USTRは11月25日、過剰生産能力をめぐる301条調査で、タイなど14経済圏への関税案を公表した。タイは最大18%で、協議が不十分なら最大25%とする代替案も付いた。</li><li>18%は既存の301条関税を織り込んだ上限で、上乗せの18%ではない。強制労働をめぐる関税の現行12.5%は当面続く。</li><li>スパチー商務相は、11月17日の首脳共同声明でARTの主要部分が実質合意に達したとして、18%は想定内と述べた。</li><li>タイの2025年の対米輸出は2兆3,700億バーツ（約11兆円）で、輸出全体の約25%を占める。</li><li>意見書は2027年1月5日、公聴会は1月25日。最終判断は2027年初めの見通し。</li></ul>",
+      "bodyHtml": "<h3>提案の中身と税率の読み方</h3><p>USTRは11月25日、構造的な過剰生産能力と製造業の生産をめぐる301条調査のうち、16件中14件について判断と関税案を公表した。タイには最大18%を課す案で、法律事務所ベーカー・マッケンジー（Baker McKenzie）の整理では、既存の301条関税を織り込んだ水準である。協議や約束が不十分と判断された場合の代替案は最大25%とされた。</p><p>タイの現地紙ネーションによると、強制労働をめぐる301条の関税は現行の12.5%が当面続く。18%は積み増し後の上限であり、さらに18%が加わるわけではない。バンコクの米大使館関係者も、示された税率は固定の関税ではなく上限だと説明したと伝えられた。いずれも提案の段階で、発効していない。</p><h3>近隣国との比較と商務相の受け止め</h3><p>近隣国では、マレーシア、インドネシア、カンボジアがタイと同じ最大18%、シンガポールが最大20%、ベトナムが最大35%である。日本、韓国、台湾、スイスは最大15%だが、これらは最恵国（MFN）税率も織り込む計算で、基準が異なるため単純には比べられない。</p><p>スパチー副首相兼商務相（Suphajee Suthumpun）は、18%は想定の範囲内だと述べた。11月17日にアヌティン首相とトランプ米大統領がASEAN首脳会議の場で署名した共同声明を挙げ、ARTの主要部分は実質的に合意したと説明した。協議が整わなければ25%となり、近隣国より7ポイント高い条件で輸出する恐れがあったという。一方でタイ政府は、USTRの認定に異議を唱えている。補助金で過剰生産を促してはおらず、投資奨励はWTOの義務に沿うとの立場である。</p><h3>日系企業への影響と今後の日程</h3><p>米国はタイ最大の輸出市場である。商務省の説明では、2025年の対米輸出は2兆3,700億バーツ（約11兆円、1バーツ＝約4.7円で換算）で、輸出全体の約25%に当たる。2026年は3兆バーツ（約14兆円）に達する見通しという。農産物は約1,700億バーツ（約8,000億円）、ゴム・ゴム製品は少なくとも1,600億バーツ（約7,500億円）で、対米貿易は125万人超の雇用を支えるとされる。</p><p>対米輸出向けに生産する日系企業にとって、最終税率は採算に直結するとみられる。ただし、自動車・同部品、鉄鋼、半導体など232条の関税がかかる品目は、今回の301条案の対象から除かれる。対象外の品目一覧は官報の別表にあり、個別の影響は確認が必要である。</p><p>日程は、意見書と公聴会への出席申請が2027年1月5日、公聴会が1月25日である。最終判断はその後で、2027年初めになる見通しとされる。タイ政府は追加の資料を示して最低水準を目指すとともに、影響を受ける企業への支援策を用意する方針である。ARTの発効には、法的な精査、閣議承認、署名、国民への意見聴取、国会承認、国内法の改正、批准が必要で、日程は示されていない。</p>",
+      "dataFigure": "最大18%",
+      "dataLabel": "USTRが示したタイ産品への関税案（不調時は最大25%）",
+      "dataSource": "米通商代表部の発表を伝えたネーション紙、2026年11月26日",
+      "chart": {
+        "bars": [
+          {
+            "label": "現行",
+            "value": 12.5,
+            "display": "12.5%"
+          },
+          {
+            "label": "提案上限",
+            "value": 18,
+            "display": "最大18%"
+          },
+          {
+            "label": "不調時",
+            "value": 25,
+            "display": "最大25%"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "The Nation",
+          "title": "US proposes 18% tariff ceiling on Thai goods, Commerce Ministry insists trade talks are paying off",
+          "url": "https://www.nationthailand.com/business/economy/40073945",
+          "date": "2026-11-26"
+        },
+        {
+          "name": "Kaohoon International",
+          "title": "Thailand Sees Export Competitiveness Intact as US Proposes 18% Tariff Cap",
+          "url": "https://www.kaohooninternational.com/economics/595519",
+          "date": "2026-11-26"
+        },
+        {
+          "name": "Baker McKenzie Global Import Blog",
+          "title": "US: USTR Proposes Section 301 Tariffs on 14 Economies Over \"Structural Excess Capacity\"",
+          "url": "https://globalimportblog.bakermckenzie.com/2026/11/25/us-ustr-proposes-section-301-tariffs-on-14-economies-over-structural-excess-capacity/",
+          "date": "2026-11-25"
+        }
+      ],
+      "seoTitle": "米、タイに最大18%の関税案 商務相は想定内",
+      "seoDescription": "USTRは11月25日、301条調査でタイに最大18%の関税案を示した。商務相は想定内と述べた。意見書は2027年1月5日、公聴会は1月25日。",
+      "publishAt": "2026-11-26T17:15:00+09:00",
+      "tags": [
+        "タイ",
+        "USTR",
+        "通商法301条",
+        "関税",
+        "スパチー商務相",
+        "相互貿易協定",
+        "過剰生産能力",
+        "対米輸出"
+      ],
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/illust/thailand-ustr-301-proposed-tariff-18-percent-suphajee-nov-2026.png"
+    },
     {
       "slug": "indonesia-ustr-section-301-proposed-tariff-18-percent-downstreaming-nov-25-2026",
       "title": "米国、インドネシアに最大18%の関税案 資源の下流化政策も問題視",
