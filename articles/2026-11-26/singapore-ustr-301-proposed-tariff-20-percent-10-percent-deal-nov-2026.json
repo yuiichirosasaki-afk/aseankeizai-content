@@ -1,0 +1,61 @@
+{
+  "slug": "singapore-ustr-301-proposed-tariff-20-percent-10-percent-deal-nov-2026",
+  "title": "米国、シンガポールに最大20%の追加関税案 協定交渉で10%に 公聴会は1月25日",
+  "country": "シンガポール",
+  "category": "貿易・物流",
+  "articleType": "news",
+  "lead": "米通商代表部（USTR）は11月25日、通商法301条に基づく14経済圏の調査結果を発表し、シンガポールに最大20%の関税を課す案を示した。米国との協定などで進展があれば10%に調整する余地がある。意見募集は2027年1月5日までで、公聴会は1月25日に開かれる。",
+  "summaryHtml": "<ul><li>USTRは11月25日、過剰生産能力をめぐる301条調査で、シンガポールなど14経済圏に対する判断と関税案を公表した。</li><li>シンガポールへの案は全品目に最大20%で、一部の品目は除外される。米国との相互貿易協定などの交渉で約束が得られれば10%に調整する。</li><li>USTRは産業計画、金融抑制、貯蓄促進策による消費の抑制などを挙げ、電子・半導体、医療、石油化学を対象分野とした。</li><li>意見書と公聴会の出席申請は2027年1月5日、公聴会は1月25日。発効は早くても1月とAFPが米政府高官の話として伝えた。</li></ul>",
+  "bodyHtml": "<h3>調査の結論と提案の中身</h3><p>USTRは2026年3月11日、構造的な過剰生産能力と製造業の生産をめぐり、16の経済圏を対象に301条調査を始めた。11月25日の発表では、シンガポールを含む14経済圏の政策や慣行が「不合理で米国の通商に負担をかけ、301条(b)に基づき対応できる」と判断した。ノルウェーとメキシコは対象の16に入っていたが、今回は判断が示されていない。</p><p>シンガポールについての提案は、全品目に最大20%の関税を課すというものである。既存の301条関税を織り込んだ水準で、一部の品目には除外がある。ただし、米国と相互貿易協定を結ぶか、それに応じた交渉で約束が得られれば、約束を考慮して10%に調整するとしている。発表は「最大」「提案」という表現で、確定した税率ではない。</p><h3>USTRが挙げた理由と対象分野</h3><p>USTRがシンガポールについて挙げた問題は、産業計画、金融抑制、国内消費を抑える貯蓄促進策、労働者保護の不備、重点分野への資金支援などである。非市場経済からの輸入や直接投資を通じた過剰生産能力への対処が足りない点も指摘した。対象分野は電子・半導体、医療、石油化学とされた。これらはUSTRの主張であり、シンガポール側の見解は、本紙が開いた出典では確認できていない。</p><p>近隣国と比べると、インドネシア、マレーシア、タイは最大18%、ベトナムは最大35%（協定が結ばれれば20%）である。日本、韓国、台湾、スイスは最大15%で、欧州連合（EU）も15%と案が示された。シンガポールの20%は、日本より高い水準になる。</p><h3>日系企業への影響と今後</h3><p>シンガポールには、電子部品や化学品の製造・調達の拠点を置く日系企業が多い。対象分野が半導体や石油化学に及ぶため、米国向けの輸出や域内の調達網に影響が及ぶ可能性がある。ただし、除外される品目の一覧は発表本文では確認できず、実際の負担は官報の別表を見て判断する必要がある。</p><p>日程は、意見書と公聴会の出席申請が2027年1月5日、公聴会が1月25日である。AFP通信は米政府高官の話として、関税の発効は早くても1月になる見通しだと伝えた。新しい関税は、自動車や鉄鋼などの232条関税とは重複しないとも報じられている。協定交渉の行方が税率を左右するため、シンガポール政府の対応が注目される。</p>",
+  "dataFigure": "最大20%",
+  "dataLabel": "USTRが示したシンガポールへの関税案（協定が進めば10%）",
+  "dataSource": "米通商代表部、2026年11月25日",
+  "chart": {
+    "bars": [
+      {
+        "label": "協定後",
+        "value": 10,
+        "display": "10%"
+      },
+      {
+        "label": "提案",
+        "value": 20,
+        "display": "最大20%"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "米通商代表部（USTR）",
+      "title": "USTR Makes Determinations and Proposes Actions in 14 Section 301 Investigations Relating to Structural Excess Capacity and Production in Manufacturing Sectors",
+      "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural",
+      "date": "2026-11-25"
+    },
+    {
+      "name": "CNBC Indonesia",
+      "title": "RI Kena 18%, Daftar Lengkap Negara yang Bakal Dihukum Tarif Baru Trump",
+      "url": "https://www.cnbcindonesia.com/news/20261126084114-4-788579/ri-kena-18-daftar-lengkap-negara-yang-bakal-dihukum-tarif-baru-trump",
+      "date": "2026-11-26"
+    },
+    {
+      "name": "VnExpress International（AFP）",
+      "title": "Trump unveils proposed tariffs on major partners, including EU and China",
+      "url": "https://e.vnexpress.net/news/business/economy/trump-unveils-proposed-tariffs-on-major-partners-including-eu-and-china-5148930.html",
+      "date": "2026-11-25"
+    }
+  ],
+  "seoTitle": "米、シンガポールに最大20%の関税案",
+  "seoDescription": "USTRは11月25日、301条調査でシンガポールに最大20%の関税案を示した。協定交渉が進めば10%。意見募集は1月5日まで、公聴会は1月25日。",
+  "publishAt": "2026-11-26T15:00:00+09:00",
+  "tags": [
+    "シンガポール",
+    "USTR",
+    "通商法301条",
+    "関税",
+    "過剰生産能力",
+    "相互貿易協定",
+    "半導体"
+  ],
+  "language": "ja",
+  "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/illust/singapore-ustr-301-proposed-tariff-20-percent-10-percent-deal-nov-2026.png"
+}

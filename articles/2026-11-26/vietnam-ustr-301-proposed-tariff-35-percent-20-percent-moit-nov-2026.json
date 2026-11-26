@@ -1,0 +1,61 @@
+{
+  "slug": "vietnam-ustr-301-proposed-tariff-35-percent-20-percent-moit-nov-2026",
+  "title": "米国、ベトナムに最大35%の関税案 協定で20%に 商工省は即時発効せずと説明",
+  "country": "ベトナム",
+  "category": "貿易・物流",
+  "articleType": "news",
+  "lead": "米通商代表部（USTR）は11月25日、ベトナムに最大35%の関税を課す案を発表した。米国と相互貿易協定を結べば20%に調整する余地がある。ベトナム商工省は提案段階で直ちには発効しないと説明し、公聴会への参加と書面での反論を準備している。",
+  "summaryHtml": "<ul><li>USTRは11月25日、301条調査の結果、ベトナムに全品目で最大35%の関税を課す案を公表した。</li><li>米国と相互貿易協定を結べば、約束を考慮して20%に調整することを検討するとしている。</li><li>ベトナム商工省は、提案は直ちには発効せず、最終決定は早ければ2月、遅くとも3月11日と説明した。</li><li>公聴会は2027年1月25日。商工省は書面で反論し、協定の妥結を急ぐ方針を示した。</li></ul>",
+  "bodyHtml": "<h3>USTRの提案と理由</h3><p>USTRは11月25日、過剰生産能力をめぐる通商法301条の調査で、ベトナムを含む14経済圏の政策や慣行を米国の通商に負担をかけるものと判断した。ベトナムへの案は、全品目に最大35%で、既存の301条関税を織り込んだ水準である。米国と相互貿易協定を結び、その内容が判断に応えるものなら、約束と20%の税率を考慮して調整する、としている。</p><p>USTRは理由として10項目を挙げた。産業計画や国家計画、土地利用計画の仕組み、労働法制の不備、金融抑制、重点分野への資金配分、価格規制、非市場経済からの直接投資・輸入・迂回輸出（トランシップメント）などである。対象の分野は繊維・衣料・履物、造船、セメント、情報通信技術（ICT）とされた。これらはUSTRの主張である。</p><h3>商工省の反応</h3><p>ベトナム商工省は発表の数時間後、報道機関に対し、35%は提案で直ちには発効しないと説明した。公聴会は2027年1月25日に始まり、最終的な税率、既存の関税との関係、除外する品目がここで詰められる。最終決定は早ければ2月、遅くとも3月11日になるという。実質的な進展が認められれば、税率は下がる可能性があるとも述べた。</p><p>同省は、11月21日に政府が出した2026〜2030年の貿易黒字の管理計画にも触れた。過剰生産能力、原産地の偽装、不正な迂回輸出、強制労働による製品を防ぐ内容である。商工省は、関係機関と公聴会に参加し、予備的な判断に対する書面の反論を出して、協定の妥結を進める方針である。</p><h3>数字の食い違いと今後</h3><p>AFP通信は、ベトナムの案を20%と報じた。しかしUSTRの発表では、35%が上限で、20%は協定を結んだ場合の水準である。本紙はUSTRの発表を基にした。ほかに最大18%がインドネシア、マレーシア、タイ、カンボジア、バングラデシュ、最大20%がシンガポール、最大15%が日本とされた。</p><p>ベトナムで衣料や履物、電子機器を生産し、米国へ輸出する日系企業は多い。税率が35%のままなら調達や価格の見直しが必要になる。一方、20%に下がれば負担は軽くなる。米政府高官は発効は早くても1月と述べており、2027年1月の意見募集と公聴会、2月から3月の最終決定が焦点となる。</p>",
+  "dataFigure": "最大35%",
+  "dataLabel": "USTRが示したベトナムへの関税案（協定が結ばれれば20%）",
+  "dataSource": "米通商代表部、2026年11月25日",
+  "chart": {
+    "bars": [
+      {
+        "label": "協定後",
+        "value": 20,
+        "display": "20%"
+      },
+      {
+        "label": "提案",
+        "value": 35,
+        "display": "最大35%"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "米通商代表部（USTR）",
+      "title": "USTR Makes Determinations and Proposes Actions in 14 Section 301 Investigations Relating to Structural Excess Capacity and Production in Manufacturing Sectors",
+      "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural",
+      "date": "2026-11-25"
+    },
+    {
+      "name": "VnExpress International",
+      "title": "Proposed US tariff on Vietnam could fall, ministry says",
+      "url": "https://e.vnexpress.net/news/business/economy/proposed-us-tariff-on-vietnam-could-fall-ministry-says-5148937.html",
+      "date": "2026-11-25"
+    },
+    {
+      "name": "VnExpress International（AFP）",
+      "title": "Trump unveils proposed tariffs on major partners, including EU and China",
+      "url": "https://e.vnexpress.net/news/business/economy/trump-unveils-proposed-tariffs-on-major-partners-including-eu-and-china-5148930.html",
+      "date": "2026-11-25"
+    }
+  ],
+  "seoTitle": "米、ベトナムに最大35%の関税案",
+  "seoDescription": "USTRは11月25日、ベトナムに最大35%の関税案を発表。協定で20%に調整の余地。商工省は直ちには発効せず、最終決定は早ければ2月と説明した。",
+  "publishAt": "2026-11-26T16:00:00+09:00",
+  "tags": [
+    "ベトナム",
+    "USTR",
+    "通商法301条",
+    "関税",
+    "商工省",
+    "相互貿易協定",
+    "迂回輸出"
+  ],
+  "language": "ja",
+  "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/illust/vietnam-ustr-301-proposed-tariff-35-percent-20-percent-moit-nov-2026.png"
+}

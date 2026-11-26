@@ -1,0 +1,55 @@
+{
+  "slug": "singapore-seatrium-workforce-redesign-2-percent-yards-15-to-11-nov-24-2026",
+  "title": "シンガポールのシートリウム、人員を約2%削減 国内拠点は15か所から11か所に",
+  "country": "シンガポール",
+  "category": "企業・産業",
+  "articleType": "news",
+  "lead": "シンガポールの海洋・洋上設備大手シートリウム（Seatrium）は11月24日、労働組合と共同で人員再編の計画を発表した。国内従業員の約2%を減らす。ロイターは約220人と報じた。2023年の合併後で初の再編で、会社は人員削減だけが目的ではないと説明している。",
+  "summaryHtml": "<ul><li>シートリウムは11月24日、シンガポールの従業員の約2%を減らす人員再編プログラムを労組と共同で発表した。</li><li>会社の発表に人数はない。ロイターは約220人と伝え、2025年のサステナビリティ報告書から国内の従業員を約1万1,100人と試算した。</li><li>国内の造船所などの拠点は2023年の15か所から11か所に集約された。アドミラルティ・ヤードは2028年に政府へ返す。</li><li>退職者への支援は政労使の指針に沿い、再就職支援を会社と労組が行う。業務や案件の遂行への支障は見込まないとしている。</li></ul>",
+  "bodyHtml": "<h3>発表の内容</h3><p>シートリウムは11月24日、労働組合のシートリウム従業員組合（SEU）と共同で、人員再編プログラム（Workforce Redesign Programme）を発表した。シンガポールの従業員の約2%を減らす内容である。会社の発表に人数は書かれていない。ロイターは、2025年のサステナビリティ報告書から国内の従業員を約1万1,100人と計算し、約220人の削減と報じた。2%を1万1,100人にかけると約222人で、数字は整合する。ただし220人は報道機関の試算で、会社が示した数字ではない。</p><h3>背景にある拠点の統合</h3><p>会社によると、このプログラムは国内の事業の最適化と、従業員の再編の二本立てである。造船所などの拠点は2023年の15か所から11か所に統合された。アドミラルティ・ヤード（Admiralty Yard）は2028年に政府へ返還する予定である。会社は、一部の職務が現在の事業の形に合わなくなったと説明した。2023年の合併後で初の人員再編で、案件ごとの通常の人員の増減とは別だという。</p><p>最高経営責任者（CEO）のクリス・オン（Chris Ong）氏は、発表の中で「We are not downsizing or simply cost cutting」と述べた。配置転換や技能の再教育などを先に検討したとしており、2025年度の研修費として約700万Sドル（約8.6億円、1Sドル＝約123円）を使ったと説明している。なお、日本円への換算は本紙の過去記事と同じ水準を使った。</p><h3>退職者への支援と今後</h3><p>退職者への手当は、政労使の合意である『過剰人員の管理と責任ある人員整理に関する三者助言』に沿って決める。再就職の支援は会社と組合が行い、組合は全国労働組合会議（NTUC）の再就職支援機関e2iにも会員をつなぐ。組合は事前に通知を受けたという。手当の金額は公表されていない。</p><p>会社は、進行中の業務や案件の遂行に支障は出ないと見ている。海洋・洋上設備の分野では、案件の受注と造船所の稼働の波が人員に直結する。取引のある日系の機器メーカーや商社にとっては、納期や発注の動きに変わりがないかを確かめる局面とみられる。会社が人員の削減をさらに進めるかどうかは、今回の発表からは分からない。</p>",
+  "dataFigure": "約2%",
+  "dataLabel": "シートリウムが減らすシンガポール従業員の割合",
+  "dataSource": "シートリウム発表、2026年11月24日",
+  "chart": {
+    "bars": [
+      {
+        "label": "2023年",
+        "value": 15,
+        "display": "15か所"
+      },
+      {
+        "label": "現在",
+        "value": 11,
+        "display": "11か所"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "Seatrium",
+      "title": "Seatrium Announces Workforce Redesign Programme To Ensure Long-Term Resilience & Growth",
+      "url": "https://investors.seatrium.com/newsroom/20261124_120020_5E2_ZC92JXC1LHIBZX4O.1.pdf",
+      "date": "2026-11-24"
+    },
+    {
+      "name": "VnExpress International（Reuters）",
+      "title": "Singapore offshore engineering giant Seatrium to lay off 220 employees",
+      "url": "https://e.vnexpress.net/news/business/companies/singapore-offshore-engineering-giant-seatrium-to-lay-off-220-employees-5148613.html",
+      "date": "2026-11-24"
+    }
+  ],
+  "seoTitle": "シートリウム、国内人員を約2%削減",
+  "seoDescription": "シンガポールの海洋設備大手シートリウムは11月24日、労組と共同で国内従業員の約2%を減らす再編を発表。ロイターは約220人と報じた。拠点は15か所から11か所に。",
+  "publishAt": "2026-11-26T15:30:00+09:00",
+  "tags": [
+    "シートリウム",
+    "Seatrium",
+    "シンガポール",
+    "人員再編",
+    "造船",
+    "洋上設備",
+    "SEU"
+  ],
+  "language": "ja",
+  "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/illust/singapore-seatrium-workforce-redesign-2-percent-yards-15-to-11-nov-24-2026.png"
+}

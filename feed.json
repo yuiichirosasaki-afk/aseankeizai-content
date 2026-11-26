@@ -1,7 +1,255 @@
 {
-  "generatedAt": "2026-11-26T12:23:31+09:00",
+  "generatedAt": "2026-11-26T14:21:17+09:00",
   "site": "東南アジア経済新聞",
   "articles": [
+    {
+      "slug": "indonesia-ustr-section-301-proposed-tariff-18-percent-downstreaming-nov-25-2026",
+      "title": "米国、インドネシアに最大18%の関税案 資源の下流化政策も問題視",
+      "country": "インドネシア",
+      "category": "貿易・物流",
+      "articleType": "news",
+      "lead": "米通商代表部（USTR）は11月25日、インドネシアに最大18%の関税を課す案を示した。通商法301条の調査で、産業政策や資源の下流化政策などを問題視した。意見書は2027年1月5日まで受け付け、公聴会は1月25日に開く。",
+      "summaryHtml": "<ul><li>USTRは11月25日、過剰生産能力をめぐる301条調査で、インドネシアに全品目で最大18%の関税を課す案を発表した。</li><li>既存の301条関税などを織り込んだ水準で、一部の品目は除外される。条件付きの低い税率は示されていない。</li><li>USTRは労働法制の不備や金融抑制に加え、下流化政策などの分野別の慣行を挙げた。対象は繊維・衣料、鉱業・金属、再生可能エネルギーである。</li><li>意見書と公聴会の出席申請は2027年1月5日まで、公聴会は1月25日である。</li></ul>",
+      "bodyHtml": "<h3>提案の中身</h3><p>USTRは11月25日、構造的な過剰生産能力と製造業の生産をめぐる301条調査の結果を公表した。インドネシアについては、全品目に最大18%の関税を課す案である。既存の301条関税を織り込んだ水準で、一部の品目は除外される。ベトナムやシンガポールのように、協定が結ばれた場合の低い税率は示されていない。USTRは、既存の301条・232条の関税、継続中の協議、米国とインドネシアの相互貿易協定での約束を考慮したと説明している。</p><h3>問題視された政策</h3><p>USTRが挙げたのは、生産と輸出を後押しする政府の産業政策、労働法制と執行の不備、非市場経済からの輸入や直接投資を通じた過剰生産能力への対処の不足、金融抑制である。さらに、分野別の慣行として「下流化（ダウンストリーミング）」を挙げた。対象の分野は、繊維・衣料、鉱業・金属、再生可能エネルギーである。CNBCインドネシアも、下流化政策が指摘された点を伝えている。これらはUSTRの主張であり、インドネシア政府の反応は、本紙が開いた出典では確認できていない。</p><h3>周辺国との比較と日系企業への影響</h3><p>最大18%は、マレーシア、タイ、カンボジア、バングラデシュと同じ水準である。ベトナムは最大35%（協定が結ばれれば20%）、シンガポールは最大20%（同10%）である。日本、韓国、台湾、スイスは最大15%で、欧州連合（EU）にも15%の案が示された。</p><p>インドネシアでは、ニッケルの製錬や電池の材料、自動車の生産に日系企業が関わっている。下流化政策が通商上の論点に挙げられたことで、資源加工品の対米輸出に影響が出る可能性がある。ただし、除外される品目の一覧は本紙が確認した出典にはなく、実際の負担は官報の別表を確かめる必要がある。</p><p>インドネシア政府は11月21日にEUとの包括的経済連携協定（CEPA）に署名したと、アイルランガ・ハルタルト調整相が述べたと報じられている。米国向けの輸出が不確実になる中、他の市場との協定をどう生かすかが課題になる。AFP通信は、発効は早くても1月と伝えており、1月の公聴会が次の山場である。</p>",
+      "dataFigure": "最大18%",
+      "dataLabel": "USTRが示したインドネシアへの関税案",
+      "dataSource": "米通商代表部、2026年11月25日",
+      "chart": {
+        "bars": [
+          {
+            "label": "日本",
+            "value": 15,
+            "display": "最大15%"
+          },
+          {
+            "label": "インドネシア",
+            "value": 18,
+            "display": "最大18%"
+          },
+          {
+            "label": "シンガポール",
+            "value": 20,
+            "display": "最大20%"
+          },
+          {
+            "label": "ベトナム",
+            "value": 35,
+            "display": "最大35%"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "米通商代表部（USTR）",
+          "title": "USTR Makes Determinations and Proposes Actions in 14 Section 301 Investigations Relating to Structural Excess Capacity and Production in Manufacturing Sectors",
+          "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "CNBC Indonesia",
+          "title": "RI Kena 18%, Daftar Lengkap Negara yang Bakal Dihukum Tarif Baru Trump",
+          "url": "https://www.cnbcindonesia.com/news/20261126084114-4-788579/ri-kena-18-daftar-lengkap-negara-yang-bakal-dihukum-tarif-baru-trump",
+          "date": "2026-11-26"
+        },
+        {
+          "name": "CNBC Indonesia",
+          "title": "RI Gigih Kejar Ekonomi 8% di 2029, Pusat Data-Perdagangan Jadi Motor",
+          "url": "https://www.cnbcindonesia.com/news/20261126085732-4-788581/ri-gigih-kejar-ekonomi-8-di-2029-pusat-data-perdagangan-jadi-motor",
+          "date": "2026-11-26"
+        }
+      ],
+      "seoTitle": "米、インドネシアに最大18%の関税案",
+      "seoDescription": "USTRは11月25日、301条調査でインドネシアに最大18%の関税案を示した。下流化政策などを問題視。意見募集は1月5日まで、公聴会は1月25日。",
+      "publishAt": "2026-11-26T16:30:00+09:00",
+      "tags": [
+        "インドネシア",
+        "USTR",
+        "通商法301条",
+        "関税",
+        "下流化",
+        "ニッケル",
+        "アイルランガ・ハルタルト"
+      ],
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/illust/indonesia-ustr-section-301-proposed-tariff-18-percent-downstreaming-nov-25-2026.png"
+    },
+    {
+      "slug": "vietnam-ustr-301-proposed-tariff-35-percent-20-percent-moit-nov-2026",
+      "title": "米国、ベトナムに最大35%の関税案 協定で20%に 商工省は即時発効せずと説明",
+      "country": "ベトナム",
+      "category": "貿易・物流",
+      "articleType": "news",
+      "lead": "米通商代表部（USTR）は11月25日、ベトナムに最大35%の関税を課す案を発表した。米国と相互貿易協定を結べば20%に調整する余地がある。ベトナム商工省は提案段階で直ちには発効しないと説明し、公聴会への参加と書面での反論を準備している。",
+      "summaryHtml": "<ul><li>USTRは11月25日、301条調査の結果、ベトナムに全品目で最大35%の関税を課す案を公表した。</li><li>米国と相互貿易協定を結べば、約束を考慮して20%に調整することを検討するとしている。</li><li>ベトナム商工省は、提案は直ちには発効せず、最終決定は早ければ2月、遅くとも3月11日と説明した。</li><li>公聴会は2027年1月25日。商工省は書面で反論し、協定の妥結を急ぐ方針を示した。</li></ul>",
+      "bodyHtml": "<h3>USTRの提案と理由</h3><p>USTRは11月25日、過剰生産能力をめぐる通商法301条の調査で、ベトナムを含む14経済圏の政策や慣行を米国の通商に負担をかけるものと判断した。ベトナムへの案は、全品目に最大35%で、既存の301条関税を織り込んだ水準である。米国と相互貿易協定を結び、その内容が判断に応えるものなら、約束と20%の税率を考慮して調整する、としている。</p><p>USTRは理由として10項目を挙げた。産業計画や国家計画、土地利用計画の仕組み、労働法制の不備、金融抑制、重点分野への資金配分、価格規制、非市場経済からの直接投資・輸入・迂回輸出（トランシップメント）などである。対象の分野は繊維・衣料・履物、造船、セメント、情報通信技術（ICT）とされた。これらはUSTRの主張である。</p><h3>商工省の反応</h3><p>ベトナム商工省は発表の数時間後、報道機関に対し、35%は提案で直ちには発効しないと説明した。公聴会は2027年1月25日に始まり、最終的な税率、既存の関税との関係、除外する品目がここで詰められる。最終決定は早ければ2月、遅くとも3月11日になるという。実質的な進展が認められれば、税率は下がる可能性があるとも述べた。</p><p>同省は、11月21日に政府が出した2026〜2030年の貿易黒字の管理計画にも触れた。過剰生産能力、原産地の偽装、不正な迂回輸出、強制労働による製品を防ぐ内容である。商工省は、関係機関と公聴会に参加し、予備的な判断に対する書面の反論を出して、協定の妥結を進める方針である。</p><h3>数字の食い違いと今後</h3><p>AFP通信は、ベトナムの案を20%と報じた。しかしUSTRの発表では、35%が上限で、20%は協定を結んだ場合の水準である。本紙はUSTRの発表を基にした。ほかに最大18%がインドネシア、マレーシア、タイ、カンボジア、バングラデシュ、最大20%がシンガポール、最大15%が日本とされた。</p><p>ベトナムで衣料や履物、電子機器を生産し、米国へ輸出する日系企業は多い。税率が35%のままなら調達や価格の見直しが必要になる。一方、20%に下がれば負担は軽くなる。米政府高官は発効は早くても1月と述べており、2027年1月の意見募集と公聴会、2月から3月の最終決定が焦点となる。</p>",
+      "dataFigure": "最大35%",
+      "dataLabel": "USTRが示したベトナムへの関税案（協定が結ばれれば20%）",
+      "dataSource": "米通商代表部、2026年11月25日",
+      "chart": {
+        "bars": [
+          {
+            "label": "協定後",
+            "value": 20,
+            "display": "20%"
+          },
+          {
+            "label": "提案",
+            "value": 35,
+            "display": "最大35%"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "米通商代表部（USTR）",
+          "title": "USTR Makes Determinations and Proposes Actions in 14 Section 301 Investigations Relating to Structural Excess Capacity and Production in Manufacturing Sectors",
+          "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "VnExpress International",
+          "title": "Proposed US tariff on Vietnam could fall, ministry says",
+          "url": "https://e.vnexpress.net/news/business/economy/proposed-us-tariff-on-vietnam-could-fall-ministry-says-5148937.html",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "VnExpress International（AFP）",
+          "title": "Trump unveils proposed tariffs on major partners, including EU and China",
+          "url": "https://e.vnexpress.net/news/business/economy/trump-unveils-proposed-tariffs-on-major-partners-including-eu-and-china-5148930.html",
+          "date": "2026-11-25"
+        }
+      ],
+      "seoTitle": "米、ベトナムに最大35%の関税案",
+      "seoDescription": "USTRは11月25日、ベトナムに最大35%の関税案を発表。協定で20%に調整の余地。商工省は直ちには発効せず、最終決定は早ければ2月と説明した。",
+      "publishAt": "2026-11-26T16:00:00+09:00",
+      "tags": [
+        "ベトナム",
+        "USTR",
+        "通商法301条",
+        "関税",
+        "商工省",
+        "相互貿易協定",
+        "迂回輸出"
+      ],
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/illust/vietnam-ustr-301-proposed-tariff-35-percent-20-percent-moit-nov-2026.png"
+    },
+    {
+      "slug": "singapore-seatrium-workforce-redesign-2-percent-yards-15-to-11-nov-24-2026",
+      "title": "シンガポールのシートリウム、人員を約2%削減 国内拠点は15か所から11か所に",
+      "country": "シンガポール",
+      "category": "企業・産業",
+      "articleType": "news",
+      "lead": "シンガポールの海洋・洋上設備大手シートリウム（Seatrium）は11月24日、労働組合と共同で人員再編の計画を発表した。国内従業員の約2%を減らす。ロイターは約220人と報じた。2023年の合併後で初の再編で、会社は人員削減だけが目的ではないと説明している。",
+      "summaryHtml": "<ul><li>シートリウムは11月24日、シンガポールの従業員の約2%を減らす人員再編プログラムを労組と共同で発表した。</li><li>会社の発表に人数はない。ロイターは約220人と伝え、2025年のサステナビリティ報告書から国内の従業員を約1万1,100人と試算した。</li><li>国内の造船所などの拠点は2023年の15か所から11か所に集約された。アドミラルティ・ヤードは2028年に政府へ返す。</li><li>退職者への支援は政労使の指針に沿い、再就職支援を会社と労組が行う。業務や案件の遂行への支障は見込まないとしている。</li></ul>",
+      "bodyHtml": "<h3>発表の内容</h3><p>シートリウムは11月24日、労働組合のシートリウム従業員組合（SEU）と共同で、人員再編プログラム（Workforce Redesign Programme）を発表した。シンガポールの従業員の約2%を減らす内容である。会社の発表に人数は書かれていない。ロイターは、2025年のサステナビリティ報告書から国内の従業員を約1万1,100人と計算し、約220人の削減と報じた。2%を1万1,100人にかけると約222人で、数字は整合する。ただし220人は報道機関の試算で、会社が示した数字ではない。</p><h3>背景にある拠点の統合</h3><p>会社によると、このプログラムは国内の事業の最適化と、従業員の再編の二本立てである。造船所などの拠点は2023年の15か所から11か所に統合された。アドミラルティ・ヤード（Admiralty Yard）は2028年に政府へ返還する予定である。会社は、一部の職務が現在の事業の形に合わなくなったと説明した。2023年の合併後で初の人員再編で、案件ごとの通常の人員の増減とは別だという。</p><p>最高経営責任者（CEO）のクリス・オン（Chris Ong）氏は、発表の中で「We are not downsizing or simply cost cutting」と述べた。配置転換や技能の再教育などを先に検討したとしており、2025年度の研修費として約700万Sドル（約8.6億円、1Sドル＝約123円）を使ったと説明している。なお、日本円への換算は本紙の過去記事と同じ水準を使った。</p><h3>退職者への支援と今後</h3><p>退職者への手当は、政労使の合意である『過剰人員の管理と責任ある人員整理に関する三者助言』に沿って決める。再就職の支援は会社と組合が行い、組合は全国労働組合会議（NTUC）の再就職支援機関e2iにも会員をつなぐ。組合は事前に通知を受けたという。手当の金額は公表されていない。</p><p>会社は、進行中の業務や案件の遂行に支障は出ないと見ている。海洋・洋上設備の分野では、案件の受注と造船所の稼働の波が人員に直結する。取引のある日系の機器メーカーや商社にとっては、納期や発注の動きに変わりがないかを確かめる局面とみられる。会社が人員の削減をさらに進めるかどうかは、今回の発表からは分からない。</p>",
+      "dataFigure": "約2%",
+      "dataLabel": "シートリウムが減らすシンガポール従業員の割合",
+      "dataSource": "シートリウム発表、2026年11月24日",
+      "chart": {
+        "bars": [
+          {
+            "label": "2023年",
+            "value": 15,
+            "display": "15か所"
+          },
+          {
+            "label": "現在",
+            "value": 11,
+            "display": "11か所"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "Seatrium",
+          "title": "Seatrium Announces Workforce Redesign Programme To Ensure Long-Term Resilience & Growth",
+          "url": "https://investors.seatrium.com/newsroom/20261124_120020_5E2_ZC92JXC1LHIBZX4O.1.pdf",
+          "date": "2026-11-24"
+        },
+        {
+          "name": "VnExpress International（Reuters）",
+          "title": "Singapore offshore engineering giant Seatrium to lay off 220 employees",
+          "url": "https://e.vnexpress.net/news/business/companies/singapore-offshore-engineering-giant-seatrium-to-lay-off-220-employees-5148613.html",
+          "date": "2026-11-24"
+        }
+      ],
+      "seoTitle": "シートリウム、国内人員を約2%削減",
+      "seoDescription": "シンガポールの海洋設備大手シートリウムは11月24日、労組と共同で国内従業員の約2%を減らす再編を発表。ロイターは約220人と報じた。拠点は15か所から11か所に。",
+      "publishAt": "2026-11-26T15:30:00+09:00",
+      "tags": [
+        "シートリウム",
+        "Seatrium",
+        "シンガポール",
+        "人員再編",
+        "造船",
+        "洋上設備",
+        "SEU"
+      ],
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/illust/singapore-seatrium-workforce-redesign-2-percent-yards-15-to-11-nov-24-2026.png"
+    },
+    {
+      "slug": "singapore-ustr-301-proposed-tariff-20-percent-10-percent-deal-nov-2026",
+      "title": "米国、シンガポールに最大20%の追加関税案 協定交渉で10%に 公聴会は1月25日",
+      "country": "シンガポール",
+      "category": "貿易・物流",
+      "articleType": "news",
+      "lead": "米通商代表部（USTR）は11月25日、通商法301条に基づく14経済圏の調査結果を発表し、シンガポールに最大20%の関税を課す案を示した。米国との協定などで進展があれば10%に調整する余地がある。意見募集は2027年1月5日までで、公聴会は1月25日に開かれる。",
+      "summaryHtml": "<ul><li>USTRは11月25日、過剰生産能力をめぐる301条調査で、シンガポールなど14経済圏に対する判断と関税案を公表した。</li><li>シンガポールへの案は全品目に最大20%で、一部の品目は除外される。米国との相互貿易協定などの交渉で約束が得られれば10%に調整する。</li><li>USTRは産業計画、金融抑制、貯蓄促進策による消費の抑制などを挙げ、電子・半導体、医療、石油化学を対象分野とした。</li><li>意見書と公聴会の出席申請は2027年1月5日、公聴会は1月25日。発効は早くても1月とAFPが米政府高官の話として伝えた。</li></ul>",
+      "bodyHtml": "<h3>調査の結論と提案の中身</h3><p>USTRは2026年3月11日、構造的な過剰生産能力と製造業の生産をめぐり、16の経済圏を対象に301条調査を始めた。11月25日の発表では、シンガポールを含む14経済圏の政策や慣行が「不合理で米国の通商に負担をかけ、301条(b)に基づき対応できる」と判断した。ノルウェーとメキシコは対象の16に入っていたが、今回は判断が示されていない。</p><p>シンガポールについての提案は、全品目に最大20%の関税を課すというものである。既存の301条関税を織り込んだ水準で、一部の品目には除外がある。ただし、米国と相互貿易協定を結ぶか、それに応じた交渉で約束が得られれば、約束を考慮して10%に調整するとしている。発表は「最大」「提案」という表現で、確定した税率ではない。</p><h3>USTRが挙げた理由と対象分野</h3><p>USTRがシンガポールについて挙げた問題は、産業計画、金融抑制、国内消費を抑える貯蓄促進策、労働者保護の不備、重点分野への資金支援などである。非市場経済からの輸入や直接投資を通じた過剰生産能力への対処が足りない点も指摘した。対象分野は電子・半導体、医療、石油化学とされた。これらはUSTRの主張であり、シンガポール側の見解は、本紙が開いた出典では確認できていない。</p><p>近隣国と比べると、インドネシア、マレーシア、タイは最大18%、ベトナムは最大35%（協定が結ばれれば20%）である。日本、韓国、台湾、スイスは最大15%で、欧州連合（EU）も15%と案が示された。シンガポールの20%は、日本より高い水準になる。</p><h3>日系企業への影響と今後</h3><p>シンガポールには、電子部品や化学品の製造・調達の拠点を置く日系企業が多い。対象分野が半導体や石油化学に及ぶため、米国向けの輸出や域内の調達網に影響が及ぶ可能性がある。ただし、除外される品目の一覧は発表本文では確認できず、実際の負担は官報の別表を見て判断する必要がある。</p><p>日程は、意見書と公聴会の出席申請が2027年1月5日、公聴会が1月25日である。AFP通信は米政府高官の話として、関税の発効は早くても1月になる見通しだと伝えた。新しい関税は、自動車や鉄鋼などの232条関税とは重複しないとも報じられている。協定交渉の行方が税率を左右するため、シンガポール政府の対応が注目される。</p>",
+      "dataFigure": "最大20%",
+      "dataLabel": "USTRが示したシンガポールへの関税案（協定が進めば10%）",
+      "dataSource": "米通商代表部、2026年11月25日",
+      "chart": {
+        "bars": [
+          {
+            "label": "協定後",
+            "value": 10,
+            "display": "10%"
+          },
+          {
+            "label": "提案",
+            "value": 20,
+            "display": "最大20%"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "米通商代表部（USTR）",
+          "title": "USTR Makes Determinations and Proposes Actions in 14 Section 301 Investigations Relating to Structural Excess Capacity and Production in Manufacturing Sectors",
+          "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "CNBC Indonesia",
+          "title": "RI Kena 18%, Daftar Lengkap Negara yang Bakal Dihukum Tarif Baru Trump",
+          "url": "https://www.cnbcindonesia.com/news/20261126084114-4-788579/ri-kena-18-daftar-lengkap-negara-yang-bakal-dihukum-tarif-baru-trump",
+          "date": "2026-11-26"
+        },
+        {
+          "name": "VnExpress International（AFP）",
+          "title": "Trump unveils proposed tariffs on major partners, including EU and China",
+          "url": "https://e.vnexpress.net/news/business/economy/trump-unveils-proposed-tariffs-on-major-partners-including-eu-and-china-5148930.html",
+          "date": "2026-11-25"
+        }
+      ],
+      "seoTitle": "米、シンガポールに最大20%の関税案",
+      "seoDescription": "USTRは11月25日、301条調査でシンガポールに最大20%の関税案を示した。協定交渉が進めば10%。意見募集は1月5日まで、公聴会は1月25日。",
+      "publishAt": "2026-11-26T15:00:00+09:00",
+      "tags": [
+        "シンガポール",
+        "USTR",
+        "通商法301条",
+        "関税",
+        "過剰生産能力",
+        "相互貿易協定",
+        "半導体"
+      ],
+      "language": "ja",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/illust/singapore-ustr-301-proposed-tariff-20-percent-10-percent-deal-nov-2026.png"
+    },
     {
       "slug": "malaysia-mpoc-cpo-december-above-rm4100-forward-shipments-nov-2026",
       "language": "ja",

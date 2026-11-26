@@ -1,0 +1,71 @@
+{
+  "slug": "indonesia-ustr-section-301-proposed-tariff-18-percent-downstreaming-nov-25-2026",
+  "title": "米国、インドネシアに最大18%の関税案 資源の下流化政策も問題視",
+  "country": "インドネシア",
+  "category": "貿易・物流",
+  "articleType": "news",
+  "lead": "米通商代表部（USTR）は11月25日、インドネシアに最大18%の関税を課す案を示した。通商法301条の調査で、産業政策や資源の下流化政策などを問題視した。意見書は2027年1月5日まで受け付け、公聴会は1月25日に開く。",
+  "summaryHtml": "<ul><li>USTRは11月25日、過剰生産能力をめぐる301条調査で、インドネシアに全品目で最大18%の関税を課す案を発表した。</li><li>既存の301条関税などを織り込んだ水準で、一部の品目は除外される。条件付きの低い税率は示されていない。</li><li>USTRは労働法制の不備や金融抑制に加え、下流化政策などの分野別の慣行を挙げた。対象は繊維・衣料、鉱業・金属、再生可能エネルギーである。</li><li>意見書と公聴会の出席申請は2027年1月5日まで、公聴会は1月25日である。</li></ul>",
+  "bodyHtml": "<h3>提案の中身</h3><p>USTRは11月25日、構造的な過剰生産能力と製造業の生産をめぐる301条調査の結果を公表した。インドネシアについては、全品目に最大18%の関税を課す案である。既存の301条関税を織り込んだ水準で、一部の品目は除外される。ベトナムやシンガポールのように、協定が結ばれた場合の低い税率は示されていない。USTRは、既存の301条・232条の関税、継続中の協議、米国とインドネシアの相互貿易協定での約束を考慮したと説明している。</p><h3>問題視された政策</h3><p>USTRが挙げたのは、生産と輸出を後押しする政府の産業政策、労働法制と執行の不備、非市場経済からの輸入や直接投資を通じた過剰生産能力への対処の不足、金融抑制である。さらに、分野別の慣行として「下流化（ダウンストリーミング）」を挙げた。対象の分野は、繊維・衣料、鉱業・金属、再生可能エネルギーである。CNBCインドネシアも、下流化政策が指摘された点を伝えている。これらはUSTRの主張であり、インドネシア政府の反応は、本紙が開いた出典では確認できていない。</p><h3>周辺国との比較と日系企業への影響</h3><p>最大18%は、マレーシア、タイ、カンボジア、バングラデシュと同じ水準である。ベトナムは最大35%（協定が結ばれれば20%）、シンガポールは最大20%（同10%）である。日本、韓国、台湾、スイスは最大15%で、欧州連合（EU）にも15%の案が示された。</p><p>インドネシアでは、ニッケルの製錬や電池の材料、自動車の生産に日系企業が関わっている。下流化政策が通商上の論点に挙げられたことで、資源加工品の対米輸出に影響が出る可能性がある。ただし、除外される品目の一覧は本紙が確認した出典にはなく、実際の負担は官報の別表を確かめる必要がある。</p><p>インドネシア政府は11月21日にEUとの包括的経済連携協定（CEPA）に署名したと、アイルランガ・ハルタルト調整相が述べたと報じられている。米国向けの輸出が不確実になる中、他の市場との協定をどう生かすかが課題になる。AFP通信は、発効は早くても1月と伝えており、1月の公聴会が次の山場である。</p>",
+  "dataFigure": "最大18%",
+  "dataLabel": "USTRが示したインドネシアへの関税案",
+  "dataSource": "米通商代表部、2026年11月25日",
+  "chart": {
+    "bars": [
+      {
+        "label": "日本",
+        "value": 15,
+        "display": "最大15%"
+      },
+      {
+        "label": "インドネシア",
+        "value": 18,
+        "display": "最大18%"
+      },
+      {
+        "label": "シンガポール",
+        "value": 20,
+        "display": "最大20%"
+      },
+      {
+        "label": "ベトナム",
+        "value": 35,
+        "display": "最大35%"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "米通商代表部（USTR）",
+      "title": "USTR Makes Determinations and Proposes Actions in 14 Section 301 Investigations Relating to Structural Excess Capacity and Production in Manufacturing Sectors",
+      "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural",
+      "date": "2026-11-25"
+    },
+    {
+      "name": "CNBC Indonesia",
+      "title": "RI Kena 18%, Daftar Lengkap Negara yang Bakal Dihukum Tarif Baru Trump",
+      "url": "https://www.cnbcindonesia.com/news/20261126084114-4-788579/ri-kena-18-daftar-lengkap-negara-yang-bakal-dihukum-tarif-baru-trump",
+      "date": "2026-11-26"
+    },
+    {
+      "name": "CNBC Indonesia",
+      "title": "RI Gigih Kejar Ekonomi 8% di 2029, Pusat Data-Perdagangan Jadi Motor",
+      "url": "https://www.cnbcindonesia.com/news/20261126085732-4-788581/ri-gigih-kejar-ekonomi-8-di-2029-pusat-data-perdagangan-jadi-motor",
+      "date": "2026-11-26"
+    }
+  ],
+  "seoTitle": "米、インドネシアに最大18%の関税案",
+  "seoDescription": "USTRは11月25日、301条調査でインドネシアに最大18%の関税案を示した。下流化政策などを問題視。意見募集は1月5日まで、公聴会は1月25日。",
+  "publishAt": "2026-11-26T16:30:00+09:00",
+  "tags": [
+    "インドネシア",
+    "USTR",
+    "通商法301条",
+    "関税",
+    "下流化",
+    "ニッケル",
+    "アイルランガ・ハルタルト"
+  ],
+  "language": "ja",
+  "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/illust/indonesia-ustr-section-301-proposed-tariff-18-percent-downstreaming-nov-25-2026.png"
+}
