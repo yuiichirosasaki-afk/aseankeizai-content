@@ -1,7 +1,227 @@
 {
-  "generatedAt": "2026-11-27T10:18:26+09:00",
+  "generatedAt": "2026-11-27T12:22:37+09:00",
   "site": "東南アジア経済新聞",
   "articles": [
+    {
+      "slug": "vietnam-quang-ngai-ly-son-island-airport-proposal-11-3-trillion-dong-2030-2045",
+      "language": "ja",
+      "title": "ベトナム中部リーソン島に空港構想 投資11.3兆ドン、民間資金で2030〜45年の整備案",
+      "country": "ベトナム",
+      "category": "観光・航空",
+      "articleType": "news",
+      "lead": "ベトナム中部クアンガイ省がリーソン島に空港を建設する案を、島の観光振興計画に盛り込んだ。投資額は11兆3,000億ドン（約700億円）で、全額を民間などの予算外の資金でまかなう想定である。ただし、現段階は提案で、承認された計画ではない。",
+      "summaryHtml": "<ul><li>クアンガイ省人民委員会の計画第436号は、リーソン島の空港に11兆3,000億ドン（約700億円、4億2,800万ドル）を投じる案を示した。</li><li>面積は約150ヘクタール、整備の時期は2030〜2045年。資金は全額、国の予算外から出す想定である。</li><li>空港は、省が優先投資を求める14事業の1つ。</li><li>同省は、島を訪れる観光客を2030年に40万人、2045年に250万人にする目標を掲げる。</li><li>ベトナムプラスは、この空港を「提案」の段階と伝えた。承認の有無は示されていない。</li></ul>",
+      "bodyHtml": "<h3>計画の中身</h3><p>ベトナム通信社（VNA）のベトナムプラスは11月26日、クアンガイ（Quảng Ngãi）省人民委員会が最近出した計画第436号（436/KH-UBND）に、リーソン（Lý Sơn）島の空港建設案が含まれていると伝えた。計画は、リーソン特別区を島と海洋の観光拠点に育てるもので、2030年までの工程表と2045年までの構想を示している。同通信社によると、空港の投資額は11兆3,000億ドン（約700億円、4億2,800万ドル）で、面積は約150ヘクタール、整備の時期は2030〜2045年とされる。資金は全額、国の予算外から調達する想定である。円換算は、本紙の直近の記事と同じ1ドン＝約0.0062円で算出した。</p><p>リーソン島は本土の沖合約17海里にあり、陸地の面積は約10.4平方キロメートルである。空港が占める面積は、島の陸地の約14.4%にあたる。空港は、省が優先して投資を呼びかける14事業の1つに入っている。同省は、島を訪れる観光客を2030年に40万人、観光収入を9,000億ドン（約56億円）とし、2045年には観光客250万人、観光収入4兆5,000億ドン（約280億円）に増やす目標を掲げる。</p><h3>過去の報道との食い違い</h3><p>島への空港構想は新しくない。ダンチ（Dân trí）系の英字紙ダン・トリ・ニュース（DTiNews）は5月27日、同省が2030年以降に、軍民共用の空港と、国際旅客港の整備を構想していると報じた。一方、英字紙ジ・インベスター（The Investor）の2025年4月の記事は、161ヘクタールの空港のために、127ヘクタール超の海面を埋め立てる計画で、年間旅客300万〜350万人、A320やA321が就航できる規格だと伝えている。同記事は、第1期の事業費を国の中央予算から約1兆ドンとし、省が建設・運営・移管（BOT）方式を提案、首相が官民連携（PPP）の方針案を作るよう指示したと書く。</p><p>今回のベトナムプラスの記事は、面積を約150ヘクタール、資金を予算外の全額としており、2025年の記事とは数字と資金の考え方が異なる。時期も、「2026〜2030年に優先」とする記事と、「2030年以降」とする記事があり、本紙では、最新の計画がどれかを確認できていない。</p><h3>日系企業への示唆</h3><p>空港が実現すれば、離島のリゾートや、海洋観光、航空・空港関連の事業に、日系企業が参画する余地が生まれる可能性がある。ただし、現時点では提案の段階で、国の承認や、事業者の選定、資金の確保は示されていない。島の環境や、軍民共用の扱いも課題になるとみられ、今後の国の審査の結果が注目される。</p>",
+      "dataFigure": "11.3兆ドン",
+      "dataLabel": "リーソン島の空港案の投資額（約700億円、提案段階）",
+      "dataSource": "ベトナム通信社（ベトナムプラス）、2026年11月26日",
+      "chart": {
+        "bars": [
+          {
+            "label": "2030年",
+            "value": 40,
+            "display": "40万人"
+          },
+          {
+            "label": "2045年",
+            "value": 250,
+            "display": "250万人"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "Vietnam+（ベトナム通信社）",
+          "title": "428 million USD airport proposed in Ly Son Island",
+          "url": "https://en.vietnamplus.vn/428-million-usd-airport-proposed-in-ly-son-island-post356066.vnp",
+          "date": "2026-11-26"
+        },
+        {
+          "name": "Dan Tri International",
+          "title": "Quang Ngai plans airport and cable car for Ly Son Island",
+          "url": "https://dtinews.dantri.com.vn/vietnam-today/quang-ngai-plans-airport-and-cable-car-for-ly-son-island-20260527162042837.htm",
+          "date": "2026-05-27"
+        },
+        {
+          "name": "The Investor",
+          "title": "127 hectares of sea to be reclaimed for central Vietnam island airport",
+          "url": "https://theinvestor.vn/127-hectares-of-sea-to-be-reclaimed-for-central-vietnam-island-airport-d15326.html",
+          "date": "2025-04-17"
+        }
+      ],
+      "seoTitle": "リーソン島に空港構想 投資11.3兆ドンの提案",
+      "seoDescription": "ベトナム中部クアンガイ省がリーソン島の空港案を提案。投資額11.3兆ドン（約700億円）、予算外資金で2030〜45年に整備する想定。過去の計画との違いと日系企業への示唆を整理する。",
+      "publishAt": "2026-11-27T14:30:00+09:00",
+      "tags": [
+        "ベトナム",
+        "クアンガイ省",
+        "リーソン島",
+        "空港",
+        "観光",
+        "計画第436号",
+        "ダナン",
+        "観光客"
+      ],
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/illust/vietnam-quang-ngai-ly-son-island-airport-proposal-11-3-trillion-dong-2030-2045.png"
+    },
+    {
+      "slug": "vietnam-vts-submarine-cable-construction-launch-600tbps-viettel-singtel-nec",
+      "language": "ja",
+      "title": "ベトナム・タイ・星結ぶ海底ケーブルVTS着工 総延長2,500キロ、2030年第4四半期に運用へ",
+      "country": "ベトナム",
+      "category": "IT・スタートアップ",
+      "articleType": "news",
+      "lead": "ベトナム、タイ、シンガポールを結ぶ海底ケーブル「VTS」の着工式が11月26日、ホーチミン市で開かれた。ベトナムのViettelとシンガポールのSingtelが主導し、総延長は約2,500キロ、設計容量は600テラビット毎秒に上る。商用運用は2030年第4四半期の予定である。",
+      "summaryHtml": "<ul><li>VTSの着工式が11月26日、ホーチミン市ホーチャム（Hồ Tràm）のホテルで開かれた。ベトナム通信社は、ベトナムの企業が発案し主導権を握る初の国際海底ケーブルだと伝えた。</li><li>総延長は約2,500キロ、設計容量は計600Tbps。ベトナム〜シンガポールの直結区間は約1,200キロ、240Tbpsである。</li><li>商用運用は2030年第4四半期の予定。光ファイバー8対で、往復の遅延は12ミリ秒とされる。</li><li>参加するのはViettelとSingtelを中心とする企業連合で、タイからはAIS、ベトナムからはVNPTやFPT Telecomなどが加わる。施工は日本のNECが担う。</li><li>投資額は報道で示されていない。</li></ul>",
+      "bodyHtml": "<h3>何が始まったのか</h3><p>ベトナム通信社（VNA）のベトナムプラスによると、ベトナム・タイ・シンガポール（VTS）海底ケーブルの着工式が11月26日、ホーチミン市のホーチャム（Hồ Tràm）にあるホテルで開かれた。ベトナムの軍需・通信大手ヴィエッテル（Viettel）とシンガポールのシングテル（Singtel）が共同で主導する企業連合の事業である。同通信社は、ベトナムの企業が発案し、主導権を握る初の国際海底ケーブルだと伝えている。総延長は約2,500キロ、設計容量は計600テラビット毎秒（Tbps）である。ベトナムとシンガポールを直接結ぶ区間は約1,200キロで、容量は240Tbpsとされ、同通信社はこれを、現在ベトナムで稼働中の国際海底ケーブルの容量の合計の約2.5倍にあたると書いている。</p><p>運用開始の時期は、2030年第4四半期である。光ファイバーは8対で、波長分割多重（WDM）の方式を採り、往復の遅延は12ミリ秒で、現在の平均より約50%短いという。ケーブルは海底に埋設され、主な区間の深さは最大で3メートルとされる。陸揚げ局は、ホーチミン市に置かれる。ただし、海底ケーブルの専門サイトのサブマリン・ネットワークス（Submarine Networks）は、9月の記事で、ベトナム側の陸揚げ地をクイニョンまたはダナンと書いており、出典によって説明が分かれる。本紙では、どちらが最終的な計画かを確認できていない。</p><h3>参加企業と日本の関わり</h3><p>ベトナムプラスによると、企業連合には、ヴィエッテルとシングテルのほか、タイのアドバンスト・インフォ・サービス（Advanced Info Service、AIS）と、ベトナムのVNPT、FPTテレコム（FPT Telecom）、ヴィエッテルIDCが加わる。施工を請け負うのは、日本のNECとシンガポールのASEANケーブルシップ（ASEAN Cableship）である。サブマリン・ネットワークスは、シングテルがタイのガルフ・デベロップメント（Gulf Development）と、タイ側の枝線の共同開発と資金調達で提携したと伝えている。投資額や、日本側の受注額は、いずれの出典にも示されていない。</p><p>ヴィエッテルのタオ・ドゥク・タン会長兼総経理は、2030年までに、さらに5つの国際海底ケーブルを稼働させ、少なくとも2つで主導権を握り、参加するケーブルを計10にする目標を示した。科学技術省のファム・ドゥク・ロン次官は、ベトナムの国際回線の需要が年約24%増え、4年で倍になっていると説明した。</p><h3>日系企業への影響</h3><p>ベトナムの日系企業にとっては、シンガポールを経由する通信の経路が増えることで、データセンター間の接続や、クラウドの利用で、遅延の短縮と回線の冗長性の確保が期待される。ただし、運用開始は4年先で、料金や、企業が利用できる条件は示されていない。また、容量や遅延の数字は、事業者側の設計値であり、実際の性能は運用後に確かめる必要がある。今後は、投資額の開示や、各国の陸揚げ許可、工事の進み具合が注目される。</p>",
+      "dataFigure": "600Tbps",
+      "dataLabel": "VTS海底ケーブルの設計容量（総計）",
+      "dataSource": "ベトナム通信社（ベトナムプラス）、2026年11月26日",
+      "chart": {
+        "bars": [
+          {
+            "label": "全体",
+            "value": 600,
+            "display": "600Tbps"
+          },
+          {
+            "label": "越星間",
+            "value": 240,
+            "display": "240Tbps"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "Vietnam+（ベトナム通信社）",
+          "title": "Vietnam–Thailand–Singapore submarine cable project launched",
+          "url": "https://en.vietnamplus.vn/vietnamthailandsingapore-submarine-cable-project-launched-post356102.vnp",
+          "date": "2026-11-26"
+        },
+        {
+          "name": "Submarine Networks",
+          "title": "Singtel and Gulf Development Partner on the Vietnam-Thailand-Singapore Cable System",
+          "url": "https://www.submarinenetworks.com/en/systems/intra-asia/vts/singtel-and-gulf-development-partner-on-the-vietnam-thailand-singapore-cable-system",
+          "date": "2026-09-11"
+        }
+      ],
+      "seoTitle": "VTS海底ケーブルが着工 ベトナム・タイ・星を結ぶ",
+      "seoDescription": "ベトナム・タイ・シンガポールを結ぶ海底ケーブルVTSが11月26日に着工。総延長約2,500キロ、設計容量600Tbps、2030年第4四半期に運用へ。施工はNEC。日系企業への影響を整理する。",
+      "publishAt": "2026-11-27T14:00:00+09:00",
+      "tags": [
+        "ベトナム",
+        "VTS",
+        "海底ケーブル",
+        "Viettel",
+        "Singtel",
+        "NEC",
+        "AIS",
+        "ホーチミン市"
+      ],
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/illust/vietnam-vts-submarine-cable-construction-launch-600tbps-viettel-singtel-nec.png"
+    },
+    {
+      "slug": "philippines-pldt-epldt-ayalaland-laguna-data-center-acquisition-p1-73-billion",
+      "language": "ja",
+      "title": "PLDT系、アヤラ系のラグナ・データセンター事業を買収へ 売り手の調達額は最大17.3億ペソ",
+      "country": "フィリピン",
+      "category": "IT・スタートアップ",
+      "articleType": "news",
+      "lead": "フィリピンの通信大手PLDTのデータセンター部門ePLDTが、アヤラ系の物流不動産会社アヤラランド・ロジスティクス（ALLHC）のラグナ州ビニャンのデータセンター事業を買収する方向になった。売り手は最大17.3億ペソ（約43億円）を得る可能性があるが、最終価格は開示されていない。",
+      "summaryHtml": "<ul><li>ALLHCは11月23日、ePLDTと覚書を結び、データセンター事業を担う2社への出資を売却する方針を示した。</li><li>売却対象は、A-FLOW Land I Corp.の60%と、A-FLOW Properties I Corp.の50%、および共同出資者の残りの持ち分。</li><li>ALLHCは取引で最大17.3億ペソ（約43億円）を得る可能性があるが、最終的な価格は未開示（フィルスター）。</li><li>ビニャンの施設の規模は出典で食い違い、12メガワット（拡張で48メガワット）とする報道と、3棟で計36メガワットとする報道がある。</li><li>実行には、合意した条件の達成が必要。フィルスターは、証券取引委員会と競争委員会の承認が要ると伝えた。</li></ul>",
+      "bodyHtml": "<h3>何が決まったのか</h3><p>フィリピンの経済紙フィルスター（Philstar）、マニラ・タイムズ（The Manila Times）、GMAニュースによると、アヤラランド・ロジスティクス・ホールディングス（AyalaLand Logistics Holdings Corp.、ALLHC）は11月23日、PLDTのデータセンター部門ePLDTとの間で、データセンター事業の売却に関する覚書（MOA）を結んだと明らかにした。対象は、A-FLOW Land I Corp.の60%、A-FLOW Properties I Corp.の50%と、共同出資者が持つ残りの持ち分である。両社は、ラグナ州ビニャン（Biñan）のデータセンター「ML1」を保有・運営する事業会社とみられる。共同出資者の名称は、フィルスターとほかの2紙で異なって書かれており、本紙では確認できていない。</p><p>フィルスターによると、ALLHCはこの取引で17億3,000万ペソ（約43億円）を得る可能性があるが、売り手は最終的な価格をまだ開示していない。円換算は、本紙の直近の記事と同じ1ペソ＝約2.49円で算出した。ALLHCは、売却で「機会を追う財務の柔軟性」を高めるとの趣旨を示したという。マニラ・タイムズとGMAは、取引が「合意した条件」に左右されると書き、フィルスターは、証券取引委員会（SEC）と、独占禁止の審査にあたるフィリピン競争委員会（PCC）の承認が必要だと伝えた。</p><h3>施設の規模は出典で食い違う</h3><p>施設の容量は、報道によって数字が異なる。フィルスターとGMAは、ML1の設計容量を12メガワット（MW）、将来は48MWまで拡張できるとしている。GMAは、このうち6MWがすでに稼働できる状態だと書く。一方、マニラ・タイムズは、ML1は3棟からなる新設キャンパスの最初の1棟で、全体で36MW、第1期のIT負荷は6MWだとしている。どちらが正確かは、両社の開示資料で確かめる必要がある。</p><p>フィルスターは、ePLDTがデータセンターの専用建設会社であるVITRO（ヴィトロ）に、もう1つの施設を加えることになると書き、ePLDTが2027年の不動産投資信託（REIT）上場を控えて資産を積み増していると伝えた。同紙は、上場で最大242億ペソ（約603億円）を調達しうるとも書くが、この文は上場する主体を明確にしておらず、本紙では確定できない。また、同紙によると、VITROは、政府機関に機微な情報を国内で保管するよう求める大統領令が出されたことで、需要が増えると見込んでいる。この大統領令の名称や日付は、同紙には示されていない。</p><h3>日系企業への示唆</h3><p>ALLHCの1〜9月期の売上高は、GMAによると、約9%増の16億ペソ（約40億円）だった。このうち冷蔵倉庫が76%増の3億5,500万ペソ、倉庫の賃貸が5%増の5億8,500万ペソである。物流不動産が主力の同社にとって、データセンターの売却は、本業への資金の振り向けにつながるとみられる。</p><p>フィリピンで、データの国内保管や、現地のクラウド・AI向けの設備を使う日系企業にとっては、国内の事業者が設備を増やす動きは、選択肢が広がる材料になりうる。一方で、容量の食い違いや承認の進み具合を見る必要があり、実際の引き渡し時期や価格が決まるまでは、事業への影響を判断しにくい。今後は、ALLHCとePLDTによる正式契約の締結と、SECとPCCの審査の結果が注目される。</p>",
+      "dataFigure": "17.3億ペソ",
+      "dataLabel": "売り手のALLHCが調達しうる額（最終価格は未開示）",
+      "dataSource": "フィルスター、2026年11月24日",
+      "sources": [
+        {
+          "name": "Philstar",
+          "title": "PLDT unit to buy Ayala's data centers ahead of planned IPO",
+          "url": "https://www.philstar.com/business/2026/11/24/2572115/pldt-unit-buy-ayalas-data-centers-ahead-planned-ipo",
+          "date": "2026-11-24"
+        },
+        {
+          "name": "The Manila Times",
+          "title": "PLDT to buy data center business from Ayala unit",
+          "url": "https://www.manilatimes.net/2026/11/24/business/corporate-news/pldt-to-buy-data-center-business-from-ayala-unit/2476525",
+          "date": "2026-11-24"
+        },
+        {
+          "name": "GMA News",
+          "title": "PLDT looking to acquire AyalaLand Logistics' Laguna data center business",
+          "url": "https://www.gmanetwork.com/news/money/companies/1010499/pldt-looking-to-acquire-ayalaland-logistics-laguna-data-center-business/story/",
+          "date": "2026-11-23"
+        }
+      ],
+      "seoTitle": "PLDT系、アヤラ系データセンター事業を買収へ",
+      "seoDescription": "フィリピンのPLDT系ePLDTが、アヤラ系ALLHCのラグナ州ビニャンのデータセンター事業を買収する方向に。売り手の調達額は最大17.3億ペソ（約43億円）。出典の食い違いと日系企業への示唆を整理する。",
+      "publishAt": "2026-11-27T13:30:00+09:00",
+      "tags": [
+        "フィリピン",
+        "PLDT",
+        "ePLDT",
+        "アヤラランド・ロジスティクス",
+        "AyalaLand Logistics",
+        "VITRO",
+        "データセンター",
+        "ビニャン"
+      ],
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/illust/philippines-pldt-epldt-ayalaland-laguna-data-center-acquisition-p1-73-billion.png"
+    },
+    {
+      "slug": "indonesia-oecd-accession-three-laws-80-percent-cormann-no-2028-promise",
+      "language": "ja",
+      "title": "インドネシア、OECD加盟へ3法改正を準備 進捗は約8割と政府 事務総長は2028年を確約せず",
+      "country": "インドネシア",
+      "category": "政治・政策",
+      "articleType": "news",
+      "lead": "インドネシア政府は11月25日、経済協力開発機構（OECD）への加盟手続きが約8割まで進んだと明らかにし、汚職、競争、統計の3法の改正を急ぐ方針を示した。政府は2028年の加盟を目標とするが、来訪したコーマン事務総長は期日を約束しなかった。",
+      "summaryHtml": "<ul><li>アイルランガ・ハルタルト経済担当調整相は11月25日、OECD加盟手続きは約80%まで進んだと述べた。審査は25の分野にわたる。</li><li>改正を準備するのは汚職撲滅法（外国公務員への贈賄の処罰を含む）、競争法、統計法の3つ。</li><li>コーマン事務総長は、加盟の時期を定めた日程はないと述べ、2028年の加盟は確約しなかった（CNNインドネシア）。</li><li>財務副大臣によると、財政・金融分野のOECD法的文書42件のうち、約68%が「完全に整合」している。</li><li>11月26日にはプラボウォ大統領が事務総長と会談し、競争法と統計法の改正を2027年の完了目標としていると、ジャワ・ポストが伝えた。</li></ul>",
+      "bodyHtml": "<h3>約8割は政府の推計、2028年は政府の目標</h3><p>CNNインドネシアとカタデータによると、アイルランガ・ハルタルト（Airlangga Hartarto）経済担当調整相は11月25日、ジャカルタの調整省でOECDのマティアス・コーマン（Mathias Cormann）事務総長と共同で記者会見を開いた。同調整相は、OECD加盟の審査が25の分野で進み、全体の約80%が終わったとの見方を示した。ジャカルタ・ポストも、同調整相が同じ数字を挙げたと伝えている。この数字は政府自身の見積もりで、OECDが認定した進捗率ではない。</p><p>政府は2028年の加盟を目標に掲げる。一方、CNNインドネシアによると、コーマン事務総長は2028年の加盟を確約せず、日程は定められていないと述べた。手続きの速さは、政府が作業を続け、OECDの調査結果と勧告に対応できるかにかかっているという。同事務総長は、インドネシアが東南アジアで最初に加盟手続きを始めた国であり、手続きは「より速く、より集中的になっている」とも述べたと、カタデータは書いている。</p><h3>3つの法律を改正、外国公務員への贈賄も対象に</h3><p>政府が改正を準備するのは、汚職撲滅法、競争法、統計法の3つである。CNNインドネシアによると、汚職撲滅法は法務省と汚職撲滅委員会（KPK）、競争法は貿易省と商業競争監視委員会（KPPU）、統計法は中央統計局（BPS）が財務省と進める。ジャワ・ポストによると、汚職撲滅法の改正では、外国公務員への贈賄を処罰する規定を整え、OECDの外国公務員贈賄防止条約に合わせる。カタデータは、インドネシアがこの条約への加盟を準備していると伝えている。</p><p>ジャワ・ポストによると、競争法と統計法の改正は2027年の完了が目標である。カタデータによると、コーマン事務総長は、2026年末までにOECDの各委員会で計19回の協議を終え、2027年にさらに約40回を予定していると述べた。財務副大臣のジュダ・アグン（Juda Agung）氏は、財政・金融分野のOECD法的文書42件のうち、約68%が「完全に整合」し、残りは「部分的に整合」だと説明した。今後の焦点は、国会での3法の審議と、残る委員会の審査である。</p><h3>日系企業への影響</h3><p>競争法は企業結合の審査や価格協定の取り締まりの基準にかかわり、統計法はデータの公表や共有の扱いにかかわる。外国公務員への贈賄を処罰する規定が国内法に入れば、インドネシアの公務員との取引に伴うコンプライアンス（法令順守）の水準が、国際基準に近づくことになる。現地で事業を営む日系企業にとっては、改正の内容と施行時期が、M&A（合併・買収）の届出や社内の贈収賄対策の見直しに響く可能性があり、国会の審議を注視する必要がある。ただし、改正案の具体的な条文は出典で確認できておらず、影響の大きさは今後の審議次第とみられる。</p><p>事務総長が日程を示さなかったことから、2028年という政府の目標時期は、審査の進み具合によって前後する可能性もある。</p>",
+      "dataFigure": "約80%",
+      "dataLabel": "OECD加盟手続きの進捗（政府の見積もり、審査は25分野）",
+      "dataSource": "インドネシア経済担当調整相の発言、2026年11月25日",
+      "sources": [
+        {
+          "name": "CNNインドネシア",
+          "title": "OECD Tak Janji RI Gabung 2028, Airlangga Klaim Progres 80 Persen",
+          "url": "https://www.cnnindonesia.com/ekonomi/20261125125335-92-1431301/oecd-tak-janji-ri-gabung-2028-airlangga-klaim-progres-80-persen",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "カタデータ",
+          "title": "Pemerintah Targetkan RI Masuk OECD pada 2028, Prosesnya Sudah 80%",
+          "url": "https://katadata.co.id/finansial/makro/6b067bd120bda/pemerintah-targetkan-ri-masuk-oecd-pada-2028-prosesnya-sudah-80",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "ジャワ・ポスト",
+          "title": "Prabowo Terima Sekjen OECD, Targetkan Indonesia Jadi Anggota Pertama dari ASEAN pada 2028",
+          "url": "https://www.jawapos.com/politik/2611260525/prabowo-terima-sekjen-oecd-targetkan-indonesia-jadi-anggota-pertama-dari-asean-pada-2028?page=all",
+          "date": "2026-11-26"
+        },
+        {
+          "name": "The Jakarta Post",
+          "title": "Indonesia pushes legal overhaul as OECD accession 'hits 80%'",
+          "url": "http://www.thejakartapost.com/business/2026/11/26/indonesia-pushes-legal-overhaul-as-oecd-accession-hits-80",
+          "date": "2026-11-26"
+        }
+      ],
+      "seoTitle": "インドネシア、OECD加盟へ3法改正を準備",
+      "seoDescription": "インドネシア政府はOECD加盟手続きが約8割進んだと発表し、汚職・競争・統計の3法を改正する方針。事務総長は2028年を確約せず。日系企業への影響を整理する。",
+      "publishAt": "2026-11-27T13:00:00+09:00",
+      "tags": [
+        "インドネシア",
+        "OECD",
+        "アイルランガ・ハルタルト",
+        "マティアス・コーマン",
+        "KPPU",
+        "汚職撲滅法",
+        "競争法",
+        "統計法"
+      ],
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/illust/indonesia-oecd-accession-three-laws-80-percent-cormann-no-2028-promise.png"
+    },
     {
       "slug": "vietnam-hcmc-labour-federation-tet-2027-bonus-plan-disclosure-nov-30",
       "language": "ja",

@@ -1,0 +1,56 @@
+{
+  "slug": "vietnam-vts-submarine-cable-construction-launch-600tbps-viettel-singtel-nec",
+  "language": "ja",
+  "title": "ベトナム・タイ・星結ぶ海底ケーブルVTS着工 総延長2,500キロ、2030年第4四半期に運用へ",
+  "country": "ベトナム",
+  "category": "IT・スタートアップ",
+  "articleType": "news",
+  "lead": "ベトナム、タイ、シンガポールを結ぶ海底ケーブル「VTS」の着工式が11月26日、ホーチミン市で開かれた。ベトナムのViettelとシンガポールのSingtelが主導し、総延長は約2,500キロ、設計容量は600テラビット毎秒に上る。商用運用は2030年第4四半期の予定である。",
+  "summaryHtml": "<ul><li>VTSの着工式が11月26日、ホーチミン市ホーチャム（Hồ Tràm）のホテルで開かれた。ベトナム通信社は、ベトナムの企業が発案し主導権を握る初の国際海底ケーブルだと伝えた。</li><li>総延長は約2,500キロ、設計容量は計600Tbps。ベトナム〜シンガポールの直結区間は約1,200キロ、240Tbpsである。</li><li>商用運用は2030年第4四半期の予定。光ファイバー8対で、往復の遅延は12ミリ秒とされる。</li><li>参加するのはViettelとSingtelを中心とする企業連合で、タイからはAIS、ベトナムからはVNPTやFPT Telecomなどが加わる。施工は日本のNECが担う。</li><li>投資額は報道で示されていない。</li></ul>",
+  "bodyHtml": "<h3>何が始まったのか</h3><p>ベトナム通信社（VNA）のベトナムプラスによると、ベトナム・タイ・シンガポール（VTS）海底ケーブルの着工式が11月26日、ホーチミン市のホーチャム（Hồ Tràm）にあるホテルで開かれた。ベトナムの軍需・通信大手ヴィエッテル（Viettel）とシンガポールのシングテル（Singtel）が共同で主導する企業連合の事業である。同通信社は、ベトナムの企業が発案し、主導権を握る初の国際海底ケーブルだと伝えている。総延長は約2,500キロ、設計容量は計600テラビット毎秒（Tbps）である。ベトナムとシンガポールを直接結ぶ区間は約1,200キロで、容量は240Tbpsとされ、同通信社はこれを、現在ベトナムで稼働中の国際海底ケーブルの容量の合計の約2.5倍にあたると書いている。</p><p>運用開始の時期は、2030年第4四半期である。光ファイバーは8対で、波長分割多重（WDM）の方式を採り、往復の遅延は12ミリ秒で、現在の平均より約50%短いという。ケーブルは海底に埋設され、主な区間の深さは最大で3メートルとされる。陸揚げ局は、ホーチミン市に置かれる。ただし、海底ケーブルの専門サイトのサブマリン・ネットワークス（Submarine Networks）は、9月の記事で、ベトナム側の陸揚げ地をクイニョンまたはダナンと書いており、出典によって説明が分かれる。本紙では、どちらが最終的な計画かを確認できていない。</p><h3>参加企業と日本の関わり</h3><p>ベトナムプラスによると、企業連合には、ヴィエッテルとシングテルのほか、タイのアドバンスト・インフォ・サービス（Advanced Info Service、AIS）と、ベトナムのVNPT、FPTテレコム（FPT Telecom）、ヴィエッテルIDCが加わる。施工を請け負うのは、日本のNECとシンガポールのASEANケーブルシップ（ASEAN Cableship）である。サブマリン・ネットワークスは、シングテルがタイのガルフ・デベロップメント（Gulf Development）と、タイ側の枝線の共同開発と資金調達で提携したと伝えている。投資額や、日本側の受注額は、いずれの出典にも示されていない。</p><p>ヴィエッテルのタオ・ドゥク・タン会長兼総経理は、2030年までに、さらに5つの国際海底ケーブルを稼働させ、少なくとも2つで主導権を握り、参加するケーブルを計10にする目標を示した。科学技術省のファム・ドゥク・ロン次官は、ベトナムの国際回線の需要が年約24%増え、4年で倍になっていると説明した。</p><h3>日系企業への影響</h3><p>ベトナムの日系企業にとっては、シンガポールを経由する通信の経路が増えることで、データセンター間の接続や、クラウドの利用で、遅延の短縮と回線の冗長性の確保が期待される。ただし、運用開始は4年先で、料金や、企業が利用できる条件は示されていない。また、容量や遅延の数字は、事業者側の設計値であり、実際の性能は運用後に確かめる必要がある。今後は、投資額の開示や、各国の陸揚げ許可、工事の進み具合が注目される。</p>",
+  "dataFigure": "600Tbps",
+  "dataLabel": "VTS海底ケーブルの設計容量（総計）",
+  "dataSource": "ベトナム通信社（ベトナムプラス）、2026年11月26日",
+  "chart": {
+    "bars": [
+      {
+        "label": "全体",
+        "value": 600,
+        "display": "600Tbps"
+      },
+      {
+        "label": "越星間",
+        "value": 240,
+        "display": "240Tbps"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "Vietnam+（ベトナム通信社）",
+      "title": "Vietnam–Thailand–Singapore submarine cable project launched",
+      "url": "https://en.vietnamplus.vn/vietnamthailandsingapore-submarine-cable-project-launched-post356102.vnp",
+      "date": "2026-11-26"
+    },
+    {
+      "name": "Submarine Networks",
+      "title": "Singtel and Gulf Development Partner on the Vietnam-Thailand-Singapore Cable System",
+      "url": "https://www.submarinenetworks.com/en/systems/intra-asia/vts/singtel-and-gulf-development-partner-on-the-vietnam-thailand-singapore-cable-system",
+      "date": "2026-09-11"
+    }
+  ],
+  "seoTitle": "VTS海底ケーブルが着工 ベトナム・タイ・星を結ぶ",
+  "seoDescription": "ベトナム・タイ・シンガポールを結ぶ海底ケーブルVTSが11月26日に着工。総延長約2,500キロ、設計容量600Tbps、2030年第4四半期に運用へ。施工はNEC。日系企業への影響を整理する。",
+  "publishAt": "2026-11-27T14:00:00+09:00",
+  "tags": [
+    "ベトナム",
+    "VTS",
+    "海底ケーブル",
+    "Viettel",
+    "Singtel",
+    "NEC",
+    "AIS",
+    "ホーチミン市"
+  ],
+  "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/illust/vietnam-vts-submarine-cable-construction-launch-600tbps-viettel-singtel-nec.png"
+}

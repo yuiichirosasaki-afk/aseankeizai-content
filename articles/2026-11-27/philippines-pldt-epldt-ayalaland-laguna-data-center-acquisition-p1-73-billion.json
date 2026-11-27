@@ -1,0 +1,48 @@
+{
+  "slug": "philippines-pldt-epldt-ayalaland-laguna-data-center-acquisition-p1-73-billion",
+  "language": "ja",
+  "title": "PLDT系、アヤラ系のラグナ・データセンター事業を買収へ 売り手の調達額は最大17.3億ペソ",
+  "country": "フィリピン",
+  "category": "IT・スタートアップ",
+  "articleType": "news",
+  "lead": "フィリピンの通信大手PLDTのデータセンター部門ePLDTが、アヤラ系の物流不動産会社アヤラランド・ロジスティクス（ALLHC）のラグナ州ビニャンのデータセンター事業を買収する方向になった。売り手は最大17.3億ペソ（約43億円）を得る可能性があるが、最終価格は開示されていない。",
+  "summaryHtml": "<ul><li>ALLHCは11月23日、ePLDTと覚書を結び、データセンター事業を担う2社への出資を売却する方針を示した。</li><li>売却対象は、A-FLOW Land I Corp.の60%と、A-FLOW Properties I Corp.の50%、および共同出資者の残りの持ち分。</li><li>ALLHCは取引で最大17.3億ペソ（約43億円）を得る可能性があるが、最終的な価格は未開示（フィルスター）。</li><li>ビニャンの施設の規模は出典で食い違い、12メガワット（拡張で48メガワット）とする報道と、3棟で計36メガワットとする報道がある。</li><li>実行には、合意した条件の達成が必要。フィルスターは、証券取引委員会と競争委員会の承認が要ると伝えた。</li></ul>",
+  "bodyHtml": "<h3>何が決まったのか</h3><p>フィリピンの経済紙フィルスター（Philstar）、マニラ・タイムズ（The Manila Times）、GMAニュースによると、アヤラランド・ロジスティクス・ホールディングス（AyalaLand Logistics Holdings Corp.、ALLHC）は11月23日、PLDTのデータセンター部門ePLDTとの間で、データセンター事業の売却に関する覚書（MOA）を結んだと明らかにした。対象は、A-FLOW Land I Corp.の60%、A-FLOW Properties I Corp.の50%と、共同出資者が持つ残りの持ち分である。両社は、ラグナ州ビニャン（Biñan）のデータセンター「ML1」を保有・運営する事業会社とみられる。共同出資者の名称は、フィルスターとほかの2紙で異なって書かれており、本紙では確認できていない。</p><p>フィルスターによると、ALLHCはこの取引で17億3,000万ペソ（約43億円）を得る可能性があるが、売り手は最終的な価格をまだ開示していない。円換算は、本紙の直近の記事と同じ1ペソ＝約2.49円で算出した。ALLHCは、売却で「機会を追う財務の柔軟性」を高めるとの趣旨を示したという。マニラ・タイムズとGMAは、取引が「合意した条件」に左右されると書き、フィルスターは、証券取引委員会（SEC）と、独占禁止の審査にあたるフィリピン競争委員会（PCC）の承認が必要だと伝えた。</p><h3>施設の規模は出典で食い違う</h3><p>施設の容量は、報道によって数字が異なる。フィルスターとGMAは、ML1の設計容量を12メガワット（MW）、将来は48MWまで拡張できるとしている。GMAは、このうち6MWがすでに稼働できる状態だと書く。一方、マニラ・タイムズは、ML1は3棟からなる新設キャンパスの最初の1棟で、全体で36MW、第1期のIT負荷は6MWだとしている。どちらが正確かは、両社の開示資料で確かめる必要がある。</p><p>フィルスターは、ePLDTがデータセンターの専用建設会社であるVITRO（ヴィトロ）に、もう1つの施設を加えることになると書き、ePLDTが2027年の不動産投資信託（REIT）上場を控えて資産を積み増していると伝えた。同紙は、上場で最大242億ペソ（約603億円）を調達しうるとも書くが、この文は上場する主体を明確にしておらず、本紙では確定できない。また、同紙によると、VITROは、政府機関に機微な情報を国内で保管するよう求める大統領令が出されたことで、需要が増えると見込んでいる。この大統領令の名称や日付は、同紙には示されていない。</p><h3>日系企業への示唆</h3><p>ALLHCの1〜9月期の売上高は、GMAによると、約9%増の16億ペソ（約40億円）だった。このうち冷蔵倉庫が76%増の3億5,500万ペソ、倉庫の賃貸が5%増の5億8,500万ペソである。物流不動産が主力の同社にとって、データセンターの売却は、本業への資金の振り向けにつながるとみられる。</p><p>フィリピンで、データの国内保管や、現地のクラウド・AI向けの設備を使う日系企業にとっては、国内の事業者が設備を増やす動きは、選択肢が広がる材料になりうる。一方で、容量の食い違いや承認の進み具合を見る必要があり、実際の引き渡し時期や価格が決まるまでは、事業への影響を判断しにくい。今後は、ALLHCとePLDTによる正式契約の締結と、SECとPCCの審査の結果が注目される。</p>",
+  "dataFigure": "17.3億ペソ",
+  "dataLabel": "売り手のALLHCが調達しうる額（最終価格は未開示）",
+  "dataSource": "フィルスター、2026年11月24日",
+  "sources": [
+    {
+      "name": "Philstar",
+      "title": "PLDT unit to buy Ayala's data centers ahead of planned IPO",
+      "url": "https://www.philstar.com/business/2026/11/24/2572115/pldt-unit-buy-ayalas-data-centers-ahead-planned-ipo",
+      "date": "2026-11-24"
+    },
+    {
+      "name": "The Manila Times",
+      "title": "PLDT to buy data center business from Ayala unit",
+      "url": "https://www.manilatimes.net/2026/11/24/business/corporate-news/pldt-to-buy-data-center-business-from-ayala-unit/2476525",
+      "date": "2026-11-24"
+    },
+    {
+      "name": "GMA News",
+      "title": "PLDT looking to acquire AyalaLand Logistics' Laguna data center business",
+      "url": "https://www.gmanetwork.com/news/money/companies/1010499/pldt-looking-to-acquire-ayalaland-logistics-laguna-data-center-business/story/",
+      "date": "2026-11-23"
+    }
+  ],
+  "seoTitle": "PLDT系、アヤラ系データセンター事業を買収へ",
+  "seoDescription": "フィリピンのPLDT系ePLDTが、アヤラ系ALLHCのラグナ州ビニャンのデータセンター事業を買収する方向に。売り手の調達額は最大17.3億ペソ（約43億円）。出典の食い違いと日系企業への示唆を整理する。",
+  "publishAt": "2026-11-27T13:30:00+09:00",
+  "tags": [
+    "フィリピン",
+    "PLDT",
+    "ePLDT",
+    "アヤラランド・ロジスティクス",
+    "AyalaLand Logistics",
+    "VITRO",
+    "データセンター",
+    "ビニャン"
+  ],
+  "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/illust/philippines-pldt-epldt-ayalaland-laguna-data-center-acquisition-p1-73-billion.png"
+}
