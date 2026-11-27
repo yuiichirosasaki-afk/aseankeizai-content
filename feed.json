@@ -1,7 +1,102 @@
 {
-  "generatedAt": "2026-11-27T16:21:35+09:00",
+  "generatedAt": "2026-11-27T20:23:56+09:00",
   "site": "東南アジア経済新聞",
   "articles": [
+    {
+      "slug": "singapore-mas-cis-code-non-traditional-funds-commodity-futures-nov-26-2026",
+      "language": "ja",
+      "title": "シンガポールMAS、小口向けファンド規則を改正 商品先物ファンドに新ルート、審査は約3か月",
+      "country": "シンガポール",
+      "category": "金融・市場",
+      "articleType": "news",
+      "lead": "シンガポール通貨庁（MAS）は11月26日、個人向けファンドの規則（CISコード）を改正し、通常の投資制限の外で新型ファンドを認める第2の承認ルートを設けた。最初の対象は金や原油などの先物ファンドで、新類型の規則づくりは約3か月を見込む。",
+      "summaryHtml": "<ul><li>MASは11月26日付で改正CISコード（集団投資スキームの規則）を公表し、公表日に発効した。新しい付録として非伝統型ファンドの章が加わった。</li><li>新ルートは、通常の投資制限を定めた付録1の外で、別の保護措置を条件にファンドを認める第2の道である。</li><li>最初の対象は先物ベースの単一商品ファンド1類型で、純資産の9割以上を金・銀・プラチナ・原油・鉄鉱石のいずれかに連動させる必要がある。</li><li>新しい類型の規則づくりは、必要な情報がそろってから約3か月。キャプロアジアは従来の6〜12か月からの短縮と伝えた。</li><li>協議案では、同種の後続ファンドは規則が定まれば21日で認可するとしていた。協議は7月9日から8月10日に行われた。</li></ul>",
+      "bodyHtml": "<h3>改正の中身：投資制限の外に第2の承認ルート</h3><p>ジーエスエム・グローバル・ニュース（GSM）によると、MASは11月26日に改正したCISコードを公表し、改正は公表の日に効力を持った。キャプロアジア（Caproasia）も同日付で、改正が直ちに発効すると伝えている。CISコードは、個人投資家に販売するファンドの投資制限や運営の基準を定める規則である。今回加わった付録8（非伝統型ファンド）は、通常の投資制限（付録1）に収まらないファンドを、代わりの保護措置を条件に認める第2のルートと位置づけられる。</p><p>名称は、7月の協議案ではオルタナティブ・ファンドだった。GSMによると、ヘッジファンドや未公開市場のファンドと誤解されるとの意見が寄せられ、非伝統型に改められた。協議案を解説した法律事務所アレン・アンド・グレドヒルの記事は、判断の軸として、国際的な証券規制の原則への適合、他国で同種の商品が上場・販売されている実績、商品設計・開示・販売面の保護措置を挙げている。</p><h3>最初の対象は商品先物ファンド</h3><p>GSMによると、現時点で認められる類型は先物ベースの単一商品ファンドの1つである。純資産の90%以上を、金、銀、プラチナ、原油、鉄鉱石の5つのうち1つに連動させ、認知された先物価格指数に連動する必要がある。協議案では、単一国の国債ファンドも例に挙がっていたが、GSMが示した今回の対象は上記の1類型だけである。</p><p>時間の短縮も狙いである。GSMは、新しい類型ごとに、必要な情報を受け取ってから規則づくりに約3か月かかると書いている。キャプロアジアは、これを従来の6〜12か月からの短縮と説明し、同種の後続ファンドの承認は3週間で済むとも伝えた。協議案の段階でも、規則が決まれば同種のファンドは21日で認可すると説明されており、数字は整合する。なお、キャプロアジアの記事は一部を要約で確認したもので、MAS自身の発表文は今回開けていない。MASは、個人向けの基本的な保護（資産の保管や流動性の基準）は維持し、新型ファンドの開示強化は事業者と詰めるとされる（キャプロアジアによる要旨）。協議案は、目論見書や販促資料に、新しい付録のもとで提供されるファンドだと明記させる案を含んでいた。最終的な開示の細目は、出典で確認できていない。</p><h3>日系の運用・販売会社への見方</h3><p>シンガポールで個人向けファンドを扱う日系の運用会社や販売会社にとっては、新ルートの下で、商品先物を使った商品を、従来より早く市場に出せる可能性がある。ただ、新しい類型が増えるたびにMASが規則を作る仕組みで、一度に広がるわけではない。実際にどのファンドが申請・認可されるかは、今後の動きで決まる。</p><p>商品先物ファンドは価格変動が大きく、個人向けの販売では適合性の確認や説明の質が問われる。販売会社には、MASが求める開示と、公正な顧客対応の水準を満たす体制づくりが必要になるとみられる。次の焦点は、最初の認可事例の出現時期と、2類型目として何が加わるかである。</p>",
+      "dataFigure": "約3か月",
+      "dataLabel": "新ファンド類型の規則づくりの目安（従来は6〜12か月、キャプロアジア）",
+      "dataSource": "MAS改正CISコードの報道、2026年11月26日",
+      "sources": [
+        {
+          "name": "GSM Global News",
+          "title": "Singapore's MAS Opens a Second Track for Retail Funds, Starting With Commodity Futures Funds",
+          "url": "https://gsmglobalnews.com/article/d20261126-tg5-singapore1.html",
+          "date": "2026-11-26"
+        },
+        {
+          "name": "Caproasia",
+          "title": "Singapore MAS Issues Revised Code on Collective Investment Schemes (Effective 26/11/26) to Facilitate Retail Fund Product Innovation & Faster Launch Time for Non-Traditional Retail Funds",
+          "url": "https://www.caproasia.com/2026/11/26/singapore-mas-issues-revised-code-on-collective-investment-schemes-effective-26-11-26-to-facilitate-retail-fund-product-innovation-faster-launch-time-for-non-traditional-retail-funds/",
+          "date": "2026-11-26"
+        },
+        {
+          "name": "Allen & Gledhill",
+          "title": "MAS consults on proposed amendments to Code on Collective Investment Schemes to facilitate faster approvals of new fund types",
+          "url": "https://www.allenandgledhill.com/sg/perspectives/articles/33307/sgkh-mas-consults-on-proposed-amendments-to-code-on-collective-investment-schemes-to-facilitate-faster-approvals-of-new-fund-types",
+          "date": "2026-08-03"
+        }
+      ],
+      "seoTitle": "MAS、個人向け商品先物ファンドに新ルート",
+      "seoDescription": "シンガポールMASは改正CISコードで、金や原油などの先物ファンドを認める第2の承認ルートを新設。新類型の規則づくりは約3か月を見込む。",
+      "tags": [
+        "シンガポール",
+        "MAS",
+        "CISコード",
+        "非伝統型ファンド",
+        "商品先物ファンド",
+        "個人向けファンド",
+        "資産運用"
+      ],
+      "publishAt": "2026-11-27T21:30:00+09:00",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/illust/singapore-mas-cis-code-non-traditional-funds-commodity-futures-nov-26-2026.png"
+    },
+    {
+      "slug": "philippines-erc-orders-meralco-refund-p1-987-billion-three-months",
+      "language": "ja",
+      "title": "フィリピン規制当局、メラルコに19.87億ペソの還付命令 月200kWhの世帯は月52ペソ軽減",
+      "country": "フィリピン",
+      "category": "エネルギー・環境",
+      "articleType": "news",
+      "lead": "フィリピンのエネルギー規制委員会（ERC）は11月26日、電力大手メラルコ（Manila Electric Company）に対し、顧客へ約19億8,700万ペソ（約49億円）を3か月で還付するよう命じた。資産の評価額を見直した結果で、電気料金が上がる局面での負担軽減となる。",
+      "summaryHtml": "<ul><li>ERCは11月26日付で、メラルコに約19億8,700万ペソの還付を命じた。報道によって19.8億〜19.9億ペソと表記が分かれるが、端数処理の違いとみられる。</li><li>還付は3か月、または全額が戻るまで続く。住宅用の単価は1kWh当たり0.2611ペソで、月200kWhの標準的な世帯は月約52ペソ、3か月で約157ペソが軽減される。</li><li>理由は資産評価の見直しである。ERCは2026年の工場資産額を677億8,000万ペソと確定し、従来の料金算定で使われたほぼ700億ペソを下回った（フィルスター）。</li><li>年金・従業員給付費用8,982万ペソについて、内訳の資料が足りないとして料金への算入を認めなかった。</li><li>還付は、メラルコが命令を受け取った後の請求サイクルから始まる。メラルコ側の反応は、確認した報道には載っていない。</li></ul>",
+      "bodyHtml": "<h3>還付の規模と顧客への影響</h3><p>フィルスター（Philstar.com）によると、ERCは11月26日付の発表で、メラルコの顧客に約19億8,700万ペソ（約49億円、1ペソ＝約2.5円で換算）を3か月かけて還付するよう命じた。ニュースウォッチ・プラスは、還付は3か月、または全額が戻るまで続くと伝えている。フィルニュースは、この決定が11月26日のERCの会合で承認されたと報じた。総額は見出しで19.8億ペソ、19.9億ペソとされる例もあるが、フィルスターの本文は19億8,700万ペソとしており、丸め方の違いとみられる。</p><p>家計への効果は小さくない一方、額は限られる。フィルスターによると、住宅用の還付単価は1kWh当たり0.2611ペソで、月200kWhを使う標準的な世帯では月約52ペソ（約130円）の軽減になる。ニュースウォッチ・プラスとフィルニュースは、3か月の合計を約157ペソ（約390円）としている。還付は請求書に別の行として表示されるという。開始時期は、メラルコが命令を受け取った後の請求サイクルからである。フィルニュースは、11月に入って200kWh世帯の月額が約98ペソ上がり、1kWh当たり15.55ペソになったことも記している。今回の還付は、その値上がりの一部を打ち消す形になる。</p><h3>なぜ還付になるのか：資産評価の見直し</h3><p>フィルスターによると、ERCは2025年の最高裁判決に沿って、メラルコの工場資産の評価を新しい方式でやり直し、2026年の評価額を677億8,000万ペソ（約1,690億円）で確定した。以前の料金算定で使われた額は、ほぼ700億ペソ（約1,740億円）だったという。評価額が下がれば、料金に上乗せできる資産のコストも小さくなり、これまでに徴収した分に払い戻しが生じる。フィルニュースは、この判決を「NASECORE対ERC」と呼び、資産は実際の取得原価で評価し、正当と説明できない費用は消費者に転嫁しないという立場をERCが示したと伝えている。</p><p>もう一つの要因が年金・従業員給付である。フィルスターによると、ERCはメラルコの給付費用8,982万ペソ（約2.2億円）を、給与・給付の内訳が提出資料で不足していたとして、顧客への転嫁を認めなかった。ERCのフランシス・サトゥルニノ・フアン（Francis Saturnino Juan）委員長は11月27日、地元ラジオDZBBで、給付費用の上限は最低水準とベンチマークで算定し、それを超える分は会社が負担すると説明した（フィルスターの要約）。</p><h3>日系企業への影響と今後</h3><p>メラルコの供給地域で事業を営む日系企業にとっても関心事となる。ただ、確認できた報道が示す還付単価は住宅用のものであり、産業用や商業用の顧客への扱いは出典から読み取れなかった。工場の電気代にどの程度響くかは、ERCの正式な決定文書や、メラルコの請求書の記載を確かめる必要がある。</p><p>メラルコがこの命令に不服を申し立てるのかも、確認した報道には書かれていない。電気料金は、燃料価格の上昇やペソ安で上振れしやすい状況にある。ERCも、こうした局面での還付は適時だと説明したと、ニュースウォッチ・プラスは伝えている。還付が始まる時期と、請求書での実際の表示を注視したい。なお、ERCは別件として、ビサヤ・ミンダナオ地方の発電会社13社に信頼性基準違反の説明を求めており、メラルコ系の発電会社も含まれるとフィルスターは報じている。</p>",
+      "dataFigure": "19.87億ペソ",
+      "dataLabel": "ERCがメラルコに命じた還付額（3か月、約49億円）",
+      "dataSource": "ERC発表、フィルスター報道、2026年11月27日",
+      "sources": [
+        {
+          "name": "Philstar.com",
+          "title": "ERC orders P1.98-billion refund for Meralco customers",
+          "url": "https://www.philstar.com/headlines/2026/11/27/2573030/erc-orders-p198-billion-refund-meralco-customers",
+          "date": "2026-11-27"
+        },
+        {
+          "name": "NewsWatch Plus",
+          "title": "ERC directs Meralco to refund ₱1.99B to consumers",
+          "url": "https://newswatchplus.ph/2026/11/27/erc-directs-meralco-to-refund-%E2%82%B11-99b-to-consumers/",
+          "date": "2026-11-27"
+        },
+        {
+          "name": "PhilNews",
+          "title": "Meralco Bills — ERC Orders ₱1.98-B Refund, ₱0.2611 Per kWh Credit For 3 Months",
+          "url": "https://philnews.ph/2026/11/27/meralco-bills-erc-orders-%E2%82%B11-98-b-refund-%E2%82%B10-2611-per-kwh-credit-for-3-months",
+          "date": "2026-11-27"
+        }
+      ],
+      "seoTitle": "メラルコに19.87億ペソの還付命令",
+      "seoDescription": "フィリピンのERCは電力大手メラルコに約19.87億ペソの還付を3か月で命じた。資産評価の見直しが理由で、月200kWhの世帯は月約52ペソ軽減される。",
+      "tags": [
+        "フィリピン",
+        "メラルコ",
+        "Meralco",
+        "ERC",
+        "電気料金",
+        "還付",
+        "フランシス・フアン",
+        "規制資産"
+      ],
+      "publishAt": "2026-11-27T21:00:00+09:00",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/illust/philippines-erc-orders-meralco-refund-p1-987-billion-three-months.png"
+    },
     {
       "slug": "malaysia-ltat-boustead-plantations-stake-reduction-project-earth-nov-26",
       "language": "ja",
