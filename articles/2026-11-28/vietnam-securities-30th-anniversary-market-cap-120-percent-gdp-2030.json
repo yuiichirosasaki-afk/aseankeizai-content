@@ -1,0 +1,61 @@
+{
+  "slug": "vietnam-securities-30th-anniversary-market-cap-120-percent-gdp-2030",
+  "language": "ja",
+  "title": "ベトナム証券業が30周年 首相は2030年の時価総額GDP比120%を目標に 外資規制の見直しも",
+  "country": "ベトナム",
+  "category": "金融・市場",
+  "articleType": "news",
+  "lead": "ベトナムの証券業は11月28日で創設30年を迎え、レ・ミン・フン首相は27日の式典で市場改革の方針を示した。2030年に株式の時価総額をGDP比120%へ高める目標を掲げ、外資の持ち株規制の見直しも求めた。",
+  "summaryHtml": "<ul><li>式典は27日にハノイで開かれた。国家証券委員会（SSC）は1996年11月28日の政令で設立され、今回、1等労働勲章を受けた。</li><li>時価総額は約1京800兆ドン（約67兆円）で2025年GDPの82%超、投資家口座は1,400万超とSSCは説明した。</li><li>首相は、2026〜2030年に中長期資金として約5,400兆ドン（約33兆5,000億円）を集める目標を示した。2030年に時価総額をGDP比120%、債券残高を同58%以上にする。</li><li>首相は市場参入の障壁や外資の持ち株比率の規制の見直し、取引・決済・情報開示の改善を挙げた。相場操縦や不正への厳正な対処も求めた。</li></ul>",
+  "bodyHtml": "<h3>式典で示された市場の規模</h3><p>ベトナムの証券業は1996年11月28日の政令第75号でSSCが設立されてから30年になる。ニャンザン（Nhan Dan）によると、記念式典は11月27日にハノイで開かれ、党・国家の指導者や省庁、企業、国際金融機関に加え、指数会社のFTSEラッセル（FTSE Russell）とMSCIも出席した。SSCのヴー・ティ・チャン・フオン（Vu Thi Chan Phuong）委員長は、時価総額が約1京800兆ドンで2025年GDPの82%超、投資家口座は1,400万を超えたと報告した。ダンチ（Dan Tri）によれば、上場企業は1,500社を超え、1〜10月の1日平均売買代金は25兆ドン（約1,550億円）を上回った。取引が始まった2000年は上場2銘柄、時価総額は約4,500億ドン（約28億円）だったという。</p><p>節目となったのは、9月21日にベトナム株がFTSEラッセルの世界指数に組み入れられ始めたことである。ダンチは、これが「二次新興市場」への格上げだと伝えている。首相は式典で、格上げは重要な成果だが、より重要なのは市場の実質的な質を高め続けることだと述べたと、ダンチは伝えている。</p><h3>首相の3つの柱：制度、資金、市場の質</h3><p>首相は3つの優先課題を示した。第1は制度の改革である。ブイエコノミー（VnEconomy）によると、政策を現代的で透明、安定的で予測しやすいものにするとし、市場参入の障壁を取り除き、外資の持ち株比率の上限を見直し、取引、決済、情報開示を改善するよう求めた。ニャンザンは、改正証券法と金融市場の包括改革案の実行を求めたと伝える。第2は、株式市場を中長期資金の主要な調達先にすることである。2026〜2030年に約5,400兆ドンを動員し、2030年に時価総額をGDP比120%、債券残高を58%以上とする目標を掲げた。基金や年金基金などの機関投資家の育成、グリーン金融の拡大も挙げた。</p><p>第3は市場の質である。上場企業の統治水準や会計・監査基準の向上、国有企業の株式化と国の持ち分売却を上場に結びつけること、条件を満たす民間企業や外資系企業の上場参加を促すことが含まれる。首相は、不正、相場操縦、不当な利得は厳しく対処すべきだと述べ、財務省とSSCに、責任と工程、測定可能な成果を明記した行動計画の策定を求めた。</p><h3>日系投資家・企業にとっての注目点</h3><p>外資の持ち株比率の上限は、ベトナム企業への出資を検討する外国の機関投資家や事業会社にとって論点になる。首相が見直しに言及したことは、方向性として注目される。ただし、記事から読み取れるのは見直す方針までで、対象業種、上限の水準、時期は示されていない。時価総額のGDP比82%から120%への引き上げは5年で大幅な拡大を要する目標であり、実現には新規上場や国有企業の売却が進むかが鍵になるとみられる。円換算は、11月18日時点の参考レート（1ドン＝約0.0062円）で計算した。</p>",
+  "dataFigure": "GDP比120%",
+  "dataLabel": "2030年の株式時価総額の目標（現在は2025年GDPの82%超）",
+  "dataSource": "ベトナム首相、国家証券委員会、2026年11月27日",
+  "chart": {
+    "bars": [
+      {
+        "label": "現在",
+        "value": 82,
+        "display": "82%超"
+      },
+      {
+        "label": "2030目標",
+        "value": 120,
+        "display": "120%"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "Nhan Dan（ニャンザン）",
+      "title": "Securities industry's urged to make Viet Nam trusted destination for global investment capital",
+      "url": "https://en.nhandan.vn/securities-industrys-urged-to-make-viet-nam-trusted-destination-for-global-investment-capital-post169673.html",
+      "date": "2026-11-27"
+    },
+    {
+      "name": "VnEconomy",
+      "title": "PM calls for major reforms to strengthen stock market",
+      "url": "https://en.vneconomy.vn/pm-calls-for-major-reforms-to-strengthen-stock-market.htm",
+      "date": "2026-11-27"
+    },
+    {
+      "name": "DTiNews（Dan Tri）",
+      "title": "Vietnam, US largely conclude reciprocal trade deal talks, PM says",
+      "url": "https://dtinews.dantri.com.vn/vietnam-today/vietnam-us-largely-conclude-reciprocal-trade-deal-talks-pm-says-20261127125445786.htm",
+      "date": "2026-11-27"
+    }
+  ],
+  "seoTitle": "ベトナム証券30周年、時価総額GDP比120%へ",
+  "seoDescription": "ベトナム証券業が30周年。首相は2030年に株式の時価総額をGDP比120%とする目標を示し、外資の持ち株規制の見直しも求めた。時価総額は約67兆円。",
+  "tags": [
+    "ベトナム",
+    "国家証券委員会",
+    "FTSEラッセル",
+    "レ・ミン・フン首相",
+    "外資規制",
+    "時価総額",
+    "証券法"
+  ],
+  "publishAt": "2026-11-28T08:00:00+09:00",
+  "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/illust/vietnam-securities-30th-anniversary-market-cap-120-percent-gdp-2030.png"
+}
