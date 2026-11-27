@@ -1,0 +1,62 @@
+{
+  "slug": "singapore-ocbc-first-dedicated-gold-vault-100-tonnes-8000-bars",
+  "language": "ja",
+  "title": "OCBC、シンガポールに初の専用金庫 保管能力は約100トン、大型バー約8,000本分",
+  "country": "シンガポール",
+  "category": "金融・市場",
+  "articleType": "news",
+  "lead": "シンガポールの大手銀行OCBC（華僑銀行）は11月26日、同行初の金専用の金庫を開いた。保管能力は約100トンで、機関投資家や富裕層の現物金の需要増に応える。シンガポールが金取引の拠点づくりを進める中での動きである。",
+  "summaryHtml": "<ul><li>OCBCは11月26日、同行初の金専用の金庫を開設した。保管能力は約100トンで、大型の金地金（1本約12.4キロ）で約8,000本分にあたると報じられた。</li><li>これまで同行は共用の保管の仕組みを使っており、新金庫はそれを補う位置づけである。金庫の場所や運営会社は報道では明らかになっていない。</li><li>OCBCは6月から、機関投資家とバンク・オブ・シンガポールの顧客向けに、現物金の売買と保管を始めていた。同行は保管する顧客数や残高を公表していない。</li><li>OCBCはシンガポール取引所（SGX）の金の店頭清算の創設6行の1つで、取引開始は2027年1〜3月期の見通しと報じられている。</li><li>シンガポール金融管理局（MAS）は11月10日、最大500トンの国家通貨金庫で外国の中央銀行の金の保管を始めている。</li></ul>",
+  "bodyHtml": "<h3>新金庫の概要：共用保管を補う専用施設</h3><p>ビジネス・タイムズの報道を転載したロングブリッジ（Longbridge）の記事と、フィンテック・ニュース・シンガポール（Fintech News Singapore）によると、OCBCは11月26日、同行初の金専用の金庫を開設した。保管能力は約100トンで、ロンドンの機関投資家向け標準である大型バー（400トロイオンス、約12.4キロ）で約8,000本分とされる。計算上も、8,000本に12.4キロを掛けると約99トンで、報じられた規模と合う。金庫の所在地や運営会社は、両紙とも明らかにしていない。</p><p>OCBCのグローバル・マーケッツ責任者ケネス・ライ（Kenneth Lai）氏は、機関投資家から金の保管への関心が高まっていると説明し、新金庫が需要への対応力を高めると述べた。同行は、すでに使っている共用の保管の仕組みに、専用施設を加えた形である。ただ、保管する顧客の数や預かり残高は公表されておらず、需要の大きさを数字で測ることはできない。</p><h3>背景：6月に現物金の取り扱いを開始</h3><p>OCBCは2026年6月8日の発表で、機関投資家と傘下の富裕層向け銀行バンク・オブ・シンガポールの顧客に対し、6月10日から現物金の売買と保管を始めると明らかにしていた。取り扱うのは大型バーと1キロの小型バーで、番号で顧客ごとに割り当てる方式である。同行は、2026年1〜3月期の世界の金地金の需要が前年同期比で50%増えたこと（世界金評議会の数字）や、バンク・オブ・シンガポールの顧客の現物金の保有額が2025年末から40%超増えたことを、拡大の理由に挙げていた。同行は、この業務を将来、他の顧客層にも広げる意向を示している。</p><p>グループ会社のライオン・グローバル・インベスターズ（Lion Global Investors）は、2026年3月にSGXに現物金ETFを上場し、4月には現物金ファンドのトークンも発行した。OCBCは、現物金を軸に、銀行、資産運用、保険にまたがる取り組みを進めている。</p><h3>拠点間競争と今後の焦点</h3><p>金の保管をめぐっては、官民の動きが重なっている。フィンテック・ニュース・シンガポールによると、MASは11月10日、最大500トンの国家通貨金庫で、外国の中央銀行や国際金融機関などの金の保管を始めた。ロングブリッジは、シンガポールにはすでに2,000トン超の商業用の保管能力があるとも伝えている。OCBCは、SGXが整備する金の店頭清算システムの創設メンバー6行の1つで、6月に覚書を結んだ。実際の取引開始は2027年1〜3月期と報じられているが、記事によってMASが見込むのかSGXが見込むのかが分かれている。</p><p>日系の金融機関や商社にとっては、シンガポールで金の保管・決済の選択肢が増えることになる。今後の注目点は、OCBCが金庫の運営体制や利用状況を公表するか、清算システムの取引開始時期が予定通りになるかである。なお、OCBC自身の11月26日付の発表文は今回確認できておらず、金庫の規模などはビジネス・タイムズ系とフィンテック・ニュースの報道による。</p>",
+  "dataFigure": "約100トン",
+  "dataLabel": "OCBCが開いた専用金庫の保管能力",
+  "dataSource": "ビジネス・タイムズ報道（ロングブリッジ転載）、2026年11月26日",
+  "chart": {
+    "bars": [
+      {
+        "label": "OCBC新",
+        "value": 100,
+        "display": "約100トン"
+      },
+      {
+        "label": "MAS最大",
+        "value": 500,
+        "display": "最大500トン"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "Longbridge（Business Times 転載）",
+      "title": "OCBC opens 100 tonne gold vaulting facility to meet growing institutional demand",
+      "url": "https://longbridge.com/en/news/306860499",
+      "date": "2026-11-26"
+    },
+    {
+      "name": "Fintech News Singapore",
+      "title": "OCBC Opens Its First Dedicated Gold Vault in Singapore",
+      "url": "https://fintechnews.sg/142519/wealthtech/ocbc-gold-vault-singapore/",
+      "date": "2026-11-27"
+    },
+    {
+      "name": "OCBC",
+      "title": "OCBC institutional clients and Bank of Singapore clients can transact in physical gold through OCBC's expanded gold proposition",
+      "url": "https://www.ocbc.com/group/media/release/2026/ocbc-expands-gold-proposition-with-physical-gold-offering-for-institutional-and-bos.page",
+      "date": "2026-06-08"
+    }
+  ],
+  "seoTitle": "OCBC、初の専用金庫を開設 約100トン",
+  "seoDescription": "シンガポールのOCBCは11月26日、同行初の金専用の金庫を開設した。保管能力は約100トンで、大型バー約8,000本分。機関投資家の現物金需要に応える。",
+  "tags": [
+    "シンガポール",
+    "OCBC",
+    "金",
+    "金庫",
+    "バンク・オブ・シンガポール",
+    "SGX",
+    "MAS",
+    "ケネス・ライ"
+  ],
+  "publishAt": "2026-11-27T23:40:00+09:00",
+  "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/illust/singapore-ocbc-first-dedicated-gold-vault-100-tonnes-8000-bars.png"
+}
