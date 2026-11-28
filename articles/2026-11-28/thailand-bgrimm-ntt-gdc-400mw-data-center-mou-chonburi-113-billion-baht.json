@@ -1,0 +1,47 @@
+{
+  "slug": "thailand-bgrimm-ntt-gdc-400mw-data-center-mou-chonburi-113-billion-baht",
+  "language": "ja",
+  "title": "タイのB.グリム系とNTT系、チョンブリに400MWのデータセンター 投資1,130億バーツ超で覚書",
+  "country": "タイ",
+  "category": "IT・スタートアップ",
+  "articleType": "news",
+  "lead": "タイのアマタ・B.グリム・パワー（ABP）とNTTグローバル・データセンターズ（タイ）は、チョンブリ県の工業団地に総容量400MWのデータセンター群を開発するため、共同の事業化調査で覚書を結んだ。投資見込み額は1,130億バーツ超とされる。",
+  "summaryHtml": "<ul><li>覚書は11月19日、東京で開かれたタイ日投資・ビジネス対話2026で結ばれた。タイ投資委員会（BOI）と経団連が主催し、エクニティ副首相兼財務相が立ち会った。</li><li>対象は総容量400MWのハイパースケール型データセンター群。投資の見込み額は1,130億バーツ（約5,300億円）超、雇用は2,500人超を見込む。</li><li>立地はアマタ・シティ・チョンブリ工業団地。ABPがエネルギーとユーティリティの基盤を整え、NTT側が設計・建設・運営の知見を担う。</li><li>覚書の内容は共同の事業化調査である。フォーブスは投資して建設すると書くが、カオフーンは調査段階と伝え、報道に温度差がある。</li><li>フォーブスは、米クッシュマン・アンド・ウェイクフィールドの予測として、タイのデータセンター容量が2026年6月の約130MWから2030年に2.2GWへ増えると伝えた。</li></ul>",
+  "bodyHtml": "<h3>覚書の中身：事業化調査の段階</h3><p>カオフーン・インターナショナル（Kaohoon International）によると、アマタ・B.グリム・パワー（Amata B.Grimm Power、ABP）とNTTグローバル・データセンターズ（タイ）（NTT Global Data Centers (Thailand)、NTT GDC）は11月19日、東京で開かれたタイ日投資・ビジネス対話2026で覚書（MoU）に署名した。ABPは、上場するB.グリム・パワー（B.Grimm Power）の子会社である。署名の場には、エクニティ・ニティタンプラパス（Ekniti Nitithanprapas）副首相兼財務相が立ち会い、B.グリム・パワーからはノパデート・カルナスタ（Nopadej Karnasuta）氏が出席した。覚書は、両社が総容量400MWのハイパースケール型データセンター群について、共同で事業化調査を行うという内容である。投資の見込み額は1,130億バーツを超え、雇用は2,500人超を見込む。円換算は、本紙の直近の記事と同じ1バーツ＝約4.7円で行い、約5,300億円となる。</p><h3>役割分担と立地</h3><p>立地は、アマタ・シティ・チョンブリ工業団地である。ABPがエネルギーとユーティリティの基盤を担い、NTT GDCがデータセンターの設計、建設、運営の知見を提供する。カオフーンは、日本、米国、欧州のクラウドやAIの顧客を主な対象とし、タイのメイド・ウィズ・タイランド構想とも結びつくと伝えた。W.メディア（w.media）によれば、エクニティ氏は17〜21日の訪日団を率い、NTT GDCの日本の施設を省エネの手本として挙げた。一方で、フォーブスは両社が1,130億バーツ（約33億ドル）を投じて400MWのデータセンターを建設すると書いている。カオフーンとW.メディアは調査・検討の段階と伝えており、本紙は覚書の文言に近い後者の見方で書いた。着工や稼働の時期、電力の調達方法は、確認できた3本の記事には書かれていない。</p><h3>タイのデータセンター市場と日系企業</h3><p>フォーブスは、B.グリムが2025年にもシンガポールのデジタル・エッジ（Digital Edge）と10億ドル規模のデータセンター事業を発表したと伝えている。同紙が引くクッシュマン・アンド・ウェイクフィールドの予測では、タイのデータセンター容量は2026年6月の約130MWから、2030年に2.2GWへ拡大する。400MWが実現すれば、現在の容量の3倍超に当たる計算になる。日本企業が参加する案件として、日系の建設・設備・電力関連の企業には需要が広がる可能性がある。ただし、現時点では調査段階の覚書で、投資の最終決定はこれからである。電力供給の確保と、AI向け半導体をめぐる米国の規制の動向が、事業の進み方を左右するとみられる。フォーブスは、米商務省が11月23日にシンガポールの企業などを規制対象に加えたことにも触れている。</p>",
+  "dataFigure": "400MW",
+  "dataLabel": "B.グリム系とNTT系が事業化調査に着手するデータセンター群の総容量",
+  "dataSource": "カオフーン・インターナショナル、2026年11月24日",
+  "sources": [
+    {
+      "name": "Kaohoon International",
+      "title": "BGRIM Partners With NTT GDC to Develop 400MW Hyperscale Data Center Campus in Thailand",
+      "url": "https://www.kaohooninternational.com/markets/595340",
+      "date": "2026-11-24"
+    },
+    {
+      "name": "W.Media",
+      "title": "B.Grimm Power and NTT Global Data Center sign MoU for a multi billion dollar data center project in Thailand",
+      "url": "https://w.media/b-grimm-power-and-ntt-global-data-center-sign-mou-for-a-multi-billion-dollar-data-center-project-in-thailand/",
+      "date": "2026-11-25"
+    },
+    {
+      "name": "Forbes",
+      "title": "Billionaire Harald Link's B. Grimm, Japan's NTT To Build $3.3 Billion Data Center In Thailand",
+      "url": "https://www.forbes.com/sites/yessarrosendar/2026/11/25/billionaire-harald-links-b-grimm-japans-ntt-to-build-33-billion-data-center-in-thailand/",
+      "date": "2026-11-25"
+    }
+  ],
+  "seoTitle": "B.グリムとNTT系、タイに400MW覚書",
+  "seoDescription": "アマタ・B.グリム・パワーとNTT系は、チョンブリ県に総容量400MWのデータセンター群を開発する事業化調査で覚書を締結。投資見込み額は1,130億バーツ超。",
+  "tags": [
+    "タイ",
+    "B.グリム・パワー",
+    "NTTグローバル・データセンターズ",
+    "データセンター",
+    "チョンブリ",
+    "アマタ",
+    "エクニティ副首相"
+  ],
+  "publishAt": "2026-11-28T20:00:00+09:00",
+  "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/illust/thailand-bgrimm-ntt-gdc-400mw-data-center-mou-chonburi-113-billion-baht.png"
+}

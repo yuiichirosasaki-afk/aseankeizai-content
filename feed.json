@@ -1,7 +1,183 @@
 {
-  "generatedAt": "2026-11-28T14:22:35+09:00",
+  "generatedAt": "2026-11-28T18:24:36+09:00",
   "site": "東南アジア経済新聞",
   "articles": [
+    {
+      "slug": "thailand-bgrimm-ntt-gdc-400mw-data-center-mou-chonburi-113-billion-baht",
+      "language": "ja",
+      "title": "タイのB.グリム系とNTT系、チョンブリに400MWのデータセンター 投資1,130億バーツ超で覚書",
+      "country": "タイ",
+      "category": "IT・スタートアップ",
+      "articleType": "news",
+      "lead": "タイのアマタ・B.グリム・パワー（ABP）とNTTグローバル・データセンターズ（タイ）は、チョンブリ県の工業団地に総容量400MWのデータセンター群を開発するため、共同の事業化調査で覚書を結んだ。投資見込み額は1,130億バーツ超とされる。",
+      "summaryHtml": "<ul><li>覚書は11月19日、東京で開かれたタイ日投資・ビジネス対話2026で結ばれた。タイ投資委員会（BOI）と経団連が主催し、エクニティ副首相兼財務相が立ち会った。</li><li>対象は総容量400MWのハイパースケール型データセンター群。投資の見込み額は1,130億バーツ（約5,300億円）超、雇用は2,500人超を見込む。</li><li>立地はアマタ・シティ・チョンブリ工業団地。ABPがエネルギーとユーティリティの基盤を整え、NTT側が設計・建設・運営の知見を担う。</li><li>覚書の内容は共同の事業化調査である。フォーブスは投資して建設すると書くが、カオフーンは調査段階と伝え、報道に温度差がある。</li><li>フォーブスは、米クッシュマン・アンド・ウェイクフィールドの予測として、タイのデータセンター容量が2026年6月の約130MWから2030年に2.2GWへ増えると伝えた。</li></ul>",
+      "bodyHtml": "<h3>覚書の中身：事業化調査の段階</h3><p>カオフーン・インターナショナル（Kaohoon International）によると、アマタ・B.グリム・パワー（Amata B.Grimm Power、ABP）とNTTグローバル・データセンターズ（タイ）（NTT Global Data Centers (Thailand)、NTT GDC）は11月19日、東京で開かれたタイ日投資・ビジネス対話2026で覚書（MoU）に署名した。ABPは、上場するB.グリム・パワー（B.Grimm Power）の子会社である。署名の場には、エクニティ・ニティタンプラパス（Ekniti Nitithanprapas）副首相兼財務相が立ち会い、B.グリム・パワーからはノパデート・カルナスタ（Nopadej Karnasuta）氏が出席した。覚書は、両社が総容量400MWのハイパースケール型データセンター群について、共同で事業化調査を行うという内容である。投資の見込み額は1,130億バーツを超え、雇用は2,500人超を見込む。円換算は、本紙の直近の記事と同じ1バーツ＝約4.7円で行い、約5,300億円となる。</p><h3>役割分担と立地</h3><p>立地は、アマタ・シティ・チョンブリ工業団地である。ABPがエネルギーとユーティリティの基盤を担い、NTT GDCがデータセンターの設計、建設、運営の知見を提供する。カオフーンは、日本、米国、欧州のクラウドやAIの顧客を主な対象とし、タイのメイド・ウィズ・タイランド構想とも結びつくと伝えた。W.メディア（w.media）によれば、エクニティ氏は17〜21日の訪日団を率い、NTT GDCの日本の施設を省エネの手本として挙げた。一方で、フォーブスは両社が1,130億バーツ（約33億ドル）を投じて400MWのデータセンターを建設すると書いている。カオフーンとW.メディアは調査・検討の段階と伝えており、本紙は覚書の文言に近い後者の見方で書いた。着工や稼働の時期、電力の調達方法は、確認できた3本の記事には書かれていない。</p><h3>タイのデータセンター市場と日系企業</h3><p>フォーブスは、B.グリムが2025年にもシンガポールのデジタル・エッジ（Digital Edge）と10億ドル規模のデータセンター事業を発表したと伝えている。同紙が引くクッシュマン・アンド・ウェイクフィールドの予測では、タイのデータセンター容量は2026年6月の約130MWから、2030年に2.2GWへ拡大する。400MWが実現すれば、現在の容量の3倍超に当たる計算になる。日本企業が参加する案件として、日系の建設・設備・電力関連の企業には需要が広がる可能性がある。ただし、現時点では調査段階の覚書で、投資の最終決定はこれからである。電力供給の確保と、AI向け半導体をめぐる米国の規制の動向が、事業の進み方を左右するとみられる。フォーブスは、米商務省が11月23日にシンガポールの企業などを規制対象に加えたことにも触れている。</p>",
+      "dataFigure": "400MW",
+      "dataLabel": "B.グリム系とNTT系が事業化調査に着手するデータセンター群の総容量",
+      "dataSource": "カオフーン・インターナショナル、2026年11月24日",
+      "sources": [
+        {
+          "name": "Kaohoon International",
+          "title": "BGRIM Partners With NTT GDC to Develop 400MW Hyperscale Data Center Campus in Thailand",
+          "url": "https://www.kaohooninternational.com/markets/595340",
+          "date": "2026-11-24"
+        },
+        {
+          "name": "W.Media",
+          "title": "B.Grimm Power and NTT Global Data Center sign MoU for a multi billion dollar data center project in Thailand",
+          "url": "https://w.media/b-grimm-power-and-ntt-global-data-center-sign-mou-for-a-multi-billion-dollar-data-center-project-in-thailand/",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "Forbes",
+          "title": "Billionaire Harald Link's B. Grimm, Japan's NTT To Build $3.3 Billion Data Center In Thailand",
+          "url": "https://www.forbes.com/sites/yessarrosendar/2026/11/25/billionaire-harald-links-b-grimm-japans-ntt-to-build-33-billion-data-center-in-thailand/",
+          "date": "2026-11-25"
+        }
+      ],
+      "seoTitle": "B.グリムとNTT系、タイに400MW覚書",
+      "seoDescription": "アマタ・B.グリム・パワーとNTT系は、チョンブリ県に総容量400MWのデータセンター群を開発する事業化調査で覚書を締結。投資見込み額は1,130億バーツ超。",
+      "tags": [
+        "タイ",
+        "B.グリム・パワー",
+        "NTTグローバル・データセンターズ",
+        "データセンター",
+        "チョンブリ",
+        "アマタ",
+        "エクニティ副首相"
+      ],
+      "publishAt": "2026-11-28T20:00:00+09:00",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/illust/thailand-bgrimm-ntt-gdc-400mw-data-center-mou-chonburi-113-billion-baht.png"
+    },
+    {
+      "slug": "vietnam-moodys-upgrade-ba1-stable-outlook-nov-2026",
+      "language": "ja",
+      "title": "ムーディーズ、ベトナムをBa1に格上げ 投資適格の1段下 見通しは安定的",
+      "country": "ベトナム",
+      "category": "金融・市場",
+      "articleType": "news",
+      "lead": "ベトナム財務省は11月27日、米ムーディーズ・レーティングズ（Moody's Ratings）がベトナムの長期発行体格付けをBa2からBa1に引き上げ、見通しを「安定的」としたと発表した。投資適格の1段下で、制度改革と高成長、低い政府債務を評価した。",
+      "summaryHtml": "<ul><li>財務省は27日、ムーディーズが自国通貨建て・外貨建ての長期発行体格付けをBa2からBa1に引き上げ、見通しは安定的だと発表した。Ba1は投資適格の1段下にあたる。</li><li>国別の上限格付けも上がった。自国通貨建てはBaa2からBaa1、外貨建てはBa1からBaa3となった。</li><li>主因は制度・ガバナンスの改善で、省庁と地方政府の再編、司法の強化、汚職対策、行政サービスのデジタル化を挙げた。</li><li>実質GDPは2026年1〜9月に9%増（2025年通年は8%増）。1〜10月の外国直接投資の登録額は74%増だった。政府債務は2026年に対GDP比約30%、2030年ごろに約35%へ上がると予測される。</li><li>日本の格付投資情報センター（R&I）は10月8日に投資適格へ引き上げており、財務省は今回の格上げがこれに続くものと位置づけた。</li></ul>",
+      "bodyHtml": "<h3>格付けの内容：1段階の引き上げ</h3><p>ベトナム財務省は11月27日、ムーディーズ・レーティングズが政府の長期発行体格付けをBa2からBa1に引き上げたと発表した。ベトナムの報道各紙（ザンチ、カフェF、サイゴン・ダウトゥ・タイチン）によると、自国通貨建てと外貨建ての双方が対象で、見通しは「安定的」である。Ba1は、投資適格（Baa3以上）の1段下にあたる。あわせて国別の上限格付けも引き上げられ、自国通貨建てがBaa2からBaa1、外貨建てがBa1からBaa3となった。外貨建ての上限が投資適格の水準に入ったことになる。なお、本稿はムーディーズの原文ではなく、財務省の発表を伝えるベトナム報道に基づく。</p><h3>評価された点と、安定的とした理由</h3><p>報道によれば、ムーディーズが最も重く見たのは制度とガバナンスの改善である。2024年後半からの省庁・地方政府の再編と簡素化、司法の強化、汚職対策、行政サービスや政府データのデジタル化を挙げ、統治の指標は高い格付けの国に近づいているとした。経済面では、ビジネス環境の改革、民間部門の育成、資本市場、インフラ、科学技術の振興により、より生産性の高い成長モデルへ移りつつあるとみている。数字では、実質GDPが2026年1〜9月に9%増と、2025年通年の8%増を上回った。1〜10月の外国直接投資の登録額は前年同期比74%増で、半導体や先端電子などハイテク分野に集まりつつあるという。財政面では、政府債務は2026年に対GDP比約30%、2030年ごろに約35%へ上がる見通しだが、名目成長率が高く債務管理も慎重なため、なお穏当な水準とした。</p><p>見通しを引き上げずに「安定的」としたのは、改革の継続を見極める余地があるためとみられる。報道は、課題としてデータの質と透明性、法規制の質、金融政策の枠組みの有効性、信用の伸びと金融システムのレバレッジを挙げたと伝えている。さらなる格上げや格下げの条件は、3紙の記事には書かれていない。</p><h3>R&Iに続く格上げと、日系企業への影響</h3><p>財務省によれば、日本のR&Iは10月8日にベトナムを投資適格に引き上げており、今回のムーディーズの判断はこれに続くものだ。財務省は、深い制度改革と堅実なマクロ基盤、高い成長、公的債務の安全性が確認されたとして、国際市場での地位と投資家の信認を高めると説明した。ソブリン格付けの上昇は、一般に国内企業や金融機関の外貨調達コストの低下につながりやすいとされるが、個別の融資条件は企業ごとに決まる。ベトナムで事業を拡大する日系企業にとっては、現地パートナーや取引先の資金調達環境が改善するかどうかが、当面の注目点である。</p>",
+      "dataFigure": "Ba1",
+      "dataLabel": "ムーディーズのベトナム長期格付け（Ba2から1段階上昇）",
+      "dataSource": "ベトナム財務省の発表、2026年11月27日",
+      "sources": [
+        {
+          "name": "Dân trí",
+          "title": "Moody's nâng xếp hạng tín nhiệm quốc gia Việt Nam lên mức Ba1",
+          "url": "https://dantri.com.vn/kinh-doanh/moodys-nang-xep-hang-tin-nhiem-quoc-gia-viet-nam-len-muc-ba1-20261127182615268.htm",
+          "date": "2026-11-27"
+        },
+        {
+          "name": "CafeF",
+          "title": "Việt Nam được Moody's nâng xếp hạng tín nhiệm lên mức Ba1, tiến sát ngưỡng Đầu tư",
+          "url": "https://cafef.vn/viet-nam-duoc-moodys-nang-xep-hang-tin-nhiem-len-muc-ba1-tien-sat-nguong-dau-tu-188261128122236955.chn",
+          "date": "2026-11-28"
+        },
+        {
+          "name": "Sài Gòn Đầu tư Tài chính",
+          "title": "Moody's nâng xếp hạng tín nhiệm Việt Nam lên Ba1",
+          "url": "https://dttc.sggp.org.vn/moodys-nang-xep-hang-tin-nhiem-viet-nam-len-ba1-post139690.html",
+          "date": "2026-11-27"
+        }
+      ],
+      "seoTitle": "ムーディーズ、ベトナムをBa1に格上げ",
+      "seoDescription": "ベトナム財務省は、ムーディーズが長期発行体格付けをBa2からBa1に引き上げ、見通しを安定的としたと発表。投資適格の1段下で、制度改革と高成長を評価した。",
+      "tags": [
+        "ベトナム",
+        "ムーディーズ",
+        "ソブリン格付け",
+        "財務省",
+        "投資適格",
+        "R&I",
+        "外国直接投資"
+      ],
+      "publishAt": "2026-11-28T19:30:00+09:00",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/illust/vietnam-moodys-upgrade-ba1-stable-outlook-nov-2026.png"
+    },
+    {
+      "slug": "singapore-oct-2026-manufacturing-output-6-1-percent-precision-54-1",
+      "language": "ja",
+      "title": "シンガポールの10月製造業生産は6.1%増 精密工学が54.1%増、バイオ医薬は35.8%減",
+      "country": "シンガポール",
+      "category": "経済",
+      "articleType": "news",
+      "lead": "シンガポール経済開発庁（EDB）が11月26日に発表した10月の製造業生産は、前年同月比6.1%増だった。半導体製造装置を含む精密工学が54.1%増と全体を押し上げた一方、バイオ医薬は35.8%減と落ち込み、業種間の差が大きい。",
+      "summaryHtml": "<ul><li>10月の製造業生産は前年同月比6.1%増で、季節調整済みの前月比は7.1%増だった。9月は5%増に改定された。</li><li>バイオ医薬を除くと前年同月比12.1%増（9月は10.9%増）だった。</li><li>精密工学は54.1%増（9月は39.7%増）で、半導体製造装置を含む機械・システムが主因。電子は6.6%増で、全分野がAI関連の需要を背景に伸びた。</li><li>化学は4.4%増で減少傾向から反転し、一般製造は0.5%増。輸送機械は5.3%減、バイオ医薬は35.8%減だった。</li><li>次回の発表は12月28日の予定。</li></ul>",
+      "bodyHtml": "<h3>10月の統計：市場予想を大きく上回る</h3><p>シンガポール経済開発庁（Economic Development Board、EDB）は11月26日、10月の製造業生産の速報値を発表した。アジアワン（AsiaOne）と新華社によると、前年同月比は6.1%増、季節調整済みの前月比は7.1%増である。バイオ医薬を除いた前年同月比は12.1%増で、9月の10.9%増から伸びが加速した。N環球（N Globe）は、ブルームバーグが集めたエコノミスト予想は2.2%増だったと伝えており、実績は予想を大きく上回った。9月の前年同月比は、トレーディング・エコノミクスが10月26日に報じた速報の3.4%増から、今回の発表では5%増に改定されている。</p><h3>分野別：精密工学と電子が牽引</h3><p>伸びを主導したのは精密工学である。前年同月比54.1%増で、9月の39.7%増から加速した。EDBは、半導体製造装置を含む機械・システムが主因だと説明している。N環球によれば、機械・システムは62.4%増、精密部品は16.1%増だった。電子は6.6%増で、すべての分野が拡大した。N環球は、その他の電子モジュール・部品が26.9%増、コンピューター周辺機器・データ記憶装置が24.7%増、半導体が5.2%増と伝えている。EDBは、AI関連の需要が底堅いことを背景に挙げた。</p><p>そのほかの分野では、化学が4.4%増となり、これまでの減少傾向から反転した。香料や工業ガスなどが寄与した。一般製造は0.5%増にとどまり、粉ミルクや飲料が伸びた一方、印刷などが減った。一方、輸送機械は5.3%減で、造船所の稼働や海洋・洋上の石油・ガス設備が弱かった。陸上輸送機器と航空は拡大した。バイオ医薬は35.8%減で、EDBは生物製剤の生産減と、原薬（API）の製品構成の変化を理由に挙げた。</p><h3>日系企業への示唆と今後</h3><p>今回の数字は、シンガポールの製造業が半導体製造装置とAI関連の電子部品に大きく依存していることを改めて示した。装置や精密部品をシンガポールで生産・調達する日系企業にとっては追い風とみられる。他方、バイオ医薬は生産の振れが大きく、月ごとの全体の数字を左右しやすい。9月の速報は前年同月比3.4%増と減速していたため、10月の加速は一時的な反動を含む可能性もあり、単月の数字で判断するのは難しい。注目されるのは、12月28日に発表される11月分で、精密工学と電子の勢いが続くかどうかである。なお、数字は速報値で、本稿はEDBの発表を伝えた報道に基づく。</p>",
+      "dataFigure": "6.1%",
+      "dataLabel": "10月の製造業生産（前年同月比、速報）",
+      "dataSource": "シンガポール経済開発庁（EDB）、2026年11月26日",
+      "chart": {
+        "bars": [
+          {
+            "label": "精密工学",
+            "value": 54.1,
+            "display": "54.1%"
+          },
+          {
+            "label": "電子",
+            "value": 6.6,
+            "display": "6.6%"
+          },
+          {
+            "label": "全体",
+            "value": 6.1,
+            "display": "6.1%"
+          },
+          {
+            "label": "化学",
+            "value": 4.4,
+            "display": "4.4%"
+          },
+          {
+            "label": "一般製造",
+            "value": 0.5,
+            "display": "0.5%"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "name": "AsiaOne",
+          "title": "Singapore's manufacturing output grows 6.1% year-on-year in October as electronics sees sustained AI demand",
+          "url": "https://www.asiaone.com/money/singapore-manufacturing-output-october-2026-edb",
+          "date": "2026-11-26"
+        },
+        {
+          "name": "新華社（Xinhua）",
+          "title": "Singapore manufacturing output rises 6.1 pct in October, led by precision engineering",
+          "url": "https://english.news.cn/20261126/e3b7969ef32a4ce58e0221f5659b622e/c.html",
+          "date": "2026-11-26"
+        },
+        {
+          "name": "N Globe",
+          "title": "Singapore factory output up 6.1% in October as AI demand drives precision engineering surge of 54.1%",
+          "url": "https://nglobenews.com/en/article/singapore-factory-output-october-6-1-percent-ai-demand-2026-11-26",
+          "date": "2026-11-27"
+        },
+        {
+          "name": "Trading Economics",
+          "title": "Singapore Manufacturing Output Hits Over 1-Year Low",
+          "url": "https://tradingeconomics.com/singapore/industrial-production/news/594896",
+          "date": "2026-10-26"
+        }
+      ],
+      "seoTitle": "シンガポール10月製造業生産6.1%増",
+      "seoDescription": "シンガポール経済開発庁は10月の製造業生産が前年同月比6.1%増と発表。精密工学が54.1%増、バイオ医薬は35.8%減で、AI関連の電子部品や装置が牽引した。",
+      "tags": [
+        "シンガポール",
+        "経済開発庁",
+        "EDB",
+        "製造業生産",
+        "精密工学",
+        "半導体製造装置",
+        "バイオ医薬"
+      ],
+      "publishAt": "2026-11-28T19:00:00+09:00",
+      "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/illust/singapore-oct-2026-manufacturing-output-6-1-percent-precision-54-1.png"
+    },
     {
       "slug": "indonesia-lps-cancels-nusantara-office-jakarta-1-465-trillion-rupiah",
       "language": "ja",

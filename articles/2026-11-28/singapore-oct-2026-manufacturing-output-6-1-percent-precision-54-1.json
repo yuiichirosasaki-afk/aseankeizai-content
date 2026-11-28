@@ -1,0 +1,82 @@
+{
+  "slug": "singapore-oct-2026-manufacturing-output-6-1-percent-precision-54-1",
+  "language": "ja",
+  "title": "シンガポールの10月製造業生産は6.1%増 精密工学が54.1%増、バイオ医薬は35.8%減",
+  "country": "シンガポール",
+  "category": "経済",
+  "articleType": "news",
+  "lead": "シンガポール経済開発庁（EDB）が11月26日に発表した10月の製造業生産は、前年同月比6.1%増だった。半導体製造装置を含む精密工学が54.1%増と全体を押し上げた一方、バイオ医薬は35.8%減と落ち込み、業種間の差が大きい。",
+  "summaryHtml": "<ul><li>10月の製造業生産は前年同月比6.1%増で、季節調整済みの前月比は7.1%増だった。9月は5%増に改定された。</li><li>バイオ医薬を除くと前年同月比12.1%増（9月は10.9%増）だった。</li><li>精密工学は54.1%増（9月は39.7%増）で、半導体製造装置を含む機械・システムが主因。電子は6.6%増で、全分野がAI関連の需要を背景に伸びた。</li><li>化学は4.4%増で減少傾向から反転し、一般製造は0.5%増。輸送機械は5.3%減、バイオ医薬は35.8%減だった。</li><li>次回の発表は12月28日の予定。</li></ul>",
+  "bodyHtml": "<h3>10月の統計：市場予想を大きく上回る</h3><p>シンガポール経済開発庁（Economic Development Board、EDB）は11月26日、10月の製造業生産の速報値を発表した。アジアワン（AsiaOne）と新華社によると、前年同月比は6.1%増、季節調整済みの前月比は7.1%増である。バイオ医薬を除いた前年同月比は12.1%増で、9月の10.9%増から伸びが加速した。N環球（N Globe）は、ブルームバーグが集めたエコノミスト予想は2.2%増だったと伝えており、実績は予想を大きく上回った。9月の前年同月比は、トレーディング・エコノミクスが10月26日に報じた速報の3.4%増から、今回の発表では5%増に改定されている。</p><h3>分野別：精密工学と電子が牽引</h3><p>伸びを主導したのは精密工学である。前年同月比54.1%増で、9月の39.7%増から加速した。EDBは、半導体製造装置を含む機械・システムが主因だと説明している。N環球によれば、機械・システムは62.4%増、精密部品は16.1%増だった。電子は6.6%増で、すべての分野が拡大した。N環球は、その他の電子モジュール・部品が26.9%増、コンピューター周辺機器・データ記憶装置が24.7%増、半導体が5.2%増と伝えている。EDBは、AI関連の需要が底堅いことを背景に挙げた。</p><p>そのほかの分野では、化学が4.4%増となり、これまでの減少傾向から反転した。香料や工業ガスなどが寄与した。一般製造は0.5%増にとどまり、粉ミルクや飲料が伸びた一方、印刷などが減った。一方、輸送機械は5.3%減で、造船所の稼働や海洋・洋上の石油・ガス設備が弱かった。陸上輸送機器と航空は拡大した。バイオ医薬は35.8%減で、EDBは生物製剤の生産減と、原薬（API）の製品構成の変化を理由に挙げた。</p><h3>日系企業への示唆と今後</h3><p>今回の数字は、シンガポールの製造業が半導体製造装置とAI関連の電子部品に大きく依存していることを改めて示した。装置や精密部品をシンガポールで生産・調達する日系企業にとっては追い風とみられる。他方、バイオ医薬は生産の振れが大きく、月ごとの全体の数字を左右しやすい。9月の速報は前年同月比3.4%増と減速していたため、10月の加速は一時的な反動を含む可能性もあり、単月の数字で判断するのは難しい。注目されるのは、12月28日に発表される11月分で、精密工学と電子の勢いが続くかどうかである。なお、数字は速報値で、本稿はEDBの発表を伝えた報道に基づく。</p>",
+  "dataFigure": "6.1%",
+  "dataLabel": "10月の製造業生産（前年同月比、速報）",
+  "dataSource": "シンガポール経済開発庁（EDB）、2026年11月26日",
+  "chart": {
+    "bars": [
+      {
+        "label": "精密工学",
+        "value": 54.1,
+        "display": "54.1%"
+      },
+      {
+        "label": "電子",
+        "value": 6.6,
+        "display": "6.6%"
+      },
+      {
+        "label": "全体",
+        "value": 6.1,
+        "display": "6.1%"
+      },
+      {
+        "label": "化学",
+        "value": 4.4,
+        "display": "4.4%"
+      },
+      {
+        "label": "一般製造",
+        "value": 0.5,
+        "display": "0.5%"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "AsiaOne",
+      "title": "Singapore's manufacturing output grows 6.1% year-on-year in October as electronics sees sustained AI demand",
+      "url": "https://www.asiaone.com/money/singapore-manufacturing-output-october-2026-edb",
+      "date": "2026-11-26"
+    },
+    {
+      "name": "新華社（Xinhua）",
+      "title": "Singapore manufacturing output rises 6.1 pct in October, led by precision engineering",
+      "url": "https://english.news.cn/20261126/e3b7969ef32a4ce58e0221f5659b622e/c.html",
+      "date": "2026-11-26"
+    },
+    {
+      "name": "N Globe",
+      "title": "Singapore factory output up 6.1% in October as AI demand drives precision engineering surge of 54.1%",
+      "url": "https://nglobenews.com/en/article/singapore-factory-output-october-6-1-percent-ai-demand-2026-11-26",
+      "date": "2026-11-27"
+    },
+    {
+      "name": "Trading Economics",
+      "title": "Singapore Manufacturing Output Hits Over 1-Year Low",
+      "url": "https://tradingeconomics.com/singapore/industrial-production/news/594896",
+      "date": "2026-10-26"
+    }
+  ],
+  "seoTitle": "シンガポール10月製造業生産6.1%増",
+  "seoDescription": "シンガポール経済開発庁は10月の製造業生産が前年同月比6.1%増と発表。精密工学が54.1%増、バイオ医薬は35.8%減で、AI関連の電子部品や装置が牽引した。",
+  "tags": [
+    "シンガポール",
+    "経済開発庁",
+    "EDB",
+    "製造業生産",
+    "精密工学",
+    "半導体製造装置",
+    "バイオ医薬"
+  ],
+  "publishAt": "2026-11-28T19:00:00+09:00",
+  "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/illust/singapore-oct-2026-manufacturing-output-6-1-percent-precision-54-1.png"
+}
