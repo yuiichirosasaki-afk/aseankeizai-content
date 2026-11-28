@@ -1,0 +1,73 @@
+{
+  "slug": "indonesia-bi-annual-meeting-2027-growth-6-percent-credit-13-2-percent",
+  "language": "ja",
+  "title": "インドネシア中銀総裁、2027年の成長率は6%に達しうると表明 7〜9月は5.47%増",
+  "country": "インドネシア",
+  "category": "経済",
+  "articleType": "news",
+  "lead": "インドネシア銀行（Bank Indonesia、BI）のデスリー・ダマヤンティ（Destry Damayanti）総裁は11月27日、年次会合で2027年の経済成長率が6%に達しうるとの見方を示した。7〜9月期は前年同期比5.47%増で、10月の銀行融資は13.2%増だった。総裁は世界経済の5つの懸念も挙げた。",
+  "summaryHtml": "<ul><li>BIのデスリー総裁は27日、北ジャカルタで開いた年次会合（PTBI）で、2027年の成長率が前年比6%に達しうると述べた。7〜9月期の成長率は5.47%だった。</li><li>2027年の世界の成長率は3.4%と、2026年の減速から高まる見通し。インフレ率は目標の2.5%（上下1ポイント）の範囲に収まると見込む。</li><li>10月の銀行融資は前年同月比13.2%増で、2027年も堅調が続くとみている。</li><li>総裁が挙げた世界の懸念は、地政学的な対立、保護主義、政府債務と金利負担、高い世界金利、AIの進展に伴うリスクの5つ。</li><li>BIは9月の下院公聴会で、2027年の成長率を5.2〜6%、2026年を4.9〜5.7%と示していた。</li></ul>",
+  "bodyHtml": "<h3>年次会合での発言：2027年に6%、2026年は「底堅い」</h3><p>インドネシア銀行（Bank Indonesia、BI）は11月27日、北ジャカルタの本店で2026年の年次会合（PTBI）を開いた。コンタン（Kontan）によると、デスリー・ダマヤンティ（Destry Damayanti）総裁は、インドネシア経済は世界の不確実性が高い中でも2026年を通じて良好で底堅さを保ったと述べ、2027年の成長率は前年比6%に達しうるとの見通しを示した。7〜9月期までの成長率は5.47%で、2027年にはこれを上回ると見る。世界全体の成長率は、2026年の減速のあと2027年に3.4%へ高まり、インフレ率は2.5%を中心に上下1ポイントの範囲に収まるとの想定である。</p><p>6%という数字は、BIが9月28日の下院第11委員会との会合で示した2027年の見通し（5.2〜6%）の上限にあたる。同じ会合で示された2026年の見通しは4.9〜5.7%である。BIは、需要側では投資（総固定資本形成）が2027年に6.3〜7.1%、輸出が5.9〜6.7%、民間消費が4.9〜5.7%伸びるとみていた。総裁は当時、投資の多くが政府関連だと説明している。</p><h3>成長の柱と世界の5つの懸念</h3><p>成長を支える柱として、総裁は銀行融資と、資源の下流化を含む国内の生産能力の強化を挙げた。10月の銀行融資は前年同月比13.2%増で、BIは2027年も堅調が続くとみている。金融システムは安定しており、デジタル経済・金融の拡大が効率化と金融包摂を進めるとも述べた。</p><p>一方で、総裁は世界経済の懸念として5点を挙げた。第1に、終わりの時期が見通せない地政学的な対立、第2に保護主義の広がりによる世界経済の分断、第3に政府債務の膨張と高い利払い負担、第4に高止まりする世界の金利、第5にAIの進展に伴うリスクである。最後の点について、インフレやエネルギー価格を押し上げ、金融市場の変動を大きくしかねないと説明した。世界金利の高止まりはドル高を招き、新興国の金融市場の脆弱性を高めるとも指摘した。</p><h3>日系企業にとっての意味：強気の見通しと足元の逆風</h3><p>強気の見通しの一方で、足元の環境は厳しい。BIは11月18日の理事会で政策金利（BI Rate）を6.00%に引き上げ、2026年の利上げは3回目となった。ルピアは11月25日に1ドル（約160円）＝1万8,332ルピアと過去最安を更新している。6%成長が実現するかどうかは、投資が計画どおりに進み、ルピアと金利が落ち着くかに左右されるとみられる。</p><p>日系企業にとっては、13%を超える融資の伸びが、現地での設備投資や運転資金の需要が強いことを示す材料になる。ただ、金利の高さとルピア安は、輸入部材に頼る製造業や、ドル建て債務を持つ企業の収益を圧迫しうる。6%は見通しの上限であり、下限の5.2%との幅があることにも留意が必要である。</p>",
+  "dataFigure": "6%",
+  "dataLabel": "BI総裁が示した2027年の成長率（見通しの上限）",
+  "dataSource": "インドネシア銀行総裁、年次会合、2026年11月27日",
+  "chart": {
+    "bars": [
+      {
+        "label": "7-9月",
+        "value": 5.47,
+        "display": "5.47%"
+      },
+      {
+        "label": "2027上限",
+        "value": 6,
+        "display": "6%"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "Kontan",
+      "title": "BI Proyeksikan Ekonomi RI Tumbuh 6% di 2027, Ada 5 Hambatan Global yang Diwaspadai",
+      "url": "https://nasional.kontan.co.id/news/bi-proyeksikan-ekonomi-ri-tumbuh-6-di-2027-ada-5-hambatan-global-yang-diwaspadai",
+      "date": "2026-11-27"
+    },
+    {
+      "name": "Kontan",
+      "title": "Kredit Perbankan Tumbuh 13,2%, BI Bidik Ekonomi Indonesia Tumbuh 6% pada 2027",
+      "url": "https://nasional.kontan.co.id/news/kredit-perbankan-tumbuh-132-bi-bidik-ekonomi-indonesia-tumbuh-6-pada-2027",
+      "date": "2026-11-27"
+    },
+    {
+      "name": "Kontan",
+      "title": "BI Targetkan Pertumbuhan Ekonomi Capai 6% di Tahun 2027",
+      "url": "https://nasional.kontan.co.id/news/bi-targetkan-pertumbuhan-ekonomi-capai-6-di-tahun-2027",
+      "date": "2026-09-28"
+    },
+    {
+      "name": "CNN Indonesia",
+      "title": "Bank Indonesia Naikkan Suku Bunga Jadi 6 Persen per November 2026",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261118141048-78-1428544/bank-indonesia-naikkan-suku-bunga-jadi-6-persen-per-november-2026",
+      "date": "2026-11-18"
+    },
+    {
+      "name": "CNN Indonesia",
+      "title": "Waspada Harga Barang Makin Mahal Gara-gara Rupiah Tertekan",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261126072347-78-1431604/waspada-harga-barang-makin-mahal-gara-gara-rupiah-tertekan",
+      "date": "2026-11-26"
+    }
+  ],
+  "seoTitle": "BI総裁、2027年成長率は6%に達しうると",
+  "seoDescription": "インドネシア銀行のデスリー総裁は年次会合で、2027年の成長率が6%に達しうると述べた。7〜9月期は5.47%増、10月の銀行融資は13.2%増。世界の5つの懸念も挙げた。",
+  "tags": [
+    "インドネシア銀行",
+    "デスリー・ダマヤンティ",
+    "経済成長率",
+    "銀行融資",
+    "BI Rate",
+    "ルピア",
+    "年次会合"
+  ],
+  "publishAt": "2026-11-28T21:30:00+09:00",
+  "heroImage": "https://raw.githubusercontent.com/yuiichirosasaki-afk/aseankeizai-content/main/images/illust/indonesia-bi-annual-meeting-2027-growth-6-percent-credit-13-2-percent.png"
+}
